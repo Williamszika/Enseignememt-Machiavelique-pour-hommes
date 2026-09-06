@@ -37,15 +37,20 @@ glossaire.md concepts clés cumulés
 | 05 | Pourquoi elle parle de toi à ses amies | [analyses/05](analyses/05-pourquoi-elle-parle-de-toi-a-ses-amies.md) |
 | 06 | Pourquoi elle teste ton pouvoir sans te le dire | [analyses/06](analyses/06-pourquoi-elle-teste-ton-pouvoir.md) |
 | 07 | Le miroir inversé (projection, trois tests) | [analyses/07](analyses/07-le-miroir-inverse.md) |
+| 08 | Avoir une mission de vie | [analyses/08](analyses/08-mission-de-vie.md) |
+| 09 | Les attentes secrètes qu'elle projette | [analyses/09](analyses/09-attentes-secretes.md) |
+| 10-25 | **Chaîne C** (16 vidéos) : signes d'infidélité, 7 mots, tests, 5 lois, 5 phrases, l'homme qui ignore, le mystère, trop gentil, ne pas poursuivre, no contact, friendzone, 3 tests, 4 profils, le non, séduction froide, rupture | [analyses/10-25 dossier](analyses/10-25-dossier-chaine-C.md) |
 
-## Les chaînes sources (ce qu'on sait après 7 textes)
+> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`.
 
-| | Chaîne A (source 01) | Chaîne B (sources 02, 03, 04, 06, 07) | Source 05 |
-|---|---|---|---|
-| Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle à 2 h 40 |
-| Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité, juste l'adjectif |
-| Format TikTok | Bon | Inutilisable tel quel | Bon |
-| Idées | Moitié saines, moitié manipulatrices | Meilleures, mais dérive vers l'arme calculée ; la source 06 admet elle-même que l'homme-mur déçoit | Socle sain + isolement du cercle (ligne rouge) |
+## Les chaînes sources (ce qu'on sait après 25 textes)
+
+| | Chaîne A (01) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
+|---|---|---|---|---|
+| Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle | Coach direct, listes, exemples dialogués, vocabulaire anglais, 2-3 conclusions empilées |
+| Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité | « Nicolas Machiavel nous enseigne… », 2 vraies citations + inventions |
+| Format TikTok | Bon | Inutilisable tel quel | Bon | Très bon |
+| Idées | Moitié saines, moitié manipulatrices | Meilleures, mais dérive vers l'arme calculée | Socle sain + isolement du cercle | Le red-pill traduit : de vrais concepts (nice guy, gentil vs bon, signaux d'emprise, no contact) + le conditionnement prescrit avec Skinner + le mépris comme ton |
 
 Ta place : le format de A, les meilleures idées de B, les vraies références à Machiavel qu'aucune ne donne, et une ligne claire que toutes franchissent.
 
@@ -55,4 +60,4 @@ Ta place : le format de A, les meilleures idées de B, les vraies références �
 |----|-------|--------|---------|
 | 01 | Elle t'a laissé en « vu » | Vidéo 75-90 s | [contenus/01](contenus/01-elle-t-a-laisse-en-vu.md) |
 
-**Note après 7 textes** : la chaîne B se répète (silence ×2, tests ×2). Elle n'apporte plus de concept nouveau. Sauf sujet inédit, la matière est suffisante pour passer à la production de contenu.
+**Note après 25 textes** : la chaîne B se répète. La chaîne C est le concurrent direct : même format que celui que tu vises, mêmes sujets, mais avec le dressage et le mépris. Ta place est de dire les mêmes choses vraies sans la machine à sous. La matière est plus que suffisante pour produire.

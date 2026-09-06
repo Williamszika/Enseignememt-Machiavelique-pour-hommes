@@ -86,6 +86,32 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Les trois cas** | Elle parle d'un autre homme parce que (a) c'est sa vie, (b) elle se rassure sur sa valeur, (c) elle teste ou punit. (a) est le plus fréquent ; on ne le sait qu'à la répétition. | 03 |
 | **Contre-triangulation** ⚠️ | « Montrer qu'on a des options » en réponse. C'est entrer dans le jeu, pas en sortir. Avoir une vie suffit ; la montrer, c'est jouer. | 03 |
 
+## Le vocabulaire de la chaîne C (le red-pill en français)
+
+Mots anglais importés tels quels par les sources 10-25. À connaître pour décoder, à traduire à l'antenne.
+
+| Mot | Ce que ça veut dire | Ce que tu peux dire à la place |
+|---|---|---|
+| **Frame** | Ta réalité psychologique, tes règles. « Celui qui contrôle le cadre contrôle l'interaction. » | Ta ligne. |
+| **Walk away power** | La capacité réelle de partir. « Pour garder une femme, tu dois être prêt à la perdre. » | Ne pas dépendre de sa réponse (le socle). |
+| **Amused mastery** | Le sourire amusé face à une provocation. | La légèreté, si elle est réelle. Sinon c'est de la condescendance. |
+| **Shit test / comfort test** | La pique qui teste ta solidité / l'inquiétude qui demande de la chaleur. Réponses différentes. | Une pique et une inquiétude. La distinction est utile. |
+| **Preselection** | Être désiré par d'autres augmente ta valeur perçue. | Preuve sociale (05). Version toxique : provoquer la jalousie. |
+| **SMV** (sexual market value) | Ta « valeur sur le marché ». | À éviter : les gens ne sont pas des actions. |
+| **Oneitis** | L'obsession pour une seule femme vue comme irremplaçable. | La cristallisation. Le remède est une vie pleine, pas le mépris. |
+| **Monkey branching** | Ne lâcher une branche qu'après avoir attrapé la suivante. | Généralisation à éviter. |
+| **Dread** (implicite) | Entretenir chez elle la peur de te perdre. « Elle ne doit jamais être sûre de tes sentiments. » | Ligne rouge. C'est le renforcement intermittent. |
+| **Kino** | Le toucher progressif. | Le toucher intentionnel (01). |
+| **Neg** | La pique qui rabaisse pour déstabiliser. | Ne pas faire. |
+| **Bitch shield** | La froideur initiale d'une femme très sollicitée. | Une réserve. Elle a le droit. |
+| **Gray rock** (pierre grise) | Devenir neutre et ennuyeux avec quelqu'un de toxique, par exemple en coparentalité. | Bon outil, à garder tel quel. |
+| **Dark mode** | Période d'isolement et de discipline après une rupture. | Bon outil, sans le mot « moine guerrier ». |
+| **Love bombing** | Excès d'affection au début pour piéger. Signe d'emprise. | À garder : c'est un vrai signal. |
+| **Covert contract** (contrat non écrit) | « Je suis gentil, donc tu me dois de l'amour. » Robert Glover, *No More Mr. Nice Guy*. | Le meilleur concept des seize vidéos. |
+| **Nice guy** | L'homme gentil par peur, avec un agenda caché. | Gentil vs bon (17). |
+| **Test d'extinction** | Quand un comportement cesse d'être récompensé, la personne l'intensifie avant d'abandonner. | Réel (comportemental). Utile pour tenir une limite. |
+| **Activation comportementale** | « L'action précède l'émotion » : agir mécaniquement quand la motivation est absente. | Réel (psychologie clinique). Bon conseil de rupture. |
+
 ## Mécanismes psychologiques (à connaître, pas forcément à enseigner)
 
 | Concept | Définition | Source |
@@ -94,7 +120,12 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Stonewalling** ⚠️ | Mutisme punitif en couple. Un des quatre comportements qui prédisent le mieux une rupture (Gottman). Le « silence en miroir » de la source 02 l'est, si appliqué en couple. | 02 |
 | **Douleur sociale** | L'exclusion active les mêmes zones cérébrales que la douleur physique (Eisenberger, 2003). Une des rares affirmations « neuro » de ces vidéos qui tienne. | 02 |
 | **Le cerveau remplit le vide** | Face à l'incertitude, l'esprit projette le pire. C'est pourquoi le silence fait plus mal qu'un « non ». | 02, 03 |
-| **Renforcement intermittent, nommé** | La source 04 le nomme, le compare aux machines à sous et à la dopamine, dit qu'il crée « une dépendance vicieuse »… puis recommande de l'infliger. La source 05 le prescrit sans détour : « alterner le chaud et le froid, la faire douter, espérer, désespérer ». Reconnaître pour s'en protéger, jamais pour l'infliger. | 04, 05 |
+| **Renforcement intermittent, nommé** | La source 04 le nomme, le compare aux machines à sous et à la dopamine, dit qu'il crée « une dépendance vicieuse »… puis recommande de l'infliger. La source 05 le prescrit sans détour. La chaîne C (11, 12, 13, 15) cite Skinner et le prescrit dans quatre vidéos : « tu deviens la machine à sous », « tu deviens la drogue et elle l'addicte », « dresseur de lion », « validation conditionnelle ». Reconnaître pour s'en protéger, jamais pour l'infliger. | 04, 05, 11-15, 24 |
+| **Gentil vs bon** | Gentil = chercher à plaire, éviter le conflit, par peur. Bon = agir selon des principes forts même quand ça déplaît. Elle cherche le second. | 17 |
+| **Écouter sans réparer** | Quand elle se plaint, « je comprends que ça te frustre » et rien d'autre. Ne pas proposer de solution. | 12 |
+| **Le cercle de confiance extérieur** | Garder des amis, des mentors, hors de la relation. Si tous te disent qu'elle est dangereuse, écoute-les. L'antidote exact au « secret partagé » de la source 05. | 22 |
+| **Les vrais signaux d'emprise** | Love bombing, gaslighting (nier des faits), isolement du cercle, triangulation, mépris du personnel, « tous ses ex sont fous ». Valables dans les deux sens. | 22 |
+| **No contact pour soi** | Couper pour guérir, pas pour la faire revenir. Sans date de fin. Le « faux no contact » (regarder ses stories) n'en est pas un. | 19, 25 |
 | **Motifs de la provocation de jalousie** | Les études (Fleischmann et al., 2005) listent surtout : tester la relation, se rassurer sur sa valeur, obtenir de l'attention, parfois se venger. La lecture charitable (« elle se rassure ») est mieux fondée que la lecture paranoïaque (« elle savoure »). | 03 |
 
 ## Machiavel (le vrai)
@@ -113,6 +144,11 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | Être **renard** pour connaître les pièges et **lion** pour effrayer les loups | *Le Prince*, ch. XVIII | Voir le test (renard) sans devenir brutal (lion en réserve). La meilleure référence pour le sujet des tests |
 | ⚠️ La Fortune est femme, il faut la « battre et bousculer » | *Le Prince*, ch. XXV | Allégorie sur le destin, pas un conseil sur les femmes. Le passage qu'on te sortira si tu cites Machiavel « sur les femmes ». Ne jamais le citer littéralement |
 
+| « Les hommes se fient plus à leurs **yeux** qu'à leurs mains » | *Le Prince*, ch. XVIII | Citation réelle, reprise correctement par la source 14 |
+| **Préparer la guerre en temps de paix** | *Le Prince*, ch. XIV | Paraphrase acceptable (source 10), mais appliquée à la surveillance d'une compagne, ce qui n'est pas le sujet de Machiavel |
+
+Inventions de la chaîne C : « le prince maintient ses sujets dans une légère incertitude quant à ses faveurs » (15), « une paranoïa saine » (10).
+
 « Une main de fer dans un gant de velours » n'est pas de Machiavel (attribué à Charles Quint ou Bernadotte). La source 06 l'inverse en « main de velours dans un gant de fer ».
 
 Toutes les citations « du stratège florentin » dans la source 01 sont inventées. Utiliser uniquement les références ci-dessus.
@@ -123,8 +159,10 @@ Toutes les citations « du stratège florentin » dans la source 01 sont invent�
 
 Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeur ne dépend pas de ton silence ». Source 03 : « ta jalousie prouve ta peur, pas ton amour ». Source 04 : « ne comble pas le vide par compulsion ». Source 05 : « la vraie maîtrise, c'est se maîtriser soi-même ». Source 06 : « la colère fait perdre, le calme fait gagner ». Source 07 : « ce qui la rassure, c'est un homme qui reste stable quand elle ne l'est pas ». Machiavel : la *virtù* contre la fortune, ses propres forces contre celles d'autrui.
 
-**La dérive commune aux sept sources, à éviter** : transformer ce calme en stratégie *calculée* (imprévisibilité calculée, silence en miroir, indifférence calculée, montrer ses options, silence cruel, chaud/froid, secret qui isole, retourner le test, roi secret, ne jamais montrer qu'on est touché). Dès que c'est calculé, c'est encore de la dépendance, mieux habillée. Le calme réel n'a pas besoin de mise en scène.
+**La dérive commune à toutes les sources, à éviter** : transformer ce calme en stratégie *calculée* (imprévisibilité calculée, silence en miroir, indifférence calculée, montrer ses options, silence cruel, chaud/froid, secret qui isole, retourner le test, roi secret, ne jamais montrer qu'on est touché). Dès que c'est calculé, c'est encore de la dépendance, mieux habillée. Le calme réel n'a pas besoin de mise en scène.
 
-**La ligne rouge**, franchie par les sources 04 et 05 : le socle dit « ne dépends pas de sa réponse ». Ces vidéos ajoutent « … et fais en sorte qu'elle dépende de la tienne » (renforcement intermittent infligé, isolement du cercle). C'est là que la séduction devient emprise. Ton enseignement s'arrête avant.
+**La ligne rouge**, franchie par les sources 04 et 05, et ouvertement revendiquée par la chaîne C (10-25) avec la référence à Skinner : le socle dit « ne dépends pas de sa réponse ». Ces vidéos ajoutent « … et fais en sorte qu'elle dépende de la tienne » (renforcement intermittent infligé, isolement du cercle). C'est là que la séduction devient emprise. Ton enseignement s'arrête avant.
 
 **En une phrase** : calme, pas froid. Solide, pas fermé. Une limite, pas une stratégie. Et il sait écouter.
+
+**Face à la chaîne C, trois phrases qu'elle ne peut pas dire et que tu peux dire** : un homme solide sait écouter. Le non s'explique en une phrase. Aller voir quelqu'un quand on n'en peut plus, c'est ce que fait un homme qui veut rester debout.
