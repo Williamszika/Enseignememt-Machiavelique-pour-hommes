@@ -31,3 +31,4 @@ glossaire.md concepts clés cumulés
 |----|--------|---------|
 | 01 | 8 fantasmes de soumission + 7 besoins psychologiques | [analyses/01](analyses/01-fantasmes-soumission-et-7-besoins.md) |
 | 02 | Ce que son silence te dit quand elle t'ignore | [analyses/02](analyses/02-ce-que-son-silence-te-dit.md) |
+| 03 | Comment elle utilise ta jalousie pour te contrôler | [analyses/03](analyses/03-comment-elle-utilise-ta-jalousie.md) |

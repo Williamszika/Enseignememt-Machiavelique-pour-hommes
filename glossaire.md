@@ -14,7 +14,9 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Autocontrôle d'abord** | « Domine-toi toi-même avant de guider quelqu'un » (5e règle). | 01 |
 | **Recentrage** | Déplacer son centre de gravité hors de l'attente d'une réponse : projets, amis, corps. | 02 |
 | **Silence fébrile / silence habité** | Se taire en attendant qu'elle craque (dépendance) vs se taire parce que sa vie est pleine (liberté). Même geste, opposé intérieur. | 02 |
-| **Vie complète** | Ne jamais tout réorganiser autour d'elle ; garder amis, objectifs, hobbies. | 01, 02 |
+| **Vie complète** | Ne jamais tout réorganiser autour d'elle ; garder amis, objectifs, hobbies. | 01, 02, 03 |
+| **Jalousie vs territorialité saine** | Jalousie = peur maladive, colère, contrôle obsessionnel. Territorialité = « voici ce que je tolère, voici ce que je refuse », dit calmement, une fois. Même famille que « possessivité sûre » et « conséquences tranquilles ». | 03 |
+| **Indifférence calculée** ⚠️ | Posture jouée (sourire amusé, changement de sujet) pour priver l'autre de réaction. Dès que c'est *calculé*, c'est une stratégie, donc une dépendance déguisée. Version saine : le calme réel. | 03 |
 
 ## Attraction et tension
 
@@ -36,6 +38,17 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Silence collectif** | Quand l'entourage entier t'ignore : ce n'est plus un test, c'est un verdict social. | 02 |
 | **Silence selon le contexte** | Après un conflit / après l'intimité / après une démonstration d'indépendance : pas le même sens. | 02 |
 
+## Jalousie et tiers
+
+| Concept | Définition | Source |
+|---|---|---|
+| **Triangulation** | Introduire un tiers (ex, collègue, regard dans la rue) dans la relation pour créer de l'insécurité. Terme issu de la thérapie familiale (Bowen). | 03 |
+| **Ambiguïté** | Le sous-entendu sans accusation claire : ton esprit remplit les vides avec tes peurs. Même mécanisme que « le cerveau remplit le vide ». | 03 |
+| **Test rétrospectif** | Quand elle évoque ses ex. Ne pas se défendre, ne pas comparer, ne pas prouver. Et ne pas ironiser non plus : c'est une réaction déguisée. | 03 |
+| **Détective de sentiments** | L'homme qui scrute, interprète, enquête. Il a déjà perdu sa position. | 03 |
+| **Les trois cas** | Elle parle d'un autre homme parce que (a) c'est sa vie, (b) elle se rassure sur sa valeur, (c) elle teste ou punit. (a) est le plus fréquent ; on ne le sait qu'à la répétition. | 03 |
+| **Contre-triangulation** ⚠️ | « Montrer qu'on a des options » en réponse. C'est entrer dans le jeu, pas en sortir. Avoir une vie suffit ; la montrer, c'est jouer. | 03 |
+
 ## Mécanismes psychologiques (à connaître, pas forcément à enseigner)
 
 | Concept | Définition | Source |
@@ -43,7 +56,8 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Renforcement intermittent** ⚠️ | Récompense irrégulière → comportement compulsif (machines à sous). C'est ce que décrivent « imprévisibilité calculée » et « validation à gagner ». Produit de l'anxiété, pas de l'amour. | 01 |
 | **Stonewalling** ⚠️ | Mutisme punitif en couple. Un des quatre comportements qui prédisent le mieux une rupture (Gottman). Le « silence en miroir » de la source 02 l'est, si appliqué en couple. | 02 |
 | **Douleur sociale** | L'exclusion active les mêmes zones cérébrales que la douleur physique (Eisenberger, 2003). Une des rares affirmations « neuro » de ces vidéos qui tienne. | 02 |
-| **Le cerveau remplit le vide** | Face à l'incertitude, l'esprit projette le pire. C'est pourquoi le silence fait plus mal qu'un « non ». | 02 |
+| **Le cerveau remplit le vide** | Face à l'incertitude, l'esprit projette le pire. C'est pourquoi le silence fait plus mal qu'un « non ». | 02, 03 |
+| **Motifs de la provocation de jalousie** | Les études (Fleischmann et al., 2005) listent surtout : tester la relation, se rassurer sur sa valeur, obtenir de l'attention, parfois se venger. La lecture charitable (« elle se rassure ») est mieux fondée que la lecture paranoïaque (« elle savoure »). | 03 |
 
 ## Machiavel (le vrai)
 
@@ -55,6 +69,7 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | *Virtù* contre **fortune** : ne dépends pas de ce que tu ne contrôles pas | *Le Prince*, ch. XXV | Ne pas faire dépendre sa journée de sa réponse |
 | Bienfaits **peu à peu**, blessures d'un coup | *Le Prince*, ch. VIII | Compliment rare et précis |
 | On juge par les **yeux** : ce qu'on paraît compte | *Le Prince*, ch. XVIII | Communiquer depuis la force |
+| Ne s'appuyer que sur ses **propres forces**, jamais sur des troupes qui appartiennent à un autre | *Le Prince*, ch. XIII, XXIV | Ne pas bâtir sa sécurité sur la loyauté d'autrui : la bâtir sur sa vie, ses projets, son calme |
 
 Toutes les citations « du stratège florentin » dans la source 01 sont inventées. Utiliser uniquement les références ci-dessus.
 
@@ -62,4 +77,6 @@ Toutes les citations « du stratège florentin » dans la source 01 sont invent�
 
 > **Le pouvoir dans une relation vient de ce que tu ne dépends pas de la réponse de l'autre.**
 
-Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeur ne dépend pas de ton silence ». Machiavel : la *virtù* contre la fortune. Tout ce qui va contre ce principe (créer du manque, chaud/froid, punir par le silence) est la partie manipulatrice, à laisser de côté.
+Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeur ne dépend pas de ton silence ». Source 03 : « ta jalousie prouve ta peur, pas ton amour ». Machiavel : la *virtù* contre la fortune, ses propres forces contre celles d'autrui.
+
+**La dérive commune aux trois sources, à éviter** : transformer ce calme en stratégie *calculée* (imprévisibilité calculée, silence en miroir, indifférence calculée, montrer ses options). Dès que c'est calculé, c'est encore de la dépendance, mieux habillée. Le calme réel n'a pas besoin de mise en scène.
