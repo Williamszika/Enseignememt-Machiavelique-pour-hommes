@@ -15,13 +15,14 @@ live et des thèmes de discussion.
    - vocabulaire à maîtriser,
    - pistes de contenu TikTok (posts, lives, débats).
 4. Le `glossaire.md` accumule les concepts clés au fil des textes.
-5. Plus tard : un dossier `contenus/` pour les scripts de posts et de lives.
+5. Le dossier `contenus/` reçoit les scripts produits (posts, lives), numérotés.
 
 ## Arborescence
 
 ```
 sources/     textes bruts reçus
 analyses/    décryptages
+contenus/    scripts produits
 glossaire.md concepts clés cumulés
 ```
 
@@ -47,5 +48,11 @@ glossaire.md concepts clés cumulés
 | Idées | Moitié saines, moitié manipulatrices | Meilleures, mais dérive vers l'arme calculée ; la source 06 admet elle-même que l'homme-mur déçoit | Socle sain + isolement du cercle (ligne rouge) |
 
 Ta place : le format de A, les meilleures idées de B, les vraies références à Machiavel qu'aucune ne donne, et une ligne claire que toutes franchissent.
+
+## Contenus produits
+
+| N° | Sujet | Format | Fichier |
+|----|-------|--------|---------|
+| 01 | Elle t'a laissé en « vu » | Vidéo 75-90 s | [contenus/01](contenus/01-elle-t-a-laisse-en-vu.md) |
 
 **Note après 7 textes** : la chaîne B se répète (silence ×2, tests ×2). Elle n'apporte plus de concept nouveau. Sauf sujet inédit, la matière est suffisante pour passer à la production de contenu.
