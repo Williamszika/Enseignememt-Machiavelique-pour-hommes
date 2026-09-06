@@ -32,3 +32,16 @@ glossaire.md concepts clés cumulés
 | 01 | 8 fantasmes de soumission + 7 besoins psychologiques | [analyses/01](analyses/01-fantasmes-soumission-et-7-besoins.md) |
 | 02 | Ce que son silence te dit quand elle t'ignore | [analyses/02](analyses/02-ce-que-son-silence-te-dit.md) |
 | 03 | Comment elle utilise ta jalousie pour te contrôler | [analyses/03](analyses/03-comment-elle-utilise-ta-jalousie.md) |
+| 04 | Décrypter ses silences comme arme de séduction | [analyses/04](analyses/04-decrypter-ses-silences-arme-de-seduction.md) |
+| 05 | Pourquoi elle parle de toi à ses amies | [analyses/05](analyses/05-pourquoi-elle-parle-de-toi-a-ses-amies.md) |
+
+## Les chaînes sources (ce qu'on sait après 5 textes)
+
+| | Chaîne A (source 01) | Chaîne B (sources 02, 03, 04) | Source 05 |
+|---|---|---|---|
+| Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle à 2 h 40 |
+| Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité, juste l'adjectif |
+| Format TikTok | Bon | Inutilisable tel quel | Bon |
+| Idées | Moitié saines, moitié manipulatrices | Meilleures, mais dérive vers l'arme calculée | Socle sain + isolement du cercle (ligne rouge) |
+
+Ta place : le format de A, les meilleures idées de B, les vraies références à Machiavel qu'aucune ne donne, et une ligne claire que toutes franchissent.
