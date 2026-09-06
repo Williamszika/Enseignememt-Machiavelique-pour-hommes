@@ -61,5 +61,6 @@ Ta place : le format de A, les meilleures idées de B, les vraies références �
 | N° | Sujet | Format | Fichier |
 |----|-------|--------|---------|
 | 01 | Elle t'a laissé en « vu » | Vidéo 75-90 s | [contenus/01](contenus/01-elle-t-a-laisse-en-vu.md) |
+| 02 | Personne ne viendra te chercher | Visuel photo + texte (6 sept. 2026) | [contenus/02](contenus/02-texte-motivation-2026-09-06.md) |
 
 **Note après 25 textes** : la chaîne B se répète. La chaîne C est le concurrent direct : même format que celui que tu vises, mêmes sujets, mais avec le dressage et le mépris. Ta place est de dire les mêmes choses vraies sans la machine à sous. La matière est plus que suffisante pour produire.
