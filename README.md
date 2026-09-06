@@ -41,11 +41,13 @@ glossaire.md concepts clés cumulés
 | 09 | Les attentes secrètes qu'elle projette | [analyses/09](analyses/09-attentes-secretes.md) |
 | 10-25 | **Chaîne C** (16 vidéos) : signes d'infidélité, 7 mots, tests, 5 lois, 5 phrases, l'homme qui ignore, le mystère, trop gentil, ne pas poursuivre, no contact, friendzone, 3 tests, 4 profils, le non, séduction froide, rupture | [analyses/10-25 dossier](analyses/10-25-dossier-chaine-C.md) |
 
+| 26 | Si elle t'écarte (le refus) + « le principe de la peur » | [analyses/26](analyses/26-si-elle-t-ecarte-le-rejet.md) |
+
 > Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`.
 
 ## Les chaînes sources (ce qu'on sait après 25 textes)
 
-| | Chaîne A (01) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
+| | Chaîne A (01, 26) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
 |---|---|---|---|---|
 | Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle | Coach direct, listes, exemples dialogués, vocabulaire anglais, 2-3 conclusions empilées |
 | Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité | « Nicolas Machiavel nous enseigne… », 2 vraies citations + inventions |

@@ -15,6 +15,7 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Recentrage** | Déplacer son centre de gravité hors de l'attente d'une réponse : projets, amis, corps. | 02 |
 | **Silence fébrile / silence habité** | Se taire en attendant qu'elle craque (dépendance) vs se taire parce que sa vie est pleine (liberté). Même geste, opposé intérieur. | 02 |
 | **Vie complète** | Ne jamais tout réorganiser autour d'elle ; garder amis, objectifs, hobbies. | 01, 02, 03, 05 |
+| **La sortie élégante** | Quand elle dit non : accepter, une phrase (« je comprends, aucun problème, bonne soirée »), partir, ne pas surveiller, ne pas revenir. Si elle veut, elle sait où tu es. Un non n'est pas un test. | 26 |
 | **Absence justifiée** | « Il a un gros projet » se raconte avec fierté ; « il a disparu » se raconte avec inquiétude. L'absence qui a une raison réelle, vs l'absence tactique. | 05 |
 | **Le test du serveur** | Comment tu traites ceux qui ne peuvent rien pour toi. Le prédicteur de caractère que tout le monde utilise, et à raison. | 05 |
 | **Jalousie vs territorialité saine** | Jalousie = peur maladive, colère, contrôle obsessionnel. Territorialité = « voici ce que je tolère, voici ce que je refuse », dit calmement, une fois. Même famille que « possessivité sûre » et « conséquences tranquilles ». | 03 |
@@ -100,7 +101,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | **SMV** (sexual market value) | Ta « valeur sur le marché ». | À éviter : les gens ne sont pas des actions. |
 | **Oneitis** | L'obsession pour une seule femme vue comme irremplaçable. | La cristallisation. Le remède est une vie pleine, pas le mépris. |
 | **Monkey branching** | Ne lâcher une branche qu'après avoir attrapé la suivante. | Généralisation à éviter. |
-| **Dread** (implicite) | Entretenir chez elle la peur de te perdre. « Elle ne doit jamais être sûre de tes sentiments. » | Ligne rouge. C'est le renforcement intermittent. |
+| **Dread** / « le principe de la peur » | Entretenir chez elle la peur de te perdre, « qu'elle redoute un futur sans toi » (26). « Elle ne doit jamais être sûre de tes sentiments » (13). | Ligne rouge. C'est le renforcement intermittent. |
 | **Kino** | Le toucher progressif. | Le toucher intentionnel (01). |
 | **Neg** | La pique qui rabaisse pour déstabiliser. | Ne pas faire. |
 | **Bitch shield** | La froideur initiale d'une femme très sollicitée. | Une réserve. Elle a le droit. |
@@ -119,6 +120,8 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | **Renforcement intermittent** ⚠️ | Récompense irrégulière → comportement compulsif (machines à sous). C'est ce que décrivent « imprévisibilité calculée » et « validation à gagner ». Produit de l'anxiété, pas de l'amour. | 01 |
 | **Stonewalling** ⚠️ | Mutisme punitif en couple. Un des quatre comportements qui prédisent le mieux une rupture (Gottman). Le « silence en miroir » de la source 02 l'est, si appliqué en couple. | 02 |
 | **Douleur sociale** | L'exclusion active les mêmes zones cérébrales que la douleur physique (Eisenberger, 2003). Une des rares affirmations « neuro » de ces vidéos qui tienne. | 02 |
+| **Effet Zeigarnik** | On retient mieux ce qui est inachevé (Zeigarnik, 1927). Réel. La source 26 l'applique à une personne pour « s'installer dans sa tête » : fabriquer des pensées intrusives. | 26 |
+| **Aversion à la perte** | On souffre plus d'une perte qu'on ne jouit d'un gain équivalent (Kahneman). Réel. C'est le levier du *dread*, « le principe de la peur ». | 26 |
 | **Le cerveau remplit le vide** | Face à l'incertitude, l'esprit projette le pire. C'est pourquoi le silence fait plus mal qu'un « non ». | 02, 03 |
 | **Renforcement intermittent, nommé** | La source 04 le nomme, le compare aux machines à sous et à la dopamine, dit qu'il crée « une dépendance vicieuse »… puis recommande de l'infliger. La source 05 le prescrit sans détour. La chaîne C (11, 12, 13, 15) cite Skinner et le prescrit dans quatre vidéos : « tu deviens la machine à sous », « tu deviens la drogue et elle l'addicte », « dresseur de lion », « validation conditionnelle ». Reconnaître pour s'en protéger, jamais pour l'infliger. | 04, 05, 11-15, 24 |
 | **Gentil vs bon** | Gentil = chercher à plaire, éviter le conflit, par peur. Bon = agir selon des principes forts même quand ça déplaît. Elle cherche le second. | 17 |
@@ -142,6 +145,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | Le prince doit être « grand demandeur » puis « patient écouteur » de la vérité ; celui qui n'entend plus la vérité est perdu | *Le Prince*, ch. XXIII | Machiavel valorise la parole vraie, pas le mutisme tactique. Contre le « silence stratégique » (04) et contre « chaque reproche est sa projection » (07) |
 | Savoir **dissimuler** ce qu'on n'a pas besoin de montrer | *Le Prince*, ch. XVIII | Ne pas tout raconter au premier rendez-vous. Autre chose que punir par le silence |
 | Être **renard** pour connaître les pièges et **lion** pour effrayer les loups | *Le Prince*, ch. XVIII | Voir le test (renard) sans devenir brutal (lion en réserve). La meilleure référence pour le sujet des tests |
+| Craint plutôt qu'aimé, **mais jamais haï** : la source 26 y ajoute « mais le mieux est d'être respecté » | *Le Prince*, ch. XVII | Citation déformée. Le mot « respecté » n'y est pas ; le texte réel dit « jamais haï » |
 | ⚠️ La Fortune est femme, il faut la « battre et bousculer » | *Le Prince*, ch. XXV | Allégorie sur le destin, pas un conseil sur les femmes. Le passage qu'on te sortira si tu cites Machiavel « sur les femmes ». Ne jamais le citer littéralement |
 
 | « Les hommes se fient plus à leurs **yeux** qu'à leurs mains » | *Le Prince*, ch. XVIII | Citation réelle, reprise correctement par la source 14 |
