@@ -35,10 +35,11 @@ glossaire.md concepts clés cumulés
 | 04 | Décrypter ses silences comme arme de séduction | [analyses/04](analyses/04-decrypter-ses-silences-arme-de-seduction.md) |
 | 05 | Pourquoi elle parle de toi à ses amies | [analyses/05](analyses/05-pourquoi-elle-parle-de-toi-a-ses-amies.md) |
 | 06 | Pourquoi elle teste ton pouvoir sans te le dire | [analyses/06](analyses/06-pourquoi-elle-teste-ton-pouvoir.md) |
+| 07 | Le miroir inversé (projection, trois tests) | [analyses/07](analyses/07-le-miroir-inverse.md) |
 
-## Les chaînes sources (ce qu'on sait après 6 textes)
+## Les chaînes sources (ce qu'on sait après 7 textes)
 
-| | Chaîne A (source 01) | Chaîne B (sources 02, 03, 04, 06) | Source 05 |
+| | Chaîne A (source 01) | Chaîne B (sources 02, 03, 04, 06, 07) | Source 05 |
 |---|---|---|---|
 | Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle à 2 h 40 |
 | Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité, juste l'adjectif |
@@ -46,3 +47,5 @@ glossaire.md concepts clés cumulés
 | Idées | Moitié saines, moitié manipulatrices | Meilleures, mais dérive vers l'arme calculée ; la source 06 admet elle-même que l'homme-mur déçoit | Socle sain + isolement du cercle (ligne rouge) |
 
 Ta place : le format de A, les meilleures idées de B, les vraies références à Machiavel qu'aucune ne donne, et une ligne claire que toutes franchissent.
+
+**Note après 7 textes** : la chaîne B se répète (silence ×2, tests ×2). Elle n'apporte plus de concept nouveau. Sauf sujet inédit, la matière est suffisante pour passer à la production de contenu.

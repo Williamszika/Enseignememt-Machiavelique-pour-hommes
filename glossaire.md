@@ -20,7 +20,9 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Jalousie vs territorialité saine** | Jalousie = peur maladive, colère, contrôle obsessionnel. Territorialité = « voici ce que je tolère, voici ce que je refuse », dit calmement, une fois. Même famille que « possessivité sûre » et « conséquences tranquilles ». | 03 |
 | **Indifférence calculée / amusée** ⚠️ | Posture jouée (sourire amusé, changement de sujet) pour priver l'autre de réaction. Dès que c'est *calculé*, c'est une stratégie, donc une dépendance déguisée. Version saine : le calme réel, la légèreté réelle. | 03, 06 |
 | **Constance** | Le vrai objet de ce qu'elle observe : es-tu le même homme quand ça va et quand ça ne va pas. Les mots ne coûtent rien, le comportement sous pression compte. | 06 |
-| **Le roc et le mur** | Le roc réagit, calmement. Le mur ne réagit pas. La source 06 confond les deux, puis admet que le mur la laisse « secrètement déçue ». Calme, pas froid. Solide, pas fermé. | 06 |
+| **Le roc et le mur** | Le roc réagit, calmement. Le mur ne réagit pas. La source 06 confond les deux, puis admet que le mur la laisse « secrètement déçue ». La source 07 va plus loin (« ne jamais montrer que tu es touché »). Calme, pas froid. Solide, pas fermé. | 06, 07 |
+| **Base sécure** | Rester stable quand l'autre ne l'est pas. C'est ce qui permet à l'autre d'être vulnérable. Touché et stable, pas intouchable : « je vois que tu es en colère, je suis là, et je ne vais pas me disputer là-dessus ». | 07 |
+| **Savoir entendre une critique** | Un homme solide peut entendre un reproche précis sans s'effondrer ni se justifier. Celui qui ne peut plus rien entendre n'est pas un roc, il est sourd. Machiavel, ch. XXIII. | 07 |
 | **Arrogance vs autorité** | L'arrogance est bruyante et réclame le regard des autres. L'autorité est calme et n'a rien à prouver. | 06 |
 
 ## Attraction et tension
@@ -67,6 +69,11 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Retourner le test** ⚠️ | « Miroir déformant », « question décalée pour qu'elle doute de sa stratégie ». Répondre au jeu par le jeu, comme la contre-triangulation. | 06 |
 | **Le roi secret** ⚠️ | Lui laisser croire qu'elle tient les rênes tandis que tu gouvernes en silence. Relation fondée sur la tromperie ; contredit « ne joue pas un rôle ». | 06 |
 | **Shit test** | Mot du vocabulaire séduction. À connaître, à ne pas utiliser à l'antenne. | 06 |
+| **Projection** | Le reproche qui parle de celui qui le fait. Réel (psychanalyse), mais pas universel. Utilisé comme clé unique, il immunise contre toute critique. | 07 |
+| **Trier un reproche** | Pique gratuite et répétée = test ou manque de respect. Reproche précis sur un acte précis = information. La source 07 supprime la deuxième catégorie. | 07 |
+| **Les trois tests** | Jalousie fabriquée (= triangulation), drame inutile, dévaluation (piques voilées répétées). | 07 |
+| **Dévaluation → mépris** | Des piques répétées ne sont pas un test. Le mépris est le premier prédicteur de rupture (Gottman). Une limite calme, puis si ça continue, la porte. | 07 |
+| **Le respect silencieux** | « Je te vois, je te comprends, mais je ne suis pas ton jouet. » La territorialité saine en une phrase. | 07 |
 
 ## Jalousie et tiers
 
@@ -101,7 +108,7 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | Bienfaits **peu à peu**, blessures d'un coup | *Le Prince*, ch. VIII | Compliment rare et précis |
 | On juge par les **yeux** : ce qu'on paraît compte | *Le Prince*, ch. XVIII | Communiquer depuis la force |
 | Ne s'appuyer que sur ses **propres forces**, jamais sur des troupes qui appartiennent à un autre | *Le Prince*, ch. XIII, XXIV | Ne pas bâtir sa sécurité sur la loyauté d'autrui : la bâtir sur sa vie, ses projets, son calme |
-| Le prince doit être « grand demandeur » puis « patient écouteur » de la vérité | *Le Prince*, ch. XXIII | Machiavel valorise la parole vraie, pas le mutisme tactique. Contre le « silence stratégique » de la source 04 |
+| Le prince doit être « grand demandeur » puis « patient écouteur » de la vérité ; celui qui n'entend plus la vérité est perdu | *Le Prince*, ch. XXIII | Machiavel valorise la parole vraie, pas le mutisme tactique. Contre le « silence stratégique » (04) et contre « chaque reproche est sa projection » (07) |
 | Savoir **dissimuler** ce qu'on n'a pas besoin de montrer | *Le Prince*, ch. XVIII | Ne pas tout raconter au premier rendez-vous. Autre chose que punir par le silence |
 | Être **renard** pour connaître les pièges et **lion** pour effrayer les loups | *Le Prince*, ch. XVIII | Voir le test (renard) sans devenir brutal (lion en réserve). La meilleure référence pour le sujet des tests |
 | ⚠️ La Fortune est femme, il faut la « battre et bousculer » | *Le Prince*, ch. XXV | Allégorie sur le destin, pas un conseil sur les femmes. Le passage qu'on te sortira si tu cites Machiavel « sur les femmes ». Ne jamais le citer littéralement |
@@ -114,10 +121,10 @@ Toutes les citations « du stratège florentin » dans la source 01 sont invent�
 
 > **Le pouvoir dans une relation vient de ce que tu ne dépends pas de la réponse de l'autre.**
 
-Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeur ne dépend pas de ton silence ». Source 03 : « ta jalousie prouve ta peur, pas ton amour ». Source 04 : « ne comble pas le vide par compulsion ». Source 05 : « la vraie maîtrise, c'est se maîtriser soi-même ». Source 06 : « la colère fait perdre, le calme fait gagner ». Machiavel : la *virtù* contre la fortune, ses propres forces contre celles d'autrui.
+Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeur ne dépend pas de ton silence ». Source 03 : « ta jalousie prouve ta peur, pas ton amour ». Source 04 : « ne comble pas le vide par compulsion ». Source 05 : « la vraie maîtrise, c'est se maîtriser soi-même ». Source 06 : « la colère fait perdre, le calme fait gagner ». Source 07 : « ce qui la rassure, c'est un homme qui reste stable quand elle ne l'est pas ». Machiavel : la *virtù* contre la fortune, ses propres forces contre celles d'autrui.
 
-**La dérive commune aux six sources, à éviter** : transformer ce calme en stratégie *calculée* (imprévisibilité calculée, silence en miroir, indifférence calculée, montrer ses options, silence cruel, chaud/froid, secret qui isole, retourner le test, roi secret). Dès que c'est calculé, c'est encore de la dépendance, mieux habillée. Le calme réel n'a pas besoin de mise en scène.
+**La dérive commune aux sept sources, à éviter** : transformer ce calme en stratégie *calculée* (imprévisibilité calculée, silence en miroir, indifférence calculée, montrer ses options, silence cruel, chaud/froid, secret qui isole, retourner le test, roi secret, ne jamais montrer qu'on est touché). Dès que c'est calculé, c'est encore de la dépendance, mieux habillée. Le calme réel n'a pas besoin de mise en scène.
 
 **La ligne rouge**, franchie par les sources 04 et 05 : le socle dit « ne dépends pas de sa réponse ». Ces vidéos ajoutent « … et fais en sorte qu'elle dépende de la tienne » (renforcement intermittent infligé, isolement du cercle). C'est là que la séduction devient emprise. Ton enseignement s'arrête avant.
 
-**En une phrase** : calme, pas froid. Solide, pas fermé. Une limite, pas une stratégie.
+**En une phrase** : calme, pas froid. Solide, pas fermé. Une limite, pas une stratégie. Et il sait écouter.
