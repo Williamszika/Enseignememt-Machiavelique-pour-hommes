@@ -43,12 +43,13 @@ glossaire.md concepts clés cumulés
 
 | 26 | Si elle t'écarte (le refus) + « le principe de la peur » | [analyses/26](analyses/26-si-elle-t-ecarte-le-rejet.md) |
 | 27 | 5 habitudes invisibles + « le principe du sculpteur » | [analyses/27](analyses/27-cinq-habitudes-et-le-sculpteur.md) |
+| 28 | « 20 lois de l'indifférence » (14 livrées) + « 8 erreurs » | [analyses/28](analyses/28-indifference-20-lois-et-8-erreurs.md) |
 
-> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Source 27 (56 min) : idem, structure et citations clés.
+> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min) et 28 (1 h 14) : idem, structure et citations clés.
 
-## Les chaînes sources (ce qu'on sait après 27 textes)
+## Les chaînes sources (ce qu'on sait après 28 textes)
 
-| | Chaîne A (01, 26, 27) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
+| | Chaîne A (01, 26-28) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
 |---|---|---|---|---|
 | Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle | Coach direct, listes, exemples dialogués, vocabulaire anglais, 2-3 conclusions empilées |
 | Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité | « Nicolas Machiavel nous enseigne… », 2 vraies citations + inventions |
