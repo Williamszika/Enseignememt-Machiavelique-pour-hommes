@@ -16,6 +16,10 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Silence fébrile / silence habité** | Se taire en attendant qu'elle craque (dépendance) vs se taire parce que sa vie est pleine (liberté). Même geste, opposé intérieur. | 02 |
 | **Vie complète** | Ne jamais tout réorganiser autour d'elle ; garder amis, objectifs, hobbies. | 01, 02, 03, 05 |
 | **La sortie élégante** | Quand elle dit non : accepter, une phrase (« je comprends, aucun problème, bonne soirée »), partir, ne pas surveiller, ne pas revenir. Si elle veut, elle sait où tu es. Un non n'est pas un test. | 26 |
+| **La question des six mois** | « Si toutes les femmes disparaissaient six mois, ta vie resterait-elle excitante ? » Si non, tu n'as pas un problème de femmes. Le socle en une question à se poser seul. | 27 |
+| **Le dénominateur commun** | Trois femmes t'ont quitté pour des raisons proches : qu'est-ce qui ne change pas ? Écrire une leçon par semaine, sans se flageller. La seule source qui demande à l'homme de regarder sa part. | 27 |
+| **Deux changements, pas de salle** | Pas d'alcool en semaine, 30 minutes de marche le matin. L'habitude corporelle la plus réaliste du corpus : posture, énergie, regard, sans argent. | 27 |
+| **La règle de l'heure** ⚠️ | « Attends une heure avant de répondre, vérifie ton agenda même si tu es libre. » Théâtre de rareté. Une limite se voit quand tu as vraiment autre chose à faire ; jouée, c'est encore gérer sa perception. | 27 |
 | **Absence justifiée** | « Il a un gros projet » se raconte avec fierté ; « il a disparu » se raconte avec inquiétude. L'absence qui a une raison réelle, vs l'absence tactique. | 05 |
 | **Le test du serveur** | Comment tu traites ceux qui ne peuvent rien pour toi. Le prédicteur de caractère que tout le monde utilise, et à raison. | 05 |
 | **Jalousie vs territorialité saine** | Jalousie = peur maladive, colère, contrôle obsessionnel. Territorialité = « voici ce que je tolère, voici ce que je refuse », dit calmement, une fois. Même famille que « possessivité sûre » et « conséquences tranquilles ». | 03 |
@@ -87,6 +91,16 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Les trois cas** | Elle parle d'un autre homme parce que (a) c'est sa vie, (b) elle se rassure sur sa valeur, (c) elle teste ou punit. (a) est le plus fréquent ; on ne le sait qu'à la répétition. | 03 |
 | **Contre-triangulation** ⚠️ | « Montrer qu'on a des options » en réponse. C'est entrer dans le jeu, pas en sortir. Avoir une vie suffit ; la montrer, c'est jouer. | 03 |
 
+## Écouter (ce que personne n'enseigne aux hommes)
+
+| Concept | Définition | Source |
+|---|---|---|
+| **Questions que personne ne pose** | « Qu'est-ce qui t'enthousiasme le plus dans ton travail ? » « Quand as-tu ressenti une vraie fierté ? » Ne pas parler de soi tant qu'on ne te le demande pas. L'antidote à « montre ta valeur ». | 27 |
+| **Le miroir à 90 %** | Elle dit « rien ». Au lieu de « qu'est-ce qui ne va pas ? » : « On dirait que tu as beaucoup donné aujourd'hui sans être reconnue. C'est ça ? » Nommer ce qu'on perçoit, laisser corriger. C'est l'écoute réflexive (Rogers, communication non violente). Sain tant que le but est de comprendre. | 27 |
+| **Le miroir « pour devenir irremplaçable »** ⚠️ | Même technique, autre but : « la comprendre mieux qu'elle-même », devenir « sa référence émotionnelle », « impossible à oublier ». Se rendre indispensable est la version douce de l'isolement du cercle (05). | 27 |
+| **« Je pensais que… Peut-être que j'ai mal compris. »** | Relever une contradiction à la première personne, sans accusation, puis se taire. Adulte et sain si tu veux comprendre. Arme si le but avoué est « planter une graine de doute qui tourne en boucle pendant des jours ». La phrase est la même ; ce que tu en attends fait la différence. | 27 |
+| **Ne pas récompenser le drame** | Elle t'ignore trois jours puis revient comme si de rien n'était : tu ne cours pas, tu ne punis pas. Elle te parle directement : tu es là. Sorti de son emballage « pendule », c'est une limite normale. | 27 |
+
 ## Le vocabulaire de la chaîne C (le red-pill en français)
 
 Mots anglais importés tels quels par les sources 10-25. À connaître pour décoder, à traduire à l'antenne.
@@ -122,8 +136,10 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | **Douleur sociale** | L'exclusion active les mêmes zones cérébrales que la douleur physique (Eisenberger, 2003). Une des rares affirmations « neuro » de ces vidéos qui tienne. | 02 |
 | **Effet Zeigarnik** | On retient mieux ce qui est inachevé (Zeigarnik, 1927). Réel. La source 26 l'applique à une personne pour « s'installer dans sa tête » : fabriquer des pensées intrusives. | 26 |
 | **Aversion à la perte** | On souffre plus d'une perte qu'on ne jouit d'un gain équivalent (Kahneman). Réel. C'est le levier du *dread*, « le principe de la peur ». | 26 |
+| **Dissonance cognitive** | Dire une chose et faire l'inverse, puis réduire l'écart (Festinger, 1957). Humain, pas féminin. La source 27 la rebaptise « dissonance comportementale », la lie aux hormones et en fait une propriété des femmes. | 27 |
+| **« C'est une question d'intention »** ⚠️ | L'alibi de la source 27 : le sculpteur et le manipulateur utilisent la même méthode, seule l'intention diffère. Non : un conditionnement avec de bonnes intentions reste un conditionnement. Test : serait-elle d'accord si elle voyait la vidéo ? | 27 |
 | **Le cerveau remplit le vide** | Face à l'incertitude, l'esprit projette le pire. C'est pourquoi le silence fait plus mal qu'un « non ». | 02, 03 |
-| **Renforcement intermittent, nommé** | La source 04 le nomme, le compare aux machines à sous et à la dopamine, dit qu'il crée « une dépendance vicieuse »… puis recommande de l'infliger. La source 05 le prescrit sans détour. La chaîne C (11, 12, 13, 15) cite Skinner et le prescrit dans quatre vidéos : « tu deviens la machine à sous », « tu deviens la drogue et elle l'addicte », « dresseur de lion », « validation conditionnelle ». Reconnaître pour s'en protéger, jamais pour l'infliger. | 04, 05, 11-15, 24 |
+| **Renforcement intermittent, nommé** | La source 04 le nomme, le compare aux machines à sous et à la dopamine, dit qu'il crée « une dépendance vicieuse »… puis recommande de l'infliger. La source 05 le prescrit sans détour. La chaîne C (11, 12, 13, 15) cite Skinner et le prescrit dans quatre vidéos : « tu deviens la machine à sous », « tu deviens la drogue et elle l'addicte », « dresseur de lion », « validation conditionnelle ». La source 26 dit « machine à sous émotionnelle ». La source 27 (« le pendule de la récompense sélective ») dit « comme avec les chiens » et « le même circuit neurologique que celui qui crée l'addiction s'active » : septième prescription, la plus explicite. Reconnaître pour s'en protéger, jamais pour l'infliger. | 04, 05, 11-15, 24, 26, 27 |
 | **Gentil vs bon** | Gentil = chercher à plaire, éviter le conflit, par peur. Bon = agir selon des principes forts même quand ça déplaît. Elle cherche le second. | 17 |
 | **Écouter sans réparer** | Quand elle se plaint, « je comprends que ça te frustre » et rien d'autre. Ne pas proposer de solution. | 12 |
 | **Le cercle de confiance extérieur** | Garder des amis, des mentors, hors de la relation. Si tous te disent qu'elle est dangereuse, écoute-les. L'antidote exact au « secret partagé » de la source 05. | 22 |
@@ -145,7 +161,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | Le prince doit être « grand demandeur » puis « patient écouteur » de la vérité ; celui qui n'entend plus la vérité est perdu | *Le Prince*, ch. XXIII | Machiavel valorise la parole vraie, pas le mutisme tactique. Contre le « silence stratégique » (04) et contre « chaque reproche est sa projection » (07) |
 | Savoir **dissimuler** ce qu'on n'a pas besoin de montrer | *Le Prince*, ch. XVIII | Ne pas tout raconter au premier rendez-vous. Autre chose que punir par le silence |
 | Être **renard** pour connaître les pièges et **lion** pour effrayer les loups | *Le Prince*, ch. XVIII | Voir le test (renard) sans devenir brutal (lion en réserve). La meilleure référence pour le sujet des tests |
-| Craint plutôt qu'aimé, **mais jamais haï** : la source 26 y ajoute « mais le mieux est d'être respecté » | *Le Prince*, ch. XVII | Citation déformée. Le mot « respecté » n'y est pas ; le texte réel dit « jamais haï » |
+| Craint plutôt qu'aimé, **mais jamais haï** : les sources 26 et 27 y ajoutent « mais le mieux est d'être respecté » | *Le Prince*, ch. XVII | Citation déformée, deux fois, mot pour mot : c'est une formule maison de la chaîne A. Le mot « respecté » n'y est pas ; le texte réel dit « jamais haï » |
 | ⚠️ La Fortune est femme, il faut la « battre et bousculer » | *Le Prince*, ch. XXV | Allégorie sur le destin, pas un conseil sur les femmes. Le passage qu'on te sortira si tu cites Machiavel « sur les femmes ». Ne jamais le citer littéralement |
 
 | « Les hommes se fient plus à leurs **yeux** qu'à leurs mains » | *Le Prince*, ch. XVIII | Citation réelle, reprise correctement par la source 14 |
@@ -154,6 +170,8 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 Inventions de la chaîne C : « le prince maintient ses sujets dans une légère incertitude quant à ses faveurs » (15), « une paranoïa saine » (10).
 
 « Une main de fer dans un gant de velours » n'est pas de Machiavel (attribué à Charles Quint ou Bernadotte). La source 06 l'inverse en « main de velours dans un gant de fer ».
+
+Inventions de la chaîne A (27) : « le vrai pouvoir ne réside pas dans la force brute, mais dans la perception que les autres ont de ta force » (au mieux un écho lointain du ch. XVIII), « le pouvoir ne se mendie pas, il se construit ». En revanche la même vidéo admet : « il n'a pas écrit sur la romance ». C'est vrai, et c'est la seule source du corpus à le dire.
 
 Toutes les citations « du stratège florentin » dans la source 01 sont inventées. Utiliser uniquement les références ci-dessus.
 
@@ -165,7 +183,7 @@ Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeu
 
 **La dérive commune à toutes les sources, à éviter** : transformer ce calme en stratégie *calculée* (imprévisibilité calculée, silence en miroir, indifférence calculée, montrer ses options, silence cruel, chaud/froid, secret qui isole, retourner le test, roi secret, ne jamais montrer qu'on est touché). Dès que c'est calculé, c'est encore de la dépendance, mieux habillée. Le calme réel n'a pas besoin de mise en scène.
 
-**La ligne rouge**, franchie par les sources 04 et 05, et ouvertement revendiquée par la chaîne C (10-25) avec la référence à Skinner : le socle dit « ne dépends pas de sa réponse ». Ces vidéos ajoutent « … et fais en sorte qu'elle dépende de la tienne » (renforcement intermittent infligé, isolement du cercle). C'est là que la séduction devient emprise. Ton enseignement s'arrête avant.
+**La ligne rouge**, franchie par les sources 04 et 05, ouvertement revendiquée par la chaîne C (10-25) avec la référence à Skinner, et poussée au plus clair par la chaîne A en source 27 (« comme avec les chiens », « le circuit de l'addiction ») : le socle dit « ne dépends pas de sa réponse ». Ces vidéos ajoutent « … et fais en sorte qu'elle dépende de la tienne » (renforcement intermittent infligé, isolement du cercle). C'est là que la séduction devient emprise. Ton enseignement s'arrête avant.
 
 **En une phrase** : calme, pas froid. Solide, pas fermé. Une limite, pas une stratégie. Et il sait écouter.
 

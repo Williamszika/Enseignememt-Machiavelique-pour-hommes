@@ -42,17 +42,18 @@ glossaire.md concepts clés cumulés
 | 10-25 | **Chaîne C** (16 vidéos) : signes d'infidélité, 7 mots, tests, 5 lois, 5 phrases, l'homme qui ignore, le mystère, trop gentil, ne pas poursuivre, no contact, friendzone, 3 tests, 4 profils, le non, séduction froide, rupture | [analyses/10-25 dossier](analyses/10-25-dossier-chaine-C.md) |
 
 | 26 | Si elle t'écarte (le refus) + « le principe de la peur » | [analyses/26](analyses/26-si-elle-t-ecarte-le-rejet.md) |
+| 27 | 5 habitudes invisibles + « le principe du sculpteur » | [analyses/27](analyses/27-cinq-habitudes-et-le-sculpteur.md) |
 
-> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`.
+> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Source 27 (56 min) : idem, structure et citations clés.
 
-## Les chaînes sources (ce qu'on sait après 25 textes)
+## Les chaînes sources (ce qu'on sait après 27 textes)
 
-| | Chaîne A (01, 26) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
+| | Chaîne A (01, 26, 27) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
 |---|---|---|---|---|
 | Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle | Coach direct, listes, exemples dialogués, vocabulaire anglais, 2-3 conclusions empilées |
 | Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité | « Nicolas Machiavel nous enseigne… », 2 vraies citations + inventions |
 | Format TikTok | Bon | Inutilisable tel quel | Bon | Très bon |
-| Idées | Moitié saines, moitié manipulatrices | Meilleures, mais dérive vers l'arme calculée | Socle sain + isolement du cercle | Le red-pill traduit : de vrais concepts (nice guy, gentil vs bon, signaux d'emprise, no contact) + le conditionnement prescrit avec Skinner + le mépris comme ton |
+| Idées | Moitié saines, moitié manipulatrices. La source 27 contient à la fois le texte le plus sain du corpus (5 habitudes) et le plus explicite sur le dressage (« comme avec les chiens ») | Meilleures, mais dérive vers l'arme calculée | Socle sain + isolement du cercle | Le red-pill traduit : de vrais concepts (nice guy, gentil vs bon, signaux d'emprise, no contact) + le conditionnement prescrit avec Skinner + le mépris comme ton |
 
 Ta place : le format de A, les meilleures idées de B, les vraies références à Machiavel qu'aucune ne donne, et une ligne claire que toutes franchissent.
 
