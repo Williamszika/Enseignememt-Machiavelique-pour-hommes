@@ -17,12 +17,27 @@ live et des thèmes de discussion.
 4. Le `glossaire.md` accumule les concepts clés au fil des textes.
 5. Le dossier `contenus/` reçoit les scripts produits (posts, lives), numérotés.
 
+## À la demande
+
+Quatre choses se produisent sur simple demande, dans le ton du compte et sans dérive :
+
+| Demande | Ce que tu reçois | Où c'est rangé |
+|---|---|---|
+| **Un texte de motivation** (du jour, d'une semaine, d'un thème) | Titre, corps en cinq lignes, signature, plus une version courte et des consignes pour le graphiste | `contenus/` |
+| **Un script** sur un thème, pour parler aux hommes | Sujet, script minuté (60-90 s ou plus long), texte à l'écran, légende et hashtags, notes de tournage, réponses aux commentaires prévisibles | `contenus/` |
+| **Des sujets de lives** | Question d'ouverture, déroulé, ce que tu tranches à la fin | `lives/sujets-de-lives.md` (banque cumulée) |
+| **Une réponse à un abonné** qui t'écrit | Lecture de la situation, réponse prête à envoyer, stratégie sur quelques semaines, ce qu'il ne faut pas lui dire | `reponses/` (anonymisé) |
+
+Pour un script ou un texte, précise si tu veux : le thème, la durée, le public (célibataires, en couple, après rupture), et une actualité à ancrer si tu en as une.
+
 ## Arborescence
 
 ```
 sources/     textes bruts reçus
 analyses/    décryptages
-contenus/    scripts produits
+contenus/    scripts et textes de motivation produits
+lives/       banque de sujets de lives
+reponses/    réponses aux abonnés (anonymisées)
 glossaire.md concepts clés cumulés
 ```
 
