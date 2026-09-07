@@ -37,7 +37,7 @@ Pour un script ou un texte, précise si tu veux : le thème, la durée, le publi
 ```
 sources/     textes bruts reçus
 analyses/    décryptages
-contenus/    scripts et textes de motivation produits
+contenus/    scripts produits ; contenus/motivation/ un texte par jour
 lives/       banque de sujets de lives
 reponses/    réponses aux abonnés (anonymisées)
 glossaire.md concepts clés cumulés
@@ -83,6 +83,7 @@ Ta place : le format de A, les meilleures idées de B, les vraies références �
 | N° | Sujet | Format | Fichier |
 |----|-------|--------|---------|
 | 01 | Elle t'a laissé en « vu » | Vidéo 75-90 s | [contenus/01](contenus/01-elle-t-a-laisse-en-vu.md) |
-| 02 | Personne ne viendra te chercher | Visuel photo + texte (6 sept. 2026) | [contenus/02](contenus/02-texte-motivation-2026-09-06.md) |
+| 02 | Personne ne viendra te chercher | Visuel photo + texte (6 sept. 2026) | [contenus/motivation/2026-09-06](contenus/motivation/2026-09-06.md) |
+| — | **Texte de motivation quotidien** (un par jour, chaque matin) | Visuel photo + texte | [contenus/motivation/](contenus/motivation/) |
 
 **Note après 25 textes** : la chaîne B se répète. La chaîne C est le concurrent direct : même format que celui que tu vises, mêmes sujets, mais avec le dressage et le mépris. Ta place est de dire les mêmes choses vraies sans la machine à sous. La matière est plus que suffisante pour produire.
