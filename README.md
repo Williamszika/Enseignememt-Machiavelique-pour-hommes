@@ -17,6 +17,8 @@ live et des thèmes de discussion.
 4. Le `glossaire.md` accumule les concepts clés au fil des textes.
 5. Le dossier `contenus/` reçoit les scripts produits (posts, lives), numérotés.
 
+Chaque texte reçu nourrit aussi `personnage.md` : la voix, les structures, les idées et les limites du compte. C'est avec cette voix que tout le reste est écrit.
+
 ## À la demande
 
 Quatre choses se produisent sur simple demande, dans le ton du compte et sans dérive :
@@ -39,6 +41,7 @@ contenus/    scripts et textes de motivation produits
 lives/       banque de sujets de lives
 reponses/    réponses aux abonnés (anonymisées)
 glossaire.md concepts clés cumulés
+personnage.md la voix du compte, nourrie par chaque texte reçu
 ```
 
 ## Index
