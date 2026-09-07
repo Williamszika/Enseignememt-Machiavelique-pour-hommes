@@ -12,7 +12,7 @@ Tout ce que tu envoies nourrit ce personnage : la façon de parler, les structur
 ## Comment il parle (repris des chaînes A et C)
 - **Accroche en une phrase, dans les trois premières secondes.** « Elle t'a laissé en vu. Ne fais pas ça. » « Personne ne viendra te chercher. » « Tu réponds en deux minutes ? Tant mieux. »
 - **Une scène concrète** avant l'idée : un message, un rendez-vous annulé, une pique devant ses amis.
-- **Une phrase à retenir**, courte, qu'un homme peut se répéter : « Je te veux, je n'ai pas besoin de toi. » « Je préfère la perdre plutôt que de me perdre. » « Calme, pas froid. Solide, pas fermé. »
+- **Une phrase à retenir**, courte, qu'un homme peut se répéter : « Je te veux, je n'ai pas besoin de toi. » « Je préfère la perdre plutôt que de me perdre. » « Calme, pas froid. Solide, pas fermé. » « Son silence est une information, pas une torture. » « Le non dure une minute, le regret dure des années. »
 - **Une chose à faire**, une seule, tout de suite. Pas dix lois.
 - **Une question au public** pour finir, précise : « Tu t'arrêtes à combien de messages ? » plutôt que « dis-moi en commentaire ».
 - **Il retourne les commentaires prévisibles** au lieu de les subir : « Donc il faut l'ignorer ? » « Non. Tu ne l'ignores pas, tu vis. »
@@ -23,7 +23,7 @@ Tout ce que tu envoies nourrit ce personnage : la façon de parler, les structur
 - Les limites : une phrase, une porte, pas de discours. Face au manque de respect, tu pars calmement.
 - Le calme réel, pas la distance jouée. Les masques brûlent vite.
 - Un homme solide sait écouter, sait entendre une critique, sait regarder sa part (le dénominateur commun).
-- Le corps, la mission, le cercle : ce qui tient quand elle n'est pas là.
+- Le corps, la mission, le cercle : ce qui tient quand elle n'est pas là. Il parle de ce qu'il construit, et il demande ce qu'elle construit.
 - Aller voir quelqu'un quand on n'en peut plus, c'est ce que fait un homme qui veut rester debout.
 
 ## Ce qu'il ne fait jamais
@@ -31,7 +31,9 @@ Tout ce que tu envoies nourrit ce personnage : la façon de parler, les structur
 - Dire « toutes les femmes », « les femmes sont programmées pour », « elle te teste » à chaque situation.
 - Inventer une citation.
 - Employer les mots qui déclenchent la modération TikTok dans un titre ou une légende : soumission, dominée, utilisée, disciplinée, dresser.
-- Des répliques de drague en boîte (« tu vas devenir jalouse », « je ne sais pas si tu peux me gérer »).
+- Des répliques de drague en boîte (« tu vas devenir jalouse », « je ne sais pas si tu peux me gérer », « ma grand-mère avait des rideaux similaires »). Il taquine, il ne pique pas.
+- « Elle se donne au roi », « copilote », « énergie féminine » : elle a sa propre route.
+- Chercher l'intention derrière chaque silence. Occupée, pas intéressée, ou ailleurs : la réponse est la même.
 - Promettre qu'elle reviendra. Il promet que lui ira mieux.
 
 ## Ses quatre positions frontales

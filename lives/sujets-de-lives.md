@@ -9,6 +9,7 @@ Chaque sujet vient d'une analyse (numéro entre parenthèses). Format conseillé
 - **« La friendzone : racontez, on décode qui a menti à qui. »** (20)
 - **« Le nice guy anonyme. »** Les hommes racontent leur contrat non écrit : « je fais tout ça, donc elle doit… ». (17)
 - **« Ta part dans tes ruptures. »** Trois femmes t'ont quitté pour la même raison ? On cherche le dénominateur commun ensemble. Le live que la chaîne C ne fera jamais. (27)
+- **« Le message que tu n'as pas envoyé. »** La fois où tu n'as pas osé, et ce que ça t'a coûté ; la fois où tu as osé et pris un non. Lequel fait encore mal ? (30)
 - **« Rupture : les 30 premiers jours. »** Sevrage, action mécanique, pas de pansement, la thérapie remise à sa place. (25)
 
 ## Débats à trancher
