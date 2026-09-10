@@ -25,6 +25,10 @@ Chaque sujet vient d'une analyse (numéro entre parenthèses). Format conseillé
 - **« Mesdames, qu'est-ce que vous dites vraiment de lui à vos amies ? »** Casse le fantasme du tribunal. (05)
 - **« Mesdames : vous testez ? Vraiment ? »** Casse le mythe du test permanent. (06)
 
+## Se tenir, se présenter
+- **« Montre-moi ta tenue de demain. »** Les hommes décrivent ce qu'ils vont porter, tu conseilles. Bienveillant, jamais moqueur. Le but : des habits à leur taille, pas des habits chers. (contenu 04)
+- **« L'homme moyen que tout le monde respecte. »** Pourquoi le respect ne se joue pas sur le visage. Chacun décrit un homme comme ça dans sa vie. (contenu 04)
+
 ## Protéger le cercle
 - **« Vos sœurs, vos filles, vos amies. »** Reconnaître l'emprise (love bombing, retrait, seule source, crise fabriquée) et ce qu'un frère ou un père peut faire : ne pas isoler davantage, rester une porte ouverte. (29)
 - **« Et dans l'autre sens. »** Lundi tout, mardi rien, mercredi un mot doux : si c'est ce que tu vis, ce n'est pas de la passion, c'est un casino. (29)
