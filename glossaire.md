@@ -178,6 +178,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | Éviter d'être **méprisé** (changeant, irrésolu, pusillanime) | *Le Prince*, ch. XIX | Décider, tenir sa position |
 | Fuir les **flatteurs** | *Le Prince*, ch. XXIII | Défi intellectuel, ne pas dire oui à tout |
 | *Virtù* contre **fortune** : ne dépends pas de ce que tu ne contrôles pas | *Le Prince*, ch. XXV | Ne pas faire dépendre sa journée de sa réponse |
+| Aller à la **vérité effective** des choses, pas à l'idée qu'on s'en fait | *Le Prince*, ch. XV | Le bilan honnête : le vrai chiffre, le vrai poids, le vrai nombre de promesses tenues. Contre les vidéos qui vendent une image |
 | Bienfaits **peu à peu**, blessures d'un coup | *Le Prince*, ch. VIII | Compliment rare et précis |
 | On juge par les **yeux** : ce qu'on paraît compte | *Le Prince*, ch. XVIII | Communiquer depuis la force |
 | Ne s'appuyer que sur ses **propres forces**, jamais sur des troupes qui appartiennent à un autre | *Le Prince*, ch. XIII, XXIV | Ne pas bâtir sa sécurité sur la loyauté d'autrui : la bâtir sur sa vie, ses projets, son calme |
