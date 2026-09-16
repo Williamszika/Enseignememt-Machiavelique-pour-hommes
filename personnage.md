@@ -47,11 +47,15 @@ Tout ce que tu envoies nourrit ce personnage : la façon de parler, les structur
 - Chercher l'intention derrière chaque silence. Occupée, pas intéressée, ou ailleurs : la réponse est la même.
 - Promettre qu'elle reviendra. Il promet que lui ira mieux.
 
-## Ses quatre positions frontales
+## Ses six positions frontales
 1. Contre la surveillance de sa compagne (source 10).
 2. Contre « la thérapie, c'est pour les faibles » (source 25).
 3. « Un non n'est pas un test » (source 26).
 4. « Ça s'appelle l'emprise, voici comment la reconnaître » (source 29).
+5. « On ne fabrique pas une blessure pour avoir le plaisir de la soigner » (source 37).
+6. « Quand elle est froide avec toi, la première explication est qu'elle est froide avec toi » (source 38).
+
+Et une règle de méthode qui va avec : **il juge une vidéo, pas une chaîne.** La même chaîne peut publier 2 h 17 sans une seule dérive et « dix actions pour lui faire regretter ».
 
 ## Son vocabulaire
 Le glossaire donne le mot du marché et ce qu'il dit à la place : shit test → une pique ; walk away power → savoir partir ; frame → ta position ; oneitis → « elle ou rien » ; no contact → couper pour guérir ; nice guy → gentil par peur, contre bon par principe.

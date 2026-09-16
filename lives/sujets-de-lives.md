@@ -20,6 +20,8 @@ Chaque sujet vient d'une analyse (numéro entre parenthèses). Format conseillé
 - **« Faut-il chercher l'approbation de ses amies ? »** Non chercher, oui mériter. (05)
 - **« Les répliques de drague en boîte : ça marche chez nous ? »** « Tu vas devenir jalouse », « je ne sais pas si tu peux me gérer » : lire, puis demander ce que ça donne à Abidjan, Kinshasa, Dakar, Bruxelles. (28)
 - **« Une question d'intention ? »** Le sculpteur et le manipulateur utilisent la même méthode. Test : est-ce qu'elle serait d'accord si elle voyait la vidéo ? (27, 29)
+- **« Le pardon, faiblesse ou paix ? »** Une chaîne dit « le pardon est perçu comme une faiblesse » (38, 1:15:34), une autre en fait la condition de la paix intérieure (31-32). Tu laisses débattre, tu tranches : pardonner n'est pas rouvrir la porte. (31, 32, 38)
+- **« La grappe, pas le geste. »** Deux chaînes différentes disent la même chose et elle est vraie : on ne lit jamais quelqu'un sur un seul signe. Chacun raconte la fois où il s'est trompé tout seul. (36, 38)
 
 ## Avec les femmes en direct
 - **« Mesdames, qu'est-ce que vous dites vraiment de lui à vos amies ? »** Casse le fantasme du tribunal. (05)
@@ -38,3 +40,5 @@ Chaque sujet vient d'une analyse (numéro entre parenthèses). Format conseillé
 ## Protéger le cercle
 - **« Vos sœurs, vos filles, vos amies. »** Reconnaître l'emprise (love bombing, retrait, seule source, crise fabriquée) et ce qu'un frère ou un père peut faire : ne pas isoler davantage, rester une porte ouverte. (29)
 - **« Et dans l'autre sens. »** Lundi tout, mardi rien, mercredi un mot doux : si c'est ce que tu vis, ce n'est pas de la passion, c'est un casino. (29)
+- **« Quand elle est froide avec toi. »** Lire le passage sur « l'hostilité de défense » (38, 44:12), puis poser la question au direct : combien d'entre vous ont insisté parce qu'on leur avait dit que le refus était un test ? Tu tranches : la première explication, c'est qu'elle est froide avec toi. (26, 38)
+- **« Je vais mal. »** Quelqu'un que tu as aimé t'écrit ça à 23 h. La vidéo dit de claquer la porte. On construit ensemble la vraie réponse en trois phrases : humaine, ferme, et qui pointe vers quelqu'un de réel. (38)
