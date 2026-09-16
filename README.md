@@ -66,10 +66,11 @@ personnage.md la voix du compte, nourrie par chaque texte reçu
 | 30 | Son silence, le casino subi (la 29 vue de l'autre côté) + celui qui ose : regret, entretien d'embauche, provocation, mission | [analyses/30](analyses/30-son-silence-et-celui-qui-ose.md) |
 | 31 | **Chaîne D** : lucidité et solitude, les 7 lucidités, les 7 réalités, les 7 retraits | [analyses/31](analyses/31-lucidite-et-solitude.md) |
 | 32 | **Chaîne D** : l'art de vivre avec stratégie, 7 codes, 7 stratégies, 7 habitudes | [analyses/32](analyses/32-art-de-vivre-avec-strategie.md) |
+| 33 | **Chaîne E** (stoïcisme, sans Machiavel) : 4 vidéos, dont « 10 actions pour lui faire regretter » au milieu | [analyses/33](analyses/33-seduire-avec-le-stoicisme.md) |
 
-> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min) et 32 (31 min) : idem, structure et citations clés.
+> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min), 32 (31 min) et 33 (2 h 15) : idem, structure et citations clés.
 
-## Les chaînes sources (ce qu'on sait après 32 textes)
+## Les chaînes sources (ce qu'on sait après 33 textes)
 
 | | Chaîne A (01, 26-30) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** | **Chaîne D (31-32)** |
 |---|---|---|---|---|---|

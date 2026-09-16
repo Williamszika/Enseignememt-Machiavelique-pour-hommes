@@ -134,6 +134,12 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **La vanité du lucide** ⚠️ | « Tu vois les masques mais tu oublies le tien. Tu critiques le troupeau, mais tu construis ton identité autour du fait de ne pas lui ressembler. » Les trois questions : pourquoi veux-tu avoir raison, pourquoi cette trahison t'obsède encore, pourquoi tiens-tu tant à prouver que tu avais vu juste. Seule autocritique du corpus. | 31 |
 | **La solitude comme identité** ⚠️ | « Les personnes trop lucides finissent par marcher seules » est une explication flatteuse d'une douleur qui a souvent d'autres causes : la peur, la honte, une ville nouvelle, la fatigue, parfois autre chose qui se soigne. La lucidité qui ne mène qu'à la solitude est de la peur bien habillée. | 31 |
 | **Ferme sans haine** | *Ferme sans haine, prudent sans paranoïa, ambitieux sans obsession, calme sans passivité.* La ligne du compte en une phrase. | 32 |
+| **Le sandwich** ⚠️ | Trois vidéos honnêtes autour d'une vidéo manipulatrice, placée au milieu, là où la garde est baissée. La crédibilité du vrai sert de véhicule au faux. Source 33 : dix conseils de caractère, douze choses à lâcher, dix principes stoïciens… et entre les deux, « dix actions pour lui faire regretter ». | 33 |
+| **La nostalgie stratégique** ⚠️ | Poster « sans intention » une photo jamais publiée, pour qu'elle la voie. Un message ciblé déguisé en publication ordinaire. Le but avoué : « ouvrir une blessure dans l'âme de l'autre ». | 33 |
+| **« Faire en sorte qu'ils se sentent remplacés »** ⚠️ | Seule fois du corpus où une vidéo dit explicitement viser l'orgueil de quelqu'un pour le faire souffrir. Et pour lui : organiser sa coupe, ses photos, ses sorties et ses réponses autour de quelqu'un qui est parti, c'est encore de la dépendance. | 33 |
+| **« Celui qui veut contrôler les autres n'a pas appris à se contrôler »** | Phrase de la source 33 elle-même (2:11:25), trente minutes après lui avoir appris à faire souffrir son ex. La contradiction du marché, dans un seul fichier. | 33 |
+| **Raconter ses leçons, pas ses victoires** | « La perfection n'a jamais été attrayante. » Contre les comptes qui exhibent. Et la modestie comme outil de lien : « en ne se vantant pas, il laisse de la place pour que les autres s'approchent sans se sentir inférieurs. » | 33 |
+| **Arroser une plante en plastique** | Les relations qu'on maintient par obligation. La façon de fermer : remercier ce que la personne a apporté, puis partir. | 33 |
 
 ## Le vocabulaire de la chaîne C (le red-pill en français)
 
@@ -242,7 +248,11 @@ Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeu
 
 **En une phrase** : calme, pas froid. Solide, pas fermé. Une limite, pas une stratégie. Et il sait écouter.
 
+**L'étiquette ne change rien** : la source 33 ne cite pas Machiavel une seule fois en 2 h 15. Marc Aurèle, Sénèque, Épictète, et le même mécanisme au milieu. Le problème n'est pas le philosophe cité, c'est ce qu'on veut obtenir de quelqu'un.
+
 **Le deuxième axe (chaîne D, 31-32)** : les liens, le temps, l'attention, les limites, la charge familiale, le pardon. Aucune femme, aucune modération à craindre, un public plus large. Sa ligne en une phrase : *ferme sans haine, prudent sans paranoïa, ambitieux sans obsession, calme sans passivité.*
+
+**Et le marché te donne lui-même l'argument** : la source 33 dit « chercher de l'aide professionnelle ne te rend pas faible mais courageux » (1:00:50), contre la source 25.
 
 **Quatre positions frontales** : contre la surveillance (10), contre « thérapie = castration » (25), « un non n'est pas un test » (26), et « ça s'appelle l'emprise, voici comment la reconnaître » (29).
 
