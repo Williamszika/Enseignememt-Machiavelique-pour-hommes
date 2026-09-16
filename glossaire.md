@@ -178,6 +178,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | Éviter d'être **méprisé** (changeant, irrésolu, pusillanime) | *Le Prince*, ch. XIX | Décider, tenir sa position |
 | Fuir les **flatteurs** | *Le Prince*, ch. XXIII | Défi intellectuel, ne pas dire oui à tout |
 | *Virtù* contre **fortune** : ne dépends pas de ce que tu ne contrôles pas | *Le Prince*, ch. XXV | Ne pas faire dépendre sa journée de sa réponse |
+| Ceux qui ont les **moyens** de tenir leur entreprise réussissent ; les autres échouent (« prophètes armés ») | *Le Prince*, ch. VI | Une conviction sans compétence, sans épargne, sans corps, sans alliés, reste un souhait. Éviter le mot « armé » sur TikTok |
 | Aller à la **vérité effective** des choses, pas à l'idée qu'on s'en fait | *Le Prince*, ch. XV | Le bilan honnête : le vrai chiffre, le vrai poids, le vrai nombre de promesses tenues. Contre les vidéos qui vendent une image |
 | Bienfaits **peu à peu**, blessures d'un coup | *Le Prince*, ch. VIII | Compliment rare et précis |
 | On juge par les **yeux** : ce qu'on paraît compte | *Le Prince*, ch. XVIII | Communiquer depuis la force |
