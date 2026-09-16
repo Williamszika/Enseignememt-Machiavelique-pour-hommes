@@ -93,6 +93,7 @@ Ta place : le format de A, les meilleures idées de B, les vraies références �
 | 04 | Tu te trouves moche : ce qui est fermé, ce qui est ouvert | Vidéo 85-95 s | [contenus/04](contenus/04-tu-te-trouves-moche.md) |
 | 05 | Paroles sur photo : le miroir (7 visuels) | Visuels photo + texte | [contenus/05](contenus/05-parole-sur-photo-le-miroir.md) |
 | 06 | Le silence dans la voiture (d'après photo) | Visuel + légende longue | [contenus/06](contenus/06-le-silence-dans-la-voiture.md) |
+| 07 | L'hiver ne tue pas l'arbre (d'après photo) | Visuel + légende longue | [contenus/07](contenus/07-l-hiver-ne-tue-pas-l-arbre.md) |
 | — | **Texte de motivation quotidien** (un par jour, chaque matin) | Visuel photo + texte | [contenus/motivation/](contenus/motivation/) |
 
 **Note après 25 textes** : la chaîne B se répète. La chaîne C est le concurrent direct : même format que celui que tu vises, mêmes sujets, mais avec le dressage et le mépris. Ta place est de dire les mêmes choses vraies sans la machine à sous. La matière est plus que suffisante pour produire.
