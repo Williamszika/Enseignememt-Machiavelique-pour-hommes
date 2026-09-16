@@ -70,10 +70,11 @@ personnage.md la voix du compte, nourrie par chaque texte reçu
 | 34 | **Chaîne E** : 4 vidéos, 32 leçons, **première source du corpus sans aucune dérive** | [analyses/34](analyses/34-te-donner-ta-place.md) |
 | 35 | **Chaîne E** : 3 vidéos, pensées toxiques, bonheur stoïcien, memento mori. La fabrique démasquée (fin en allemand) | [analyses/35](analyses/35-eliminer-les-pensees-toxiques.md) |
 | 36 | **Chaîne F** (signature de la C) : manque de respect, langage corporel, chaud/froid. Le retournement de Skinner | [analyses/36](analyses/36-manque-de-respect-langage-corporel-chaud-froid.md) |
+| 37 | Buss cité à moitié + les 5 secrets + **« le tremblement de terre et la réconciliation »**, le passage le plus grave du corpus | [analyses/37](analyses/37-machiavel-evolution-et-attraction.md) |
 
-> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min), 32 (31 min), 33 (2 h 15), 34 (2 h 17), 35 (1 h 29) et 36 (1 h 32) : idem, structure et citations clés.
+> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min), 32 (31 min), 33 (2 h 15), 34 (2 h 17), 35 (1 h 29), 36 (1 h 32) et 37 (1 h 15) : idem, structure et citations clés.
 
-## Les chaînes sources (ce qu'on sait après 36 textes)
+## Les chaînes sources (ce qu'on sait après 37 textes)
 
 | | Chaîne A (01, 26-30) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** | **Chaîne D (31-32)** |
 |---|---|---|---|---|---|
