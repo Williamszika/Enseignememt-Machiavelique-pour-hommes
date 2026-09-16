@@ -140,6 +140,14 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **« Celui qui veut contrôler les autres n'a pas appris à se contrôler »** | Phrase de la source 33 elle-même (2:11:25), trente minutes après lui avoir appris à faire souffrir son ex. La contradiction du marché, dans un seul fichier. | 33 |
 | **Raconter ses leçons, pas ses victoires** | « La perfection n'a jamais été attrayante. » Contre les comptes qui exhibent. Et la modestie comme outil de lien : « en ne se vantant pas, il laisse de la place pour que les autres s'approchent sans se sentir inférieurs. » | 33 |
 | **Arroser une plante en plastique** | Les relations qu'on maintient par obligation. La façon de fermer : remercier ce que la personne a apporté, puis partir. | 33 |
+| **Le test du dialogue interne** | « Dirais-tu ça de la même manière à quelqu'un que tu aimes ? Si non, change-le. » La seule règle vérifiable du corpus sur la voix intérieure. Amour ne veut pas dire complaisance, force ne veut pas dire insulte. | 34 |
+| **« Une prison aux portes ouvertes »** | Les excuses qu'on décore comme un château. « Le désir d'agir naît lorsque tu commences à agir, pas avant. » | 34 |
+| **Un acte inconfortable par jour** | Pas une révolution, un seul acte, tenu dans le temps. « Si tu l'évites, l'inconfort viendra quand même, déguisé en crise, en perte, en vide. » | 34 |
+| **« Un arbre ne fait pas de bruit quand il prend racine »** | Se construire sans l'annoncer. Converge avec « efficace avant d'être visible » (32), donc solide. Limite : tu te tais sur ce que tu construis, pas sur qui tu es. | 32, 34 |
+| **« Le talent éblouit, la constance transforme »** | Le marteau ne brise pas la pierre au premier coup ; chaque coup précédent a affaibli la structure. | 34 |
+| **Être entouré ≠ être bien accompagné** | « Tu n'as pas à couper tout le monde, mais tu dois filtrer. » Pour un public africain et de diaspora : filtrer n'est pas couper les siens. On aide sans porter à leur place (31), on choisit les niveaux d'accès (32). | 34 |
+| **« La peur est un visiteur, pas un locataire »** | Et la reformulation : « j'ai peur mais je vais le faire quand même parce que cela me rend plus fort. » | 34 |
+| **On juge une vidéo, pas une chaîne** | La même chaîne E a publié « dix actions pour lui faire regretter » (33) et 2 h 17 sans une seule dérive (34). La chaîne A a donné les cinq habitudes (27) et le manuel d'emprise (29). Règle de méthode à enseigner à ton public. | 33, 34 |
 
 ## Le vocabulaire de la chaîne C (le red-pill en français)
 

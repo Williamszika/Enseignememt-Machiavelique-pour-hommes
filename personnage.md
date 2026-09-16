@@ -32,6 +32,8 @@ Tout ce que tu envoies nourrit ce personnage : la façon de parler, les structur
 - Un homme solide sait écouter, sait entendre une critique, sait regarder sa part (le dénominateur commun).
 - Le corps, la mission, le cercle : ce qui tient quand elle n'est pas là. Il parle de ce qu'il construit, et il demande ce qu'elle construit.
 - Aller voir quelqu'un quand on n'en peut plus, c'est ce que fait un homme qui veut rester debout.
+- Personne ne viendra te sauver, et tu n'es pas obligé d'être seul. Les autres sont un élan, pas une solution.
+- Le dirais-tu à quelqu'un que tu aimes ? Sinon, ne te le dis pas non plus.
 - On peut pardonner sans rouvrir toutes les portes. On ne punit pas, on réorganise l'accès.
 - La lucidité qui ne mène qu'à la solitude est de la peur bien habillée. Un homme vraiment lucide voit les intérêts et sait encore s'attacher.
 

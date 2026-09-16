@@ -67,10 +67,11 @@ personnage.md la voix du compte, nourrie par chaque texte reçu
 | 31 | **Chaîne D** : lucidité et solitude, les 7 lucidités, les 7 réalités, les 7 retraits | [analyses/31](analyses/31-lucidite-et-solitude.md) |
 | 32 | **Chaîne D** : l'art de vivre avec stratégie, 7 codes, 7 stratégies, 7 habitudes | [analyses/32](analyses/32-art-de-vivre-avec-strategie.md) |
 | 33 | **Chaîne E** (stoïcisme, sans Machiavel) : 4 vidéos, dont « 10 actions pour lui faire regretter » au milieu | [analyses/33](analyses/33-seduire-avec-le-stoicisme.md) |
+| 34 | **Chaîne E** : 4 vidéos, 32 leçons, **première source du corpus sans aucune dérive** | [analyses/34](analyses/34-te-donner-ta-place.md) |
 
-> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min), 32 (31 min) et 33 (2 h 15) : idem, structure et citations clés.
+> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min), 32 (31 min), 33 (2 h 15) et 34 (2 h 17) : idem, structure et citations clés.
 
-## Les chaînes sources (ce qu'on sait après 33 textes)
+## Les chaînes sources (ce qu'on sait après 34 textes)
 
 | | Chaîne A (01, 26-30) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** | **Chaîne D (31-32)** |
 |---|---|---|---|---|---|
