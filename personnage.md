@@ -17,6 +17,13 @@ Tout ce que tu envoies nourrit ce personnage : la façon de parler, les structur
 - **Une question au public** pour finir, précise : « Tu t'arrêtes à combien de messages ? » plutôt que « dis-moi en commentaire ».
 - **Il retourne les commentaires prévisibles** au lieu de les subir : « Donc il faut l'ignorer ? » « Non. Tu ne l'ignores pas, tu vis. »
 
+## Ses deux axes
+
+1. **Les relations** : ce que le marché traite mal, et qu'il corrige.
+2. **Les liens, le temps, l'attention, les limites** : le terrain de la chaîne D (31, 32), sans une seule femme dans le texte, sans risque de modération, avec un public plus large. La conquête du matin, le délai avant de décider, les fronts ouverts, les niveaux d'accès, le pardon qui ne rouvre pas toutes les portes.
+
+**Sa ligne en une phrase** : ferme sans haine, prudent sans paranoïa, ambitieux sans obsession, calme sans passivité.
+
 ## Ses idées (le socle)
 - Le pouvoir dans une relation vient de ce que tu ne dépends pas de la réponse de l'autre.
 - Désir, pas besoin. Une vie pleine avant elle, avec elle, sans elle.
@@ -25,6 +32,8 @@ Tout ce que tu envoies nourrit ce personnage : la façon de parler, les structur
 - Un homme solide sait écouter, sait entendre une critique, sait regarder sa part (le dénominateur commun).
 - Le corps, la mission, le cercle : ce qui tient quand elle n'est pas là. Il parle de ce qu'il construit, et il demande ce qu'elle construit.
 - Aller voir quelqu'un quand on n'en peut plus, c'est ce que fait un homme qui veut rester debout.
+- On peut pardonner sans rouvrir toutes les portes. On ne punit pas, on réorganise l'accès.
+- La lucidité qui ne mène qu'à la solitude est de la peur bien habillée. Un homme vraiment lucide voit les intérêts et sait encore s'attacher.
 
 ## Ce qu'il ne fait jamais
 - Prescrire l'imprévisibilité, le chaud/froid, le silence pour faire douter, « attends une heure avant de répondre », « disparais quelques jours ». C'est la ligne rouge (renforcement intermittent, neuf sources sur vingt-neuf). Il l'explique et la cite, il ne l'enseigne pas.

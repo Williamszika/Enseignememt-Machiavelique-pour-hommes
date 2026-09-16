@@ -29,6 +29,12 @@ Chaque sujet vient d'une analyse (numéro entre parenthèses). Format conseillé
 - **« Montre-moi ta tenue de demain. »** Les hommes décrivent ce qu'ils vont porter, tu conseilles. Bienveillant, jamais moqueur. Le but : des habits à leur taille, pas des habits chers. (contenu 04)
 - **« L'homme moyen que tout le monde respecte. »** Pourquoi le respect ne se joue pas sur le visage. Chacun décrit un homme comme ça dans sa vie. (contenu 04)
 
+## Les liens, le temps, les limites (chaîne D)
+- **« Qui est parti quand tu as dit non ? »** Les hommes racontent la première limite qu'ils ont posée et ce que ça a révélé. Sans amertume : on compte aussi ceux qui sont restés. (31)
+- **« Tu vois les masques. Et le tien ? »** Les trois questions : pourquoi veux-tu avoir raison, pourquoi cette trahison t'obsède encore, pourquoi tiens-tu tant à prouver que tu avais vu juste. (31)
+- **« Arrête de sauver tout le monde. »** Aider les siens, oui ; s'épuiser à leur place, non. Pression familiale en Afrique et en diaspora. (31)
+- **« Ta conquête du matin. »** Chacun nomme la seule chose qui compte demain. On se retrouve la semaine suivante. (32)
+
 ## Protéger le cercle
 - **« Vos sœurs, vos filles, vos amies. »** Reconnaître l'emprise (love bombing, retrait, seule source, crise fabriquée) et ce qu'un frère ou un père peut faire : ne pas isoler davantage, rester une porte ouverte. (29)
 - **« Et dans l'autre sens. »** Lundi tout, mardi rien, mercredi un mot doux : si c'est ce que tu vis, ce n'est pas de la passion, c'est un casino. (29)

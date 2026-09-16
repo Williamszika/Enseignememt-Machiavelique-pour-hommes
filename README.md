@@ -64,17 +64,19 @@ personnage.md la voix du compte, nourrie par chaque texte reçu
 | 28 | « 20 lois de l'indifférence » (14 livrées) + « 8 erreurs » | [analyses/28](analyses/28-indifference-20-lois-et-8-erreurs.md) |
 | 29 | **Créer une dépendance émotionnelle** (manuel d'emprise, pièce à conviction) + conquérir une femme désirée | [analyses/29](analyses/29-creer-une-dependance-emotionnelle.md) |
 | 30 | Son silence, le casino subi (la 29 vue de l'autre côté) + celui qui ose : regret, entretien d'embauche, provocation, mission | [analyses/30](analyses/30-son-silence-et-celui-qui-ose.md) |
+| 31 | **Chaîne D** : lucidité et solitude, les 7 lucidités, les 7 réalités, les 7 retraits | [analyses/31](analyses/31-lucidite-et-solitude.md) |
+| 32 | **Chaîne D** : l'art de vivre avec stratégie, 7 codes, 7 stratégies, 7 habitudes | [analyses/32](analyses/32-art-de-vivre-avec-strategie.md) |
 
-> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min) et 30 (44 min) : idem, structure et citations clés.
+> Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min) et 32 (31 min) : idem, structure et citations clés.
 
-## Les chaînes sources (ce qu'on sait après 30 textes)
+## Les chaînes sources (ce qu'on sait après 32 textes)
 
-| | Chaîne A (01, 26-30) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** |
-|---|---|---|---|---|
-| Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle | Coach direct, listes, exemples dialogués, vocabulaire anglais, 2-3 conclusions empilées |
-| Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité | « Nicolas Machiavel nous enseigne… », 2 vraies citations + inventions |
-| Format TikTok | Bon | Inutilisable tel quel | Bon | Très bon |
-| Idées | Moitié saines, moitié manipulatrices. La source 27 contient à la fois le texte le plus sain du corpus (5 habitudes) et le plus explicite sur le dressage (« comme avec les chiens ») | Meilleures, mais dérive vers l'arme calculée | Socle sain + isolement du cercle | Le red-pill traduit : de vrais concepts (nice guy, gentil vs bon, signaux d'emprise, no contact) + le conditionnement prescrit avec Skinner + le mépris comme ton |
+| | Chaîne A (01, 26-30) | Chaîne B (02-04, 06-09) | Source 05 | **Chaîne C (10-25)** | **Chaîne D (31-32)** |
+|---|---|---|---|---|---|
+| Style | Coach direct, listes, prénoms, phrases prêtes | Voix-off littéraire, métaphores, sans exemples | Coach direct, généré par IA, gonflé en boucle | Coach direct, listes, exemples dialogués, vocabulaire anglais, 2-3 conclusions empilées | Voix-off philosophique, trois séries de sept, aucune femme |
+| Machiavel | Fausses citations « du stratège florentin » | Nommé au conditionnel, jamais cité | Jamais cité | « Nicolas Machiavel nous enseigne… », 2 vraies citations + inventions | **N'invente rien**. « Il aurait reconnu ». La 32 cite la Stanford Encyclopedia à l'écran |
+| Format TikTok | Bon | Inutilisable tel quel | Bon | Très bon | À découper : 21 points par vidéo |
+| Idées | Moitié saines, moitié manipulatrices. La source 27 contient à la fois le texte le plus sain du corpus (5 habitudes) et le plus explicite sur le dressage (« comme avec les chiens ») | Meilleures, mais dérive vers l'arme calculée | Socle sain + isolement du cercle | Le red-pill traduit : de vrais concepts (nice guy, gentil vs bon, signaux d'emprise, no contact) + le conditionnement prescrit avec Skinner + le mépris comme ton | **Le meilleur du corpus** : limites, temps, attention, pardon. Dérives : la solitude flattée (31), le stoïcisme attribué à Machiavel (32) |
 
 Ta place : le format de A, les meilleures idées de B, les vraies références à Machiavel qu'aucune ne donne, et une ligne claire que toutes franchissent. La source 29 est la pièce à conviction : elle décrit l'emprise étape par étape, avec ses mots (casino, drogue, « le pompier qui a causé l'incendie »). Tu n'as plus à interpréter, tu cites.
 

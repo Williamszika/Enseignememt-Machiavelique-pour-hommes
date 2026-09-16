@@ -117,6 +117,24 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **« Je pensais que… Peut-être que j'ai mal compris. »** | Relever une contradiction à la première personne, sans accusation, puis se taire. Adulte et sain si tu veux comprendre. Arme si le but avoué est « planter une graine de doute qui tourne en boucle pendant des jours ». La phrase est la même ; ce que tu en attends fait la différence. | 27 |
 | **Ne pas récompenser le drame** | Elle t'ignore trois jours puis revient comme si de rien n'était : tu ne cours pas, tu ne punis pas. Elle te parle directement : tu es là. Sorti de son emballage « pendule », c'est une limite normale. | 27 |
 
+## Lucidité, temps et limites (chaîne D, sources 31-32)
+
+| Concept | Définition | Source |
+|---|---|---|
+| **La limite révèle le lien** | Tant que tu dis oui, tout va bien. Le jour où tu poses une limite, tu vois ce qui tenait vraiment. Vaut pour les amis, la famille, le travail, pas seulement l'amour. « Ce n'est pas la vérité qui détruit les alliances, elle révèle qu'elles étaient déjà fragiles. » | 31 |
+| **Pardonner sans rouvrir toutes les portes** | « Tu peux aimer quelqu'un sans lui redonner la position depuis laquelle il t'a déjà blessé. Tu ne punis pas, tu réorganises l'accès. » Ni rancune, ni naïveté. Le meilleur passage du corpus sur le pardon. | 31 |
+| **Les niveaux d'accès** | « Certains méritent ta confiance, d'autres seulement ta courtoisie. Certains peuvent connaître tes projets, d'autres seulement tes résultats. » Sans paranoïa, sans annonce. | 32 |
+| **Silence faible / silence stratégique** | « Le premier espère que le problème disparaîtra. Le second recueille des informations. » La distinction que les sources 02, 04 et 28 n'ont jamais faite. | 32 |
+| **« Si tu réponds trop vite, tu ne diriges rien, tu obéis »** | Le délai entre l'impulsion et la décision : une heure, une nuit. Pendant ce temps, demander à l'émotion ce qu'elle cherche à obtenir. | 32 |
+| **La conquête du matin** | Une seule chose nommée avant d'ouvrir les messages. « Tout semble urgent lorsque rien n'a été déclaré prioritaire. Alors les autres choisissent pour toi. » | 32 |
+| **Les fronts ouverts** | Chaque projet inachevé, chaque promesse repoussée consomme de l'attention en arrière-plan. Poursuivre, déléguer, abandonner ou terminer. « Ne conserve rien uniquement parce que tu as déjà investi du temps. » | 32 |
+| **« Un état de fatigue qu'ils appellent discipline »** | Fermer sa journée volontairement. Trois questions du soir : qu'ai-je renforcé, qu'ai-je laissé me disperser, qu'est-ce qui ne mérite pas de revenir demain. | 32 |
+| **La victoire qui enchaîne** | « Qu'est-ce que cette victoire m'oblige ensuite à entretenir ? » Beaucoup gagnent une dispute et entretiennent une guerre des mois. | 32 |
+| **La blessure aux commandes** | « Dès que ton action naît d'une blessure encore chaude, quelqu'un d'autre gouverne déjà ta décision. » « Tu peux fermer une porte sans brûler toute la maison. » | 32 |
+| **La vanité du lucide** ⚠️ | « Tu vois les masques mais tu oublies le tien. Tu critiques le troupeau, mais tu construis ton identité autour du fait de ne pas lui ressembler. » Les trois questions : pourquoi veux-tu avoir raison, pourquoi cette trahison t'obsède encore, pourquoi tiens-tu tant à prouver que tu avais vu juste. Seule autocritique du corpus. | 31 |
+| **La solitude comme identité** ⚠️ | « Les personnes trop lucides finissent par marcher seules » est une explication flatteuse d'une douleur qui a souvent d'autres causes : la peur, la honte, une ville nouvelle, la fatigue, parfois autre chose qui se soigne. La lucidité qui ne mène qu'à la solitude est de la peur bien habillée. | 31 |
+| **Ferme sans haine** | *Ferme sans haine, prudent sans paranoïa, ambitieux sans obsession, calme sans passivité.* La ligne du compte en une phrase. | 32 |
+
 ## Le vocabulaire de la chaîne C (le red-pill en français)
 
 Mots anglais importés tels quels par les sources 10-25. À connaître pour décoder, à traduire à l'antenne.
@@ -188,6 +206,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | Être **renard** pour connaître les pièges et **lion** pour effrayer les loups | *Le Prince*, ch. XVIII | Voir le test (renard) sans devenir brutal (lion en réserve). La meilleure référence pour le sujet des tests |
 | Craint plutôt qu'aimé, **mais jamais haï** : les sources 26 et 27 y ajoutent « mais le mieux est d'être respecté » | *Le Prince*, ch. XVII | Citation déformée, deux fois, mot pour mot : c'est une formule maison de la chaîne A. Le mot « respecté » n'y est pas ; le texte réel dit « jamais haï » |
 | ⚠️ Faire que les citoyens « aient toujours besoin de l'État et de lui » | *Le Prince*, ch. IX | Le seul vrai passage proche de « créer une dépendance » (29). Il parle d'un État et de la loyauté civique. Transposé à une femme, ça en fait une sujette : c'est le problème, pas la solution. « Elle n'est pas ton État. » |
+| La fortune est comme un **fleuve en crue** : on lui oppose des digues et des canaux en temps calme, et mieux vaut être impétueux que circonspect | *Le Prince*, ch. XXV | Machiavel **n'accepte pas** la fortune, il la prépare et la brusque. Ne pas confondre avec la dichotomie stoïcienne (« ce qui dépend de nous »), qui est d'Épictète, *Manuel*, I. La source 32 attribue à Machiavel ce qui est d'Épictète : correction utile, et personne d'autre ne la fera |
 | ⚠️ La Fortune est femme, il faut la « battre et bousculer » | *Le Prince*, ch. XXV | Allégorie sur le destin, pas un conseil sur les femmes. Le passage qu'on te sortira si tu cites Machiavel « sur les femmes ». Ne jamais le citer littéralement. La source 30 le fait (« la fortune, cette garce capricieuse, favorise celui qui agit », 27:49). L'idée vraie (l'audace face à l'incertain) se dit sans le mot |
 
 | « Les hommes se fient plus à leurs **yeux** qu'à leurs mains » | *Le Prince*, ch. XVIII | Citation réelle, reprise correctement par la source 14 |
@@ -196,6 +215,10 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 Inventions de la chaîne C : « le prince maintient ses sujets dans une légère incertitude quant à ses faveurs » (15), « une paranoïa saine » (10).
 
 « Une main de fer dans un gant de velours » n'est pas de Machiavel (attribué à Charles Quint ou Bernadotte). La source 06 l'inverse en « main de velours dans un gant de fer ».
+
+**Chaîne D (31, 32) : la seule qui n'invente rien.** Elle dit « Machiavel aurait reconnu », jamais de fausse citation entre guillemets. La source 32 cite même la *Stanford Encyclopedia of Philosophy* à l'écran et donne des faits exacts (République florentine, écarté au retour des Médicis, *Le Prince* rédigé en 1513). À signaler : c'est la première en trente-deux textes.
+
+**Le fait que personne ne dit** : dans sa lettre à Francesco Vettori du 10 décembre 1513, Machiavel raconte sa journée d'exilé à Sant'Andrea in Percussina. L'après-midi, il descend à l'auberge du village jouer aux cartes et au trictrac avec l'aubergiste, un boucher, un meunier et deux boulangers, en se disputant pour quelques sous. Le soir seulement il se change et « converse avec les anciens ». Et il écrit *Le Prince* pour retrouver un emploi auprès des Médicis. Il n'a jamais fait de la solitude un accomplissement : il l'a subie et il a tout fait pour en sortir. À opposer aux vidéos qui vendent « marcher seul » sous son nom.
 
 Inventions de la chaîne A (30) : « l'ennemi le plus dangereux est celui qui connaît vos points faibles mieux que vous-même » (attribué à « l'art de la guerre »), « le vrai pouvoir ne vient pas du contrôle des autres mais de ne pas avoir besoin de les contrôler » (bon slogan, contraire à tout *Le Prince*), « contrôler la narration, maintenir les autres dans un état d'attente », « un stratège ne mendie pas d'alliés ». Et « mieux respecté que nécessaire », présenté comme ce que Machiavel « a oublié de dire » : quatrième apparition du « respecté » (26, 27, 29, 30).
 
@@ -218,6 +241,8 @@ Source 01 : « je te veux, je n'ai pas besoin de toi ». Source 02 : « ma valeu
 **La ligne rouge**, franchie par les sources 04 et 05, ouvertement revendiquée par la chaîne C (10-25) avec la référence à Skinner, poussée au plus clair par la chaîne A en source 27 (« comme avec les chiens », « le circuit de l'addiction »), et devenue le titre et le programme entier de la source 29 (« créer une dépendance émotionnelle » : love bombing, retrait, seule source, crise fabriquée) : le socle dit « ne dépends pas de sa réponse ». Ces vidéos ajoutent « … et fais en sorte qu'elle dépende de la tienne » (renforcement intermittent infligé, isolement du cercle). C'est là que la séduction devient emprise. Ton enseignement s'arrête avant.
 
 **En une phrase** : calme, pas froid. Solide, pas fermé. Une limite, pas une stratégie. Et il sait écouter.
+
+**Le deuxième axe (chaîne D, 31-32)** : les liens, le temps, l'attention, les limites, la charge familiale, le pardon. Aucune femme, aucune modération à craindre, un public plus large. Sa ligne en une phrase : *ferme sans haine, prudent sans paranoïa, ambitieux sans obsession, calme sans passivité.*
 
 **Quatre positions frontales** : contre la surveillance (10), contre « thérapie = castration » (25), « un non n'est pas un test » (26), et « ça s'appelle l'emprise, voici comment la reconnaître » (29).
 
