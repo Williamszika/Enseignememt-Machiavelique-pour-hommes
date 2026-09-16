@@ -148,6 +148,14 @@ Chaque entrée indique la source où le concept apparaît. Les concepts marqués
 | **Être entouré ≠ être bien accompagné** | « Tu n'as pas à couper tout le monde, mais tu dois filtrer. » Pour un public africain et de diaspora : filtrer n'est pas couper les siens. On aide sans porter à leur place (31), on choisit les niveaux d'accès (32). | 34 |
 | **« La peur est un visiteur, pas un locataire »** | Et la reformulation : « j'ai peur mais je vais le faire quand même parce que cela me rend plus fort. » | 34 |
 | **On juge une vidéo, pas une chaîne** | La même chaîne E a publié « dix actions pour lui faire regretter » (33) et 2 h 17 sans une seule dérive (34). La chaîne A a donné les cinq habitudes (27) et le manuel d'emprise (29). Règle de méthode à enseigner à ton public. | 33, 34 |
+| **« Ressens, mais n'obéis pas »** | « Tout ce que tu ressens n'est pas vrai. Tu peux te sentir inutile et pourtant avoir de la valeur. » Les émotions sont des messages, pas des mandats. La colère devient un élan, la peur de la prudence, la tristesse de la compassion. | 35 |
+| **« Une pensée n'est pas un ordre, c'est un visiteur »** | « Tu finirais par croire que tu es la tempête, alors que tu as toujours été le ciel. » | 35 |
+| **Pardonner, c'est se souvenir sans souffrir** | « Pardonner ne signifie pas te réconcilier avec celui qui t'a fait du mal, mais cesser de lui donner du pouvoir sur tes pensées. » Avec la source 31 (« tu réorganises l'accès »), les deux moitiés du sujet. | 31, 35 |
+| **« Remercie qui t'a fait mal »** ⚠️ | Non. Remercier son agresseur n'est pas du stoïcisme. Une épreuve peut forger ; celui qui l'a infligée ne mérite aucune gratitude. Tu n'as rien à remercier, tu as à te libérer. | 35 |
+| **« La souffrance est optionnelle »** ⚠️ | Vrai pour une contrariété, faux pour un deuil ou une dépression. Dit à un homme qui vient de perdre quelqu'un, ça ajoute la honte à la peine. | 35 |
+| **La culpabilité et la responsabilité** | « La culpabilité se nettoie avec la responsabilité, pas avec la souffrance. » Identifier l'erreur, la réparer si possible, décider autrement, avancer. | 35 |
+| **Memento mori** | « Le problème n'est pas de mourir, c'est de ne pas avoir vraiment vécu pendant que tu le pouvais. » « Si aujourd'hui était ton dernier jour, qu'est-ce que tu laisserais sans dire, sans essayer, sans remercier ? » Sujet neuf, à traiter avec respect pour un public où le rapport aux morts est réel. | 35 |
+| **La fabrique** | La source 35 finit en allemand à 33:45 puis en français à 1:08:12 : même script doublé langue par langue. Le volume n'est pas de la profondeur. Corollaire : du côté stoïcien on cite juste (textes courts, partout), du côté Machiavel on invente (traité long, presque jamais lu). | 33-35 |
 
 ## Le vocabulaire de la chaîne C (le red-pill en français)
 
