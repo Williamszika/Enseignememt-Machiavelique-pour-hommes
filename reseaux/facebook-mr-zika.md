@@ -26,17 +26,15 @@ Tout ce qu'il faut pour ouvrir la page et publier dès le premier jour. À rempl
 
 ### La biographie — champ **À propos**
 
-> Je m'appelle Zika. J'écris pour les hommes. Un texte par jour.
+> Je m'appelle Zika. Un texte par jour, pour les hommes.
 >
-> On m'a vendu, comme à toi, des techniques pour être craint et des citations de Machiavel qu'il n'a jamais écrites. J'ai vérifié, chapitre par chapitre. C'est faux.
+> La parole qu'on donne. Le travail qu'on fait quand personne ne regarde. Les gens qu'on garde. Les limites qu'on pose sans crier.
 >
-> Ici on parle de ce qui tient : la parole qu'on donne, le travail qu'on fait quand personne ne regarde, les gens qu'on garde, les limites qu'on pose sans crier.
->
-> Pas de recette pour agir sur quelqu'un. Ce qui dépend de toi, et rien d'autre.
+> Ce qui dépend de toi, et rien d'autre.
 >
 > Depuis [ta ville], pour l'Afrique et la diaspora.
 >
-> 📩 Une question, une situation ? Écris-moi.
+> 📩 Écris-moi.
 
 > **Une seule case à remplir** : `[ta ville]`. Mets-la vraiment — sur Facebook, le public local partage beaucoup plus quand il reconnaît un endroit.
 
