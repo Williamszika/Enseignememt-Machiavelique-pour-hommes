@@ -21,23 +21,34 @@ Tout ce qu'il faut pour ouvrir la page et publier dès le premier jour. À rempl
 
 ## 2. Textes de la page
 
-### Bio courte (sous le nom — 101 caractères max)
+### Bio courte — champ **Bio**, sous le nom (101 caractères max)
 > Des textes pour les hommes qui se tiennent debout. Un par jour.
 
-### À propos / Description longue
-> **Mr Zika**
+### La biographie — champ **À propos**
+
+> Je m'appelle Zika.
 >
-> Un texte par jour, pour les hommes.
+> J'écris pour les hommes. Un texte par jour.
 >
-> Ici on parle de ce qui tient : la parole qu'on donne, le travail qu'on fait quand personne ne regarde, les gens qu'on garde, les limites qu'on pose sans crier.
+> Pendant longtemps, j'ai regardé ce qu'on vend aux hommes sur internet. Des techniques pour être craint. Des méthodes pour rendre quelqu'un dépendant. Des citations de Machiavel qu'il n'a jamais écrites.
 >
-> On lit Machiavel pour de vrai — le vrai texte, les vrais chapitres — pas les fausses citations qui circulent.
+> J'ai lu. J'ai vérifié, chapitre par chapitre. La plupart du temps c'est faux, et quand c'est vrai, on te cache la moitié.
 >
-> Pas de recette pour manipuler quelqu'un. Pas de promesse sur les autres. Ce qui dépend de toi, et rien d'autre.
+> Alors je fais autre chose.
 >
-> Pour l'Afrique et la diaspora.
+> Ici on parle de ce qui tient. La parole qu'on donne. Le travail qu'on fait quand personne ne regarde. Les gens qu'on garde. Les limites qu'on pose sans crier. Le calme qui ne se joue pas.
 >
-> 📩 Une question, une situation ? Écris en message privé.
+> Et on lit Machiavel pour de vrai. Le vrai texte, le vrai chapitre. Tu pourras toujours aller vérifier — c'est même ce que je te demande de faire.
+>
+> Ce que tu ne trouveras jamais ici : une recette pour agir sur quelqu'un, une promesse sur ce que les autres vont faire, ou une phrase qui commence par « toutes les femmes ». Ce qui dépend de toi, et rien d'autre.
+>
+> J'écris depuis [ta ville], pour les hommes d'Afrique et pour ceux de la diaspora. Ceux qui construisent loin des leurs. Ceux qui portent plus que ce qu'ils disent.
+>
+> Un texte par jour. Reste, si ça te parle.
+>
+> 📩 Une question, une situation ? Écris-moi en message privé.
+
+> **Une seule chose à remplir** : `[ta ville]`. Mets-la vraiment — sur Facebook, le public local partage beaucoup plus quand il reconnaît un endroit.
 
 ### Mots-clés à placer naturellement dans la description
 motivation, hommes, discipline, Machiavel, Afrique, diaspora, respect de soi, limites, développement personnel
