@@ -25,7 +25,7 @@ Quatre choses se produisent sur simple demande, dans le ton du compte et sans d�
 
 | Demande | Ce que tu reçois | Où c'est rangé |
 |---|---|---|
-| **Un texte de motivation** (du jour, d'une semaine, d'un thème) | Titre, corps en cinq lignes, signature, plus une version courte et des consignes pour le graphiste | `contenus/` |
+| **Un texte de motivation** (du jour, d'une semaine, d'un thème) | **Une seule version** : titre, corps en cinq lignes, bas de visuel avec une vraie référence à Machiavel — **plus le prompt d'image** qui répond au texte (anglais, français, négatif, réglages, variantes de secours) | `contenus/motivation/` |
 | **Un script** sur un thème, pour parler aux hommes | Sujet, script minuté (60-90 s ou plus long), texte à l'écran, légende et hashtags, notes de tournage, réponses aux commentaires prévisibles | `contenus/` |
 | **Des sujets de lives** | Question d'ouverture, déroulé, ce que tu tranches à la fin | `lives/sujets-de-lives.md` (banque cumulée) |
 | **Une réponse à un abonné** qui t'écrit | Lecture de la situation, réponse prête à envoyer, stratégie sur quelques semaines, ce qu'il ne faut pas lui dire | `reponses/` (anonymisé) |
