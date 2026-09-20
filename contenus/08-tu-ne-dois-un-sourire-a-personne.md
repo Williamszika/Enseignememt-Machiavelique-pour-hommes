@@ -2,7 +2,9 @@
 
 **Origine :** photo envoyée le 20 septembre 2026. Une femme chez elle, pagne sur les épaules, visage calme et direct, cuisine derrière elle, calendrier 2026 au mur.
 
-> ⚠️ **Consentement.** C'est une personne réelle et reconnaissable. On ne publie pas ce visage sans son accord explicite — c'est la règle du compte (`reseaux/facebook-mr-zika.md`, section 9). Si tu ne l'as pas, le texte fonctionne aussi bien sur une image générée : le prompt est en bas.
+> ✅ **Consentement obtenu.** La personne photographiée a donné son accord pour la publication, confirmé le 20 septembre 2026. La photo peut donc être publiée telle quelle.
+>
+> Trois choses restent vraies malgré l'accord : on ne retouche pas la peau, on ne publie pas cette photo sur un autre sujet que celui-ci sans le lui redemander, et si elle change d'avis plus tard, on retire le post sans discuter. Un accord porte sur une publication, pas sur un droit permanent.
 
 ---
 
