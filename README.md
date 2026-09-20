@@ -56,7 +56,6 @@ personnage.md la voix du compte, nourrie par chaque texte reçu
 | 05 | Pourquoi elle parle de toi à ses amies | [analyses/05](analyses/05-pourquoi-elle-parle-de-toi-a-ses-amies.md) |
 | 06 | Pourquoi elle teste ton pouvoir sans te le dire | [analyses/06](analyses/06-pourquoi-elle-teste-ton-pouvoir.md) |
 | 07 | Le miroir inversé (projection, trois tests) | [analyses/07](analyses/07-le-miroir-inverse.md) |
-| 08 | Tu ne dois un sourire à personne (à partir d'une photo) | Visuel + post Facebook | [contenus/08](contenus/08-tu-ne-dois-un-sourire-a-personne.md) |
 | 08 | Avoir une mission de vie | [analyses/08](analyses/08-mission-de-vie.md) |
 | 09 | Les attentes secrètes qu'elle projette | [analyses/09](analyses/09-attentes-secretes.md) |
 | 10-25 | **Chaîne C** (16 vidéos) : signes d'infidélité, 7 mots, tests, 5 lois, 5 phrases, l'homme qui ignore, le mystère, trop gentil, ne pas poursuivre, no contact, friendzone, 3 tests, 4 profils, le non, séduction froide, rupture | [analyses/10-25 dossier](analyses/10-25-dossier-chaine-C.md) |
@@ -102,6 +101,7 @@ Ta place : le format de A, les meilleures idées de B, les vraies références �
 | 05 | Paroles sur photo : le miroir (7 visuels) | Visuels photo + texte | [contenus/05](contenus/05-parole-sur-photo-le-miroir.md) |
 | 06 | Le silence dans la voiture (d'après photo) | Visuel + légende longue | [contenus/06](contenus/06-le-silence-dans-la-voiture.md) |
 | 07 | L'hiver ne tue pas l'arbre (d'après photo) | Visuel + légende longue | [contenus/07](contenus/07-l-hiver-ne-tue-pas-l-arbre.md) |
+| 08 | Tu ne dois un sourire à personne (d'après photo) | Visuel + post Facebook | [contenus/08](contenus/08-tu-ne-dois-un-sourire-a-personne.md) |
 | — | **Texte de motivation quotidien** (un par jour, chaque matin) | Visuel photo + texte | [contenus/motivation/](contenus/motivation/) |
 
 **Note après 25 textes** : la chaîne B se répète. La chaîne C est le concurrent direct : même format que celui que tu vises, mêmes sujets, mais avec le dressage et le mépris. Ta place est de dire les mêmes choses vraies sans la machine à sous. La matière est plus que suffisante pour produire.
