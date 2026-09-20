@@ -56,6 +56,7 @@ personnage.md la voix du compte, nourrie par chaque texte reçu
 | 05 | Pourquoi elle parle de toi à ses amies | [analyses/05](analyses/05-pourquoi-elle-parle-de-toi-a-ses-amies.md) |
 | 06 | Pourquoi elle teste ton pouvoir sans te le dire | [analyses/06](analyses/06-pourquoi-elle-teste-ton-pouvoir.md) |
 | 07 | Le miroir inversé (projection, trois tests) | [analyses/07](analyses/07-le-miroir-inverse.md) |
+| 08 | Tu ne dois un sourire à personne (à partir d'une photo) | Visuel + post Facebook | [contenus/08](contenus/08-tu-ne-dois-un-sourire-a-personne.md) |
 | 08 | Avoir une mission de vie | [analyses/08](analyses/08-mission-de-vie.md) |
 | 09 | Les attentes secrètes qu'elle projette | [analyses/09](analyses/09-attentes-secretes.md) |
 | 10-25 | **Chaîne C** (16 vidéos) : signes d'infidélité, 7 mots, tests, 5 lois, 5 phrases, l'homme qui ignore, le mystère, trop gentil, ne pas poursuivre, no contact, friendzone, 3 tests, 4 profils, le non, séduction froide, rupture | [analyses/10-25 dossier](analyses/10-25-dossier-chaine-C.md) |
