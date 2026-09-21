@@ -264,6 +264,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 
 | « Les hommes se fient plus à leurs **yeux** qu'à leurs mains » | *Le Prince*, ch. XVIII | Citation réelle, reprise correctement par la source 14 |
 | **Préparer la guerre en temps de paix** | *Le Prince*, ch. XIV | Paraphrase acceptable (source 10), mais appliquée à la surveillance d'une compagne, ce qui n'est pas le sujet de Machiavel |
+| Ce qui **naît et grandit trop vite** n'a ni racines ni attaches : le premier mauvais temps l'emporte. Ceux qui montent par la seule fortune montent sans peine et se maintiennent avec difficulté | *Le Prince*, ch. VII | Contre la réussite rapide qu'on exhibe. La meilleure référence du corpus pour parler de constance sans faire la morale |
 
 Inventions de la chaîne C : « le prince maintient ses sujets dans une légère incertitude quant à ses faveurs » (15), « une paranoïa saine » (10).
 
