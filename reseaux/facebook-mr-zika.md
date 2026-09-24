@@ -117,6 +117,10 @@ TikTok et Facebook ne se publient pas pareil. Sur Facebook, le texte **sous** l'
 
 [Une question courte, ouverte, à laquelle un homme peut répondre en une phrase]
 
+[LE MESSAGE DE MOTIVATION DE FIN — 2 ou 3 lignes courtes, en « tu », qui
+ donnent de la force pour la journée. Pas une question, pas une leçon :
+ un encouragement direct, qu'on a envie de relire.]
+
 [3 à 5 hashtags, pas plus]
 ```
 
