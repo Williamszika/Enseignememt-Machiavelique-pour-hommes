@@ -265,6 +265,13 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | « Les hommes se fient plus à leurs **yeux** qu'à leurs mains » | *Le Prince*, ch. XVIII | Citation réelle, reprise correctement par la source 14 |
 | **Préparer la guerre en temps de paix** | *Le Prince*, ch. XIV | Paraphrase acceptable (source 10), mais appliquée à la surveillance d'une compagne, ce qui n'est pas le sujet de Machiavel |
 | Ce qui **naît et grandit trop vite** n'a ni racines ni attaches : le premier mauvais temps l'emporte. Ceux qui montent par la seule fortune montent sans peine et se maintiennent avec difficulté | *Le Prince*, ch. VII | Contre la réussite rapide qu'on exhibe. La meilleure référence du corpus pour parler de constance sans faire la morale |
+| La **libéralité** qu'on pratique pour paraître généreux consume tout ce qu'on a, oblige à charger les autres, et rend pauvre et haï ; mieux vaut accepter le nom d'économe | *Le Prince*, ch. XVI | L'argent, les dépenses d'apparence, la pression d'envoyer toujours plus. Aider sans se ruiner |
+| **La meilleure forteresse** qui soit, c'est de ne pas être haï de son peuple | *Le Prince*, ch. XX | Les murs n'ont jamais protégé celui qui s'est coupé des siens. Contre l'isolement présenté comme de la force |
+| Un prince est estimé quand il est **vrai ami ou vrai ennemi**, c'est-à-dire quand il se déclare sans réserve | *Le Prince*, ch. XXI | La parole claire, la position assumée, le refus des demi-promesses |
+| Celui qui croit que de **nouveaux bienfaits font oublier les anciennes injures** se trompe | *Le Prince*, ch. VII (fin) | Pardonner n'est pas oublier la leçon. Un cadeau n'efface pas une blessure |
+| Dans un pays de **langue et de coutumes différentes**, le meilleur remède est d'aller y habiter : on voit naître les désordres et on y remédie à temps | *Le Prince*, ch. III | La diaspora : s'installer vraiment là où l'on vit, sans renier d'où l'on vient |
+| Suivre les chemins des grands hommes, comme **l'archer prudent qui vise plus haut** que la cible pour l'atteindre | *Le Prince*, ch. VI | Se choisir un modèle ; être le modèle que ses enfants imiteront |
+| Ceux qui s'élèvent **par leur propre valeur** acquièrent avec difficulté, mais conservent avec facilité | *Le Prince*, ch. VI | Le début difficile est normal ; ce qui est gagné à la peine tient |
 
 Inventions de la chaîne C : « le prince maintient ses sujets dans une légère incertitude quant à ses faveurs » (15), « une paranoïa saine » (10).
 

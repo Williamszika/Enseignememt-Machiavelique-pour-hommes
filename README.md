@@ -104,6 +104,6 @@ Ta place : le format de A, les meilleures idées de B, les vraies références �
 | 08 | Tu ne dois un sourire à personne (d'après photo) | Visuel + post Facebook | [contenus/08](contenus/08-tu-ne-dois-un-sourire-a-personne.md) |
 | 09 | Tu ne deviens pas grand en la rendant petite (respect de la femme africaine) | Visuel + vidéo 90-100 s + post Facebook | [contenus/09](contenus/09-tu-ne-deviens-pas-grand-en-la-rendant-petite.md) |
 | 10 | Tu peux aimer sans disparaître (aux femmes, dans leur couple) | Visuel + vidéo 95-110 s + post Facebook | [contenus/10](contenus/10-tu-peux-aimer-sans-disparaitre.md) |
-| — | **Texte de motivation quotidien** (un par jour, chaque matin) | Visuel photo + texte | [contenus/motivation/](contenus/motivation/) |
+| — | **Texte de motivation quotidien** (un par jour, chaque matin, **un thème tous les trois jours** depuis le 24 sept. 2026) | Visuel photo + texte + post Facebook + prompt d'image | [contenus/motivation/](contenus/motivation/) · [calendrier des thèmes](contenus/motivation/calendrier-themes.md) |
 
 **Note après 25 textes** : la chaîne B se répète. La chaîne C est le concurrent direct : même format que celui que tu vises, mêmes sujets, mais avec le dressage et le mépris. Ta place est de dire les mêmes choses vraies sans la machine à sous. La matière est plus que suffisante pour produire.
