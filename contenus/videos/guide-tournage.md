@@ -119,14 +119,39 @@ Trois options, dans l'ordre de préférence :
 
 ---
 
+## 8 bis. Tourner seul : l'ordre qui évite les allers-retours
+
+**On ne tourne pas dans l'ordre du script. On tourne par position de caméra.** Au montage, tout est remis dans l'ordre.
+
+Tu n'as que **deux positions de trépied** et un moment pour les plans de coupe :
+
+| Étape | Position du trépied | Ce que tu tournes | Tu regardes |
+|---|---|---|---|
+| **1** | **Position A** : face à toi, hauteur des yeux, 1 m à 1,2 m | **Tous** les morceaux du script, dans l'ordre : accroche, histoire (2 parties), conseils, Machiavel, fin | L'objectif |
+| **2** | **Position C** : trépied déplacé à 45° sur le côté, même hauteur | **Seulement l'histoire**, une deuxième fois | **Pas** l'objectif : un point à côté, comme si tu parlais à quelqu'un assis là |
+| **3** | Téléphone à la main ou trépied bas | Les plans de coupe (mains, objets, porte, téléphone) | — |
+
+Le **plan B (gros plan)** ne demande aucun déplacement : il se fait au montage en recadrant le plan A.
+
+### Les astuces quand on est seul
+
+- **Lance l'enregistrement une seule fois par morceau, et fais 2 ou 3 prises à la suite sans couper.** Tu termines une prise, tu respires 3 secondes, tu recommences. Tu ne te lèves pas entre deux prises. Au montage, tu gardes la meilleure.
+- **Une télécommande Bluetooth pour téléphone** (quelques euros) évite de te lever pour démarrer et arrêter. Sans télécommande : démarre l'enregistrement, va t'asseoir tranquillement, **attends 3 secondes**, puis parle. Le début sera coupé au montage.
+- **Vérifier le cadre sans te voir** (caméra arrière) : filme 10 secondes assis, va regarder, corrige, recommence jusqu'à ce que ce soit bon. Ou pose un petit miroir à côté du téléphone, ou utilise un deuxième téléphone en appel vidéo comme écran de retour.
+- **Les repères au sol** (scotch) pour le trépied en position A, en position C, et pour ta chaise. Si tu dois refaire un morceau un autre jour, tu retrouves le même cadre.
+- **Le point de scotch près de l'objectif** : c'est là que tu regardes en position A.
+- **Écoute la première prise au casque avant de continuer.** Un problème de son découvert à la fin, c'est tout à refaire.
+- **La tenue et la lumière ne doivent pas changer** entre la position A et la position C. Tourne les deux dans la même heure.
+
 ## 9. Déroulé d'une séance de tournage (environ 1 h 30)
 
 | Temps | Quoi |
 |---|---|
 | 15 min | Installer le coin : trépied sur les marques, lampe, micro, mode avion, fenêtre fermée |
 | 5 min | Essai de 10 secondes, vérifier cadre, lumière, **son au casque ou aux écouteurs** |
-| 45 min | Tourner les 6 morceaux en plan A, 2 ou 3 prises chacun |
-| 10 min | Refilmer l'histoire en plan C (trois-quarts) |
+| 45 min | **Position A** : tourner les 6 morceaux, 2 ou 3 prises chacun à la suite |
+| 5 min | Déplacer le trépied sur le repère de la **position C**, vérifier le cadre |
+| 10 min | **Position C** : l'histoire une deuxième fois, regard à côté de l'objectif |
 | 15 min | Plans de coupe |
 
 Montage : compter environ 1 h à 1 h 30 au début, beaucoup moins après quelques vidéos.

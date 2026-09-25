@@ -91,6 +91,11 @@ Les règles générales (matériel, lumière, son, voix, montage) sont dans [gui
 | 6 | **A** | Face | Machiavel (2:30–2:45) |
 | 7 | **A** | Face, **tu avances le buste de 10 cm** vers la caméra | Conseil de fin (2:45–3:00) |
 
+**Tu filmes seul : l'ordre réel du tournage.**
+1. **Trépied en position A** (face) : tu tournes les plans 1, 2, 3, 5, 6, 7 à la suite, sans bouger le trépied.
+2. **Tu déplaces le trépied une seule fois**, sur le repère de la **position C** (45° sur le côté) : tu tournes le plan 4 (l'histoire, regard à côté de l'objectif).
+3. **Plans de coupe** à la fin, téléphone à la main.
+
 **Plans de coupe** (à filmer de très près, 5 à 8 secondes chacun, sans son) :
 - **C1** — des mains qui passent un fil dans une aiguille *(tes mains, n'importe quel fil)*
 - **C2** — un tissu wax qu'on déplie sur une table
