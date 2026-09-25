@@ -25,7 +25,11 @@ L'idée générale : **une seule personne, un téléphone, un seul lieu, une heu
 
 ## 2. Le lieu
 
-**Chez toi, un coin près d'une fenêtre.** C'est le lieu de base de toutes les vidéos : il devient la « maison » de Mr Zika, et les abonnés le reconnaissent.
+**Chez toi, un coin près d'une fenêtre.** C'est le lieu de base : il devient la « maison » de Mr Zika, et les abonnés le reconnaissent.
+
+> **Mais chaque vidéo correspond à son thème.** Le lieu de base ne change pas, mais **le décor du fond, les accessoires, la position (assis, à une table, debout), le moment de la journée, les plans de coupe, la musique, la couleur et le rythme du montage** changent avec le thème. Tout est écrit dans la **fiche vidéo** de chaque bloc, dans `contenus/motivation/calendrier-themes.md`. Exemples : pour l'argent, assis à une table avec un carnet ; pour la peur d'oser, debout près d'une porte ; pour « seul, pas isolé », le soir avec une seule lampe.
+>
+> **Ce qui ne change jamais** : toi, ta voix calme, le style des sous-titres, et la carte de fin « Mr Zika ».
 
 - **Le fond** : un mur sobre, à 1,5 m ou 2 m derrière toi (pas collé au mur : le fond doit être un peu flou). Un ou deux éléments seulement : une plante, une étagère avec quelques livres, un tissu wax plié, la petite lampe allumée.
 - **À éviter dans le cadre** : lit, télévision, linge, cuisine en désordre, fenêtre derrière toi (contre-jour), tout logo.
