@@ -1,5 +1,7 @@
 # Calendrier des thèmes — un thème tous les trois jours
 
+**Script vidéo :** chaque bloc a aussi **un script de vidéo de 3 minutes** (une petite histoire, trois conseils, un conseil de motivation de fin), livré le jour 1 du bloc dans `contenus/videos/bloc-NN-theme.md`.
+
 **Règle :** un texte par jour, mais **un même thème pendant trois jours consécutifs**, à partir du jeudi 24 septembre 2026. Chaque bloc suit le même arc :
 
 | Jour du bloc | Rôle | Le conseil du jour… |
@@ -16,6 +18,7 @@ Les trois textes d'un bloc ne répètent ni la même accroche, ni la même phras
 - **J1 (jeu. 24)** — Une promesse est une dette. Celui qu'on croit sur parole n'a pas besoin de jurer.
 - **J2 (ven. 25)** — Le piège : promettre pour faire plaisir. Promettre moins, tenir tout.
 - **J3 (sam. 26)** — Défi : retrouve une petite promesse faite et oubliée (un appel, un service, un remboursement). Tiens-la aujourd'hui.
+- **Script vidéo 3 min** : [contenus/videos/bloc-01-la-parole-donnee.md](../videos/bloc-01-la-parole-donnee.md) — l'histoire des deux tailleurs.
 - **Références** : ch. XXI (un prince est estimé quand il se déclare sans réserve, vrai ami ou vrai ennemi) ; ch. XIX (qu'on reconnaisse dans ses actes la gravité et la fermeté). ⚠️ Ne jamais utiliser le ch. XVIII pour ce thème : il dit qu'un prince *peut* ne pas tenir parole.
 
 ## Bloc 2 — 27, 28, 29 septembre : **L'argent**
