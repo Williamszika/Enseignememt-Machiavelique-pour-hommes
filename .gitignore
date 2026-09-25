@@ -1,0 +1,7 @@
+# Vidéos brutes et exports : trop lourds pour git, restent sur le Mac
+rushes/
+exports/
+*.mov
+*.MOV
+*.mp4
+*.MP4
