@@ -104,6 +104,7 @@ Ta place : le format de A, les meilleures idées de B, les vraies références �
 | 08 | Tu ne dois un sourire à personne (d'après photo) | Visuel + post Facebook | [contenus/08](contenus/08-tu-ne-dois-un-sourire-a-personne.md) |
 | 09 | Tu ne deviens pas grand en la rendant petite (respect de la femme africaine) | Visuel + vidéo 90-100 s + post Facebook | [contenus/09](contenus/09-tu-ne-deviens-pas-grand-en-la-rendant-petite.md) |
 | 10 | Tu peux aimer sans disparaître (aux femmes, dans leur couple) | Visuel + vidéo 95-110 s + post Facebook | [contenus/10](contenus/10-tu-peux-aimer-sans-disparaitre.md) |
+| 11 | Sers Dieu, ne te sers pas de Lui (d'après une citation du Rav Yigal Avraham) | Visuel + post Facebook | [contenus/11](contenus/11-sers-dieu-ne-te-sers-pas-de-lui.md) |
 | — | **Texte de motivation quotidien** (un par jour, chaque matin, **un thème tous les trois jours** depuis le 24 sept. 2026) | Visuel photo + texte + post Facebook + prompt d'image | [contenus/motivation/](contenus/motivation/) · [calendrier des thèmes](contenus/motivation/calendrier-themes.md) |
 | — | **Script vidéo 3 min par thème** (une histoire, trois conseils, un conseil de motivation de fin) avec **plan de tournage complet** (lieu, plans, diction, montage) | Vidéo face caméra 3 min | [contenus/videos/](contenus/videos/) · [guide de tournage](contenus/videos/guide-tournage.md) · [montage depuis le terminal du Mac](contenus/videos/montage-terminal.md) |
 
