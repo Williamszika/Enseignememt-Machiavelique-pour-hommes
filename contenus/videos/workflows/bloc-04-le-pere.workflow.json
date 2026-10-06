@@ -107,7 +107,7 @@
       "id": "S4",
       "partie": "a_toi",
       "debut_s": 75,
-      "fin_s": 110,
+      "fin_s": 108,
       "plans": [
         "A",
         "B"
@@ -124,8 +124,8 @@
     {
       "id": "S5",
       "partie": "conseil_1",
-      "debut_s": 110,
-      "fin_s": 120,
+      "debut_s": 108,
+      "fin_s": 118,
       "plans": [
         "A"
       ],
@@ -141,8 +141,8 @@
     {
       "id": "S6",
       "partie": "conseil_2",
-      "debut_s": 120,
-      "fin_s": 135,
+      "debut_s": 118,
+      "fin_s": 127,
       "plans": [
         "A",
         "B"
@@ -150,8 +150,8 @@
       "rushes": [
         "plan-06"
       ],
-      "texte": "Deux. Laisse-le te voir dans l'effort. Et parfois, demander pardon. Un enfant qui voit son père s'excuser apprend que la force n'empêche pas de reconnaître une erreur.",
-      "diction": "*(deux doigts)* **Deux.** / Laisse-le te voir dans l'**effort**. / Et parfois, / demander **pardon**. / Un enfant qui voit son père s'excuser / apprend que la force / n'empêche pas de reconnaître une erreur. //",
+      "texte": "Deux. Laisse-le te voir dans l'effort. Et parfois, demander pardon : il apprendra qu'un homme fort sait reconnaître une erreur.",
+      "diction": "*(deux doigts)* **Deux.** / Laisse-le te voir dans l'**effort**. / Et parfois, / demander **pardon** : / il apprendra qu'un homme fort / sait reconnaître une erreur. //",
       "ton": "doux",
       "gestes": "deux doigts",
       "mouvement_camera": "statique"
@@ -159,8 +159,8 @@
     {
       "id": "S7",
       "partie": "conseil_3",
-      "debut_s": 135,
-      "fin_s": 147,
+      "debut_s": 127,
+      "fin_s": 133,
       "plans": [
         "A"
       ],
@@ -175,25 +175,42 @@
     },
     {
       "id": "S8",
+      "partie": "appel_commentaire",
+      "debut_s": 133,
+      "fin_s": 144,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Essaie-les cette semaine. Puis reviens ici, en commentaire, me raconter ce que ton enfant a fait. Je lis chaque commentaire.",
+      "diction": "*(tu baisses la main, ton encourageant, un léger sourire)* Essaie-les / **cette semaine**. / *(tu montres le bas de l'écran, là où sont les commentaires)* Puis reviens **ici**, / en commentaire, / me **raconter** ce que ton enfant a fait. // Je lis **chaque** commentaire. //",
+      "ton": "encourageant, léger sourire",
+      "gestes": "baisse la main, puis montre le bas de l'écran (la zone des commentaires) sur « reviens ici »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S9",
       "partie": "machiavel",
-      "debut_s": 147,
-      "fin_s": 160,
+      "debut_s": 144,
+      "fin_s": 151,
       "plans": [
         "A"
       ],
       "rushes": [
         "plan-07"
       ],
-      "texte": "Machiavel l'a écrit : l'archer prudent vise plus haut que la cible, pour l'atteindre. Ton enfant visera là où tu vises. Alors vise haut.",
-      "diction": "Machiavel l'a écrit : / l'archer prudent / vise **plus haut** que la cible, / pour l'atteindre. // Ton enfant visera / là où **tu** vises. // Alors vise haut. //",
+      "texte": "Machiavel l'a écrit : l'archer prudent vise plus haut que la cible, pour l'atteindre. Alors vise haut.",
+      "diction": "Machiavel l'a écrit : / l'archer prudent / vise **plus haut** que la cible, / pour l'atteindre. // Alors vise haut. //",
       "ton": "neutre, posé",
       "gestes": "lève légèrement le regard sur « plus haut »",
       "mouvement_camera": "statique"
     },
     {
-      "id": "S9",
+      "id": "S10",
       "partie": "conseil_de_fin",
-      "debut_s": 160,
+      "debut_s": 151,
       "fin_s": 180,
       "plans": [
         "A",
@@ -202,10 +219,10 @@
       "rushes": [
         "plan-08"
       ],
-      "texte": "Cette semaine, choisis un seul geste que tu veux voir chez ton enfant dans vingt ans. Et fais-le devant lui, chaque jour, sans en parler. Il te regarde. Fais en sorte qu'il ait raison de te copier.",
-      "diction": "Cette semaine, / choisis **un seul** geste / que tu veux voir chez ton enfant / dans **vingt** ans. // Et fais-le devant lui, / chaque jour, / sans en parler. // *(tu poses la main sur ton cœur)* Il te **regarde**. // Fais en sorte / qu'il ait raison / de te copier. // *(2 secondes de silence, main sur le cœur, regard caméra, puis coupe)*",
-      "ton": "voix plus basse et plus lente, buste un peu en avant",
-      "gestes": "main sur le cœur sur « Il te regarde », gardée jusqu'à la fin",
+      "texte": "Toi qui es resté jusqu'ici, regarde-moi. Je te lance un défi. À toi, pas à un autre. Aujourd'hui, vingt minutes avec ton enfant. Ton téléphone dans une autre pièce, et c'est lui qui choisit le jeu. Tu es loin ? Vingt minutes d'appel vidéo, rien d'autre. Et ce soir, reviens ici et écris-moi un seul mot : « Fait. » Il te regarde. Montre-lui qui est son père.",
+      "diction": "Toi / qui es resté jusqu'ici, // **regarde-moi**. // Je te lance un **défi**. // À **toi**. / Pas à un autre. // Aujourd'hui, / **vingt** minutes avec ton enfant. / Ton téléphone / dans une **autre pièce**, / et c'est **lui** qui choisit le jeu. / Tu es loin ? / Vingt minutes d'appel vidéo, / **rien** d'autre. // Et ce soir, / reviens **ici** / et écris-moi un seul mot : // « **Fait**. » // *(tu poses la main sur ton cœur)* Il te **regarde**. // Montre-lui / qui est son **père**. // *(2 secondes de silence, main sur le cœur, regard caméra, puis coupe)*",
+      "ton": "le défi : voix basse, lente, ferme, les yeux dans les yeux de l'abonné",
+      "gestes": "chaise de nouveau avancée (face-à-face) ; 2 s de silence avant ; main sur le cœur sur « Il te regarde », gardée jusqu'à la fin",
       "mouvement_camera": "statique"
     }
   ],
@@ -474,7 +491,7 @@
     },
     {
       "debut_s": 106,
-      "fin_s": 110,
+      "fin_s": 108,
       "image": "A (rapproché)",
       "mouvement": "statique",
       "musique": {
@@ -483,8 +500,8 @@
       }
     },
     {
-      "debut_s": 110,
-      "fin_s": 120,
+      "debut_s": 108,
+      "fin_s": 118,
       "image": "A",
       "mouvement": "statique (chaise reculée)",
       "musique": {
@@ -495,40 +512,40 @@
         {
           "texte": "1. Est-ce qu'il me voit le faire ?",
           "debut_s": 111,
-          "fin_s": 119
+          "fin_s": 118
         }
       ]
     },
     {
-      "debut_s": 120,
-      "fin_s": 123,
+      "debut_s": 118,
+      "fin_s": 121,
       "image": "C2",
       "mouvement": "statique",
       "transition_entree": "fondu 0,5 s",
       "transition_sortie": "fondu 0,5 s",
       "musique": {
         "niveau": 0.12
-      }
-    },
-    {
-      "debut_s": 123,
-      "fin_s": 135,
-      "image": "A/B",
-      "mouvement": "gros plan B sur « demander pardon »",
-      "musique": {
-        "niveau": 0.12
       },
       "texte_ecran": [
         {
           "texte": "2. Laisse-le te voir dans l'effort",
-          "debut_s": 122,
-          "fin_s": 134
+          "debut_s": 119,
+          "fin_s": 127
         }
       ]
     },
     {
-      "debut_s": 135,
-      "fin_s": 144,
+      "debut_s": 121,
+      "fin_s": 127,
+      "image": "A/B",
+      "mouvement": "gros plan B sur « demander pardon »",
+      "musique": {
+        "niveau": 0.12
+      }
+    },
+    {
+      "debut_s": 127,
+      "fin_s": 130,
       "image": "A",
       "mouvement": "statique",
       "musique": {
@@ -537,68 +554,92 @@
       "texte_ecran": [
         {
           "texte": "3. Loin ? Sois régulier.",
-          "debut_s": 137,
-          "fin_s": 146
+          "debut_s": 127,
+          "fin_s": 133
         }
       ]
     },
     {
-      "debut_s": 144,
-      "fin_s": 147,
+      "debut_s": 130,
+      "fin_s": 133,
       "image": "C5",
       "mouvement": "statique",
       "transition_entree": "fondu 0,5 s",
       "transition_sortie": "fondu 0,5 s",
       "musique": {
-        "niveau": 0.1
+        "niveau": 0.12
       }
     },
     {
-      "debut_s": 147,
-      "fin_s": 158,
+      "debut_s": 133,
+      "fin_s": 144,
       "image": "A",
-      "mouvement": "statique",
+      "mouvement": "la main montre le bas de l'écran (les commentaires)",
       "musique": {
-        "niveau": 0.08
-      }
-    },
-    {
-      "debut_s": 158,
-      "fin_s": 160,
-      "image": "C6 (ou ballon)",
-      "mouvement": "au ras du sol, sur « Alors vise haut »",
-      "transition_entree": "fondu 0,5 s",
-      "transition_sortie": "fondu 0,5 s",
-      "musique": {
-        "niveau": 0.06
-      }
-    },
-    {
-      "debut_s": 160,
-      "fin_s": 174,
-      "image": "A",
-      "mouvement": "main sur le cœur",
-      "musique": {
-        "niveau": 0.03,
-        "note": "la musique descend"
+        "niveau": 0.16,
+        "note": "la musique monte un peu : c'est un encouragement"
       },
       "texte_ecran": [
         {
-          "texte": "Un geste. Chaque jour. Sans en parler.",
-          "debut_s": 161,
-          "fin_s": 178
+          "texte": "Essaie cette semaine. Raconte-moi en commentaire.",
+          "debut_s": 135,
+          "fin_s": 144
         }
       ]
     },
     {
-      "debut_s": 174,
-      "fin_s": 180,
-      "image": "B",
-      "mouvement": "gros plan sur « qu'il ait raison de te copier », 2 s de regard caméra, coupe",
+      "debut_s": 144,
+      "fin_s": 151,
+      "image": "A, puis C6 (ou ballon) 2 s sur « Alors vise haut »",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08,
+        "note": "la musique redescend"
+      }
+    },
+    {
+      "debut_s": 151,
+      "fin_s": 153,
+      "image": "A (rapproché)",
+      "mouvement": "chaise de nouveau avancée, silence, regard caméra",
       "musique": {
         "niveau": 0,
         "note": "musique à zéro"
       }
+    },
+    {
+      "debut_s": 153,
+      "fin_s": 170,
+      "image": "A (rapproché) / B",
+      "mouvement": "gros plan B sur « Je te lance un défi »",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Le défi : 20 minutes. Téléphone dans une autre pièce.",
+          "debut_s": 155,
+          "fin_s": 169
+        }
+      ]
+    },
+    {
+      "debut_s": 170,
+      "fin_s": 180,
+      "image": "B",
+      "mouvement": "main sur le cœur sur « Il te regarde », 2 s de regard caméra, coupe",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Écris « Fait » en commentaire.",
+          "debut_s": 170,
+          "fin_s": 179
+        }
+      ]
     }
   ],
   "couverture": {
@@ -608,7 +649,7 @@
     "prompt_en": "A pair of small child's shoes placed next to a pair of large men's shoes on a doorstep in soft luminous morning light, light wood, nobody in frame, dark softly shadowed empty upper third for a title, 9:16 vertical, photorealistic",
     "prompt_negatif": "people, children, faces, brand logos, text, watermark, cartoon"
   },
-  "legende": "Le matin, son fils a salué les anciens exactement comme lui.\nLe soir, il a regardé son écran à table… exactement comme lui.\n\nEt toi, qu'est-ce que ton enfant copie déjà ?",
+  "legende": "Le matin, son fils a salué les anciens exactement comme lui.\nLe soir, il a regardé son écran à table… exactement comme lui.\n\nEt toi, qu'est-ce que ton enfant copie déjà ?\nDéfi du jour : 20 minutes avec lui, téléphone dans une autre pièce. Écris « Fait » quand c'est fait.",
   "hashtags": [
     "#MrZika",
     "#Afrique",
@@ -617,9 +658,14 @@
     "#Machiavel"
   ],
   "si_trop_long": [
-    "Supprimer le segment S8 (Machiavel) en entier.",
+    "Supprimer le segment S9 (Machiavel) en entier.",
     "Supprimer le plan de coupe C5.",
-    "Ne jamais couper : l'histoire (S2, S3), le téléphone retourné, le moment « À toi » (S4), le segment S9."
+    "Ne jamais couper : l'histoire (S2, S3), le téléphone retourné, le moment « À toi » (S4), l'appel à revenir raconter (S8), le défi de fin (S10)."
   ],
-  "version": "2 (avec le moment « À toi »)"
+  "version": "3 (« À toi » + appel à revenir raconter en commentaire + défi lancé en face)",
+  "defi": {
+    "texte": "20 minutes avec ton enfant aujourd'hui, téléphone dans une autre pièce, c'est lui qui choisit le jeu ; si tu es loin, 20 minutes d'appel vidéo sans rien faire d'autre",
+    "mot_a_ecrire_en_commentaire": "Fait"
+  },
+  "appel_commentaire": "À la fin des conseils : essayer cette semaine, puis revenir raconter en commentaire. Le présentateur s'engage à lire les commentaires."
 }

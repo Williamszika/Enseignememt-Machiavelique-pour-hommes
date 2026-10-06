@@ -1,13 +1,15 @@
 # Script vidéo 3 min — Bloc 4 : Le père
 
-**Durée visée :** 3 minutes maximum (environ 390 mots parlés, débit lent, avec des silences).
+**Durée visée :** 3 minutes maximum (environ 435 mots parlés ; débit lent dans l'histoire et « À toi », un peu plus vif dans les conseils).
 **Format :** face caméra, vertical 9:16, **assis dans le salon, le matin**. Plans de coupe entre crochets.
 **À publier :** pendant le bloc (3–5 octobre), idéalement le jour 2 ou 3.
 **Workflow pour la fabrication :** [workflows/bloc-04-le-pere.workflow.json](workflows/bloc-04-le-pere.workflow.json) (segments, diction, gestes, mouvements, prompts IA des plans de coupe, montage seconde par seconde ; 180 s maximum).
-**Version 2 :** avec le moment **« À toi »** après l'histoire (le présentateur parle directement à l'abonné, en « tu »). C'est le modèle pour tous les scripts suivants.
+**Version 3 :** avec le moment **« À toi »** après l'histoire, **l'appel à revenir raconter en commentaire** à la fin des conseils, et **le défi lancé en face** dans le conseil de fin. C'est le modèle pour tous les scripts suivants.
 
 > **Règle du compte pour les histoires :** on raconte une histoire comme une histoire (« je vais te raconter l'histoire de… »), jamais comme un « client » ou un fait réel.
 > **Règle du moment « À toi » :** on parle à **une seule personne**, en « tu », sans juger. On reconnaît d'abord ce qu'elle vit (« peut-être que… »), puis on l'invite à faire comme le personnage de l'histoire (« sois comme Abdou »). Jamais « vous », jamais « les hommes d'aujourd'hui ».
+> **Règle de la fin des conseils :** on invite à essayer cette semaine, puis à **revenir raconter en commentaire** (« reviens ici me raconter… »). On ne promet que ce qu'on tient : « je lis chaque commentaire » seulement si c'est vrai.
+> **Règle du conseil de fin :** on parle à **lui**, les yeux dans les yeux (« Toi qui es resté jusqu'ici, regarde-moi »), on lui **lance un défi** clair, faisable aujourd'hui et vérifiable, et on lui donne **un mot à écrire en commentaire** quand c'est fait.
 > **Règle du thème :** **aucun visage d'enfant**, jamais. Si tu filmes ton enfant, seulement ses mains ou ses pieds, avec l'accord de sa mère. On ne culpabilise pas les pères qui vivent loin : on leur donne un geste à leur portée.
 
 ---
@@ -40,21 +42,26 @@
 >
 > Et si tu vis loin de tes enfants, je te parle aussi : ta voix au téléphone, c'est ta main sur le cœur. Ils la copient.
 
-**[1:50 — Les conseils]** *(face caméra, ton plus direct mais doux)*
+**[1:48 — Les conseils]** *(face caméra, ton plus direct mais doux)*
 > Alors trois choses.
 >
 > **Un.** Avant de dire « fais ceci », demande-toi : est-ce qu'il me voit le faire ?
 >
-> **Deux.** Laisse-le te voir dans l'effort. Et parfois, demander pardon. Un enfant qui voit son père s'excuser apprend que la force n'empêche pas de reconnaître une erreur.
+> **Deux.** Laisse-le te voir dans l'effort. Et parfois, demander pardon : il apprendra qu'un homme fort sait reconnaître une erreur.
 >
 > **Trois.** Si tu vis loin, sois régulier. Un appel court, à la même heure, chaque semaine.
+>
+> Essaie-les cette semaine. Puis reviens ici, en commentaire, me raconter ce que ton enfant a fait. Je lis chaque commentaire.
 
-**[2:27 — Machiavel, une phrase]**
-> Machiavel l'a écrit : l'archer prudent vise plus haut que la cible, pour l'atteindre. Ton enfant visera là où tu vises. Alors vise haut.
+**[2:24 — Machiavel, une phrase]**
+> Machiavel l'a écrit : l'archer prudent vise plus haut que la cible, pour l'atteindre. Alors vise haut.
 
-**[2:40 — Le conseil de motivation de fin]** *(regard caméra, plus lentement)*
-> Cette semaine, choisis un seul geste que tu veux voir chez ton enfant dans vingt ans. Et fais-le devant lui, chaque jour, sans en parler.
-> Il te regarde. Fais en sorte qu'il ait raison de te copier.
+**[2:31 — Le conseil de motivation de fin : le défi]** *(regard caméra, buste avancé, plus lentement)*
+> Toi qui es resté jusqu'ici, regarde-moi.
+> Je te lance un défi. À toi, pas à un autre.
+> Aujourd'hui, vingt minutes avec ton enfant. Ton téléphone dans une autre pièce, et c'est lui qui choisit le jeu. Tu es loin ? Vingt minutes d'appel vidéo, rien d'autre.
+> Et ce soir, reviens ici et écris-moi un seul mot : « Fait. »
+> Il te regarde. Montre-lui qui est son père.
 
 **[3:00 — fin]**
 
@@ -69,10 +76,12 @@
 - 0:58 — `La même position.`
 - 1:15 — `À toi.`
 - 1:38 — `Sois comme Abdou. Juste le premier.`
-- 1:53 — `1. Est-ce qu'il me voit le faire ?`
-- 2:02 — `2. Laisse-le te voir dans l'effort`
-- 2:17 — `3. Loin ? Sois régulier.`
-- 2:40 — `Un geste. Chaque jour. Sans en parler.`
+- 1:51 — `1. Est-ce qu'il me voit le faire ?`
+- 1:59 — `2. Laisse-le te voir dans l'effort`
+- 2:08 — `3. Loin ? Sois régulier.`
+- 2:15 — `Essaie cette semaine. Raconte-moi en commentaire.`
+- 2:35 — `Le défi : 20 minutes. Téléphone dans une autre pièce.`
+- 2:50 — `Écris « Fait » en commentaire.`
 
 ## Légende (TikTok / Facebook)
 ```
@@ -80,6 +89,7 @@ Le matin, son fils a salué les anciens exactement comme lui.
 Le soir, il a regardé son écran à table… exactement comme lui.
 
 Et toi, qu'est-ce que ton enfant copie déjà ?
+Défi du jour : 20 minutes avec lui, téléphone dans une autre pièce. Écris « Fait » quand c'est fait.
 
 #MrZika #Afrique #Diaspora #Paternité #Machiavel
 ```
@@ -105,16 +115,16 @@ Les règles générales (matériel, lumière, son, voix, montage) sont dans [gui
 | 2 | **A** | Idem | Histoire, 1re partie : les vendredis, la main sur le cœur (0:10–0:45) |
 | 3 | **A** | Idem | Histoire, 2e partie : le soir à table, le téléphone retourné (0:45–1:15) |
 | 4 | **C — à hauteur d'enfant** | Trépied **baissé à environ 1 m du sol**, à 45° sur le côté, la caméra **légèrement inclinée vers le haut**. C'est le regard de l'enfant sur son père. Tu regardes un point à côté de l'objectif | Toute l'histoire une deuxième fois (0:10–1:15) |
-| 5 | **A — rapproché** | Face. **Tu avances ta chaise de 30 cm vers la caméra** (repère au sol) : sans toucher au trépied, le cadre se resserre tout seul, plus intime | **À toi** (1:15–1:50) |
-| 6 | **A** | Face, tu recules ta chaise sur le premier repère | Les trois conseils (1:50–2:27) |
-| 7 | **A** | Face | Machiavel (2:27–2:40) |
-| 8 | **A** | Face, **tu poses la main sur ton cœur** sur « Il te regarde », puis tu la laisses là | Conseil de fin (2:40–3:00) |
+| 5 | **A — rapproché** | Face. **Tu avances ta chaise de 30 cm vers la caméra** (repère au sol) : sans toucher au trépied, le cadre se resserre tout seul, plus intime | **À toi** (1:15–1:48) |
+| 6 | **A** | Face, tu recules ta chaise sur le premier repère | Les trois conseils + l'appel à revenir raconter (1:48–2:24) |
+| 7 | **A** | Face | Machiavel (2:24–2:31) |
+| 8 | **A — rapproché** | Face, **tu avances de nouveau ta chaise** (2e repère) : c'est un face-à-face. **Tu poses la main sur ton cœur** sur « Il te regarde », puis tu la laisses là | Conseil de fin : le défi (2:31–3:00) |
 
-**Plan B (gros plan)** : tu ne le tournes pas, tu recadres le plan A au montage (130–150 %). Utilise-le sur trois moments : « Personne ne lui a jamais demandé », « Exactement la même », et « Sois comme Abdou ».
+**Plan B (gros plan)** : tu ne le tournes pas, tu recadres le plan A au montage (130–150 %). Utilise-le sur quatre moments : « Personne ne lui a jamais demandé », « Exactement la même », « Sois comme Abdou », et « Je te lance un défi ».
 
 **Tu filmes seul : l'ordre réel du tournage.**
 1. **Avant de filmer** : place le cahier, le ballon et les petites chaussures dans le fond. Vérifie dans l'écran qu'ils se voient, flous. **Mets deux repères de scotch au sol** pour les pieds de ta chaise : la place normale, et 30 cm plus près de la caméra.
-2. **Trépied en position A** : plans 1, 2, 3, puis **tu avances ta chaise** pour le plan 5 (À toi), **tu la recules** pour les plans 6, 7, 8. Le trépied ne bouge pas.
+2. **Trépied en position A** : plans 1, 2, 3, puis **tu avances ta chaise** pour le plan 5 (À toi), **tu la recules** pour les plans 6 et 7, **tu l'avances encore** pour le plan 8 (le défi). Le trépied ne bouge pas.
 3. **Un seul déplacement** du trépied en **position C**, baissé à hauteur d'enfant : plan 4, l'histoire.
 4. **Plans de coupe** à la fin, téléphone à la main, tant que la lumière du matin est là.
 
@@ -168,19 +178,23 @@ Code : `/` petite pause · `//` vraie pause (1 à 2 s) · **gras** = appuyer le 
 **Les trois conseils** *(chaise reculée ; plus direct, mais toujours doux ; compte sur tes doigts)*
 > Alors / trois choses. //
 > *(un doigt)* **Un.** / Avant de dire « fais ceci », / demande-toi : / est-ce qu'il me **voit** le faire ? //
-> *(deux doigts)* **Deux.** / Laisse-le te voir dans l'**effort**. / Et parfois, / demander **pardon**. /
-> Un enfant qui voit son père s'excuser / apprend que la force / n'empêche pas de reconnaître une erreur. //
+> *(deux doigts)* **Deux.** / Laisse-le te voir dans l'**effort**. / Et parfois, / demander **pardon** : / il apprendra qu'un homme fort / sait reconnaître une erreur. //
 > *(trois doigts)* **Trois.** / Si tu vis **loin**, / sois **régulier**. / Un appel court, / à la même heure, / chaque semaine. //
+> *(tu baisses la main, ton encourageant, un léger sourire)* Essaie-les / **cette semaine**. /
+> *(tu montres le bas de l'écran, là où sont les commentaires)* Puis reviens **ici**, / en commentaire, / me **raconter** ce que ton enfant a fait. //
+> Je lis **chaque** commentaire. //
 
 **Machiavel** *(neutre, posé ; tu peux lever légèrement le regard sur « plus haut »)*
-> Machiavel l'a écrit : / l'archer prudent / vise **plus haut** que la cible, / pour l'atteindre. //
-> Ton enfant visera / là où **tu** vises. // Alors vise haut. //
+> Machiavel l'a écrit : / l'archer prudent / vise **plus haut** que la cible, / pour l'atteindre. // Alors vise haut. //
 
-**Conseil de fin** *(voix plus basse et plus lente, buste un peu en avant)*
-> Cette semaine, / choisis **un seul** geste / que tu veux voir chez ton enfant / dans **vingt** ans. //
-> Et fais-le devant lui, / chaque jour, / sans en parler. //
-> *(tu poses la main sur ton cœur)* Il te **regarde**. //
-> Fais en sorte / qu'il ait raison / de te copier. //
+**Conseil de fin : le défi** *(chaise avancée ; 2 secondes de silence avant ; tu regardes l'objectif comme les yeux d'un homme assis en face de toi ; voix basse, lente, ferme)*
+> Toi / qui es resté jusqu'ici, // **regarde-moi**. //
+> Je te lance un **défi**. // À **toi**. / Pas à un autre. //
+> Aujourd'hui, / **vingt** minutes avec ton enfant. /
+> Ton téléphone / dans une **autre pièce**, / et c'est **lui** qui choisit le jeu. /
+> Tu es loin ? / Vingt minutes d'appel vidéo, / **rien** d'autre. //
+> Et ce soir, / reviens **ici** / et écris-moi un seul mot : // « **Fait**. » //
+> *(tu poses la main sur ton cœur)* Il te **regarde**. // Montre-lui / qui est son **père**. //
 > *(2 secondes de silence, main sur le cœur, regard caméra, puis coupe)*
 
 ### Le montage, seconde par seconde
@@ -202,14 +216,17 @@ Code : `/` petite pause · `//` vraie pause (1 à 2 s) · **gras** = appuyer le 
 | 1:15–1:38 | Plan A rapproché (chaise avancée) | **Aucune musique : seulement ta voix** | `À toi.` (2 s, puis disparaît) |
 | 1:38–1:42 | Gros plan B sur « Sois comme Abdou » | | `Sois comme Abdou. Juste le premier.` |
 | 1:42–1:46 | **C7** (téléphone en appel, main sur la poitrine) en fondu | | — |
-| 1:46–1:50 | Plan A rapproché | La musique revient, très bas | — |
-| 1:50–2:00 | Plan A | Musique un peu plus présente | `1. Est-ce qu'il me voit le faire ?` |
-| 2:00–2:03 | **C2** (cahier d'école) en fondu | | — |
-| 2:03–2:15 | Plan A, gros plan B sur « demander pardon » | | `2. Laisse-le te voir dans l'effort` |
-| 2:15–2:27 | Plan A, **C5** (cartable près de la porte) en fondu | | `3. Loin ? Sois régulier.` |
-| 2:27–2:40 | Plan A, **C6** (petits pieds ou ballon) 2 s sur « Alors vise haut » | | — |
-| 2:40–3:00 | Plan A (la main sur le cœur), puis gros plan B sur « qu'il ait raison de te copier » | **La musique descend à zéro** | `Un geste. Chaque jour. Sans en parler.` |
+| 1:46–1:48 | Plan A rapproché | La musique revient, très bas | — |
+| 1:48–1:58 | Plan A | Musique un peu plus présente | `1. Est-ce qu'il me voit le faire ?` |
+| 1:58–2:01 | **C2** (cahier d'école) en fondu | | `2. Laisse-le te voir dans l'effort` |
+| 2:01–2:07 | Plan A, gros plan B sur « demander pardon » | | — |
+| 2:07–2:13 | Plan A, **C5** (cartable près de la porte) en fondu | | `3. Loin ? Sois régulier.` |
+| 2:13–2:24 | Plan A (la main montre le bas de l'écran) | La musique monte un peu : c'est un encouragement | `Essaie cette semaine. Raconte-moi en commentaire.` |
+| 2:24–2:31 | Plan A, **C6** (petits pieds ou ballon) 2 s sur « Alors vise haut » | La musique redescend | — |
+| 2:31–2:33 | Plan A rapproché, silence, regard caméra | **Musique à zéro** | — |
+| 2:33–2:50 | Plan A rapproché, gros plan B sur « Je te lance un défi » | Pas de musique | `Le défi : 20 minutes. Téléphone dans une autre pièce.` |
+| 2:50–3:00 | Gros plan B, main sur le cœur sur « Il te regarde » | Pas de musique | `Écris « Fait » en commentaire.` |
 
 **Couverture de la vidéo :** **C1**, les grandes et les petites chaussures côte à côte dans la lumière du matin, avec le texte `Il te regarde` en gros, en or.
 
-**Si la vidéo dépasse 3 min (180 s, le maximum) :** coupe d'abord le passage Machiavel, puis le plan C5 ; jamais l'histoire, ni le téléphone retourné, ni le moment « À toi », ni le conseil de fin.
+**Si la vidéo dépasse 3 min (180 s, le maximum) :** coupe d'abord le passage Machiavel, puis le plan C5 ; jamais l'histoire, ni le téléphone retourné, ni le moment « À toi », ni l'appel à revenir raconter, ni le défi de fin.

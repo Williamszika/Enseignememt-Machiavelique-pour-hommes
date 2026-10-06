@@ -76,7 +76,7 @@ Tu n'as qu'un téléphone. Tu fabriques quand même **trois plans différents**.
 
 ## 6. Comment dire les paroles
 
-**Ne lis pas.** Découpe le script en **7 petits morceaux** de 15 à 40 secondes (accroche, histoire en 2 morceaux, **À toi**, conseils, Machiavel, fin). Apprends un morceau, filme-le, passe au suivant. Refais chaque morceau **2 ou 3 fois** et garde la meilleure prise.
+**Ne lis pas.** Découpe le script en **7 petits morceaux** de 10 à 40 secondes (accroche, histoire en 2 morceaux, **À toi**, conseils avec l'appel à revenir raconter, Machiavel, défi de fin). Apprends un morceau, filme-le, passe au suivant. Refais chaque morceau **2 ou 3 fois** et garde la meilleure prise.
 
 **Le code des scripts annotés :**
 - `/` = petite pause (une demi-seconde)
@@ -93,6 +93,8 @@ Tu n'as qu'un téléphone. Tu fabriques quand même **trois plans différents**.
 - **Les mains** : posées, ou un geste simple (compter un, deux, trois sur les doigts pendant les conseils). Pas de gestes nerveux.
 - **Les dialogues de l'histoire** : change un peu la voix pour chaque personnage (rythme, pas imitation). Ça rend l'histoire vivante.
 - **Le moment « À toi »** (depuis le bloc 4, dans toutes les vidéos) : juste après l'histoire, tu arrêtes de raconter et tu **parles à une seule personne**, celle qui regarde. Tu avances ta chaise (ou tu fais un pas) de 30 cm vers la caméra, tu laisses 2 secondes de silence, et tu dis « Maintenant, c'est à toi que je parle. » Puis, dans l'ordre : tu reconnais ce qu'elle vit sans la juger (« peut-être que… »), tu rappelles que le personnage n'était pas parfait non plus, et tu l'invites à faire comme lui (« sois comme Abdou »). Toujours en « tu », jamais « vous » ni « les hommes d'aujourd'hui ». Main ouverte vers la caméra, jamais le doigt pointé. Pas de musique : c'est une conversation.
+- **La fin des conseils** : tu baisses la main, tu souris un peu, et tu invites à essayer **cette semaine**, puis à **revenir raconter en commentaire** (« Essaie-les cette semaine. Puis reviens ici, en commentaire, me raconter… »), en montrant le bas de l'écran. Dis « je lis chaque commentaire » seulement si tu le fais vraiment.
+- **Le conseil de fin, c'est un défi lancé en face** : tu avances de nouveau ta chaise, 2 secondes de silence, et tu parles à lui seul (« Toi qui es resté jusqu'ici, regarde-moi. Je te lance un défi. À toi, pas à un autre. »). Le défi est **faisable aujourd'hui** et **vérifiable**, et tu lui donnes **un mot à écrire en commentaire** quand c'est fait (« Fait »). Voix basse, lente, ferme : pas un ordre, une main tendue.
 - Avant chaque prise : **respire, compte 2 secondes en silence, puis commence.** Pareil à la fin : 2 secondes de silence avant d'arrêter. Ces marges servent au montage.
 
 ---
