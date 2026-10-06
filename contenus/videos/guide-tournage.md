@@ -76,7 +76,7 @@ Tu n'as qu'un téléphone. Tu fabriques quand même **trois plans différents**.
 
 ## 6. Comment dire les paroles
 
-**Ne lis pas.** Découpe le script en **6 petits morceaux** de 20 à 40 secondes (accroche, histoire en 2 morceaux, conseils, Machiavel, fin). Apprends un morceau, filme-le, passe au suivant. Refais chaque morceau **2 ou 3 fois** et garde la meilleure prise.
+**Ne lis pas.** Découpe le script en **7 petits morceaux** de 15 à 40 secondes (accroche, histoire en 2 morceaux, **À toi**, conseils, Machiavel, fin). Apprends un morceau, filme-le, passe au suivant. Refais chaque morceau **2 ou 3 fois** et garde la meilleure prise.
 
 **Le code des scripts annotés :**
 - `/` = petite pause (une demi-seconde)
@@ -92,6 +92,7 @@ Tu n'as qu'un téléphone. Tu fabriques quand même **trois plans différents**.
 - **Pas de sourire forcé**, mais pas de visage fermé non plus. Un visage calme, présent.
 - **Les mains** : posées, ou un geste simple (compter un, deux, trois sur les doigts pendant les conseils). Pas de gestes nerveux.
 - **Les dialogues de l'histoire** : change un peu la voix pour chaque personnage (rythme, pas imitation). Ça rend l'histoire vivante.
+- **Le moment « À toi »** (depuis le bloc 4, dans toutes les vidéos) : juste après l'histoire, tu arrêtes de raconter et tu **parles à une seule personne**, celle qui regarde. Tu avances ta chaise (ou tu fais un pas) de 30 cm vers la caméra, tu laisses 2 secondes de silence, et tu dis « Maintenant, c'est à toi que je parle. » Puis, dans l'ordre : tu reconnais ce qu'elle vit sans la juger (« peut-être que… »), tu rappelles que le personnage n'était pas parfait non plus, et tu l'invites à faire comme lui (« sois comme Abdou »). Toujours en « tu », jamais « vous » ni « les hommes d'aujourd'hui ». Main ouverte vers la caméra, jamais le doigt pointé. Pas de musique : c'est une conversation.
 - Avant chaque prise : **respire, compte 2 secondes en silence, puis commence.** Pareil à la fin : 2 secondes de silence avant d'arrêter. Ces marges servent au montage.
 
 ---

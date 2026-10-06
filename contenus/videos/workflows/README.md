@@ -29,7 +29,7 @@ Ce que contient un workflow :
 | 1 | La parole donnée | [bloc-01-la-parole-donnee.workflow.json](bloc-01-la-parole-donnee.workflow.json) |
 | 2 | L'argent | [bloc-02-l-argent.workflow.json](bloc-02-l-argent.workflow.json) |
 | 3 | Le cercle | [bloc-03-le-cercle.workflow.json](bloc-03-le-cercle.workflow.json) |
-| 4 | Le père | [bloc-04-le-pere.workflow.json](bloc-04-le-pere.workflow.json) |
+| 4 | Le père (version 2, avec « À toi » : **modèle des suivants**) | [bloc-04-le-pere.workflow.json](bloc-04-le-pere.workflow.json) |
 | 5 | La peur d'oser | [bloc-05-la-peur-d-oser.workflow.json](bloc-05-la-peur-d-oser.workflow.json) |
 
 ---
@@ -43,7 +43,7 @@ Ce que contient un workflow :
 | `ambiance` | Position, lieu, décor, lumière, tenue, moment, cadre du plan A, position du plan C, couleur (avec un `filtre_ffmpeg` de départ), musique (style, mots-clés de recherche, `prompt_generation_en`), rythme, transitions |
 | `presentateur_ia_variables` | Les valeurs à injecter dans `commun.json → generation_ia.presentateur_ia.prompt_modele_en` (solution de secours seulement) |
 | `machiavel` | La seule phrase de Machiavel autorisée dans la vidéo, avec sa référence |
-| `segments[]` | Les 8 parties parlées (accroche, histoire 1 et 2, conseils 1 à 3, Machiavel, conseil de fin) : `debut_s`, `fin_s`, `plans`, `rushes`, `texte` (exact, pour les sous-titres ou une voix), `diction` (annotée), `ton`, `gestes`, `mouvement_camera` |
+| `segments[]` | Les parties parlées, dans l'ordre : accroche, histoire 1 et 2, **`a_toi`** (le présentateur parle directement à l'abonné, en « tu » ; obligatoire depuis le bloc 4, donc 9 segments), conseils 1 à 3, Machiavel, conseil de fin. Les blocs 1, 2, 3 et 5, écrits avant cette règle, en ont 8 : `debut_s`, `fin_s`, `plans`, `rushes`, `texte` (exact, pour les sous-titres ou une voix), `diction` (annotée), `ton`, `gestes`, `mouvement_camera` |
 | `plans_de_coupe[]` | Chaque image d'illustration : `description`, `duree_utilisee_s`, `mouvement_camera`, `prompt_en`, `prompt_negatif`, `tournage_maison` (comment la filmer soi-même), parfois des variantes |
 | `timeline[]` | Le montage seconde par seconde : `debut_s`, `fin_s`, `image` (A, B, C ou un plan de coupe), `mouvement`, transitions, `musique.niveau` (0 à 1) et `musique.note`, `texte_ecran[]` avec leurs minutages |
 | `couverture` | Image source, texte, style, prompt pour la générer |
