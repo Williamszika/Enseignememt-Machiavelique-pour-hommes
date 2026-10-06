@@ -2,7 +2,7 @@
 
 **Le principe :** tu filmes, tu déposes les fichiers dans un dossier, et Claude Code (lancé dans le terminal de ton Mac, dans ce dépôt) fait le montage avec **ffmpeg** : tri des prises, assemblage, gros plans, plans de coupe, sous-titres, textes à l'écran, musique, couleur, export. Tu regardes, tu demandes des corrections, il refait.
 
-Ce fichier sert aussi d'instructions pour la session Claude Code du Mac : elle doit le lire avant chaque montage, avec le script du bloc (`contenus/videos/bloc-NN-….md`) et sa fiche vidéo (`contenus/motivation/calendrier-themes.md`).
+Ce fichier sert aussi d'instructions pour la session Claude Code du Mac : elle doit le lire avant chaque montage, avec le script du bloc (`contenus/videos/bloc-NN-….md`), sa fiche vidéo (`contenus/motivation/calendrier-themes.md`) et **son workflow** (`contenus/videos/workflows/bloc-NN-….workflow.json`), qui donne les minutages, les niveaux de musique, les textes à l'écran et les plans de coupe sous une forme lisible par la machine. **La vidéo finale ne dépasse jamais 3 minutes (180 s).**
 
 ---
 
@@ -55,7 +55,7 @@ Dans le terminal, dans le dossier du dépôt, lance `claude` et dis simplement :
 8. **Musique** : très bas sous la voix (environ 10–15 %), coupée ou baissée aux moments indiqués, **descendue à zéro** pour le conseil de fin.
 9. **Couleur** : selon la fiche vidéo du bloc (plus chaud, plus froid, nuit…), sans excès.
 10. **Export** dans `exports/` : **1080 × 1920, 30 images/s, H.264, son AAC**, un seul fichier pour TikTok et les Reels Facebook. Plus **une image de couverture** (1080 × 1920) avec le titre de la fiche.
-11. **Vérifier** : durée (idéalement ≤ 3 min 15), extraits d'images à plusieurs moments pour contrôler le cadre et les sous-titres, niveau sonore.
+11. **Vérifier** : durée (**180 s maximum** ; sinon appliquer `si_trop_long` du workflow), extraits d'images à plusieurs moments pour contrôler le cadre et les sous-titres, niveau sonore.
 
 ---
 

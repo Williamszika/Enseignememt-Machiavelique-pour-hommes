@@ -3,6 +3,7 @@
 **Durée visée :** 3 minutes (environ 400 mots parlés, débit calme, avec des silences).
 **Format :** face caméra, vertical 9:16, un seul plan possible. Plans de coupe conseillés entre crochets.
 **À publier :** pendant le bloc (24–26 septembre), idéalement le jour 2 ou 3, en complément des visuels.
+**Workflow pour la fabrication :** [workflows/bloc-01-la-parole-donnee.workflow.json](workflows/bloc-01-la-parole-donnee.workflow.json) (segments, diction, gestes, mouvements, prompts IA des plans de coupe, montage seconde par seconde ; 180 s maximum).
 
 > **Règle du compte pour les histoires :** on raconte une histoire comme une histoire (« je vais te raconter l'histoire de… »), jamais comme un « client » ou un fait réel qu'on ne peut pas prouver. C'est ce qui nous sépare des chaînes qui inventent des témoignages.
 
@@ -177,4 +178,4 @@ Code : `/` petite pause · `//` vraie pause (1 à 2 s) · **gras** = appuyer le 
 
 **Couverture de la vidéo :** une image du plan A, regard caméra, avec le texte `Ce que vaut un homme` en gros, en or.
 
-**Si la vidéo dépasse 3 min 15 :** coupe d'abord le passage Machiavel, jamais l'histoire ni le conseil de fin.
+**Si la vidéo dépasse 3 min (180 s, le maximum) :** coupe d'abord le passage Machiavel, jamais l'histoire ni le conseil de fin.

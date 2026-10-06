@@ -3,6 +3,7 @@
 **Durée visée :** 3 minutes (environ 400 mots parlés, débit calme, avec des silences).
 **Format :** face caméra, vertical 9:16, **assis à une table**, les mains visibles. Plans de coupe entre crochets.
 **À publier :** pendant le bloc (27–29 septembre), idéalement le jour 2 ou 3.
+**Workflow pour la fabrication :** [workflows/bloc-02-l-argent.workflow.json](workflows/bloc-02-l-argent.workflow.json) (segments, diction, gestes, mouvements, prompts IA des plans de coupe, montage seconde par seconde ; 180 s maximum).
 
 > **Règle du compte pour les histoires :** on raconte une histoire comme une histoire (« je vais te raconter l'histoire de… »), jamais comme un « client » ou un fait réel.
 > **Règle du thème :** on ne montre jamais de liasses de billets, on ne conseille aucun placement, on ne promet aucun gain. On parle de ce qu'on garde et de la façon d'aider.
@@ -177,4 +178,4 @@ Code : `/` petite pause · `//` vraie pause (1 à 2 s) · **gras** = appuyer le 
 
 **Couverture de la vidéo :** vue de dessus du carnet ouvert, la boîte en métal à côté, avec le texte `Ce que tu gardes` en gros, en or.
 
-**Si la vidéo dépasse 3 min 15 :** coupe d'abord le passage Machiavel, puis le plan C5 ; jamais l'histoire ni le conseil de fin.
+**Si la vidéo dépasse 3 min (180 s, le maximum) :** coupe d'abord le passage Machiavel, puis le plan C5 ; jamais l'histoire ni le conseil de fin.

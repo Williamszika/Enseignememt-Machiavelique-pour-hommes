@@ -1,0 +1,216 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-04-le-pere",
+  "bloc": 4,
+  "theme": "Le père",
+  "titre": "Abdou, Petit Abdou et la main sur le cœur",
+  "script": "contenus/videos/bloc-04-le-pere.md",
+  "publication": "pendant le bloc (3-5 octobre 2026), idéalement le jour 2 ou 3",
+  "duree": { "cible_s": 180, "max_s": 180 },
+
+  "ambiance": {
+    "position": "assis sur une chaise ou au bord du canapé",
+    "lieu": "le salon, fenêtre sur le côté",
+    "decor": "à 1,5-2 m derrière : des objets d'enfant, flous (cahier d'école ouvert sur une table basse, petit ballon par terre, petites chaussures près d'un mur). AUCUN enfant à l'image",
+    "lumiere": "lumière du matin, douce et lumineuse",
+    "tenue": "chemise claire unie (blanc cassé, beige, bleu ciel)",
+    "moment": "le matin, entre 8 h et 10 h",
+    "cadre_A": "plan poitrine : face, hauteur des yeux, à 1-1,2 m, cadre légèrement décalé pour voir le ballon et le cahier dans le fond",
+    "position_C": "à hauteur d'enfant : trépied baissé à environ 1 m du sol, à 45°, caméra légèrement inclinée vers le haut (le regard de l'enfant sur son père)",
+    "couleur": {
+      "description": "douce et lumineuse : hautes lumières un peu ouvertes, contraste faible, tons chauds mais clairs",
+      "filtre_ffmpeg": "eq=contrast=0.94:brightness=0.03:saturation=0.98,colorbalance=rs=0.03:bs=-0.02:rh=0.03,curves=preset=lighter"
+    },
+    "musique": {
+      "style": "tendre, piano ou kora, très simple",
+      "recherche_bibliotheque": "tender solo piano, soft kora, gentle, morning, family",
+      "prompt_generation_en": "Tender minimal solo piano with soft kora touches, gentle morning mood, around 65 BPM, no drums, no vocals, warm and intimate",
+      "duree_s": 175
+    },
+    "rythme": "plus lent que les autres vidéos",
+    "transitions": "seule vidéo de la série avec des fondus enchaînés (0,5 s) entre les plans de coupe et le présentateur ; coupes franches entre A, B et C"
+  },
+
+  "presentateur_ia_variables": {
+    "position": "sitting on the edge of a sofa",
+    "lieu_en": "in a bright simple living room, a school notebook, a small ball and small children's shoes softly blurred in the background, no child visible",
+    "lumiere_en": "soft luminous morning window light from the side",
+    "tenue_en": "plain light-colored shirt (off-white or light blue)",
+    "cadre_en": "medium close-up from the chest up"
+  },
+
+  "machiavel": {
+    "phrase": "L'archer prudent vise plus haut que la cible, pour l'atteindre.",
+    "reference": "Le Prince, chapitre VI"
+  },
+
+  "segments": [
+    {
+      "id": "S1", "partie": "accroche", "debut_s": 0, "fin_s": 10,
+      "plans": ["A"], "rushes": ["plan-01"],
+      "texte": "Ton enfant ne fait pas ce que tu dis. Il fait ce que tu fais. Même quand tu crois qu'il ne regarde pas.",
+      "diction": "Ton enfant ne fait pas ce que tu **dis**. // Il fait ce que tu **fais**. // Même quand tu crois / qu'il ne regarde pas. //",
+      "ton": "voix douce, posée",
+      "gestes": "regard caméra, mains posées sur les genoux",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2", "partie": "histoire_1", "debut_s": 10, "fin_s": 55,
+      "plans": ["A", "C", "B"], "rushes": ["plan-02", "plan-04"],
+      "texte": "Je vais te raconter l'histoire d'Abdou et de son fils de six ans. On l'appelle Petit Abdou, parce qu'il porte le nom de son père. Chaque vendredi, Abdou emmène son fils chez le grand-père. Et chaque fois, devant les anciens, il fait la même chose : il se baisse un peu, il pose la main sur son cœur, et il salue chacun en le regardant dans les yeux. Un vendredi, Abdou arrive en retard. Son fils est déjà là, avec sa mère. Et de loin, Abdou le voit : son petit garçon, devant les vieux, qui se baisse un peu, qui pose la main sur son cœur, et qui salue chacun. Personne ne lui a jamais demandé. Les anciens rient : « Lui, c'est bien le fils de son père. » Abdou n'a jamais été aussi fier.",
+      "diction": "Je vais te raconter l'histoire d'**Abdou** / et de son fils de six ans. / On l'appelle **Petit Abdou**, / parce qu'il porte le nom de son père. // Chaque vendredi, / Abdou emmène son fils chez le grand-père. / Et chaque fois, / devant les anciens, / il fait la même chose : / *(tu fais le geste : buste qui s'incline un peu, main sur le cœur)* il se baisse un peu, / il pose la main sur son **cœur**, / et il salue chacun / en le regardant dans les yeux. // Un vendredi, / Abdou arrive en retard. / Son fils est déjà là, / avec sa mère. / Et de loin, / Abdou le voit : // *(plus lent)* son petit garçon, / devant les vieux, / qui se baisse un peu, / qui pose la main sur son cœur, / et qui salue chacun. // Personne / ne lui a **jamais** demandé. // Les anciens rient : / *(voix d'un ancien : grave, amusée)* « Lui, / c'est bien le fils de son père. » / *(un temps, sourire)* Abdou n'a jamais été aussi **fier**. //",
+      "ton": "conteur, tendre, sourire léger quand il parle du petit",
+      "gestes": "buste qui s'incline un peu et main sur le cœur en décrivant le salut",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3", "partie": "histoire_2", "debut_s": 55, "fin_s": 95,
+      "plans": ["A", "C", "B"], "rushes": ["plan-03", "plan-04"],
+      "texte": "Le soir même, à table. Abdou mange d'une main. Dans l'autre, son téléphone. Sa femme lui parle, il répond « hmm ». Il lève les yeux une seconde. En face, son fils. La tablette à côté de l'assiette, la tête penchée sur l'écran. La même position. Exactement la même. Abdou ne crie pas. Il ne fait pas de discours. Il retourne son téléphone, écran contre la table. Et il attend. Une minute. Deux. Et son fils, sans qu'on lui dise rien, pose la tablette. Le même enfant, le même jour. Les deux fois, il a fait la même chose : il a copié son père.",
+      "diction": "Le soir même, / à table. // Abdou mange d'une main. / Dans l'autre, / son **téléphone**. / Sa femme lui parle, / il répond / *(distrait, sans lever les yeux)* « hmm ». // Il lève les yeux / une seconde. / En face, / son fils. / La tablette à côté de l'assiette, / la tête penchée sur l'écran. // La même position. // *(2 secondes, regard caméra)* Exactement / la **même**. // Abdou ne crie pas. / Il ne fait pas de discours. / *(geste : ta main retourne un objet invisible sur tes genoux)* Il retourne son téléphone, / écran contre la table. / Et il **attend**. // Une minute. / Deux. // Et son fils, / sans qu'on lui dise rien, / pose la tablette. // Le même enfant, / le même jour. / Les deux fois, / il a fait la même chose : // il a **copié** son père. //",
+      "ton": "le sourire s'efface, plus lent, plus bas",
+      "gestes": "la main retourne un objet invisible sur les genoux",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4", "partie": "conseil_1", "debut_s": 95, "fin_s": 115,
+      "plans": ["A"], "rushes": ["plan-05"],
+      "texte": "Alors trois choses. Un. Avant de dire « fais ceci », demande-toi : est-ce qu'il me voit le faire ? Si la réponse est non, commence par toi.",
+      "diction": "Alors / trois choses. // *(un doigt)* **Un.** / Avant de dire « fais ceci », / demande-toi : / est-ce qu'il me **voit** le faire ? / Si la réponse est non, // commence par **toi**. //",
+      "ton": "plus direct mais doux",
+      "gestes": "compte sur les doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5", "partie": "conseil_2", "debut_s": 115, "fin_s": 135,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Deux. Laisse-le te voir dans l'effort. Lire, réparer, recommencer. Et parfois, demander pardon. Un enfant qui voit son père s'excuser apprend que la force n'empêche pas de reconnaître une erreur.",
+      "diction": "*(deux doigts)* **Deux.** / Laisse-le te voir dans l'**effort**. / Lire, / réparer, / recommencer. / Et parfois, / demander **pardon**. / Un enfant qui voit son père s'excuser / apprend que la force / n'empêche pas de reconnaître une erreur. //",
+      "ton": "doux",
+      "gestes": "deux doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6", "partie": "conseil_3", "debut_s": 135, "fin_s": 150,
+      "plans": ["A"], "rushes": ["plan-05"],
+      "texte": "Trois. Si tu vis loin, il copie ta régularité. Un appel court, à la même heure, chaque semaine, vaut plus qu'un long appel quand tu y penses.",
+      "diction": "*(trois doigts)* **Trois.** / Si tu vis **loin**, / il copie ta **régularité**. / Un appel court, / à la même heure, / chaque semaine, / vaut plus qu'un long appel / quand tu y penses. //",
+      "ton": "doux",
+      "gestes": "trois doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7", "partie": "machiavel", "debut_s": 150, "fin_s": 165,
+      "plans": ["A"], "rushes": ["plan-06"],
+      "texte": "Machiavel l'a écrit il y a cinq cents ans : l'archer prudent vise plus haut que la cible, pour l'atteindre. Ton enfant visera là où tu vises. Alors vise haut.",
+      "diction": "Machiavel l'a écrit il y a cinq cents ans : / l'archer prudent / vise **plus haut** que la cible, / pour l'atteindre. // Ton enfant visera / là où **tu** vises. // Alors vise haut. //",
+      "ton": "neutre, posé",
+      "gestes": "lève légèrement le regard sur « plus haut »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8", "partie": "conseil_de_fin", "debut_s": 165, "fin_s": 180,
+      "plans": ["A", "B"], "rushes": ["plan-07"],
+      "texte": "Cette semaine, choisis un seul geste que tu veux voir chez ton enfant dans vingt ans. Et fais-le devant lui, chaque jour, sans en parler. Il te regarde. Fais en sorte qu'il ait raison de te copier.",
+      "diction": "Cette semaine, / choisis **un seul** geste / que tu veux voir chez ton enfant / dans **vingt** ans. // Et fais-le devant lui, / chaque jour, / sans en parler. // *(tu poses la main sur ton cœur)* Il te **regarde**. // Fais en sorte / qu'il ait raison / de te copier. // *(2 secondes de silence, main sur le cœur, regard caméra, puis coupe)*",
+      "ton": "voix plus basse et plus lente, buste un peu en avant",
+      "gestes": "main sur le cœur sur « Il te regarde », gardée jusqu'à la fin",
+      "mouvement_camera": "statique"
+    }
+  ],
+
+  "plans_de_coupe": [
+    {
+      "id": "C1", "description": "une petite paire de chaussures posée à côté d'une grande, sur le seuil d'une porte (l'image de la vidéo)",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "au ras du sol, lent travelling avant",
+      "prompt_en": "Ground-level shot slowly moving toward a pair of small child's shoes placed neatly next to a pair of large men's shoes on a doorstep, soft luminous morning light, light wood floor, warm and tender mood, nobody in frame, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "people, children, faces, brand logos, text, watermark, cartoon, 3D render",
+      "tournage_maison": "Tes chaussures et une petite paire, sur le seuil, téléphone posé au sol."
+    },
+    {
+      "id": "C2", "description": "un cahier d'école ouvert, une main d'adulte qui tourne une page",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique, gros plan",
+      "prompt_en": "Close-up of an adult man's hand gently turning a page of an open child's school exercise book on a light wood table, childish handwriting blurred and unreadable, soft morning light, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable text, child's name, faces, logo, watermark, deformed hand, cartoon",
+      "tournage_maison": "Un cahier d'école, sans nom lisible."
+    },
+    {
+      "id": "C3", "description": "une main d'homme qui se pose sur son cœur, en gros plan, de profil",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Side profile close-up of a Black man's hand slowly placed over his heart on a light-colored shirt in a respectful greeting gesture, soft luminous morning light, face out of frame, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "face, text, logo, watermark, deformed hand, cartoon",
+      "tournage_maison": "Ta main, téléphone de profil à 40 cm."
+    },
+    {
+      "id": "C4", "description": "un téléphone posé sur une table à manger, qu'une main retourne écran contre la table",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a man's hand turning a glowing smartphone face down on a dining table next to a plate of food, soft warm evening light, the screen content unreadable, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable screen, logo, brand, faces, children, watermark, cartoon",
+      "tournage_maison": "Ton téléphone, une assiette, un geste lent."
+    },
+    {
+      "id": "C5", "description": "une main d'adulte qui ferme un cartable et le pose près de la porte",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of an adult hand zipping up a small child's school backpack and setting it down by the front door, soft luminous morning light, nobody's face in frame, cinematic, 9:16 vertical",
+      "prompt_negatif": "children, faces, brand logos, text, watermark, cartoon",
+      "tournage_maison": "N'importe quel sac d'enfant, sans logo visible."
+    },
+    {
+      "id": "C6", "description": "les petits pieds d'un enfant qui marchent à côté de ceux d'un adulte, de dos, au ras du sol (seulement avec l'accord de la mère) — sinon un petit ballon qui roule",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "au ras du sol, suit le mouvement",
+      "prompt_en": "Ground-level shot from behind of a small child's bare feet walking next to an adult man's bare feet on a light wooden floor, only feet and ankles visible, soft morning light, tender mood, cinematic, 9:16 vertical",
+      "prompt_negatif": "faces, bodies above the knees, text, logo, watermark, cartoon, 3D render",
+      "alternative": "A small ball slowly rolling across a light wooden floor in soft morning light, nobody in frame",
+      "tournage_maison": "Seulement les pieds de ton enfant, de dos, avec l'accord de sa mère. Jamais le visage. Sinon, un ballon qui roule."
+    }
+  ],
+
+  "timeline": [
+    { "debut_s": 0, "fin_s": 3, "image": "C1", "mouvement": "travelling avant au ras du sol", "transition_sortie": "fondu 0,5 s", "musique": { "niveau": 0, "note": "voix seule" }, "texte_ecran": [{ "texte": "Il te regarde.", "debut_s": 0, "fin_s": 6 }] },
+    { "debut_s": 3, "fin_s": 10, "image": "A", "mouvement": "statique", "musique": { "niveau": 0 } },
+    { "debut_s": 10, "fin_s": 20, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.08, "note": "le piano ou la kora entre, très bas" } },
+    { "debut_s": 20, "fin_s": 35, "image": "C", "mouvement": "statique, à hauteur d'enfant", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Chaque vendredi, chez le grand-père", "debut_s": 20, "fin_s": 27 }] },
+    { "debut_s": 35, "fin_s": 38, "image": "C3", "mouvement": "statique", "transition_entree": "fondu 0,5 s", "transition_sortie": "fondu 0,5 s", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "La main sur le cœur.", "debut_s": 35, "fin_s": 40 }] },
+    { "debut_s": 38, "fin_s": 45, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 45, "fin_s": 50, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 50, "fin_s": 55, "image": "B", "mouvement": "gros plan sur « Personne ne lui a jamais demandé »", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Personne ne le lui a demandé.", "debut_s": 50, "fin_s": 55 }] },
+    { "debut_s": 55, "fin_s": 65, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.06, "note": "la musique baisse" }, "texte_ecran": [{ "texte": "Le soir même, à table.", "debut_s": 55, "fin_s": 61 }] },
+    { "debut_s": 65, "fin_s": 75, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.06 } },
+    { "debut_s": 75, "fin_s": 80, "image": "B", "mouvement": "gros plan : « Exactement la même. »", "musique": { "niveau": 0, "note": "musique coupée 2 secondes" }, "texte_ecran": [{ "texte": "La même position.", "debut_s": 75, "fin_s": 80 }] },
+    { "debut_s": 80, "fin_s": 83, "image": "C4", "mouvement": "statique, sur « il retourne son téléphone »", "transition_entree": "fondu 0,5 s", "transition_sortie": "fondu 0,5 s", "musique": { "niveau": 0.06, "note": "la musique reprend, très douce" } },
+    { "debut_s": 83, "fin_s": 95, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.08 }, "texte_ecran": [{ "texte": "Il a copié son père. Les deux fois.", "debut_s": 90, "fin_s": 95 }] },
+    { "debut_s": 95, "fin_s": 110, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.12, "note": "musique un peu plus présente" }, "texte_ecran": [{ "texte": "1. Est-ce qu'il me voit le faire ?", "debut_s": 98, "fin_s": 114 }] },
+    { "debut_s": 110, "fin_s": 113, "image": "C2", "mouvement": "statique, sur « commence par toi »", "transition_entree": "fondu 0,5 s", "transition_sortie": "fondu 0,5 s", "musique": { "niveau": 0.12 } },
+    { "debut_s": 113, "fin_s": 125, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.12 }, "texte_ecran": [{ "texte": "2. Laisse-le te voir dans l'effort", "debut_s": 115, "fin_s": 134 }] },
+    { "debut_s": 125, "fin_s": 130, "image": "B", "mouvement": "gros plan sur « demander pardon »", "musique": { "niveau": 0.12 } },
+    { "debut_s": 130, "fin_s": 145, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.12 }, "texte_ecran": [{ "texte": "3. Loin ? Sois régulier.", "debut_s": 135, "fin_s": 149 }] },
+    { "debut_s": 145, "fin_s": 148, "image": "C5", "mouvement": "statique", "transition_entree": "fondu 0,5 s", "transition_sortie": "fondu 0,5 s", "musique": { "niveau": 0.10 } },
+    { "debut_s": 148, "fin_s": 162, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.08 } },
+    { "debut_s": 162, "fin_s": 165, "image": "C6 (ou ballon)", "mouvement": "au ras du sol, sur « Alors vise haut »", "transition_entree": "fondu 0,5 s", "transition_sortie": "fondu 0,5 s", "musique": { "niveau": 0.06 } },
+    { "debut_s": 165, "fin_s": 175, "image": "A", "mouvement": "main sur le cœur", "musique": { "niveau": 0.03, "note": "la musique descend" }, "texte_ecran": [{ "texte": "Un geste. Chaque jour. Sans en parler.", "debut_s": 166, "fin_s": 178 }] },
+    { "debut_s": 175, "fin_s": 180, "image": "B", "mouvement": "gros plan sur « qu'il ait raison de te copier », 2 s de regard caméra, coupe", "musique": { "niveau": 0, "note": "musique à zéro" } }
+  ],
+
+  "couverture": {
+    "source": "image extraite de C1 (les grandes et les petites chaussures côte à côte)",
+    "texte": "Il te regarde",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "A pair of small child's shoes placed next to a pair of large men's shoes on a doorstep in soft luminous morning light, light wood, nobody in frame, dark softly shadowed empty upper third for a title, 9:16 vertical, photorealistic",
+    "prompt_negatif": "people, children, faces, brand logos, text, watermark, cartoon"
+  },
+
+  "legende": "Le matin, son fils a salué les anciens exactement comme lui.\nLe soir, il a regardé son écran à table… exactement comme lui.\n\nTrois conseils pour les pères, ceux qui sont là et ceux qui vivent loin.",
+  "hashtags": ["#MrZika", "#Afrique", "#Diaspora", "#Paternité", "#Machiavel"],
+
+  "si_trop_long": [
+    "Supprimer le segment S7 (Machiavel) en entier.",
+    "Supprimer le plan de coupe C5.",
+    "Ne jamais couper : l'histoire (S2, S3), le téléphone retourné, le segment S8."
+  ]
+}

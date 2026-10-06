@@ -3,6 +3,7 @@
 **Durée visée :** 3 minutes (environ 400 mots parlés ; lent au début, plus rapide pendant les conseils, puis un silence net avant la fin).
 **Format :** face caméra, vertical 9:16, **debout**, près d'une porte. Plans de coupe entre crochets.
 **À publier :** pendant le bloc (6–8 octobre), idéalement le jour 2 ou 3.
+**Workflow pour la fabrication :** [workflows/bloc-05-la-peur-d-oser.workflow.json](workflows/bloc-05-la-peur-d-oser.workflow.json) (segments, diction, gestes, mouvements, prompts IA des plans de coupe, montage seconde par seconde ; 180 s maximum).
 
 > **Règle du compte pour les histoires :** on raconte une histoire comme une histoire (« je vais te raconter l'histoire de… »), jamais comme un « client » ou un fait réel.
 > **Règle du thème :** on ne promet aucune réussite, aucun chiffre, aucun « tu vas devenir riche ». On parle du premier pas, pas du résultat. On ne se moque pas de celui qui a peur.
@@ -35,7 +36,7 @@
 >
 > **Deux.** Donne une date à ta décision. Écris-la. Une peur sans date peut durer toute une vie.
 >
-> **Trois.** Parle de ton projet à une seule personne qui te demandera, dans une semaine : « Alors ? » Pas pour l'applaudir. Pour te tenir.
+> **Trois.** Parle de ton projet à une seule personne qui te demandera, dans une semaine : « Alors ? » Pas pour t'applaudir. Pour te tenir.
 
 **[2:25 — Machiavel, une phrase]**
 > Machiavel l'a écrit il y a cinq cents ans : ceux qui s'élèvent par leur propre valeur acquièrent avec difficulté, mais conservent avec facilité. Le début dur, c'est normal. C'est lui qui fait tenir la suite.
@@ -182,4 +183,4 @@ Code : `/` petite pause · `//` vraie pause (1 à 2 s) · **gras** = appuyer le 
 
 **Couverture de la vidéo :** **C1**, le doigt au-dessus du bouton « appeler », en gros plan, fort contraste, avec le texte `Pas maintenant ?` en gros, en or.
 
-**Si la vidéo dépasse 3 min 15 :** coupe d'abord le passage Machiavel, puis la phrase « Ce que les gens demandent, à quelle heure ils passent… » ; jamais la réponse de Seydou, ni le silence, ni le conseil de fin.
+**Si la vidéo dépasse 3 min (180 s, le maximum) :** coupe d'abord le passage Machiavel, puis la phrase « Ce que les gens demandent, à quelle heure ils passent… » ; jamais la réponse de Seydou, ni le silence, ni le conseil de fin.

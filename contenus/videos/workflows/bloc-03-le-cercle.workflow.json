@@ -1,0 +1,223 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-03-le-cercle",
+  "bloc": 3,
+  "theme": "Le cercle",
+  "titre": "Samuel, Ousmane et les trois questions",
+  "script": "contenus/videos/bloc-03-le-cercle.md",
+  "publication": "pendant le bloc (30 septembre - 2 octobre 2026), idéalement le jour 2 ou 3",
+  "duree": { "cible_s": 180, "max_s": 180 },
+
+  "ambiance": {
+    "position": "assis à une table, avec deux ou trois chaises vides autour (les chaises sont le sujet : elles doivent se voir)",
+    "lieu": "dehors si le son le permet (terrasse, balcon, cour) ; sinon la même table près d'une fenêtre, soleil de côté",
+    "decor": "une théière, quatre petits verres de thé (un pour toi, trois pour les chaises vides), un plateau ; chaises dépareillées, un peu tirées",
+    "lumiere": "fin d'après-midi, lumière dorée de côté, jamais dans le dos ; environ 45 minutes de bonne lumière",
+    "tenue": "chemise ou tee-shirt uni de couleur chaude (terre, ocre, beige, bordeaux), pas de noir",
+    "moment": "1 h à 1 h 30 avant le coucher du soleil",
+    "cadre_A": "plan large : face, hauteur des yeux, à 1,5-2 m ; le présentateur, toute la table et au moins deux chaises vides",
+    "position_C": "trépied derrière une chaise vide, à 45°, un peu plus bas que les yeux, le dossier de la chaise flou au premier plan",
+    "couleur": {
+      "description": "chaude, dorée, fin d'après-midi : la plus chaleureuse de la série, contraste doux",
+      "filtre_ffmpeg": "eq=contrast=1.02:saturation=1.08,colorbalance=rs=0.06:gs=0.03:bs=-0.06:rh=0.05:bh=-0.04"
+    },
+    "musique": {
+      "style": "chaleureuse, guitare acoustique simple ; garder un peu du son d'ambiance si tourné dehors",
+      "recherche_bibliotheque": "warm acoustic guitar, fingerpicking, african folk, sunset, gentle",
+      "prompt_generation_en": "Warm gentle acoustic guitar fingerpicking with a light West African folk feel, sunset mood, around 80 BPM, no vocals, no drums, friendly and reflective",
+      "duree_s": 175
+    },
+    "rythme": "conversationnel : plans plus longs et plus larges, moins de gros plans, coupes moins nerveuses",
+    "transitions": "coupes franches"
+  },
+
+  "presentateur_ia_variables": {
+    "position": "sitting at a small outdoor table with a metal teapot, small tea glasses and three empty mismatched chairs around him",
+    "lieu_en": "on a terrace in the late afternoon",
+    "lumiere_en": "warm low golden sunlight from the side, long soft shadows",
+    "tenue_en": "plain warm-colored shirt (ochre or terracotta)",
+    "cadre_en": "wide shot showing the whole table and at least two empty chairs"
+  },
+
+  "machiavel": {
+    "phrase": "Il n'y a qu'un seul moyen de se garder des flatteurs : que les gens comprennent qu'ils ne t'offensent pas en te disant la vérité.",
+    "reference": "Le Prince, chapitre XXIII"
+  },
+
+  "segments": [
+    {
+      "id": "S1", "partie": "accroche", "debut_s": 0, "fin_s": 10,
+      "plans": ["A"], "rushes": ["plan-01"],
+      "texte": "Regarde les gens assis à ta table ce soir. Dans cinq ans, tu leur ressembleras. Alors regarde bien.",
+      "diction": "Regarde les gens assis à ta **table** ce soir. // *(tu poses le verre)* Dans cinq ans, / tu leur **ressembleras**. // Alors regarde bien. //",
+      "ton": "voix posée, regard fixe",
+      "gestes": "un verre de thé dans la main, posé sur la table après la première phrase",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2", "partie": "histoire_1", "debut_s": 10, "fin_s": 55,
+      "plans": ["A", "C", "B"], "rushes": ["plan-02", "plan-04"],
+      "texte": "Je vais te raconter l'histoire de Samuel. Un soir, autour du thé, il annonce à ses amis : « Le mois prochain, je quitte mon travail. J'ouvre ma boutique de réparation de téléphones. » Il y en a un qui rit : « Toi, patron ? » Les autres applaudissent : « Vas-y, t'es le boss ! » On ressert le thé, on passe à autre chose. Un seul ne dit rien. Ousmane. Il attend que les autres partent. Et il pose trois questions : « Tu as combien de côté ? Tu sais réparer un écran toi-même ? Et tes trois premiers clients, c'est qui ? »",
+      "diction": "Je vais te raconter l'histoire de **Samuel**. // Un soir, / autour du thé, / il annonce à ses amis : / *(voix de Samuel : fier, enthousiaste)* « Le mois prochain, / je quitte mon travail. / J'ouvre ma **boutique** de réparation de téléphones. » // Il y en a un qui rit : / *(voix moqueuse, un geste vers une chaise)* « Toi, / **patron** ? » / Les autres applaudissent : / *(voix forte, joyeuse, un geste vers l'autre chaise)* « Vas-y, / t'es le **boss** ! » / On ressert le thé, / on passe à autre chose. // Un seul / ne dit **rien**. // **Ousmane**. / Il attend que les autres partent. / Et il pose **trois** questions : / *(voix d'Ousmane : calme, lente, sans sourire ; tu comptes sur tes doigts)* « Tu as combien / de **côté** ? / Tu sais réparer un écran / **toi-même** ? / Et tes trois premiers clients, / c'est **qui** ? » //",
+      "ton": "conteur, comme entre amis",
+      "gestes": "désigne les chaises vides quand il parle des amis ; compte les trois questions sur ses doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3", "partie": "histoire_2", "debut_s": 55, "fin_s": 95,
+      "plans": ["A", "C"], "rushes": ["plan-03", "plan-04"],
+      "texte": "Samuel n'a aucune réponse. Il se vexe : « Même toi, tu ne crois pas en moi ? » Il ne lui parle plus pendant trois semaines. Et Ousmane n'insiste pas. Il attend. Mais les questions sont restées. Il garde son travail une année de plus. Le samedi, il apprend chez un réparateur du quartier. Il met de côté. Et un an plus tard, il ouvre. Avec des réponses. Des années ont passé. La boutique tient. Un jour, il doit décider s'il en ouvre une deuxième. Il a des centaines de contacts dans son téléphone. Il n'en appelle qu'un. Ousmane. Ceux qui applaudissent, tu les invites à l'inauguration. Celui qui pose les questions, tu l'appelles avant.",
+      "diction": "Samuel n'a **aucune** réponse. / Il se vexe : / *(voix de Samuel, blessée)* « Même **toi**, / tu ne crois pas en moi ? » / Il ne lui parle plus / pendant **trois** semaines. / Et Ousmane / n'insiste pas. // Il **attend**. // Mais les questions / sont **restées**. // Il garde son travail / une année de plus. / Le samedi, / il apprend chez un réparateur du quartier. / Il met de côté. / Et un an plus tard, / il ouvre. // Avec des **réponses**. // Des années ont passé. / La boutique tient. / Un jour, / il doit décider s'il en ouvre une **deuxième**. / Il a des **centaines** de contacts dans son téléphone. // Il n'en appelle qu'**un**. // *(2 secondes, regard caméra)* Ousmane. // Ceux qui **applaudissent**, / tu les invites à l'inauguration. / Celui qui pose les **questions**, // tu l'appelles **avant**. //",
+      "ton": "plus lent, plus grave, puis chaleureux sur la fin",
+      "gestes": "immobile avant « Ousmane »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4", "partie": "conseil_1", "debut_s": 95, "fin_s": 115,
+      "plans": ["A"], "rushes": ["plan-05"],
+      "texte": "Alors trois choses. Un. Après une soirée avec quelqu'un, demande-toi : je repars plus grand ou plus petit ? Ton corps le sait avant toi.",
+      "diction": "Alors / trois choses. // *(un doigt)* **Un.** / Après une soirée avec quelqu'un, / demande-toi : / je repars plus **grand** / ou plus **petit** ? / Ton corps le sait / avant toi. //",
+      "ton": "plus direct, un peu plus rapide",
+      "gestes": "compte sur les doigts au-dessus de la table",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5", "partie": "conseil_2", "debut_s": 115, "fin_s": 130,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Deux. Méfie-toi de l'ami qui ne te dit jamais non. Celui qui applaudit tout ne t'empêchera jamais de foncer dans un mur.",
+      "diction": "*(deux doigts)* **Deux.** / Méfie-toi de l'ami qui ne te dit **jamais** non. / Celui qui applaudit tout / ne t'empêchera jamais / de foncer dans un **mur**. //",
+      "ton": "direct",
+      "gestes": "deux doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6", "partie": "conseil_3", "debut_s": 130, "fin_s": 145,
+      "plans": ["A"], "rushes": ["plan-05"],
+      "texte": "Trois. Quand quelqu'un te dit une vérité dure, ne te défends pas tout de suite. Dis : « Merci. Laisse-moi y penser. » Tu gardes la vérité, et tu gardes l'ami.",
+      "diction": "*(trois doigts)* **Trois.** / Quand quelqu'un te dit une vérité **dure**, / ne te défends pas tout de suite. / Dis : / *(voix calme)* « **Merci**. / Laisse-moi y penser. » // Tu gardes la vérité, / et tu gardes l'**ami**. //",
+      "ton": "direct puis apaisé",
+      "gestes": "trois doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7", "partie": "machiavel", "debut_s": 145, "fin_s": 160,
+      "plans": ["A"], "rushes": ["plan-06"],
+      "texte": "Machiavel l'a écrit il y a cinq cents ans : il n'y a qu'un seul moyen de se garder des flatteurs. Que les gens comprennent qu'ils ne t'offensent pas en te disant la vérité.",
+      "diction": "Machiavel l'a écrit il y a cinq cents ans : / il n'y a qu'un **seul** moyen / de se garder des flatteurs. / Que les gens comprennent / qu'ils ne t'offensent **pas** / en te disant la **vérité**. //",
+      "ton": "neutre, posé",
+      "gestes": "aucun",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8", "partie": "conseil_de_fin", "debut_s": 160, "fin_s": 180,
+      "plans": ["A", "B"], "rushes": ["plan-07"],
+      "texte": "Ce soir, regarde ta table. Ne chasse personne. Regarde, c'est tout. Et s'il y a quelqu'un qui t'a dit un jour ce que tu ne voulais pas entendre, garde-lui une chaise. C'est souvent lui qui t'a fait grandir.",
+      "diction": "Ce soir, / regarde ta table. // Ne chasse **personne**. / Regarde, / c'est tout. // *(tu prends la théière, tu verses un verre sans parler, 3 secondes)* Et s'il y a quelqu'un / qui t'a dit un jour / ce que tu ne voulais **pas** entendre, // *(tu poses le verre devant la chaise vide, tu regardes l'objectif)* garde-lui une **chaise**. // C'est souvent lui / qui t'a fait **grandir**. // *(2 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "voix plus basse et plus lente",
+      "gestes": "verse un verre de thé de haut, le pose devant la chaise vide, puis regarde l'objectif",
+      "mouvement_camera": "statique"
+    }
+  ],
+
+  "plans_de_coupe": [
+    {
+      "id": "C1", "description": "du thé versé de haut dans un petit verre, contre la lumière (mousse, vapeur)",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique, gros plan, léger ralenti",
+      "prompt_en": "Close-up slow motion of mint tea being poured from high above into a small glass on a metal tray, backlit by warm golden late afternoon sun, foam and steam glowing, empty chairs blurred in the background, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "faces, text, logo, brand, watermark, alcohol, cartoon, 3D render",
+      "tournage_maison": "Thé chaud, théière levée haut, téléphone face au soleil."
+    },
+    {
+      "id": "C2", "description": "les chaises vides autour de la table, filmées lentement en arc de cercle",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "arc de cercle lent autour de la table, à hauteur d'assise",
+      "prompt_en": "Slow orbiting camera move around a small outdoor table with three empty mismatched chairs slightly pulled back, a teapot and half-full tea glasses on the table, warm golden sunset light, long shadows, nobody in frame, cinematic, 9:16 vertical",
+      "prompt_negatif": "people, faces, text, logo, watermark, cartoon, 3D render",
+      "tournage_maison": "Téléphone à hauteur d'assise, tu marches lentement autour de la table."
+    },
+    {
+      "id": "C3", "description": "deux mains qui se serrent au-dessus de la table (seulement les mains, avec l'accord de la personne)",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "statique, gros plan",
+      "prompt_en": "Close-up of two Black men's hands shaking firmly above a small table with tea glasses, warm golden late afternoon light, faces out of frame, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "faces, text, logo, watermark, deformed hands, extra fingers, cartoon",
+      "tournage_maison": "Il faut une deuxième main : un ami, un frère, un voisin, seulement les mains, avec son accord. Sinon utiliser C3bis."
+    },
+    {
+      "id": "C3bis", "description": "une main qui pousse doucement un verre de thé vers la chaise vide d'en face",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a man's hand gently sliding a small glass of tea across a table toward an empty chair, warm golden late afternoon light, cinematic, 9:16 vertical",
+      "prompt_negatif": "faces, text, logo, watermark, deformed hand, cartoon",
+      "tournage_maison": "Ta main, un verre, la chaise vide en face."
+    },
+    {
+      "id": "C4", "description": "une liste de contacts qui défile vite sur un téléphone, floue ou avec des noms inventés",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique, gros plan sur l'écran",
+      "prompt_en": "Close-up of a thumb scrolling fast through a long contact list on a smartphone, all names blurred and unreadable, warm ambient light, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable names, real app logo, watermark, cartoon",
+      "tournage_maison": "Jamais tes vrais contacts : faux carnet ou flou au montage."
+    },
+    {
+      "id": "C5", "description": "le pouce qui s'arrête sur un nom (flou), puis l'écran d'appel sortant « Ousmane »",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a thumb stopping on one contact in a smartphone list and pressing call, the screen switching to an outgoing call screen, name blurred, warm light, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable real names, logo, watermark, cartoon",
+      "tournage_maison": "Contact « Ousmane » créé pour l'occasion. En génération IA, le nom est ajouté au montage."
+    },
+    {
+      "id": "C6", "description": "les verres vides sur le plateau, le soleil qui descend derrière",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "statique",
+      "prompt_en": "Empty small tea glasses on a metal tray on an outdoor table, the sun setting low behind them, golden backlight, lens glow, nobody in frame, cinematic, 9:16 vertical",
+      "prompt_negatif": "people, text, logo, watermark, cartoon, 3D render",
+      "tournage_maison": "À la fin du tournage, quand le soleil descend."
+    }
+  ],
+
+  "timeline": [
+    { "debut_s": 0, "fin_s": 2, "image": "C1", "mouvement": "ralenti", "musique": { "niveau": 0, "note": "voix seule + bruit du thé versé" }, "texte_ecran": [{ "texte": "Qui est dans ton cercle ?", "debut_s": 0, "fin_s": 7 }] },
+    { "debut_s": 2, "fin_s": 10, "image": "A", "mouvement": "plan large, statique", "musique": { "niveau": 0 } },
+    { "debut_s": 10, "fin_s": 20, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.08, "note": "la guitare entre, très bas ; garder l'ambiance extérieure à 0.05" } },
+    { "debut_s": 20, "fin_s": 30, "image": "C", "mouvement": "statique, depuis la chaise vide", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "« Toi, patron ? »", "debut_s": 21, "fin_s": 25 }, { "texte": "« Vas-y, t'es le boss ! »", "debut_s": 25, "fin_s": 29 }] },
+    { "debut_s": 30, "fin_s": 34, "image": "C2", "mouvement": "arc de cercle lent, sur « on passe à autre chose »", "musique": { "niveau": 0.10 } },
+    { "debut_s": 34, "fin_s": 40, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 40, "fin_s": 46, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.08 }, "texte_ecran": [{ "texte": "Ousmane : trois questions.", "debut_s": 40, "fin_s": 46 }] },
+    { "debut_s": 46, "fin_s": 55, "image": "B", "mouvement": "gros plan sur les trois questions", "musique": { "niveau": 0, "note": "musique coupée pendant les trois questions" }, "texte_ecran": [{ "texte": "1. Combien de côté ?", "debut_s": 47, "fin_s": 55 }, { "texte": "2. Tu sais réparer ?", "debut_s": 49, "fin_s": 55 }, { "texte": "3. Tes 3 premiers clients ?", "debut_s": 51, "fin_s": 55 }] },
+    { "debut_s": 55, "fin_s": 65, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10, "note": "la guitare reprend" }, "texte_ecran": [{ "texte": "3 semaines sans se parler", "debut_s": 58, "fin_s": 64 }] },
+    { "debut_s": 65, "fin_s": 75, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "1 an de plus. Le samedi, il apprend.", "debut_s": 66, "fin_s": 74 }] },
+    { "debut_s": 75, "fin_s": 78, "image": "C4", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Des centaines de contacts. Un seul appel.", "debut_s": 75, "fin_s": 84 }] },
+    { "debut_s": 78, "fin_s": 81, "image": "C5", "mouvement": "statique, sur « il n'en appelle qu'un »", "musique": { "niveau": 0.10 } },
+    { "debut_s": 81, "fin_s": 85, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 85, "fin_s": 87, "image": "C3 (ou C3bis)", "mouvement": "gros plan", "musique": { "niveau": 0.10 } },
+    { "debut_s": 87, "fin_s": 95, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Ceux qui applaudissent : l'inauguration. Celui qui questionne : avant.", "debut_s": 88, "fin_s": 95 }] },
+    { "debut_s": 95, "fin_s": 115, "image": "A", "mouvement": "plan large, statique", "musique": { "niveau": 0.15, "note": "musique un peu plus présente" }, "texte_ecran": [{ "texte": "1. Plus grand ou plus petit ?", "debut_s": 99, "fin_s": 114 }] },
+    { "debut_s": 115, "fin_s": 125, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.15 }, "texte_ecran": [{ "texte": "2. L'ami qui ne dit jamais non", "debut_s": 115, "fin_s": 129 }] },
+    { "debut_s": 125, "fin_s": 130, "image": "B", "mouvement": "gros plan sur « foncer dans un mur »", "musique": { "niveau": 0.15 } },
+    { "debut_s": 130, "fin_s": 145, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.15 }, "texte_ecran": [{ "texte": "3. « Merci. Laisse-moi y penser. »", "debut_s": 131, "fin_s": 144 }] },
+    { "debut_s": 145, "fin_s": 156, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 156, "fin_s": 158, "image": "C6", "mouvement": "statique", "musique": { "niveau": 0.08 } },
+    { "debut_s": 158, "fin_s": 174, "image": "A", "mouvement": "plan large : le thé versé, le verre posé devant la chaise vide", "musique": { "niveau": 0.03, "note": "la musique descend ; on garde le bruit du thé versé" }, "texte_ecran": [{ "texte": "Garde-lui une chaise.", "debut_s": 168, "fin_s": 178 }] },
+    { "debut_s": 174, "fin_s": 180, "image": "B", "mouvement": "gros plan sur « c'est souvent lui qui t'a fait grandir », 2 s de regard caméra, coupe", "musique": { "niveau": 0, "note": "musique à zéro" } }
+  ],
+
+  "couverture": {
+    "source": "plan A large : le présentateur à la table, les chaises vides autour, lumière dorée",
+    "texte": "Qui est dans ton cercle ?",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "A Black African man in his thirties sitting alone at a small outdoor table with a teapot and four small tea glasses, three empty mismatched chairs around him, warm golden late afternoon light, long shadows, dark empty upper third for a title, 9:16 vertical, photorealistic",
+    "prompt_negatif": "other people, text, logo, watermark, alcohol, cartoon"
+  },
+
+  "legende": "Il a annoncé son projet à ses amis. Un a ri, les autres ont applaudi.\nUn seul a posé trois questions, et il ne lui a plus parlé pendant trois semaines.\nDes années plus tard, devine qui il a appelé.\n\nTrois conseils pour regarder ton cercle, sans chasser personne.",
+  "hashtags": ["#MrZika", "#Afrique", "#Diaspora", "#Discipline", "#Machiavel"],
+
+  "si_trop_long": [
+    "Supprimer le segment S7 (Machiavel) en entier.",
+    "Supprimer le plan de coupe C6.",
+    "Ne jamais couper : l'histoire (S2, S3), les trois questions d'Ousmane, le segment S8."
+  ]
+}

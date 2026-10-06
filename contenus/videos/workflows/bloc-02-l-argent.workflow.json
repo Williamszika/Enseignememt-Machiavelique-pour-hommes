@@ -1,0 +1,216 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-02-l-argent",
+  "bloc": 2,
+  "theme": "L'argent",
+  "titre": "Yannick, Moussa et le carnet",
+  "script": "contenus/videos/bloc-02-l-argent.md",
+  "publication": "pendant le bloc (27-29 septembre 2026), idéalement le jour 2 ou 3",
+  "duree": { "cible_s": 180, "max_s": 180 },
+
+  "ambiance": {
+    "position": "assis à une table, les mains visibles",
+    "lieu": "cuisine ou salon, près de la fenêtre ; fenêtre sur le côté, jamais derrière",
+    "decor": "sur la table : un carnet ouvert, un stylo, une petite boîte en métal, quelques pièces. JAMAIS de billets. Fond : un mur sobre",
+    "lumiere": "lumière du jour neutre, pas de lampe ambrée",
+    "tenue": "chemise unie bleu nuit ou gris foncé",
+    "moment": "le matin",
+    "cadre_A": "plan taille : face, hauteur des yeux, à 1,2-1,5 m, du haut de la tête jusqu'à la table, mains et carnet visibles",
+    "position_C": "trépied à 45° sur le côté ; regard vers le carnet ou un point à côté de l'objectif",
+    "couleur": {
+      "description": "neutre, un peu plus froide que les autres vidéos (la lucidité), accents or des textes",
+      "filtre_ffmpeg": "eq=contrast=1.06:saturation=0.92,colorbalance=rs=-0.03:bs=0.04:rm=-0.02:bm=0.03"
+    },
+    "musique": {
+      "style": "sobre, légère, balafon ou marimba doux",
+      "recherche_bibliotheque": "soft balafon instrumental, light marimba, minimal, calm",
+      "prompt_generation_en": "Light minimal instrumental with soft balafon and marimba patterns, calm and clear, around 85 BPM, no vocals, no heavy drums, thoughtful and lucid mood",
+      "duree_s": 175
+    },
+    "rythme": "coupes nettes ; les chiffres apparaissent à l'écran au moment exact où ils sont dits",
+    "transitions": "coupes franches, pas de fondus"
+  },
+
+  "presentateur_ia_variables": {
+    "position": "sitting at a wooden table with an open notebook, a pen, a small metal tin and a few coins",
+    "lieu_en": "in a simple kitchen by a window, plain wall behind",
+    "lumiere_en": "neutral slightly cool daylight from the side",
+    "tenue_en": "plain navy or dark grey shirt",
+    "cadre_en": "medium shot from head to table, hands visible"
+  },
+
+  "machiavel": {
+    "phrase": "Celui qui veut à tout prix paraître généreux finit par tout dépenser, et par être haï. Mieux vaut passer pour économe.",
+    "reference": "Le Prince, chapitre XVI"
+  },
+
+  "segments": [
+    {
+      "id": "S1", "partie": "accroche", "debut_s": 0, "fin_s": 10,
+      "plans": ["A", "B"], "rushes": ["plan-01"],
+      "texte": "Deux hommes gagnent exactement la même chose. Cinq ans plus tard, l'un aide toute sa famille. L'autre emprunte. Tu sais pourquoi ?",
+      "diction": "Deux hommes gagnent exactement la **même** chose. // Cinq ans plus tard, / l'un aide toute sa famille. / L'autre **emprunte**. // Tu sais pourquoi ? //",
+      "ton": "regard fixe, voix basse",
+      "gestes": "mains posées à plat sur la table",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2", "partie": "histoire_1", "debut_s": 10, "fin_s": 55,
+      "plans": ["A", "C"], "rushes": ["plan-02", "plan-04"],
+      "texte": "Je vais te raconter l'histoire de Yannick et Moussa. Deux amis, arrivés ensemble, embauchés le même mois, même salaire. Yannick, lui, c'était le grand. Chaque week-end : « Laissez, c'est moi qui paie. » Un nouveau téléphone chaque année. Et dès que quelqu'un appelait du pays, il envoyait. Sans compter. Tout le monde l'aimait. Moussa, lui, avait un petit carnet. Chaque mois, le 5, il envoyait à sa famille la même somme. Pas plus, pas moins. Quand un cousin appelait pour un extra, il répondait : « Ce mois-ci, j'ai déjà envoyé. Le mois prochain, on verra ensemble. » On le trouvait radin. Même Yannick le taquinait : « Toi et ton carnet, tu vas l'emporter dans ta tombe ? »",
+      "diction": "Je vais te raconter l'histoire de **Yannick** / et **Moussa**. / Deux amis, / arrivés ensemble, / embauchés le même mois, / même salaire. // Yannick, lui, / c'était le **grand**. / Chaque week-end : / *(voix de Yannick : large, joyeuse, un geste de la main)* « Laissez, / c'est moi qui paie. » / Un nouveau téléphone / chaque année. / Et dès que quelqu'un appelait du pays, / il envoyait. / Sans compter. / *(petit temps)* Tout le monde l'aimait. // Moussa, lui, / avait un petit **carnet**. *(tu tapotes le carnet)* / Chaque mois, / le **5**, / il envoyait à sa famille la même somme. / Pas plus, / pas moins. / Quand un cousin appelait pour un extra, / il répondait : / *(voix de Moussa : calme, douce, ferme)* « Ce mois-ci, j'ai déjà envoyé. / Le mois prochain, / on verra ensemble. » / On le trouvait **radin**. / Même Yannick le taquinait : / *(voix de Yannick, moqueuse)* « Toi et ton carnet, / tu vas l'emporter dans ta tombe ? » //",
+      "ton": "conteur, posé",
+      "gestes": "tourne une page du carnet en commençant ; tapote le carnet sur « petit carnet »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3", "partie": "histoire_2", "debut_s": 55, "fin_s": 95,
+      "plans": ["A", "C", "B"], "rushes": ["plan-03", "plan-04"],
+      "texte": "Cinq ans ont passé. Un jour, la mère de Yannick tombe malade. Il faut payer l'hôpital, vite. Yannick ouvre son compte. Il n'y a rien. Il a tout donné, tout montré, rien gardé. Et tu sais qui a payé la moitié de l'hôpital ? Moussa. Le radin. Parce que lui avait gardé. Il n'a pas fait de discours. Il a envoyé l'argent, et il a juste dit : « C'est pour ta mère. » Celui qui disait non aux petites demandes, c'est celui qui a pu dire oui à la grande.",
+      "diction": "Cinq ans ont passé. // Un jour, / la mère de Yannick tombe malade. / Il faut payer l'hôpital, / **vite**. / Yannick ouvre son compte. // *(silence)* Il n'y a **rien**. / Il a tout donné, / tout montré, / rien **gardé**. // Et tu sais qui a payé la moitié de l'hôpital ? // *(2 secondes, regard caméra)* **Moussa**. / Le radin. / Parce que lui / avait gardé. // Il n'a pas fait de discours. / Il a envoyé l'argent, / et il a juste dit : / *(voix de Moussa, très doux)* « C'est pour ta mère. » // Celui qui disait **non** aux petites demandes, / c'est celui qui a pu dire **oui** / à la grande. //",
+      "ton": "plus lent, plus grave",
+      "gestes": "immobile sur « Il n'y a rien »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4", "partie": "conseil_1", "debut_s": 95, "fin_s": 115,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Alors trois choses. Un. Paie-toi en premier. Le jour où ton salaire tombe, une petite somme part de côté, avant tout le reste. Même cinq pour cent.",
+      "diction": "Alors / trois choses. // *(un doigt)* **Un.** / Paie-toi **en premier**. / Le jour où ton salaire tombe, / une petite somme part de côté, / avant tout le reste. / Même **cinq** pour cent. //",
+      "ton": "plus direct, un peu plus rapide",
+      "gestes": "compte sur les doigts au-dessus de la table",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5", "partie": "conseil_2", "debut_s": 115, "fin_s": 130,
+      "plans": ["A"], "rushes": ["plan-05"],
+      "texte": "Deux. Aide avec une somme fixe, pas au gré des appels. Décide ce que tu envoies chaque mois, annonce-le à ta famille, et tiens-le. Une aide régulière vaut plus qu'une aide émotionnelle.",
+      "diction": "*(deux doigts)* **Deux.** / Aide avec une somme **fixe**, / pas au gré des appels. / Décide ce que tu envoies chaque mois, / annonce-le à ta famille, / et **tiens**-le. / Une aide régulière vaut plus qu'une aide émotionnelle. //",
+      "ton": "direct",
+      "gestes": "deux doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6", "partie": "conseil_3", "debut_s": 130, "fin_s": 150,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Trois. Avant un achat, pose-toi une seule question : « Est-ce que je l'achèterais si personne ne le voyait ? » Si la réponse est non, ce n'est pas pour toi que tu l'achètes.",
+      "diction": "*(trois doigts)* **Trois.** / Avant un achat, / pose-toi une seule question : / « Est-ce que je l'achèterais / si **personne** ne le voyait ? » / Si la réponse est non, // ce n'est pas pour toi que tu l'achètes. //",
+      "ton": "direct",
+      "gestes": "trois doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7", "partie": "machiavel", "debut_s": 150, "fin_s": 165,
+      "plans": ["A"], "rushes": ["plan-06"],
+      "texte": "Machiavel l'a écrit il y a cinq cents ans : celui qui veut à tout prix paraître généreux finit par tout dépenser, et par être haï. Mieux vaut passer pour économe.",
+      "diction": "Machiavel l'a écrit il y a cinq cents ans : / celui qui veut à tout prix **paraître** généreux / finit par tout dépenser, / et par être **haï**. / Mieux vaut passer pour **économe**. //",
+      "ton": "neutre, posé",
+      "gestes": "aucun",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8", "partie": "conseil_de_fin", "debut_s": 165, "fin_s": 180,
+      "plans": ["A", "B"], "rushes": ["plan-07"],
+      "texte": "Cette semaine, pendant sept jours, écris chaque dépense. Même le café. Tu ne changes rien encore. Tu regardes, c'est tout. C'est en regardant qu'un homme reprend la main sur son argent. Et le jour où les tiens auront vraiment besoin de toi, tu seras là.",
+      "diction": "Cette semaine, / pendant **sept** jours, / écris chaque dépense. / Même le café. // Tu ne changes rien encore. / Tu **regardes**, / c'est tout. // C'est en regardant / qu'un homme reprend la main sur son argent. // Et le jour où les tiens auront vraiment besoin de toi, // tu seras **là**. // *(2 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "voix plus basse et plus lente",
+      "gestes": "pose le stylo, croise les mains sur la table, avance le buste",
+      "mouvement_camera": "statique"
+    }
+  ],
+
+  "plans_de_coupe": [
+    {
+      "id": "C1", "description": "vue de dessus : une main qui écrit des chiffres dans le carnet",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "vue de dessus, statique",
+      "prompt_en": "Top-down close-up of a Black man's hand writing columns of small figures in a paper notebook with a pen on a wooden table, the figures blurred and unreadable, neutral slightly cool daylight, subtle gold reflection on the pen, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable numbers, readable text, banknotes, calculator, laptop, logo, watermark, deformed hand, cartoon",
+      "tournage_maison": "Le carnet du décor, filmé de dessus."
+    },
+    {
+      "id": "C2", "description": "des pièces qu'on range une à une dans une boîte en métal, puis le couvercle qui se ferme",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "gros plan, statique",
+      "prompt_en": "Close-up of fingers placing coins one by one into a small old metal tin on a wooden table, then closing the lid, neutral cool daylight with warm gold highlights on the coins, shallow depth of field, cinematic, 9:16 vertical",
+      "prompt_negatif": "banknotes, piles of cash, gold bars, logo, text, watermark, deformed hand, cartoon",
+      "tournage_maison": "Une boîte en métal et quelques pièces. Jamais de billets."
+    },
+    {
+      "id": "C3", "description": "un ticket de caisse qu'on déplie sur la table",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "vue de dessus",
+      "prompt_en": "Top-down shot of a hand unfolding a long paper shop receipt on a wooden table, printed lines blurred and unreadable, neutral cool daylight, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable text, readable prices, store logo, watermark, cartoon",
+      "tournage_maison": "N'importe quel ticket, filmé flou."
+    },
+    {
+      "id": "C4", "description": "un écran d'application de transfert d'argent avec des montants fictifs ou floutés",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a smartphone screen showing a generic money transfer confirmation screen, all numbers and names blurred and unreadable, a thumb pressing the send button, neutral daylight, cinematic, 9:16 vertical",
+      "prompt_negatif": "real app logo, brand, readable amounts, readable names, banknotes, watermark, cartoon",
+      "tournage_maison": "Jamais tes vraies données : un écran fictif ou flouté au montage."
+    },
+    {
+      "id": "C5", "description": "un téléphone posé sur la table qui vibre, avec un nom générique à l'écran (« Tonton », « Cousin »)",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "A smartphone lying face up on a wooden table vibrating with an incoming call, the screen glowing, the caller name blurred, a notebook and a small metal tin beside it, neutral daylight, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable real names, logo, brand, watermark, cartoon",
+      "tournage_maison": "Crée un contact « Tonton » et fais-toi appeler depuis un autre téléphone ; le nom réel est ajouté au montage si besoin."
+    },
+    {
+      "id": "C6", "description": "un porte-monnaie usé qu'on referme et qu'on range",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "gros plan",
+      "prompt_en": "Close-up of a worn leather coin purse being closed by a man's hands and put away into a pocket, neutral cool daylight, shallow depth of field, cinematic, 9:16 vertical",
+      "prompt_negatif": "banknotes, brand logo, text, watermark, deformed hands, cartoon",
+      "tournage_maison": "Ton porte-monnaie, sans billets visibles."
+    }
+  ],
+
+  "timeline": [
+    { "debut_s": 0, "fin_s": 7, "image": "A", "mouvement": "statique", "musique": { "niveau": 0, "note": "voix seule" }, "texte_ecran": [{ "texte": "Même salaire. Deux destins.", "debut_s": 0, "fin_s": 7 }] },
+    { "debut_s": 7, "fin_s": 10, "image": "B", "mouvement": "gros plan sur « Tu sais pourquoi ? »", "musique": { "niveau": 0 } },
+    { "debut_s": 10, "fin_s": 20, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.08, "note": "la musique entre, très bas" } },
+    { "debut_s": 20, "fin_s": 26, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Yannick : « C'est moi qui paie. »", "debut_s": 20, "fin_s": 28 }] },
+    { "debut_s": 26, "fin_s": 30, "image": "A", "mouvement": "statique, sur « c'est moi qui paie »", "musique": { "niveau": 0.10 } },
+    { "debut_s": 30, "fin_s": 33, "image": "C4", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 33, "fin_s": 40, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 40, "fin_s": 44, "image": "C1", "mouvement": "vue de dessus", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Moussa : le 5 du mois, la même somme.", "debut_s": 40, "fin_s": 48 }, { "texte": "5", "debut_s": 43, "fin_s": 45, "note": "le chiffre apparaît sur « le 5 »" }] },
+    { "debut_s": 44, "fin_s": 55, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 55, "fin_s": 58, "image": "C5", "mouvement": "statique (« un cousin appelait », sinon pendant la tombe)", "musique": { "niveau": 0.10 } },
+    { "debut_s": 58, "fin_s": 65, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 65, "fin_s": 75, "image": "C", "mouvement": "statique, lent", "musique": { "niveau": 0.06, "note": "musique qui baisse" }, "texte_ecran": [{ "texte": "5 ans plus tard", "debut_s": 65, "fin_s": 70 }] },
+    { "debut_s": 75, "fin_s": 80, "image": "B", "mouvement": "gros plan : « Il n'y a rien. »", "musique": { "niveau": 0, "note": "musique coupée 1 seconde" } },
+    { "debut_s": 80, "fin_s": 84, "image": "C2", "mouvement": "gros plan, couvercle qui se ferme sur « lui avait gardé »", "musique": { "niveau": 0.10, "note": "la musique reprend" } },
+    { "debut_s": 84, "fin_s": 95, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Il a dit non aux petites demandes. Oui à la grande.", "debut_s": 89, "fin_s": 95 }] },
+    { "debut_s": 95, "fin_s": 115, "image": "A/B en alternance", "mouvement": "coupes franches", "musique": { "niveau": 0.15, "note": "musique un peu plus présente" }, "texte_ecran": [{ "texte": "1. Paie-toi en premier", "debut_s": 98, "fin_s": 114 }, { "texte": "5 %", "debut_s": 110, "fin_s": 113, "note": "sur « cinq pour cent »" }] },
+    { "debut_s": 115, "fin_s": 122, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.15 }, "texte_ecran": [{ "texte": "2. Une somme fixe, pas au gré des appels", "debut_s": 115, "fin_s": 129 }] },
+    { "debut_s": 122, "fin_s": 125, "image": "C3", "mouvement": "vue de dessus, sur « une aide régulière »", "musique": { "niveau": 0.15 } },
+    { "debut_s": 125, "fin_s": 145, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.15 }, "texte_ecran": [{ "texte": "3. « Et si personne ne le voyait ? »", "debut_s": 130, "fin_s": 149 }] },
+    { "debut_s": 145, "fin_s": 150, "image": "B", "mouvement": "gros plan sur « ce n'est pas pour toi que tu l'achètes »", "musique": { "niveau": 0.15 } },
+    { "debut_s": 150, "fin_s": 165, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 165, "fin_s": 172, "image": "A", "mouvement": "mains croisées, buste avancé", "musique": { "niveau": 0.05, "note": "la musique descend" }, "texte_ecran": [{ "texte": "7 jours. Chaque dépense. Même le café.", "debut_s": 165, "fin_s": 177 }] },
+    { "debut_s": 172, "fin_s": 174, "image": "C6", "mouvement": "gros plan", "musique": { "niveau": 0.02 } },
+    { "debut_s": 174, "fin_s": 180, "image": "B", "mouvement": "gros plan sur « tu seras là », 2 s de regard caméra, coupe", "musique": { "niveau": 0, "note": "musique à zéro" } }
+  ],
+
+  "couverture": {
+    "source": "vue de dessus du carnet ouvert, la boîte en métal à côté",
+    "texte": "Ce que tu gardes",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "Top-down photograph of an open paper notebook with blurred columns of figures, a pen and a small old metal tin with a few coins on a wooden table, neutral slightly cool daylight, gold highlights, dark empty upper third for a title, 9:16 vertical, photorealistic",
+    "prompt_negatif": "banknotes, readable numbers, text, logo, watermark, cartoon"
+  },
+
+  "legende": "Même salaire. L'un payait toutes les tournées, l'autre tenait un petit carnet.\nCinq ans plus tard, devine lequel a pu payer l'hôpital.\n\nTrois conseils pour garder, aider sans te vider, et un défi pour cette semaine.",
+  "hashtags": ["#MrZika", "#Afrique", "#Diaspora", "#Discipline", "#Machiavel"],
+
+  "si_trop_long": [
+    "Supprimer le segment S7 (Machiavel) en entier.",
+    "Supprimer le plan de coupe C5.",
+    "Ne jamais couper : l'histoire (S2, S3), le segment S8."
+  ]
+}

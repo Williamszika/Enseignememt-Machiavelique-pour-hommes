@@ -3,6 +3,7 @@
 **Durée visée :** 3 minutes (environ 400 mots parlés, débit calme, avec des silences).
 **Format :** face caméra, vertical 9:16, **assis à une table, avec des chaises vides autour de toi**. Plans de coupe entre crochets.
 **À publier :** pendant le bloc (30 septembre – 2 octobre), idéalement le jour 2 ou 3.
+**Workflow pour la fabrication :** [workflows/bloc-03-le-cercle.workflow.json](workflows/bloc-03-le-cercle.workflow.json) (segments, diction, gestes, mouvements, prompts IA des plans de coupe, montage seconde par seconde ; 180 s maximum).
 
 > **Règle du compte pour les histoires :** on raconte une histoire comme une histoire (« je vais te raconter l'histoire de… »), jamais comme un « client » ou un fait réel.
 > **Règle du thème :** on ne demande à personne de « couper » ses amis ni sa famille. On regarde, on choisit où mettre son temps, et on garde ceux qui disent vrai.
@@ -192,4 +193,4 @@ Code : `/` petite pause · `//` vraie pause (1 à 2 s) · **gras** = appuyer le 
 
 **Couverture de la vidéo :** plan A large, toi à la table et les chaises vides autour, dans la lumière dorée, avec le texte `Qui est dans ton cercle ?` en gros, en or.
 
-**Si la vidéo dépasse 3 min 15 :** coupe d'abord le passage Machiavel, puis le plan C6 ; jamais l'histoire, ni les trois questions d'Ousmane, ni le conseil de fin.
+**Si la vidéo dépasse 3 min (180 s, le maximum) :** coupe d'abord le passage Machiavel, puis le plan C6 ; jamais l'histoire, ni les trois questions d'Ousmane, ni le conseil de fin.

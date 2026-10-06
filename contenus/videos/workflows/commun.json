@@ -1,0 +1,124 @@
+{
+  "version": "1.0",
+  "description": "Réglages communs à toutes les vidéos Mr Zika. Chaque fichier bloc-NN-*.workflow.json hérite de ce fichier (clé \"herite_de\") et ne contient que ce qui est propre à son thème. En cas de conflit, la valeur du fichier du bloc l'emporte.",
+  "compte": {
+    "nom": "Mr Zika",
+    "public": "hommes africains, en Afrique et dans la diaspora",
+    "langue": "fr",
+    "plateformes": ["TikTok", "Reels Facebook (page Mr Zika)"]
+  },
+  "duree": {
+    "max_s": 180,
+    "cible_s": 180,
+    "regle": "La vidéo finale ne dépasse JAMAIS 180 secondes. Si elle dépasse, appliquer la liste \"si_trop_long\" du bloc, dans l'ordre, jusqu'à repasser sous 180 s."
+  },
+  "export": {
+    "largeur": 1080,
+    "hauteur": 1920,
+    "ratio": "9:16",
+    "fps": 30,
+    "video": "H.264 (libx264), CRF 18-20, preset slow, yuv420p",
+    "audio": "AAC 48 kHz stéréo, 192 kb/s",
+    "loudness": "-14 LUFS intégré, crête vraie -1 dBTP",
+    "conteneur": "mp4, faststart",
+    "fichiers": {
+      "video": "exports/bloc-NN-theme.mp4",
+      "couverture": "exports/bloc-NN-theme-couverture.jpg (1080 x 1920)"
+    },
+    "exemple_ffmpeg_final": "ffmpeg -i montage.mov -c:v libx264 -crf 19 -preset slow -pix_fmt yuv420p -r 30 -c:a aac -b:a 192k -ar 48000 -af loudnorm=I=-14:TP=-1:LRA=11 -movflags +faststart exports/bloc-NN-theme.mp4"
+  },
+  "plans_camera": {
+    "A": {
+      "nom": "plan face",
+      "description": "Face caméra, objectif à hauteur des yeux, regard dans l'objectif. Distance et cadre précisés par chaque bloc (plan poitrine par défaut, 1 à 1,2 m).",
+      "mouvement": "statique (trépied)"
+    },
+    "B": {
+      "nom": "gros plan",
+      "description": "N'est PAS tourné : c'est le plan A recadré au montage à 130-150 %, centré sur le visage (yeux au tiers haut du cadre).",
+      "mouvement": "recadrage numérique ; passage de A à B en coupe franche (pas de zoom animé), sauf indication contraire du bloc",
+      "exemple_ffmpeg": "crop=iw/1.4:ih/1.4:(iw-iw/1.4)/2:ih*0.08,scale=1080:1920"
+    },
+    "C": {
+      "nom": "trois-quarts",
+      "description": "Trépied déplacé à 45° sur le côté ; le présentateur regarde un point à côté de l'objectif, comme s'il racontait à quelqu'un. Sert uniquement pour l'histoire, en alternance avec A.",
+      "mouvement": "statique (trépied)"
+    },
+    "coupe": {
+      "nom": "plan de coupe",
+      "description": "Images d'illustration (C1, C2…) posées par-dessus la voix. Filmées au téléphone à la main, ou générées par IA à partir des prompts du bloc.",
+      "mouvement": "précisé pour chaque plan de coupe"
+    }
+  },
+  "tournage_seul": {
+    "ordre": [
+      "1. Trépied en position A : tourner à la suite tous les segments marqués plan A, sans bouger le trépied.",
+      "2. Un seul déplacement du trépied en position C : tourner l'histoire une deuxième fois.",
+      "3. Plans de coupe à la fin, téléphone à la main."
+    ],
+    "nommage_rushes": "rushes/bloc-NN/ pour les prises A et C (nom d'origine du téléphone) ; rushes/bloc-NN/coupe/ pour les plans de coupe ; rushes/musique/ pour la musique. Le champ \"rush\" de chaque segment (plan-01, plan-02…) correspond au numéro de plan du tableau « Les plans à tourner » du script, retrouvé par transcription."
+  },
+  "texte_ecran": {
+    "police": "Montserrat SemiBold (ou toute police sans empattement sobre)",
+    "taille_px": 64,
+    "couleur": "#D4AF37",
+    "contour": "noir 4 px à 60 % d'opacité, ou ombre portée douce",
+    "position": "centré, dans le tiers haut (y ≈ 300-520 px), jamais sur le visage",
+    "apparition": "fondu 0,2 s à l'entrée et à la sortie, aucune animation de lettres",
+    "longueur_max": "8 mots par ligne, 2 lignes au plus"
+  },
+  "sous_titres": {
+    "source": "transcription (whisper-cpp, français) corrigée mot par mot avec le champ \"texte\" de chaque segment : le texte du script fait foi",
+    "police": "Montserrat Medium",
+    "taille_px": 54,
+    "couleur": "#FFFFFF",
+    "contour": "ombre noire douce",
+    "position": "milieu bas, y ≈ 1250-1450 px : au-dessus de la zone de légende TikTok, jamais sur la bouche",
+    "decoupage": "4 à 7 mots par sous-titre, coupe aux pauses du script (/ et //)",
+    "incrustes": true
+  },
+  "musique": {
+    "regles": [
+      "Uniquement une musique dont on a les droits (bibliothèque audio gratuite de YouTube, musique sous licence, ou musique générée avec un outil dont la licence autorise l'usage commercial).",
+      "Niveaux exprimés de 0 à 1 par rapport à la voix : 0 = coupée, 0.10-0.15 = sous la voix, 0.20 = présente pendant les conseils.",
+      "La musique descend à 0 pour le conseil de fin, dans toutes les vidéos.",
+      "Ducking : la musique baisse automatiquement de 6 dB quand la voix parle."
+    ]
+  },
+  "transitions": {
+    "defaut": "coupe franche",
+    "fondu": "fondu enchaîné 0,5 s, seulement quand le bloc le demande"
+  },
+  "generation_ia": {
+    "outil_conseille": "Kling (text_to_video ou image_to_video), ou tout générateur vidéo équivalent",
+    "parametres": {
+      "ratio": "9:16",
+      "duree_s": 5,
+      "mode": "qualité (pro) pour les plans de coupe gardés à l'écran plus de 3 s"
+    },
+    "regles": [
+      "Les prompts des plans de coupe sont en anglais (champ prompt_en) avec leur prompt négatif (champ prompt_negatif).",
+      "Générer une seule fois chaque plan de coupe, vérifier, puis régénérer seulement si le résultat ne respecte pas les règles du compte. Chaque génération est payante.",
+      "Jamais de visage d'enfant, jamais de billets de banque, jamais de logo ni de marque, jamais de texte lisible dans l'image.",
+      "Jamais le visage d'une personne réelle autre que le présentateur lui-même, et le présentateur seulement à partir de sa propre photo, avec son accord.",
+      "Toute image réaliste générée par IA est signalée à la publication (option « contenu généré par l'IA » de TikTok, mention équivalente sur Facebook).",
+      "Les plans de coupe générés sont recadrés et étalonnés comme le reste de la vidéo (même couleur que le bloc)."
+    ],
+    "presentateur_ia": {
+      "par_defaut": false,
+      "explication": "La voie normale est le tournage réel du présentateur (plans A et C). Le présentateur généré n'est qu'une solution de secours, et seulement à partir de la propre photo du présentateur, avec son accord, la vidéo étant alors signalée comme contenu IA.",
+      "prompt_modele_en": "Vertical 9:16 video of a Black African man in his thirties speaking calmly to the camera, {position}, {lieu_en}, {lumiere_en}, {tenue_en}. Natural gestures, steady eye contact, subtle head movements, realistic lip movement. Static tripod shot, {cadre_en}. Documentary style, natural skin texture, no text, no logos.",
+      "prompt_negatif": "cartoon, 3D render, plastic skin, exaggerated expressions, text, subtitles, logo, watermark, extra fingers, deformed hands, distorted face, flickering"
+    }
+  },
+  "regles_du_compte": [
+    "Les histoires sont racontées comme des histoires (« je vais te raconter l'histoire de… »), jamais présentées comme un client ou un fait réel.",
+    "Jamais de visage d'enfant, ni filmé ni généré. Un enfant n'apparaît que de dos, ou par ses mains ou ses pieds, avec l'accord d'un parent.",
+    "Personne filmée dehors sans son accord : les passants restent de dos ou flous.",
+    "Jamais de billets de banque, aucun conseil de placement, aucune promesse de gain.",
+    "Jamais de vraies conversations, de vrais contacts ou de vraies données à l'écran : noms inventés, écrans flous ou fictifs.",
+    "Aucune citation de Machiavel inventée : seule la phrase du champ \"machiavel\" du bloc est dite.",
+    "Pas de mots qui déclenchent la modération (soumission, dominée, dresser).",
+    "Le présentateur valide la sélection des prises avant l'assemblage, et regarde le résultat final avant toute publication. Aucune publication automatique."
+  ]
+}

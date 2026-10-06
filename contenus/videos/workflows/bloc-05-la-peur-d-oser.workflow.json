@@ -1,0 +1,227 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-05-la-peur-d-oser",
+  "bloc": 5,
+  "theme": "La peur d'oser",
+  "titre": "Didier, Seydou et la table au bord de la route",
+  "script": "contenus/videos/bloc-05-la-peur-d-oser.md",
+  "publication": "pendant le bloc (6-8 octobre 2026), idéalement le jour 2 ou 3",
+  "duree": { "cible_s": 180, "max_s": 180 },
+
+  "ambiance": {
+    "position": "debout (seule vidéo de la série tournée debout)",
+    "lieu": "près d'une porte (entrée, chambre, cour ou balcon), la porte entrouverte visible derrière le présentateur",
+    "decor": "sobre : la porte entrouverte avec de la lumière qui passe par l'ouverture, rien d'autre sur le mur",
+    "lumiere": "une seule source forte sur le côté (fenêtre ou porte ouverte sur l'extérieur), le reste de la pièce plus sombre ; un côté du visage plus éclairé que l'autre ; pas de lampe d'appoint",
+    "tenue": "tee-shirt ou chemise unie foncée (noir, anthracite ou vert très sombre), manches retroussées",
+    "moment": "milieu de matinée ou début d'après-midi, lumière franche",
+    "cadre_A": "plan américain : face, hauteur des yeux, à 1,8-2 m, du haut de la tête à mi-cuisses",
+    "position_C": "trépied à 45° sur le côté, la porte dans le cadre derrière le présentateur",
+    "reperes_sol": "deux bouts de scotch au sol : la place de départ et le demi-pas vers la caméra du début des conseils",
+    "couleur": {
+      "description": "la plus contrastée de la série : noirs profonds, hautes lumières chaudes, saturation légèrement baissée",
+      "filtre_ffmpeg": "eq=contrast=1.18:brightness=-0.02:saturation=0.9,colorbalance=rh=0.04:gh=0.02:bh=-0.03,curves=preset=increase_contrast"
+    },
+    "musique": {
+      "style": "percussions (djembé ou percussions sourdes) qui montent progressivement, puis silence net avant le conseil de fin",
+      "recherche_bibliotheque": "cinematic percussion build, djembe, slow build, no melody, 90-100 BPM",
+      "prompt_generation_en": "Minimal cinematic African percussion track, djembe and low frame drum, starts almost silent with single sparse hits, slowly builds in density and intensity over two minutes, no melody, no vocals, ends abruptly at its peak, 95 BPM",
+      "duree_s": 165
+    },
+    "rythme": "plans longs (5-8 s) au début, coupes de plus en plus rapprochées pendant les conseils (2-3 s), de nouveau un plan long pour la fin",
+    "transitions": "coupes franches ; aucun fondu"
+  },
+
+  "presentateur_ia_variables": {
+    "position": "standing",
+    "lieu_en": "in a dim room next to a half-open door with strong daylight coming through the opening",
+    "lumiere_en": "single hard side light, one side of the face lit, deep shadows, high contrast",
+    "tenue_en": "plain dark t-shirt with rolled-up sleeves",
+    "cadre_en": "medium-long shot from head to mid-thigh"
+  },
+
+  "machiavel": {
+    "phrase": "Ceux qui s'élèvent par leur propre valeur acquièrent avec difficulté, mais conservent avec facilité.",
+    "reference": "Le Prince, chapitre VI"
+  },
+
+  "segments": [
+    {
+      "id": "S1", "partie": "accroche", "debut_s": 0, "fin_s": 10,
+      "plans": ["A"], "rushes": ["plan-01"],
+      "texte": "Tu attends le bon moment ? Je vais te dire un secret : il ne viendra pas. Pas tout seul.",
+      "diction": "Tu attends le **bon moment** ? // Je vais te dire un secret : / il ne viendra **pas**. // Pas tout seul. //",
+      "ton": "calme, presque un défi",
+      "gestes": "debout, immobile, bras le long du corps, regard fixe dans l'objectif",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2", "partie": "histoire_1", "debut_s": 10, "fin_s": 55,
+      "plans": ["A", "C"], "rushes": ["plan-02", "plan-04"],
+      "texte": "Je vais te raconter l'histoire de Didier et Seydou. Deux voisins. Les deux voulaient ouvrir un petit commerce. Didier avait tout prévu. Un carnet plein de plans. Il savait ce qu'il vendrait, où, à quel prix. Il attendait juste le bon moment. D'abord, il fallait plus d'argent de côté. Puis il y a eu le mariage du frère. Puis la rentrée des enfants. Puis la saison des pluies. « L'année prochaine. Là, ce n'est pas le moment. » Seydou, lui, n'avait pas de carnet. Un matin, il a sorti une table pliante devant chez lui, au bord de la route. Dessus, quelques recharges de téléphone, des bonbons, des piles. Les gens riaient : « C'est ça, ton commerce ? »",
+      "diction": "Je vais te raconter l'histoire de **Didier** / et **Seydou**. / Deux voisins. / Les deux voulaient ouvrir un petit commerce. // Didier / avait **tout** prévu. / Un carnet plein de plans. / Il savait ce qu'il vendrait, / où, / à quel prix. / Il attendait juste / le bon moment. // D'abord, / il fallait plus d'argent de côté. / Puis il y a eu le mariage du frère. / Puis la rentrée des enfants. / Puis la saison des pluies. / *(voix de Didier : raisonnable, un peu fatiguée)* « L'année prochaine. / Là, / ce n'est pas le moment. » // Seydou, / lui, / n'avait **pas** de carnet. / Un matin, / il a sorti une table pliante / devant chez lui, / au bord de la route. / Dessus, / quelques recharges de téléphone, / des bonbons, / des piles. / Les gens riaient : / *(voix moqueuse)* « C'est **ça**, / ton commerce ? » //",
+      "ton": "conteur, lent",
+      "gestes": "petit geste de la main vers la porte quand il parle de Seydou ; sur « un carnet plein de plans », mains qui tiennent un carnet imaginaire",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3", "partie": "histoire_2", "debut_s": 55, "fin_s": 95,
+      "plans": ["A", "C"], "rushes": ["plan-03", "plan-04"],
+      "texte": "Le premier mois, il a gagné presque rien. Mais il a appris. Ce que les gens demandent. À quelle heure ils passent. Ce qui part, ce qui reste. Au bout d'un an, la table est devenue un kiosque. Puis le kiosque est devenu une petite boutique. Cinq ans ont passé. Un soir, Didier entre dans la boutique de Seydou. Il a encore son carnet sous le bras. Il demande : « Comment tu as su que c'était le bon moment ? » Et Seydou répond : « Je ne savais pas. J'ai commencé petit. Et le moment est devenu bon en marchant. »",
+      "diction": "Le premier mois, / il a gagné / presque **rien**. // Mais il a **appris**. / Ce que les gens demandent. / À quelle heure ils passent. / Ce qui part, / ce qui reste. / Au bout d'un an, / la table est devenue un **kiosque**. / Puis le kiosque / est devenu une petite **boutique**. // Cinq ans ont passé. // Un soir, / Didier entre dans la boutique de Seydou. / Il a encore son carnet / sous le bras. / Il demande : / *(voix de Didier, sincère)* « Comment tu as su / que c'était le bon moment ? » // Et Seydou répond : / *(voix de Seydou : simple, sans fierté, lente)* « Je ne savais **pas**. / J'ai commencé **petit**. // Et le moment est devenu bon / en **marchant**. » //",
+      "ton": "un peu plus de rythme, puis très lent pour la réponse de Seydou",
+      "gestes": "immobile pendant la réponse de Seydou, regard caméra",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4", "partie": "conseil_1", "debut_s": 95, "fin_s": 115,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Alors trois choses. Un. Rends le premier pas ridiculement petit. Pas « ouvrir un commerce ». « Appeler un fournisseur. » Un pas assez petit pour que la peur n'ait pas le temps de discuter.",
+      "diction": "Alors / trois choses. / *(un doigt)* **Un.** / Rends le premier pas / ridiculement **petit**. / Pas « ouvrir un commerce ». / « **Appeler** un fournisseur. » / Un pas assez petit / pour que la peur n'ait pas le temps de discuter. /",
+      "ton": "plus direct, plus rapide, plus d'énergie",
+      "gestes": "demi-pas vers la caméra au tout début (repère au sol) ; un doigt levé",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5", "partie": "conseil_2", "debut_s": 115, "fin_s": 130,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Deux. Donne une date à ta décision. Écris-la. Une peur sans date peut durer toute une vie.",
+      "diction": "*(deux doigts)* **Deux.** / Donne une **date** à ta décision. / Écris-la. / Une peur sans date / peut durer toute une **vie**. /",
+      "ton": "direct, rapide",
+      "gestes": "deux doigts levés",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6", "partie": "conseil_3", "debut_s": 130, "fin_s": 145,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Trois. Parle de ton projet à une seule personne qui te demandera, dans une semaine : « Alors ? » Pas pour t'applaudir. Pour te tenir.",
+      "diction": "*(trois doigts)* **Trois.** / Parle de ton projet / à **une seule** personne / qui te demandera, dans une semaine : / « Alors ? » / Pas pour t'applaudir. / Pour te **tenir**. //",
+      "ton": "direct, au sommet de l'énergie",
+      "gestes": "trois doigts levés",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7", "partie": "machiavel", "debut_s": 145, "fin_s": 165,
+      "plans": ["A"], "rushes": ["plan-06"],
+      "texte": "Machiavel l'a écrit il y a cinq cents ans : ceux qui s'élèvent par leur propre valeur acquièrent avec difficulté, mais conservent avec facilité. Le début dur, c'est normal. C'est lui qui fait tenir la suite.",
+      "diction": "Machiavel l'a écrit il y a cinq cents ans : / ceux qui s'élèvent par leur **propre** valeur / acquièrent avec **difficulté**, / mais conservent avec **facilité**. // Le début dur, / c'est normal. / C'est lui / qui fait **tenir** la suite. //",
+      "ton": "on reprend le calme, voix posée",
+      "gestes": "immobile, mains jointes devant soi",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8", "partie": "conseil_de_fin", "debut_s": 165, "fin_s": 180,
+      "plans": ["A", "B"], "rushes": ["plan-07"],
+      "texte": "Cette semaine, fais le premier pas que tu repousses. Pas le projet entier. Le premier pas. Ouvre la porte. Tu verras : elle était moins lourde que ta peur.",
+      "diction": "*(2 secondes de silence complet avant)* Cette semaine, / fais le **premier pas** / que tu repousses. // Pas le projet entier. / Le premier pas. // *(tu ouvres un peu la porte, la lumière entre)* Ouvre la porte. // Tu verras : / elle était moins lourde / que ta **peur**. // *(2 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "voix basse et lente",
+      "gestes": "recule d'un pas, main sur la poignée de la porte, ouvre un peu la porte sur « Ouvre la porte », puis regard caméra",
+      "mouvement_camera": "statique"
+    }
+  ],
+
+  "plans_de_coupe": [
+    {
+      "id": "C1", "description": "un doigt suspendu au-dessus du bouton vert « appeler » d'un téléphone, qui hésite (version 1) ou qui appuie (version 2)",
+      "duree_utilisee_s": 3, "versions": ["hesite", "appuie"],
+      "mouvement_camera": "très lent travelling avant (push-in), 100 % → 108 %",
+      "prompt_en": "Extreme close-up of a Black man's index finger hovering just above the green call button on a smartphone screen held in his other hand, hesitating, the finger trembling slightly, in a dark room with a single hard side light, high contrast, deep blacks, warm golden highlight on the finger, shallow depth of field, the caller name on the screen is blurred and unreadable, very slow push-in, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable text, readable name, logo, app brand, watermark, extra fingers, deformed hand, bright flat lighting, cartoon, 3D render",
+      "variante_appuie_en": "Same shot, the finger finally presses the green call button decisively, the screen switches to a blurred calling screen",
+      "tournage_maison": "Crée un contact au nom inventé, ouvre sa fiche, filme ton doigt de très près au-dessus du bouton : une prise où il hésite, une prise où il appuie."
+    },
+    {
+      "id": "C2", "description": "une main qui se pose sur une poignée de porte, en gros plan",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a man's hand slowly settling on a metal door handle, a thin line of bright warm daylight coming through the gap of the half-open door, the rest in deep shadow, high contrast, cinematic, shallow depth of field, static shot, 9:16 vertical",
+      "prompt_negatif": "logo, text, watermark, deformed hand, extra fingers, flat lighting, cartoon",
+      "tournage_maison": "Téléphone à 30 cm de la poignée, lumière venant de l'ouverture."
+    },
+    {
+      "id": "C3", "description": "des chaussures qui franchissent un seuil, filmées au ras du sol",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "statique, caméra posée au sol",
+      "prompt_en": "Ground-level shot of a man's simple worn leather shoes stepping over a doorway threshold from a dark interior into bright warm daylight, high contrast, cinematic, slow motion, static camera on the floor, 9:16 vertical",
+      "prompt_negatif": "brand logo on shoes, text, watermark, luxury sneakers, cartoon, 3D render",
+      "tournage_maison": "Pose le téléphone par terre devant la porte, au ralenti si possible."
+    },
+    {
+      "id": "C4", "description": "un formulaire papier qu'on remplit au stylo, texte illisible",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "vue de dessus, statique",
+      "prompt_en": "Top-down close-up of a man's hand filling in a paper form with a pen on a wooden table, the handwriting and printed text blurred and unreadable, hard side light, high contrast, warm highlights, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable text, readable words, logo, official emblem, watermark, deformed hand, cartoon",
+      "tournage_maison": "N'importe quelle feuille ; filmer flou ou de biais pour que rien ne soit lisible."
+    },
+    {
+      "id": "C5", "description": "une porte qui s'ouvre lentement sur une lumière forte, filmée depuis l'intérieur sombre",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "statique, la lumière envahit le cadre",
+      "prompt_en": "From inside a dark room, a wooden door slowly swings open onto bright warm daylight that floods the frame, dust particles in the light beam, high contrast, cinematic, static shot, 9:16 vertical",
+      "prompt_negatif": "people, faces, text, logo, watermark, cartoon, 3D render",
+      "tournage_maison": "Pièce sombre, porte donnant sur l'extérieur en plein jour, téléphone au fond de la pièce."
+    },
+    {
+      "id": "C6", "description": "un carnet fermé posé sur une étagère, un peu de poussière dessus (le carnet de Didier)",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "très lent travelling latéral",
+      "prompt_en": "Close-up of a closed, slightly worn notebook lying forgotten on a wooden shelf, a thin layer of dust on its cover, a pen beside it, a hard beam of side light, deep shadows, high contrast, very slow lateral camera slide, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable text, title on cover, logo, brand, watermark, cartoon, 3D render",
+      "tournage_maison": "Un vieux carnet, un peu de farine ou de talc soufflé dessus pour la poussière."
+    },
+    {
+      "id": "C7", "description": "une petite table pliante posée dehors, avec quelques recharges de téléphone, des piles et des bonbons",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "lent travelling avant",
+      "prompt_en": "A small folding table set up outdoors at the edge of a dusty street in a West African neighborhood in the morning, on it a few phone credit cards, batteries and sweets neatly arranged, nobody behind the table, warm hard sunlight, long shadows, high contrast, slow push-in, documentary style, 9:16 vertical",
+      "prompt_negatif": "people's faces, children, readable text, brand logos, banknotes, watermark, cartoon, 3D render",
+      "tournage_maison": "Une table pliante devant chez toi avec quelques objets. Passants seulement de dos ou flous, jamais un visage d'enfant."
+    }
+  ],
+
+  "timeline": [
+    { "debut_s": 0, "fin_s": 2, "image": "C1 (version hesite)", "mouvement": "push-in lent", "musique": { "niveau": 0, "note": "voix seule" }, "texte_ecran": [{ "texte": "Pas maintenant ?", "debut_s": 0, "fin_s": 6 }] },
+    { "debut_s": 2, "fin_s": 10, "image": "A", "mouvement": "statique", "musique": { "niveau": 0 } },
+    { "debut_s": 10, "fin_s": 25, "image": "A", "mouvement": "plan long, statique", "musique": { "niveau": 0.06, "note": "percussion très basse, un coup isolé de temps en temps" }, "texte_ecran": [{ "texte": "Didier : un carnet plein de plans", "debut_s": 18, "fin_s": 24 }] },
+    { "debut_s": 25, "fin_s": 33, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.08 } },
+    { "debut_s": 33, "fin_s": 40, "image": "C6", "mouvement": "travelling latéral lent", "musique": { "niveau": 0.08 }, "texte_ecran": [{ "texte": "« L'année prochaine. »", "debut_s": 33, "fin_s": 39 }] },
+    { "debut_s": 40, "fin_s": 44, "image": "C7", "mouvement": "push-in lent", "musique": { "niveau": 0.10, "note": "les percussions s'installent" }, "texte_ecran": [{ "texte": "Seydou : une table au bord de la route", "debut_s": 40, "fin_s": 47 }] },
+    { "debut_s": 44, "fin_s": 55, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 55, "fin_s": 63, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Le premier mois : presque rien.", "debut_s": 57, "fin_s": 62 }] },
+    { "debut_s": 63, "fin_s": 72, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Table → kiosque → boutique", "debut_s": 66, "fin_s": 72 }] },
+    { "debut_s": 72, "fin_s": 82, "image": "C", "mouvement": "plan long, statique", "musique": { "niveau": 0.06, "note": "la musique baisse" }, "texte_ecran": [{ "texte": "5 ans plus tard", "debut_s": 72, "fin_s": 77 }] },
+    { "debut_s": 82, "fin_s": 90, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.04 } },
+    { "debut_s": 90, "fin_s": 95, "image": "B", "mouvement": "coupe franche vers gros plan sur « en marchant »", "musique": { "niveau": 0, "note": "musique coupée sur la réponse de Seydou" }, "texte_ecran": [{ "texte": "« Le moment est devenu bon en marchant. »", "debut_s": 89, "fin_s": 95 }] },
+    { "debut_s": 95, "fin_s": 103, "image": "A", "mouvement": "le présentateur fait un demi-pas vers la caméra", "musique": { "niveau": 0.15, "note": "les percussions reviennent, plus fortes" }, "texte_ecran": [{ "texte": "1. Un premier pas ridiculement petit", "debut_s": 97, "fin_s": 114 }] },
+    { "debut_s": 103, "fin_s": 106, "image": "C1 (version appuie)", "mouvement": "push-in lent", "musique": { "niveau": 0.15 } },
+    { "debut_s": 106, "fin_s": 115, "image": "A/B en alternance toutes les 3 s", "mouvement": "coupes franches", "musique": { "niveau": 0.15 } },
+    { "debut_s": 115, "fin_s": 120, "image": "A/B en alternance toutes les 2-3 s", "mouvement": "coupes franches", "musique": { "niveau": 0.18, "note": "percussions plus rapides" }, "texte_ecran": [{ "texte": "2. Une date. Écrite.", "debut_s": 116, "fin_s": 129 }] },
+    { "debut_s": 120, "fin_s": 123, "image": "C4", "mouvement": "vue de dessus", "musique": { "niveau": 0.18 } },
+    { "debut_s": 123, "fin_s": 130, "image": "A/B en alternance toutes les 2-3 s", "mouvement": "coupes franches", "musique": { "niveau": 0.18 } },
+    { "debut_s": 130, "fin_s": 145, "image": "A/B en alternance toutes les 2 s", "mouvement": "coupes franches", "musique": { "niveau": 0.20, "note": "sommet de la musique" }, "texte_ecran": [{ "texte": "3. Quelqu'un qui te demandera : « Alors ? »", "debut_s": 131, "fin_s": 144 }] },
+    { "debut_s": 145, "fin_s": 163, "image": "A", "mouvement": "plan long, statique", "musique": { "niveau": 0.10, "note": "la musique redescend un peu" } },
+    { "debut_s": 163, "fin_s": 165, "image": "A", "mouvement": "le présentateur recule d'un pas", "musique": { "niveau": 0, "note": "SILENCE NET 2 s, aucun son" } },
+    { "debut_s": 165, "fin_s": 173, "image": "A", "mouvement": "plan long : main sur la poignée, la porte s'ouvre un peu", "musique": { "niveau": 0, "note": "seulement la voix et le bruit de la porte" }, "texte_ecran": [{ "texte": "Le premier pas. Cette semaine.", "debut_s": 166, "fin_s": 178 }] },
+    { "debut_s": 173, "fin_s": 175, "image": "C5", "mouvement": "statique", "musique": { "niveau": 0 } },
+    { "debut_s": 175, "fin_s": 180, "image": "B", "mouvement": "gros plan sur « que ta peur », puis 2 s de regard caméra et coupe", "musique": { "niveau": 0 } }
+  ],
+
+  "couverture": {
+    "source": "image extraite de C1 (doigt au-dessus du bouton « appeler »)",
+    "texte": "Pas maintenant ?",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "Extreme close-up of a Black man's finger hovering above the green call button of a smartphone, dark room, single hard side light, high contrast, deep blacks, warm gold highlights, blurred unreadable screen, empty dark upper third for a title, 9:16 vertical, photorealistic",
+    "prompt_negatif": "readable text, logo, watermark, extra fingers, deformed hand, cartoon"
+  },
+
+  "legende": "L'un avait un carnet plein de plans et attendait le bon moment.\nL'autre a sorti une table pliante au bord de la route.\nCinq ans plus tard, devine lequel avait une boutique.\n\nTrois conseils pour faire le premier pas, même avec la peur.",
+  "hashtags": ["#MrZika", "#Afrique", "#Diaspora", "#Courage", "#Machiavel"],
+
+  "si_trop_long": [
+    "Supprimer le segment S7 (Machiavel) en entier.",
+    "Supprimer la phrase « Ce que les gens demandent. À quelle heure ils passent. Ce qui part, ce qui reste. » dans S3.",
+    "Raccourcir les silences // à 1 s au lieu de 2 s, sauf le silence net avant S8.",
+    "Ne jamais couper : la réponse de Seydou, le silence net avant S8, le segment S8."
+  ]
+}

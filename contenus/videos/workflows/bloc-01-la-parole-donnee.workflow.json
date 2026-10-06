@@ -1,0 +1,216 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-01-la-parole-donnee",
+  "bloc": 1,
+  "theme": "La parole donnée",
+  "titre": "Kofi, Ibrahim et les deux boutiques de tailleur",
+  "script": "contenus/videos/bloc-01-la-parole-donnee.md",
+  "publication": "pendant le bloc (24-26 septembre 2026), idéalement le jour 2 ou 3",
+  "duree": { "cible_s": 180, "max_s": 180 },
+
+  "ambiance": {
+    "position": "assis",
+    "lieu": "chez soi, le coin près de la fenêtre ; fenêtre sur le côté, jamais derrière",
+    "decor": "à 1,5-2 m derrière : une petite lampe chaude allumée et un tissu wax plié ou suspendu (clin d'œil aux tailleurs)",
+    "lumiere": "lumière de fenêtre sur le côté + lampe chaude dans le fond",
+    "tenue": "chemise unie sombre, ou chemise en wax sobre",
+    "moment": "matin ou fin d'après-midi",
+    "cadre_A": "plan poitrine : face, hauteur des yeux, à 1-1,2 m",
+    "position_C": "trépied à 45° sur le côté",
+    "couleur": {
+      "description": "ambrée, chaude",
+      "filtre_ffmpeg": "eq=contrast=1.05:saturation=1.05,colorbalance=rs=0.05:gs=0.02:bs=-0.05:rm=0.04:bm=-0.04"
+    },
+    "musique": {
+      "style": "calme, kora ou piano doux",
+      "recherche_bibliotheque": "calm kora instrumental, soft african acoustic, warm, slow",
+      "prompt_generation_en": "Calm warm instrumental with solo kora and soft piano, slow tempo around 70 BPM, gentle and reflective, no percussion, no vocals, storytelling mood",
+      "duree_s": 175
+    },
+    "rythme": "conteur, posé ; silence avant « Chez Ibrahim »",
+    "transitions": "coupes franches"
+  },
+
+  "presentateur_ia_variables": {
+    "position": "sitting",
+    "lieu_en": "in a simple home corner by a window, a warm lamp and folded wax print fabric in the soft background",
+    "lumiere_en": "soft window light from the side, warm amber lamp in the background",
+    "tenue_en": "plain dark shirt",
+    "cadre_en": "medium close-up from the chest up"
+  },
+
+  "machiavel": {
+    "phrase": "Un prince est estimé quand il se déclare sans réserve.",
+    "reference": "Le Prince, chapitre XXI"
+  },
+
+  "segments": [
+    {
+      "id": "S1", "partie": "accroche", "debut_s": 0, "fin_s": 10,
+      "plans": ["A", "B"], "rushes": ["plan-01"],
+      "texte": "Tu veux savoir ce que vaut un homme ? Ne regarde pas ce qu'il possède. Regarde ce qui se passe quand il dit : « c'est promis ».",
+      "diction": "Tu veux savoir ce que vaut un **homme** ? // Ne regarde pas ce qu'il **possède**. / Regarde ce qui se passe quand il dit : // « c'est **promis** ». //",
+      "ton": "voix basse et lente, pas de sourire",
+      "gestes": "regard fixe dans l'objectif, mains posées",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2", "partie": "histoire_1", "debut_s": 10, "fin_s": 50,
+      "plans": ["A", "C"], "rushes": ["plan-02", "plan-04"],
+      "texte": "Je vais te raconter l'histoire de deux tailleurs, dans un grand marché. Le premier, Kofi, était gentil. Trop gentil. Tout le monde lui demandait un costume pour un mariage, un baptême, une fête. Et Kofi disait oui. À tout le monde. « Samedi, c'est prêt. » Il ne voulait décevoir personne. Le second, Ibrahim, avait une petite boutique au fond du marché. Quand on lui demandait un costume pour samedi, il réfléchissait, et parfois il disait : « Samedi, non. Jeudi prochain, oui. » Beaucoup de clients partaient, fâchés, chez Kofi. « Il se prend pour qui, celui-là ? Kofi, lui, il dit oui. »",
+      "diction": "Je vais te raconter l'histoire de deux tailleurs, / dans un grand marché. // Le premier, **Kofi**, / était gentil. / *(petit temps)* Trop gentil. / Tout le monde lui demandait un costume. / Pour un mariage, / un baptême, / une fête. / Et Kofi disait **oui**. / À **tout** le monde. / *(voix de Kofi : rapide, enjouée, pressée)* « Samedi, c'est prêt ! » / Il ne voulait décevoir **personne**. // Le second, **Ibrahim**, avait une petite boutique au fond du marché. / Quand on lui demandait un costume pour samedi, / il **réfléchissait**. / Et parfois il disait : / *(voix d'Ibrahim : lente, calme, grave)* « Samedi, non. / Jeudi prochain, oui. » // Beaucoup de clients partaient, fâchés. / *(voix agacée)* « Il se prend pour qui, celui-là ? Kofi, lui, il dit oui. » //",
+      "ton": "conteur, plus doux, un peu plus lent, comme au coin du feu",
+      "gestes": "mains qui accompagnent le récit, sans excès",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3", "partie": "histoire_2", "debut_s": 50, "fin_s": 95,
+      "plans": ["A", "C", "B"], "rushes": ["plan-03", "plan-04"],
+      "texte": "Et chaque vendredi soir, la même scène. Des hommes en colère devant la boutique de Kofi. Les costumes pas finis. Le mariage le lendemain. Kofi qui s'excuse, qui promet encore : « Demain matin, je te jure. » Et où finissaient ces hommes, la veille du mariage ? Chez Ibrahim. Les années ont passé. Aujourd'hui, quand Ibrahim dit « ce sera prêt samedi », personne ne demande de garantie. Personne ne rappelle trois fois. Sa parole suffit. Kofi, lui, n'était pas un mauvais homme. Il avait juste confondu être gentil et être fiable.",
+      "diction": "Et chaque vendredi soir, / la même scène. / Des hommes en colère devant la boutique de Kofi. / Les costumes pas finis. / Le mariage le **lendemain**. / Kofi qui s'excuse, / qui promet encore : / *(voix de Kofi, plus petite)* « Demain matin, / je te jure. » // Et où finissaient ces hommes, / la veille du mariage ? // *(2 secondes de silence, regard caméra)* Chez **Ibrahim**. // *(plus lent)* Les années ont passé. / Aujourd'hui, quand Ibrahim dit « ce sera prêt samedi », / personne ne demande de garantie. / Personne ne rappelle trois fois. / Sa parole **suffit**. // Kofi, lui, n'était pas un mauvais homme. / Il avait juste confondu // être **gentil** / et être **fiable**. //",
+      "ton": "on monte un peu la tension, puis on redescend",
+      "gestes": "immobile pendant le silence avant « Chez Ibrahim »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4", "partie": "conseil_1", "debut_s": 95, "fin_s": 115,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Alors trois choses, simples. Un. Avant de promettre, compte. Est-ce que tu as le temps, l'argent et la force de le faire ? S'il manque une seule des trois, ne dis pas oui. Dis : « Laisse-moi vérifier, je te réponds ce soir. »",
+      "diction": "Alors / trois choses. / Simples. // *(lever un doigt)* **Un.** / Avant de promettre, / **compte**. / Est-ce que tu as le temps, / l'argent, / et la force de le faire ? / S'il manque **une seule** des trois, / ne dis pas oui. / Dis : « Laisse-moi vérifier, / je te réponds ce soir. » //",
+      "ton": "plus direct, un peu plus rapide",
+      "gestes": "un doigt levé ; compter temps, argent, force sur les doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5", "partie": "conseil_2", "debut_s": 115, "fin_s": 130,
+      "plans": ["A"], "rushes": ["plan-05"],
+      "texte": "Deux. Donne une date plus lointaine que celle que tu penses tenir. Et livre avant. Personne ne s'est jamais plaint d'un homme en avance.",
+      "diction": "*(deux doigts)* **Deux.** / Donne une date plus **lointaine** que celle que tu penses tenir. / Et livre **avant**. / Personne ne s'est jamais plaint d'un homme en avance. //",
+      "ton": "direct",
+      "gestes": "deux doigts levés",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6", "partie": "conseil_3", "debut_s": 130, "fin_s": 150,
+      "plans": ["A", "B"], "rushes": ["plan-05"],
+      "texte": "Trois. Si tu ne peux plus tenir, préviens avant la date, pas après. Une promesse qu'on renégocie en face, c'est encore une parole. Une promesse qu'on laisse mourir en silence, c'est une dette.",
+      "diction": "*(trois doigts)* **Trois.** / Si tu ne peux plus tenir, / préviens **avant** la date. / Pas après. / Une promesse qu'on renégocie en face, / c'est encore une parole. / Une promesse qu'on laisse mourir en silence, // c'est une **dette**. //",
+      "ton": "direct, plus grave sur « c'est une dette »",
+      "gestes": "trois doigts levés",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7", "partie": "machiavel", "debut_s": 150, "fin_s": 165,
+      "plans": ["A"], "rushes": ["plan-06"],
+      "texte": "Machiavel écrivait qu'un prince est estimé quand il se déclare sans réserve. Pas de « on verra », pas de « je vais essayer ». Un oui qui veut dire oui. Un non qui veut dire non.",
+      "diction": "Machiavel écrivait qu'un prince est estimé / quand il se déclare **sans réserve**. / Pas de « on verra ». / Pas de « je vais essayer ». / Un oui qui veut dire **oui**. / Un non qui veut dire **non**. //",
+      "ton": "neutre, posé, comme quand on cite un livre",
+      "gestes": "aucun",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8", "partie": "conseil_de_fin", "debut_s": 165, "fin_s": 180,
+      "plans": ["A", "B"], "rushes": ["plan-07"],
+      "texte": "Cette semaine, retrouve une promesse que tu as laissée tomber. Une seule. Tiens-la. Ou appelle la personne et dis-lui la vérité. Le respect que tu gagneras ce jour-là, aucun discours ne pourra te le donner. Ta parole, c'est la seule chose qui t'appartient vraiment. Fais-la valoir.",
+      "diction": "Cette semaine, / retrouve une promesse que tu as laissée tomber. / Une **seule**. // Tiens-la. / Ou appelle la personne, / et dis-lui la **vérité**. // Le respect que tu gagneras ce jour-là, / aucun discours ne pourra te le donner. // Ta parole, / c'est la seule chose qui t'appartient **vraiment**. // Fais-la valoir. // *(2 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "voix plus basse, plus lente que tout le reste, regard fixe",
+      "gestes": "buste avancé de 10 cm vers la caméra",
+      "mouvement_camera": "statique"
+    }
+  ],
+
+  "plans_de_coupe": [
+    {
+      "id": "C1", "description": "des mains qui passent un fil dans une aiguille",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "statique, macro",
+      "prompt_en": "Macro close-up of a Black tailor's hands threading a needle in warm amber window light, a wax print fabric blurred in the background, shallow depth of field, slow and precise movement, cinematic, static shot, 9:16 vertical",
+      "prompt_negatif": "faces, text, logo, watermark, deformed hands, extra fingers, cartoon, 3D render",
+      "tournage_maison": "Tes mains, n'importe quel fil et aiguille, téléphone très près."
+    },
+    {
+      "id": "C2", "description": "un tissu wax qu'on déplie sur une table",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "vue de dessus, statique",
+      "prompt_en": "Top-down shot of hands unfolding a colorful African wax print fabric on a wooden table, warm amber light, the fabric pattern revealed slowly, cinematic, 9:16 vertical",
+      "prompt_negatif": "faces, text, brand logo, watermark, deformed hands, cartoon",
+      "tournage_maison": "Le tissu wax du décor, déplié sur la table."
+    },
+    {
+      "id": "C3", "description": "un mètre ruban qu'on déroule",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique, gros plan",
+      "prompt_en": "Close-up of a yellow tailor's measuring tape being unrolled across a wooden work table by a man's hand, warm amber light, shallow depth of field, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable numbers in focus, text, logo, watermark, deformed hand, cartoon",
+      "tournage_maison": "Un mètre ruban de couture, déroulé lentement."
+    },
+    {
+      "id": "C4", "description": "un costume ou une chemise sur un cintre, accroché à une porte",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "très lent travelling vertical de bas en haut",
+      "prompt_en": "An unfinished tailored suit jacket on a hanger hooked on a wooden door in a small tailor's shop, chalk marks and pins visible, warm evening light, very slow vertical camera tilt from bottom to top, cinematic, 9:16 vertical",
+      "prompt_negatif": "people, faces, brand labels, text, logo, watermark, cartoon, 3D render",
+      "tournage_maison": "Une veste ou une chemise sur un cintre accroché à une porte."
+    },
+    {
+      "id": "C5", "description": "un écran de téléphone avec un message « C'est prêt samedi ? » (message écrit soi-même, jamais une vraie conversation)",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a smartphone lying on a wooden table in warm light, a new chat message notification lighting up the screen, the screen content softly blurred, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "readable names, real app logo, brand, watermark, cartoon",
+      "tournage_maison": "Écris « C'est prêt samedi ? » dans tes notes ou une conversation avec toi-même et filme l'écran ; jamais une vraie conversation. En génération IA, le texte est ajouté au montage."
+    },
+    {
+      "id": "C6", "description": "une porte de boutique ou d'appartement qui s'ouvre, lumière chaude",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "A small tailor shop wooden door slowly opening from inside onto a warm golden evening light, fabric rolls on shelves in the foreground, cinematic, static shot, 9:16 vertical",
+      "prompt_negatif": "faces, text, signs, logo, watermark, cartoon, 3D render",
+      "tournage_maison": "Ta porte d'entrée, filmée de l'intérieur en fin de journée. Atelier réel seulement avec l'accord du tailleur, sans visage de client."
+    }
+  ],
+
+  "timeline": [
+    { "debut_s": 0, "fin_s": 7, "image": "A", "mouvement": "statique", "musique": { "niveau": 0, "note": "voix seule, pas de musique les 3 premières secondes" }, "texte_ecran": [{ "texte": "Ce que vaut un homme", "debut_s": 0, "fin_s": 6 }] },
+    { "debut_s": 7, "fin_s": 10, "image": "B", "mouvement": "coupe vers gros plan sur « c'est promis »", "musique": { "niveau": 0 } },
+    { "debut_s": 10, "fin_s": 15, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.08, "note": "la musique entre, très bas" } },
+    { "debut_s": 15, "fin_s": 19, "image": "C1", "mouvement": "macro", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Kofi disait oui à tout le monde.", "debut_s": 15, "fin_s": 22 }] },
+    { "debut_s": 19, "fin_s": 25, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 25, "fin_s": 29, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 29, "fin_s": 35, "image": "B", "mouvement": "gros plan sur « Samedi, c'est prêt ! »", "musique": { "niveau": 0.10 } },
+    { "debut_s": 35, "fin_s": 39, "image": "C2", "mouvement": "vue de dessus", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Ibrahim disait : « Jeudi prochain. »", "debut_s": 35, "fin_s": 42 }] },
+    { "debut_s": 39, "fin_s": 50, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 50, "fin_s": 53, "image": "C5", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 53, "fin_s": 57, "image": "C4", "mouvement": "travelling vertical lent", "musique": { "niveau": 0.10 } },
+    { "debut_s": 57, "fin_s": 65, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 65, "fin_s": 70, "image": "B", "mouvement": "gros plan : silence puis « Chez Ibrahim »", "musique": { "niveau": 0, "note": "musique coupée 1 seconde sur le silence avant « Chez Ibrahim », puis reprend" } },
+    { "debut_s": 70, "fin_s": 73, "image": "C6", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 73, "fin_s": 85, "image": "C", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 85, "fin_s": 95, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 }, "texte_ecran": [{ "texte": "Gentil ≠ fiable", "debut_s": 88, "fin_s": 95 }] },
+    { "debut_s": 95, "fin_s": 115, "image": "A/B en alternance", "mouvement": "coupes franches", "musique": { "niveau": 0.15, "note": "musique un peu plus présente" }, "texte_ecran": [{ "texte": "1. Compte avant de promettre", "debut_s": 100, "fin_s": 114 }] },
+    { "debut_s": 115, "fin_s": 122, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.15 }, "texte_ecran": [{ "texte": "2. Annonce plus tard, livre plus tôt", "debut_s": 115, "fin_s": 129 }] },
+    { "debut_s": 122, "fin_s": 125, "image": "C3", "mouvement": "gros plan", "musique": { "niveau": 0.15 } },
+    { "debut_s": 125, "fin_s": 145, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.15 }, "texte_ecran": [{ "texte": "3. Préviens avant, pas après", "debut_s": 130, "fin_s": 149 }] },
+    { "debut_s": 145, "fin_s": 150, "image": "B", "mouvement": "gros plan sur « c'est une dette »", "musique": { "niveau": 0.15 } },
+    { "debut_s": 150, "fin_s": 165, "image": "A", "mouvement": "statique", "musique": { "niveau": 0.10 } },
+    { "debut_s": 165, "fin_s": 174, "image": "A", "mouvement": "buste avancé", "musique": { "niveau": 0.05, "note": "la musique descend" }, "texte_ecran": [{ "texte": "Tiens une promesse oubliée. Cette semaine.", "debut_s": 166, "fin_s": 178 }] },
+    { "debut_s": 174, "fin_s": 180, "image": "B", "mouvement": "gros plan sur la dernière phrase, 2 s de regard caméra, coupe", "musique": { "niveau": 0, "note": "musique à zéro, fin presque en silence" } }
+  ],
+
+  "couverture": {
+    "source": "image extraite du plan A, regard caméra",
+    "texte": "Ce que vaut un homme",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "Portrait of a calm Black African man in his thirties looking straight into the camera, sitting by a window, warm amber lamp and folded wax fabric softly blurred behind him, dark shirt, empty dark upper third for a title, 9:16 vertical, photorealistic, documentary style",
+    "prompt_negatif": "smile, text, logo, watermark, luxury, cartoon, 3D render"
+  },
+
+  "legende": "Deux tailleurs. L'un disait oui à tout le monde. L'autre disait parfois non.\nDevine chez qui les clients finissaient la veille du mariage.\n\nTrois conseils pour que ta parole redevienne une valeur sûre, et un défi pour cette semaine.",
+  "hashtags": ["#MrZika", "#Afrique", "#Diaspora", "#Discipline", "#Machiavel"],
+
+  "si_trop_long": [
+    "Supprimer le segment S7 (Machiavel) en entier.",
+    "Raccourcir les silences // à 1 s, sauf le silence avant « Chez Ibrahim ».",
+    "Ne jamais couper : l'histoire (S2, S3), le segment S8."
+  ]
+}
