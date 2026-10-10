@@ -274,6 +274,7 @@ Mots anglais importés tels quels par les sources 10-25. À connaître pour déc
 | Dans un pays de **langue et de coutumes différentes**, le meilleur remède est d'aller y habiter : on voit naître les désordres et on y remédie à temps | *Le Prince*, ch. III | La diaspora : s'installer vraiment là où l'on vit, sans renier d'où l'on vient |
 | Suivre les chemins des grands hommes, comme **l'archer prudent qui vise plus haut** que la cible pour l'atteindre | *Le Prince*, ch. VI | Se choisir un modèle ; être le modèle que ses enfants imiteront |
 | Ceux qui s'élèvent **par leur propre valeur** acquièrent avec difficulté, mais conservent avec facilité | *Le Prince*, ch. VI | Le début difficile est normal ; ce qui est gagné à la peine tient |
+| Il n'y a rien de plus **difficile à entreprendre**, ni de plus incertain à réussir, que d'introduire un ordre nouveau | *Le Prince*, ch. VI | Commencer quelque chose de nouveau est difficile pour tout le monde : la difficulté n'est pas un signe qu'on n'est pas fait pour ça |
 
 Inventions de la chaîne C : « le prince maintient ses sujets dans une légère incertitude quant à ses faveurs » (15), « une paranoïa saine » (10).
 
