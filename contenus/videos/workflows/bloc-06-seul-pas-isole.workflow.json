@@ -1,0 +1,633 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-06-seul-pas-isole",
+  "bloc": 6,
+  "theme": "Seul, pas isolé",
+  "titre": "Ismaël, Bakary et le « ça va »",
+  "script": "contenus/videos/bloc-06-seul-pas-isole.md",
+  "publication": "pendant le bloc (9-11 octobre 2026), idéalement le jour 2 ou 3",
+  "version": "3 (« À toi » + appel à revenir raconter en commentaire + défi lancé en face)",
+  "duree": {
+    "cible_s": 180,
+    "max_s": 180
+  },
+  "ambiance": {
+    "position": "assis sur une chaise près d'une fenêtre",
+    "lieu": "le soir, coin fenêtre, pièce sombre ; toutes les lumières éteintes sauf une lampe",
+    "decor": "très dépouillé : une petite table, une lampe chaude, une seule tasse ; une deuxième tasse cachée à portée de main pour le défi ; derrière la fenêtre, la nuit et des lumières floues",
+    "lumiere": "une seule lampe chaude sur le côté du visage, l'autre côté dans l'ombre sans disparaître",
+    "tenue": "pull ou tee-shirt uni, sombre ou bleu nuit",
+    "moment": "la nuit tombée",
+    "cadre_A": "plan poitrine : face, hauteur des yeux, à 1-1,2 m, la lampe dans le cadre, la fenêtre et la nuit dans le fond",
+    "position_A_rapproche": "pour « À toi » et pour le défi : la chaise avancée de 30 cm vers la caméra (repère au sol), le trépied ne bouge pas",
+    "position_C": "trépied à 45° côté fenêtre : profil éclairé par la lampe, la fenêtre la nuit derrière",
+    "reperes_sol": "deux repères de scotch pour les pieds de la chaise : place normale, et 30 cm plus près de la caméra",
+    "couleur": {
+      "description": "bleu nuit avec le halo chaud de la lampe ; réchauffement progressif, la dernière image (deux tasses) nettement plus chaude que la première (une tasse)",
+      "filtre_ffmpeg": "eq=contrast=1.08:brightness=-0.03:saturation=0.9,colorbalance=rs=-0.06:bs=0.08:rm=-0.03:bm=0.05:rh=0.06:bh=-0.04"
+    },
+    "musique": {
+      "style": "piano lent, très sobre, beaucoup de silence entre les notes",
+      "recherche_bibliotheque": "slow sparse solo piano, night, melancholic but warm, minimal",
+      "prompt_generation_en": "Very sparse slow solo piano, single notes with long silences between them, night mood, quiet and intimate, slightly melancholic but warm, around 55 BPM, no other instruments, no vocals",
+      "duree_s": 170
+    },
+    "rythme": "lent, longues respirations, plans longs",
+    "transitions": "coupes franches ; aucune musique pendant « À toi » ni pendant le défi"
+  },
+  "presentateur_ia_variables": {
+    "position": "sitting on a chair next to a window at night",
+    "lieu_en": "in a dark sparse room, a single warm table lamp beside him, one cup on a small table, blurred city lights through the window",
+    "lumiere_en": "one warm lamp lighting one side of the face, the rest in deep night blue",
+    "tenue_en": "plain dark or navy sweater",
+    "cadre_en": "medium close-up from the chest up"
+  },
+  "machiavel": {
+    "phrase": "La meilleure forteresse, c'est de ne pas être haï des siens.",
+    "reference": "Le Prince, chapitre XX"
+  },
+  "segments": [
+    {
+      "id": "S1",
+      "partie": "accroche",
+      "debut_s": 0,
+      "fin_s": 10,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-01"
+      ],
+      "texte": "Combien de fois tu as dit « ça va » cette semaine ? Et combien de fois c'était vrai ?",
+      "diction": "Combien de fois tu as dit **« ça va »** / cette semaine ? // Et combien de fois / c'était **vrai** ? //",
+      "ton": "voix basse, calme, presque un murmure",
+      "gestes": "immobile, regard caméra",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2",
+      "partie": "histoire_1",
+      "debut_s": 10,
+      "fin_s": 45,
+      "plans": [
+        "A",
+        "C",
+        "B"
+      ],
+      "rushes": [
+        "plan-02",
+        "plan-04"
+      ],
+      "texte": "Je vais te raconter l'histoire d'Ismaël. Il est arrivé en France il y a deux ans. Travail de nuit, une chambre, et une famille au pays qui compte sur lui. Chaque dimanche, sa mère appelle : « Ça va, mon fils ? » « Ça va, maman. » Ses amis écrivent : « Ça va ? » « Ça va. » Au travail : « Ça va ? » « Ça va. » Ça ne va pas. Il dort mal. Il mange seul, debout, devant l'évier. Mais il se dit : un homme ne se plaint pas.",
+      "diction": "Je vais te raconter l'histoire d'**Ismaël**. // Il est arrivé en France / il y a deux ans. / Travail de **nuit**, / une chambre, / et une famille au pays / qui compte sur lui. // Chaque dimanche, / sa mère appelle : / *(voix de la mère : douce)* « Ça va, mon fils ? » / *(voix d'Ismaël : rapide, automatique)* « Ça va, maman. » / Ses amis écrivent : / « Ça va ? » / « Ça va. » / Au travail : / « Ça va ? » / *(encore plus plat)* « Ça va. » // *(2 secondes de silence)* Ça ne va **pas**. // Il dort mal. / Il mange seul, / **debout**, / devant l'évier. / Mais il se dit : / *(voix intérieure, dure)* un homme ne se plaint pas. //",
+      "ton": "conteur, lent ; les « ça va » de plus en plus plats",
+      "gestes": "immobile ; regard qui se baisse sur « devant l'évier »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3",
+      "partie": "histoire_2",
+      "debut_s": 45,
+      "fin_s": 75,
+      "plans": [
+        "A",
+        "C",
+        "B"
+      ],
+      "rushes": [
+        "plan-03",
+        "plan-04"
+      ],
+      "texte": "Un soir, son cousin Bakary l'appelle. « Ça va ? » « Ça va. » Silence. Puis Bakary dit : « Non. Je t'ai demandé comment tu vas. Pas si tu es vivant. » Et pour la première fois depuis deux ans, Ismaël parle. Une heure. Le travail, la fatigue, l'argent, la solitude. Le lendemain, rien n'avait changé dans sa vie. Mais il s'est réveillé plus léger. Le samedi suivant, il est allé manger chez Bakary. Deux assiettes. Deux tasses.",
+      "diction": "Un soir, / son cousin **Bakary** l'appelle. / « Ça va ? » / « Ça va. » // *(silence, 2 secondes)* Puis Bakary dit : / *(voix de Bakary : calme, ferme, chaleureuse)* « **Non**. / Je t'ai demandé comment tu **vas**. // Pas si tu es **vivant**. » // *(un temps)* Et pour la première fois depuis deux ans, / Ismaël **parle**. // Une heure. / Le travail, / la fatigue, / l'argent, / la solitude. // Le lendemain, / rien n'avait changé dans sa vie. / Mais il s'est réveillé / plus **léger**. // Le samedi suivant, / il est allé manger chez Bakary. / *(un léger sourire)* Deux assiettes. // Deux **tasses**. //",
+      "ton": "plus lent ; la phrase de Bakary ferme et tendre ; léger sourire à la fin",
+      "gestes": "silence de 2 s avant la phrase de Bakary",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4",
+      "partie": "a_toi",
+      "debut_s": 75,
+      "fin_s": 108,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-05"
+      ],
+      "texte": "Maintenant, c'est à toi que je parle. Oui, toi. Peut-être que tu réponds « ça va » à tout le monde. Peut-être que tu penses que te taire, c'est être fort. Je ne te juge pas. Ismaël pensait pareil. Mais le jour où il a parlé, il n'est pas devenu faible. Il est redevenu léger. Alors aujourd'hui, sois comme Ismaël. Laisse quelqu'un entrer. Et si ce que tu portes est trop lourd, parle aussi à un médecin. Ce n'est pas une honte. C'est du courage.",
+      "diction": "*(2 secondes de silence, regard droit dans l'objectif)* Maintenant, / c'est à **toi** que je parle. // *(main ouverte vers la caméra, pas le doigt)* Oui, / toi. // Peut-être que tu réponds « ça va » / à **tout le monde**. / Peut-être que tu penses / que te taire, / c'est être **fort**. // *(doux)* Je ne te juge pas. / Ismaël pensait pareil. / Mais le jour où il a parlé, / il n'est pas devenu **faible**. // Il est redevenu **léger**. // Alors aujourd'hui, // sois comme **Ismaël**. / Laisse quelqu'un **entrer**. // *(plus grave, lentement)* Et si ce que tu portes / est trop **lourd**, / parle aussi à un **médecin**. / Ce n'est pas une honte. // C'est du **courage**. //",
+      "ton": "voix plus basse, plus proche, sans reproche ; plus grave sur la phrase du médecin ; sans musique",
+      "gestes": "chaise avancée de 30 cm ; main ouverte vers la caméra sur « Oui, toi » (jamais le doigt)",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5",
+      "partie": "conseil_1",
+      "debut_s": 108,
+      "fin_s": 117,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Alors trois choses. Un. Garde une personne à qui tu dis la vérité. Une seule suffit.",
+      "diction": "Alors / trois choses. // *(un doigt)* **Un.** / Garde **une** personne / à qui tu dis la vérité. / Une seule suffit. //",
+      "ton": "plus direct mais doux",
+      "gestes": "chaise reculée ; un doigt",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6",
+      "partie": "conseil_2",
+      "debut_s": 117,
+      "fin_s": 127,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Deux. Quand on te demande « ça va ? », essaie une fois de répondre vrai : « Je suis fatigué. » Le ciel ne tombera pas.",
+      "diction": "*(deux doigts)* **Deux.** / Quand on te demande « ça va ? », / essaie une fois / de répondre **vrai** : / « Je suis fatigué. » / *(léger sourire)* Le ciel ne tombera pas. //",
+      "ton": "doux, léger sourire à la fin",
+      "gestes": "deux doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7",
+      "partie": "conseil_3",
+      "debut_s": 127,
+      "fin_s": 133,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Trois. Seul le soir, d'accord. Seul toute la semaine, non. Prévois un repas par semaine avec quelqu'un.",
+      "diction": "*(trois doigts)* **Trois.** / Seul le soir, / d'accord. / Seul **toute la semaine**, / non. / Prévois un repas par semaine / avec quelqu'un. //",
+      "ton": "doux",
+      "gestes": "trois doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8",
+      "partie": "appel_commentaire",
+      "debut_s": 133,
+      "fin_s": 144,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Fais ces trois choses cette semaine. Puis reviens ici, en commentaire, me dire laquelle a été la plus dure. Je lis tout.",
+      "diction": "*(tu baisses la main, ton encourageant)* Fais ces trois choses / **cette semaine**. / *(tu montres le bas de l'écran, là où sont les commentaires)* Puis reviens **ici**, / en commentaire, / me dire laquelle / a été la plus **dure**. // Je lis **tout**. //",
+      "ton": "encourageant",
+      "gestes": "baisse la main, puis montre le bas de l'écran (les commentaires)",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S9",
+      "partie": "machiavel",
+      "debut_s": 144,
+      "fin_s": 151,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-07"
+      ],
+      "texte": "Machiavel l'a écrit : la meilleure forteresse, c'est de ne pas être haï des siens. Les murs ne protègent pas celui qui s'est coupé des autres.",
+      "diction": "Machiavel l'a écrit : / la meilleure **forteresse**, / c'est de ne pas être haï des siens. // Les murs ne protègent pas / celui qui s'est **coupé** des autres. //",
+      "ton": "neutre, posé",
+      "gestes": "aucun",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S10",
+      "partie": "conseil_de_fin",
+      "debut_s": 151,
+      "fin_s": 180,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-08"
+      ],
+      "texte": "Toi qui m'écoutes ce soir, regarde-moi. Je te lance un défi. À toi, et à personne d'autre. Aujourd'hui, appelle un frère, un ami, un cousin. Pas un message : un appel. Et quand il te demande « ça va ? », dis-lui vraiment comment tu vas. Puis reviens ici et écris un seul mot : « Appelé. » Tu n'es pas seul. Tu ne l'as jamais été.",
+      "diction": "Toi / qui m'écoutes ce soir, // **regarde-moi**. // Je te lance un **défi**. // À **toi**, / et à personne d'autre. // Aujourd'hui, / appelle un frère, / un ami, / un cousin. / Pas un message : / un **appel**. / *(tu prends la deuxième tasse et tu la poses à côté de la première)* Et quand il te demande « ça va ? », / dis-lui **vraiment** / comment tu vas. // Puis reviens **ici** / et écris un seul mot : // « **Appelé**. » // Tu n'es pas **seul**. // Tu ne l'as jamais été. // *(2 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "le défi : voix basse, lente, ferme, les yeux dans les yeux ; sans musique",
+      "gestes": "chaise de nouveau avancée ; 2 s de silence avant ; pose la deuxième tasse à côté de la première sur « dis-lui vraiment comment tu vas »",
+      "mouvement_camera": "statique"
+    }
+  ],
+  "defi": {
+    "texte": "aujourd'hui, appeler un frère, un ami ou un cousin (un appel, pas un message) et lui dire vraiment comment on va",
+    "mot_a_ecrire_en_commentaire": "Appelé"
+  },
+  "appel_commentaire": "À la fin des conseils : les essayer cette semaine, puis revenir dire en commentaire lequel a été le plus dur. Le présentateur s'engage à lire les commentaires.",
+  "plans_de_coupe": [
+    {
+      "id": "C1",
+      "description": "une seule tasse sur une table, sous la lampe, le reste dans le bleu de la nuit",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "lent travelling avant",
+      "prompt_en": "A single ceramic cup of tea on a small wooden table under the warm pool of light of a small lamp, the rest of the room in deep night blue, a dark window with blurred city lights behind, quiet and lonely mood, slow push-in, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "people, faces, second cup, text, logo, brand, watermark, alcohol, cartoon, 3D render",
+      "tournage_maison": "Ta tasse sous la lampe, toutes les autres lumières éteintes, téléphone qui avance doucement."
+    },
+    {
+      "id": "C2",
+      "description": "une assiette posée sur le bord d'un évier, une fourchette, une lumière de cuisine froide",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "statique",
+      "prompt_en": "A single plate with a fork left on the edge of a small kitchen sink at night, cold dim kitchen light, a lonely late dinner eaten standing, nobody in frame, cinematic, muted night blue palette, 9:16 vertical",
+      "prompt_negatif": "people, faces, text, logo, brand, watermark, dirty mess, cartoon, 3D render",
+      "tournage_maison": "Ton évier, une assiette, une seule lumière froide."
+    },
+    {
+      "id": "C3",
+      "description": "un téléphone posé sur la table qui s'allume et vibre, nom affiché « Cousin » (contact créé pour l'occasion)",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "statique",
+      "prompt_en": "A smartphone lying on a dark wooden table at night lighting up and vibrating with an incoming call, the screen glowing in the dark room, caller name blurred, a single cup beside it under a warm lamp, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable real names, real app logo, brand, faces, watermark, cartoon",
+      "tournage_maison": "Crée un contact « Cousin » et fais-toi appeler depuis un autre téléphone. En génération IA, le nom « Cousin » est ajouté au montage."
+    },
+    {
+      "id": "C4",
+      "description": "une fenêtre la nuit, vue de l'intérieur, les lumières de la ville floues, la vitre un peu embuée",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "View from inside a dark room through a slightly fogged window at night, blurred city and street lights in deep blue, a faint warm lamp reflection on the glass, quiet and still, cinematic, 9:16 vertical",
+      "prompt_negatif": "people, faces, readable signs, text, logo, watermark, cartoon, 3D render",
+      "tournage_maison": "Ta fenêtre la nuit ; souffle sur la vitre pour un peu de buée."
+    },
+    {
+      "id": "C5",
+      "description": "une main qui allume la lampe dans une pièce sombre",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a man's hand switching on a small warm table lamp in a dark night-blue room, the warm light blooming over the table, cinematic, 9:16 vertical",
+      "prompt_negatif": "face, text, logo, brand, watermark, deformed hand, cartoon",
+      "tournage_maison": "Ta lampe, ta main, filmé de près."
+    },
+    {
+      "id": "C6",
+      "description": "deux tasses côte à côte sous la lampe, lumière plus chaude : la dernière image de la vidéo",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "très lent travelling arrière",
+      "prompt_en": "Two ceramic cups of tea side by side on a small wooden table under a warm lamp, the light noticeably warmer and golden, the night outside the window softer, a feeling of company and comfort, nobody in frame, very slow pull-back, cinematic, 9:16 vertical",
+      "prompt_negatif": "people, faces, text, logo, brand, watermark, alcohol, cartoon, 3D render",
+      "tournage_maison": "Les deux tasses à la fin du tournage ; monte un peu la température de couleur au montage."
+    }
+  ],
+  "timeline": [
+    {
+      "debut_s": 0,
+      "fin_s": 3,
+      "image": "C1",
+      "mouvement": "approche lente",
+      "musique": {
+        "niveau": 0,
+        "note": "voix seule, presque murmurée"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Tu as dit « ça va » à qui ?",
+          "debut_s": 0,
+          "fin_s": 7
+        }
+      ]
+    },
+    {
+      "debut_s": 3,
+      "fin_s": 10,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0,
+        "note": "silence entre les phrases"
+      }
+    },
+    {
+      "debut_s": 10,
+      "fin_s": 20,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.06,
+        "note": "le piano entre, très bas, quelques notes"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Deux ans. Travail de nuit. Une chambre.",
+          "debut_s": 13,
+          "fin_s": 20
+        }
+      ]
+    },
+    {
+      "debut_s": 20,
+      "fin_s": 32,
+      "image": "C",
+      "mouvement": "côté fenêtre",
+      "musique": {
+        "niveau": 0.06
+      },
+      "texte_ecran": [
+        {
+          "texte": "« Ça va. » « Ça va. » « Ça va. »",
+          "debut_s": 24,
+          "fin_s": 31
+        }
+      ]
+    },
+    {
+      "debut_s": 32,
+      "fin_s": 38,
+      "image": "C2",
+      "mouvement": "statique, sur « il mange seul, debout »",
+      "musique": {
+        "niveau": 0.06
+      }
+    },
+    {
+      "debut_s": 38,
+      "fin_s": 45,
+      "image": "B",
+      "mouvement": "gros plan : « Ça ne va pas. »",
+      "musique": {
+        "niveau": 0,
+        "note": "piano coupé"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Ça ne va pas.",
+          "debut_s": 38,
+          "fin_s": 44
+        }
+      ]
+    },
+    {
+      "debut_s": 45,
+      "fin_s": 50,
+      "image": "C3",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0,
+        "note": "bruit de vibration, pas de musique"
+      }
+    },
+    {
+      "debut_s": 50,
+      "fin_s": 58,
+      "image": "C, puis B",
+      "mouvement": "gros plan B sur « Pas si tu es vivant »",
+      "musique": {
+        "niveau": 0,
+        "note": "silence"
+      },
+      "texte_ecran": [
+        {
+          "texte": "« Pas si tu es vivant. »",
+          "debut_s": 52,
+          "fin_s": 58
+        }
+      ]
+    },
+    {
+      "debut_s": 58,
+      "fin_s": 65,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.05,
+        "note": "le piano revient, une note à la fois"
+      }
+    },
+    {
+      "debut_s": 65,
+      "fin_s": 68,
+      "image": "C4",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.05
+      }
+    },
+    {
+      "debut_s": 68,
+      "fin_s": 75,
+      "image": "C",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.02,
+        "note": "le piano descend à zéro"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Deux assiettes. Deux tasses.",
+          "debut_s": 68,
+          "fin_s": 75
+        }
+      ]
+    },
+    {
+      "debut_s": 75,
+      "fin_s": 98,
+      "image": "A (rapproché)",
+      "mouvement": "chaise avancée, cadre plus serré, statique",
+      "musique": {
+        "niveau": 0,
+        "note": "AUCUNE musique : seulement la voix"
+      },
+      "texte_ecran": [
+        {
+          "texte": "À toi.",
+          "debut_s": 76,
+          "fin_s": 78
+        }
+      ]
+    },
+    {
+      "debut_s": 98,
+      "fin_s": 108,
+      "image": "B, puis A (rapproché)",
+      "mouvement": "gros plan B sur « Laisse quelqu'un entrer »",
+      "musique": {
+        "niveau": 0
+      },
+      "texte_ecran": [
+        {
+          "texte": "Sois comme Ismaël. Laisse quelqu'un entrer.",
+          "debut_s": 98,
+          "fin_s": 106
+        }
+      ]
+    },
+    {
+      "debut_s": 108,
+      "fin_s": 117,
+      "image": "A",
+      "mouvement": "statique (chaise reculée)",
+      "musique": {
+        "niveau": 0.08,
+        "note": "le piano revient, très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "1. Une personne à qui tu dis la vérité",
+          "debut_s": 111,
+          "fin_s": 117
+        }
+      ]
+    },
+    {
+      "debut_s": 117,
+      "fin_s": 127,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08
+      },
+      "texte_ecran": [
+        {
+          "texte": "2. Réponds vrai, une fois",
+          "debut_s": 117,
+          "fin_s": 126
+        }
+      ]
+    },
+    {
+      "debut_s": 127,
+      "fin_s": 130,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08
+      },
+      "texte_ecran": [
+        {
+          "texte": "3. Un repas par semaine avec quelqu'un",
+          "debut_s": 127,
+          "fin_s": 133
+        }
+      ]
+    },
+    {
+      "debut_s": 130,
+      "fin_s": 133,
+      "image": "C5",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08
+      }
+    },
+    {
+      "debut_s": 133,
+      "fin_s": 144,
+      "image": "A",
+      "mouvement": "la main montre le bas de l'écran (les commentaires)",
+      "musique": {
+        "niveau": 0.12,
+        "note": "le piano monte un peu : c'est un encouragement"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Essaie cette semaine. Raconte-moi en commentaire.",
+          "debut_s": 135,
+          "fin_s": 144
+        }
+      ]
+    },
+    {
+      "debut_s": 144,
+      "fin_s": 151,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.05,
+        "note": "le piano redescend"
+      }
+    },
+    {
+      "debut_s": 151,
+      "fin_s": 153,
+      "image": "A (rapproché)",
+      "mouvement": "chaise de nouveau avancée, silence, regard caméra",
+      "musique": {
+        "niveau": 0,
+        "note": "musique à zéro"
+      }
+    },
+    {
+      "debut_s": 153,
+      "fin_s": 170,
+      "image": "A (rapproché) / B",
+      "mouvement": "gros plan B sur « Je te lance un défi », puis la deuxième tasse posée",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Le défi : un appel. Dis vraiment comment tu vas.",
+          "debut_s": 155,
+          "fin_s": 169
+        }
+      ]
+    },
+    {
+      "debut_s": 170,
+      "fin_s": 177,
+      "image": "B",
+      "mouvement": "gros plan : « Tu n'es pas seul. »",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Écris « Appelé » en commentaire.",
+          "debut_s": 170,
+          "fin_s": 179
+        }
+      ]
+    },
+    {
+      "debut_s": 177,
+      "fin_s": 180,
+      "image": "C6",
+      "mouvement": "les deux tasses, image la plus chaude, coupe",
+      "musique": {
+        "niveau": 0,
+        "note": "silence"
+      }
+    }
+  ],
+  "couverture": {
+    "source": "image extraite de C1 (la tasse seule sous la lampe)",
+    "texte": "Tu as dit « ça va » à qui ?",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "A single cup of tea on a small table under a warm lamp in a dark night-blue room, a window with blurred city lights behind, lonely but calm, empty dark upper third for a title, 9:16 vertical, photorealistic",
+    "prompt_negatif": "people, faces, text, logo, watermark, alcohol, cartoon"
+  },
+  "legende": "Pendant deux ans, il a répondu « ça va » à tout le monde.\nUn soir, son cousin ne s'est pas contenté du « ça va ».\n\nEt toi, à qui tu as dit « ça va » cette semaine ?\nDéfi du jour : un appel, et tu dis vraiment comment tu vas. Écris « Appelé » quand c'est fait.",
+  "hashtags": [
+    "#MrZika",
+    "#Afrique",
+    "#Diaspora",
+    "#Discipline",
+    "#Machiavel"
+  ],
+  "si_trop_long": [
+    "Supprimer le segment S9 (Machiavel) en entier.",
+    "Supprimer le plan de coupe C5.",
+    "Ne jamais couper : l'histoire (S2, S3) et la phrase de Bakary, le moment « À toi » (S4) avec la phrase sur le médecin, l'appel à revenir raconter (S8), le défi de fin (S10)."
+  ]
+}
