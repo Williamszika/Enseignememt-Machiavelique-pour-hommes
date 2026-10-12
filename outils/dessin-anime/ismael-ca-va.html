@@ -1,0 +1,341 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Test dessin animé — Ismaël, « ça va »</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #000; }
+  svg { display: block; }
+  .cap { font-family: "DejaVu Sans", sans-serif; font-weight: 700; }
+</style>
+</head>
+<body>
+<!--
+  Test de dessin animé en code (bloc 6, « Seul, pas isolé »).
+  Tout est dessiné en SVG ; la fonction render(t) place chaque élément au temps t (secondes).
+  rendu.py appelle render(t) image par image et assemble la vidéo avec ffmpeg.
+-->
+<svg id="scene" xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="mur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1426"/>
+      <stop offset="1" stop-color="#1c2a4a"/>
+    </linearGradient>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050a1c"/>
+      <stop offset="1" stop-color="#16244a"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffc56b" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#ff9f40" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ff9f40" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ecran" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9fd3ff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#9fd3ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="peau" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7a4b2c"/>
+      <stop offset="1" stop-color="#5c3720"/>
+    </linearGradient>
+    <linearGradient id="sweat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f4677"/>
+      <stop offset="1" stop-color="#22345a"/>
+    </linearGradient>
+    <filter id="flou"><feGaussianBlur stdDeviation="6"/></filter>
+  </defs>
+
+  <!-- Tout ce qui bouge avec la « caméra » -->
+  <g id="camera">
+    <!-- Mur -->
+    <rect x="-200" y="-200" width="1480" height="2320" fill="url(#mur)"/>
+
+    <!-- Fenêtre et ville la nuit -->
+    <g id="fenetre">
+      <rect x="610" y="330" width="380" height="560" rx="10" fill="#0a1020"/>
+      <rect x="630" y="350" width="340" height="520" fill="url(#ciel)"/>
+      <g id="immeubles" fill="#0a1124">
+        <rect x="630" y="640" width="70" height="230"/>
+        <rect x="705" y="580" width="90" height="290"/>
+        <rect x="800" y="670" width="60" height="200"/>
+        <rect x="865" y="600" width="105" height="270"/>
+      </g>
+      <g id="lumieres"></g>
+      <rect x="796" y="350" width="8" height="520" fill="#0a1020"/>
+      <rect x="630" y="606" width="340" height="8" fill="#0a1020"/>
+      <rect x="600" y="884" width="400" height="18" rx="4" fill="#111a30"/>
+    </g>
+
+    <!-- Halo de la lampe -->
+    <circle id="haloLampe" cx="250" cy="1020" r="430" fill="url(#halo)"/>
+
+    <!-- Table, lampe, tasse -->
+    <g id="table">
+      <rect x="90" y="1180" width="330" height="26" rx="8" fill="#4a2f1f"/>
+      <rect x="120" y="1206" width="22" height="300" fill="#3a2418"/>
+      <rect x="368" y="1206" width="22" height="300" fill="#3a2418"/>
+      <!-- lampe -->
+      <rect x="225" y="1150" width="70" height="30" rx="6" fill="#2b2b2b"/>
+      <rect x="254" y="1010" width="12" height="145" fill="#2b2b2b"/>
+      <path id="abatJour" d="M195 1020 L325 1020 L295 925 L225 925 Z" fill="#f2b35a"/>
+      <!-- tasse -->
+      <rect x="330" y="1132" width="54" height="48" rx="10" fill="#f1ece4"/>
+      <path d="M384 1142 q22 4 0 26" stroke="#f1ece4" stroke-width="8" fill="none"/>
+      <g id="vapeur" stroke="#cfd8e8" stroke-width="5" fill="none" stroke-linecap="round">
+        <path id="v1" d=""/>
+        <path id="v2" d=""/>
+      </g>
+    </g>
+
+    <!-- Lit -->
+    <g id="lit">
+      <rect x="430" y="1330" width="620" height="90" rx="20" fill="#3b4d73"/>
+      <rect x="430" y="1410" width="620" height="120" rx="10" fill="#26324d"/>
+      <rect x="980" y="1180" width="60" height="250" rx="14" fill="#26324d"/>
+    </g>
+
+    <!-- Ismaël -->
+    <g id="ismael">
+      <!-- jambes -->
+      <path d="M520 1330 L500 1600 L560 1600 L590 1350 Z" fill="#2a2a33"/>
+      <path d="M640 1330 L650 1600 L710 1600 L700 1340 Z" fill="#2a2a33"/>
+      <ellipse cx="525" cy="1610" rx="55" ry="22" fill="#e8e8e8"/>
+      <ellipse cx="685" cy="1610" rx="55" ry="22" fill="#e8e8e8"/>
+
+      <g id="buste">
+        <!-- torse -->
+        <path d="M470 1350 Q470 1060 600 1050 Q730 1060 730 1350 Z" fill="url(#sweat)"/>
+        <path d="M560 1060 Q600 1110 640 1060" stroke="#1b2a4a" stroke-width="10" fill="none"/>
+        <!-- bras gauche (côté spectateur), posé sur le genou -->
+        <path d="M485 1110 Q440 1240 520 1330" stroke="url(#sweat)" stroke-width="64" stroke-linecap="round" fill="none"/>
+        <circle cx="528" cy="1335" r="30" fill="url(#peau)"/>
+
+        <g id="tete">
+          <!-- cou -->
+          <rect x="575" y="990" width="50" height="70" fill="#5c3720"/>
+          <!-- oreilles -->
+          <ellipse cx="478" cy="905" rx="22" ry="34" fill="#6a4026"/>
+          <ellipse cx="722" cy="905" rx="22" ry="34" fill="#6a4026"/>
+          <!-- visage -->
+          <ellipse cx="600" cy="895" rx="122" ry="140" fill="url(#peau)"/>
+          <!-- cheveux -->
+          <path d="M480 860 Q470 740 600 735 Q730 740 720 860 Q700 800 600 795 Q500 800 480 860 Z" fill="#111"/>
+          <!-- barbe -->
+          <path d="M490 920 Q500 1035 600 1040 Q700 1035 710 920 Q700 985 600 990 Q500 985 490 920 Z" fill="#1a120c"/>
+          <!-- sourcils -->
+          <path id="sourcilG" d="M530 838 Q555 826 580 836" stroke="#111" stroke-width="9" stroke-linecap="round" fill="none"/>
+          <path id="sourcilD" d="M620 836 Q645 826 670 838" stroke="#111" stroke-width="9" stroke-linecap="round" fill="none"/>
+          <!-- yeux -->
+          <ellipse cx="555" cy="875" rx="22" ry="17" fill="#f6f2ea"/>
+          <ellipse cx="645" cy="875" rx="22" ry="17" fill="#f6f2ea"/>
+          <circle id="pupilleG" cx="558" cy="877" r="10" fill="#1a120c"/>
+          <circle id="pupilleD" cx="648" cy="877" r="10" fill="#1a120c"/>
+          <rect id="paupiereG" x="531" y="856" width="48" height="0" fill="#6e4329"/>
+          <rect id="paupiereD" x="621" y="856" width="48" height="0" fill="#6e4329"/>
+          <!-- nez -->
+          <path d="M600 885 Q590 925 580 935 Q600 945 620 935" stroke="#4a2b18" stroke-width="5" fill="none" stroke-linecap="round"/>
+          <!-- bouche -->
+          <path id="bouche" d="" fill="#3a1d12" stroke="#2a140c" stroke-width="5" stroke-linecap="round"/>
+        </g>
+
+        <!-- bras droit levé, téléphone à l'oreille -->
+        <g id="brasTel">
+          <path d="M715 1110 Q800 1060 760 930" stroke="url(#sweat)" stroke-width="64" stroke-linecap="round" fill="none"/>
+          <circle id="lueurTel" cx="745" cy="895" r="70" fill="url(#ecran)"/>
+          <rect x="722" y="845" width="40" height="88" rx="10" fill="#151515"/>
+          <circle cx="752" cy="925" r="30" fill="url(#peau)"/>
+        </g>
+      </g>
+    </g>
+
+    <!-- Bulles de messages -->
+    <g id="bulles"></g>
+  </g>
+
+  <!-- Voile pour les silences -->
+  <rect id="voile" x="0" y="0" width="1080" height="1920" fill="#000" opacity="0"/>
+
+  <!-- Sous-titres et textes (hors caméra) -->
+  <g id="textes"></g>
+</svg>
+
+<script>
+const NS = "http://www.w3.org/2000/svg";
+const $ = id => document.getElementById(id);
+const clamp = (x, a, b) => Math.max(a, Math.min(b, x));
+const ease = x => x < 0.5 ? 2*x*x : 1 - Math.pow(-2*x + 2, 2) / 2;
+const prog = (t, a, b) => ease(clamp((t - a) / (b - a), 0, 1));
+
+// Lumières de la ville (fixes, clignotement doux)
+const lum = [];
+(function () {
+  const g = $("lumieres");
+  const blocs = [[640, 655, 50, 210], [715, 595, 70, 270], [808, 685, 45, 180], [875, 615, 85, 250]];
+  let seed = 7;
+  const rnd = () => (seed = (seed * 9301 + 49297) % 233280) / 233280;
+  for (const [x, y, w, h] of blocs)
+    for (let yy = y; yy < y + h; yy += 26)
+      for (let xx = x; xx < x + w; xx += 18)
+        if (rnd() > 0.45) {
+          const r = document.createElementNS(NS, "rect");
+          r.setAttribute("x", xx); r.setAttribute("y", yy);
+          r.setAttribute("width", 9); r.setAttribute("height", 12);
+          r.setAttribute("fill", "#ffd27a");
+          g.appendChild(r);
+          lum.push({ el: r, ph: rnd() * 6.28, sp: 0.4 + rnd() });
+        }
+})();
+
+// Répliques : qui parle, quand, et les mots (sous-titres mot par mot)
+// voix : "mere" (au téléphone, jaune), "ismael" (blanc), "recit" (blanc, plus grand)
+const repliques = [
+  { voix: "recit",  t0: 0.6,  t1: 2.6,  mots: ["Ismaël.", "Deux ans", "loin de", "chez lui."] },
+  { voix: "mere",   t0: 3.0,  t1: 4.6,  mots: ["« Ça va,", "mon fils ? »"] },
+  { voix: "ismael", t0: 4.8,  t1: 6.0,  mots: ["« Ça va,", "maman. »"] },
+  { voix: "recit",  t0: 6.6,  t1: 7.4,  mots: ["Ses amis :"] },
+  { voix: "ismael", t0: 8.2,  t1: 8.9,  mots: ["« Ça va. »"] },
+  { voix: "recit",  t0: 9.3,  t1: 10.0, mots: ["Au travail :"] },
+  { voix: "ismael", t0: 10.8, t1: 11.4, mots: ["« Ça va. »"] },
+  { voix: "recit",  t0: 13.0, t1: 14.6, mots: ["Ça ne va", "pas."] },
+];
+
+// Bulles de messages (amis, travail)
+const bulles = [
+  { t0: 7.0, t1: 9.0,  x: 760, y: 560, txt: "Ça va ?", de: "Ami" },
+  { t0: 9.6, t1: 11.6, x: 760, y: 680, txt: "Ça va ?", de: "Travail" },
+];
+
+function parle(t) {
+  for (const r of repliques)
+    if (r.voix === "ismael" && t >= r.t0 && t <= r.t1) return true;
+  return false;
+}
+
+function sousTitre(t) {
+  for (const r of repliques) {
+    if (t < r.t0 || t > r.t1 + 0.35) continue;
+    const pas = (r.t1 - r.t0) / r.mots.length;
+    const i = clamp(Math.floor((t - r.t0) / pas), 0, r.mots.length - 1);
+    return { voix: r.voix, mot: r.mots[i], age: (t - r.t0) - i * pas };
+  }
+  return null;
+}
+
+function texte(parent, x, y, s, taille, couleur, opacite, contour) {
+  const tx = document.createElementNS(NS, "text");
+  tx.setAttribute("x", x); tx.setAttribute("y", y);
+  tx.setAttribute("text-anchor", "middle");
+  tx.setAttribute("class", "cap");
+  tx.setAttribute("font-size", taille);
+  tx.setAttribute("fill", couleur);
+  tx.setAttribute("opacity", opacite);
+  tx.setAttribute("stroke", contour || "#000");
+  tx.setAttribute("stroke-width", taille * 0.16);
+  tx.setAttribute("paint-order", "stroke");
+  tx.setAttribute("stroke-linejoin", "round");
+  tx.textContent = s;
+  parent.appendChild(tx);
+  return tx;
+}
+
+function render(t) {
+  // Caméra : zoom lent vers le visage, puis on recule pour la fin
+  const z = 1 + 0.22 * prog(t, 5.5, 12.5) + 0.18 * prog(t, 12.5, 14.5) - 0.40 * prog(t, 15.0, 16.2);
+  const cx = 600, cy = 900;
+  $("camera").setAttribute("transform",
+    `translate(${540 - cx * z + (cx - 540) * (1 - prog(t, 5.5, 14.5))} ${960 - cy * z + (cy - 960) * (1 - prog(t, 5.5, 14.5))}) scale(${z})`);
+
+  // Respiration et léger mouvement de tête
+  const resp = Math.sin(t * 2.1) * 3;
+  $("buste").setAttribute("transform", `translate(0 ${resp * 0.4})`);
+  const tete = parle(t) ? Math.sin(t * 9) * 2 : Math.sin(t * 1.3) * 1.5;
+  $("tete").setAttribute("transform", `rotate(${tete} 600 980)`);
+
+  // Clignements
+  const cl = (t % 3.3) < 0.14 ? 1 : 0;
+  for (const id of ["paupiereG", "paupiereD"]) $(id).setAttribute("height", cl ? 36 : 0);
+
+  // Le regard tombe après le dernier « ça va »
+  const triste = prog(t, 11.6, 12.6);
+  const dy = 5 * triste;
+  $("pupilleG").setAttribute("cy", 877 + dy); $("pupilleD").setAttribute("cy", 877 + dy);
+  $("sourcilG").setAttribute("d", `M530 ${838 - 4*triste} Q555 ${826 + 6*triste} 580 ${836 - 8*triste}`);
+  $("sourcilD").setAttribute("d", `M620 ${836 - 8*triste} Q645 ${826 + 6*triste} 670 ${838 - 4*triste}`);
+
+  // Bouche : parle, sourire poli, puis plus de sourire
+  let d;
+  if (parle(t)) {
+    const o = 6 + Math.abs(Math.sin(t * 17)) * 18;
+    d = `M570 965 Q600 ${965 + o * 1.4} 630 965 Q600 ${965 - 4} 570 965 Z`;
+  } else {
+    const sourire = 10 * (1 - triste) - 8 * triste;
+    d = `M572 968 Q600 ${968 + sourire} 628 968`;
+  }
+  $("bouche").setAttribute("d", d);
+  $("bouche").setAttribute("fill", parle(t) ? "#3a1d12" : "none");
+
+  // Lueur du téléphone (appel en cours jusqu'à 6 s)
+  $("lueurTel").setAttribute("opacity", t < 6.2 ? 0.6 + 0.4 * Math.sin(t * 6) : 0.25);
+
+  // Halo de la lampe : baisse pendant « Ça ne va pas »
+  $("haloLampe").setAttribute("opacity", 1 - 0.45 * prog(t, 12.0, 13.5) + 0.45 * prog(t, 15.0, 16.0));
+
+  // Vapeur de la tasse
+  for (const [id, ph] of [["v1", 0], ["v2", 1.7]]) {
+    const k = ((t * 0.6 + ph) % 2) / 2;
+    const y0 = 1120 - k * 60, x0 = id === "v1" ? 348 : 366;
+    $(id).setAttribute("d", `M${x0} ${y0} q-10 -18 0 -36 q10 -18 0 -36`);
+    $(id).setAttribute("opacity", Math.sin(k * Math.PI) * 0.7);
+  }
+
+  // Lumières de la ville
+  for (const l of lum) l.el.setAttribute("opacity", 0.55 + 0.45 * Math.sin(t * l.sp + l.ph));
+
+  // Bulles de messages
+  const gb = $("bulles"); gb.innerHTML = "";
+  for (const b of bulles) {
+    const a = prog(t, b.t0, b.t0 + 0.25) * (1 - prog(t, b.t1 - 0.3, b.t1));
+    if (a <= 0) continue;
+    const s = 0.8 + 0.2 * prog(t, b.t0, b.t0 + 0.25);
+    const g = document.createElementNS(NS, "g");
+    g.setAttribute("opacity", a);
+    g.setAttribute("transform", `translate(${b.x} ${b.y}) scale(${s})`);
+    g.innerHTML = `<rect x="-150" y="-60" width="300" height="110" rx="34" fill="#f4f6fb"/>
+      <path d="M-60 48 L-90 88 L-20 50 Z" fill="#f4f6fb"/>`;
+    gb.appendChild(g);
+    texte(g, 0, -18, b.de, 26, "#5b6b8c", 1, "#f4f6fb").setAttribute("stroke-width", 0);
+    texte(g, 0, 28, b.txt, 46, "#14203a", 1, "#f4f6fb").setAttribute("stroke-width", 0);
+  }
+
+  // Voile de fin
+  $("voile").setAttribute("opacity", 0.55 * prog(t, 15.0, 16.0));
+
+  // Sous-titres mot par mot (style TikTok : blanc, gros contour noir, petit « pop »)
+  const gt = $("textes"); gt.innerHTML = "";
+  const st = sousTitre(t);
+  if (st && t < 15.0) {
+    const pop = 1 + 0.18 * (1 - clamp(st.age / 0.12, 0, 1));
+    const g = document.createElementNS(NS, "g");
+    g.setAttribute("transform", `translate(540 1500) scale(${pop})`);
+    gt.appendChild(g);
+    const couleur = st.voix === "mere" ? "#ffe08a" : "#ffffff";
+    const taille = st.voix === "recit" ? 92 : 84;
+    texte(g, 0, 0, st.mot, taille, couleur, 1);
+    if (st.voix === "mere") texte(g, 0, -95, "Maman, au téléphone", 38, "#ffe08a", 0.9);
+  }
+
+  // Carton de fin
+  const fin = prog(t, 15.4, 16.2);
+  if (fin > 0) {
+    texte(gt, 540, 330, "Tu as dit", 88, "#D4AF37", fin);
+    texte(gt, 540, 450, "« ça va »", 104, "#D4AF37", fin);
+    texte(gt, 540, 570, "à qui ?", 88, "#D4AF37", fin);
+    texte(gt, 540, 1760, "Mr Zika", 44, "#ffffff", fin * 0.85);
+  }
+}
+
+window.DUREE = 18;
+render(0);
+</script>
+</body>
+</html>
