@@ -1,0 +1,668 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-07-partir-sans-se-perdre",
+  "bloc": 7,
+  "theme": "Partir sans se perdre",
+  "titre": "Thierno, Ali et la langue de la grand-mère",
+  "script": "contenus/videos/bloc-07-partir-sans-se-perdre.md",
+  "publication": "pendant le bloc (12-14 octobre 2026), idéalement le jour 2 ou 3",
+  "version": "3 (« À toi » + appel à revenir raconter en commentaire + défi lancé en face)",
+  "duree": {
+    "cible_s": 180,
+    "max_s": 180
+  },
+  "ambiance": {
+    "position": "assis sur une chaise au coin fenêtre",
+    "lieu": "coin fenêtre ; un peu de la rue d'ici visible derrière la vitre (immeubles, toits, ciel gris)",
+    "decor": "dans le fond, trois objets du pays : une vieille photo encadrée, un tissu plié ou suspendu, un objet d'artisanat ; une petite lampe chaude près d'eux, éteinte au début, allumée pour le défi",
+    "lumiere": "lumière de fenêtre plutôt froide (matin ou ciel couvert) ; la lampe chaude du fond se distingue",
+    "tenue": "chemise sobre, si possible avec un détail en tissu du pays",
+    "moment": "la journée, lumière froide",
+    "cadre_A": "plan poitrine : face, hauteur des yeux, à 1-1,2 m ; la fenêtre (ici) d'un côté, les objets du pays (là-bas) de l'autre",
+    "position_A_rapproche": "pour « À toi » et pour le défi : la chaise avancée de 30 cm vers la caméra (repère au sol), le trépied ne bouge pas",
+    "position_C": "trépied à 45° côté objets du pays : la vieille photo et le tissu flous derrière le présentateur",
+    "reperes_sol": "deux repères de scotch pour les pieds de la chaise : place normale, et 30 cm plus près de la caméra",
+    "couleur": {
+      "description": "deux tons : plans de souvenirs chauds (photo, épices, valise, objets du pays), plans d'ici froids bleu-gris (tram, rue, carnet) ; face caméra neutre, qui se réchauffe pour le défi",
+      "filtre_ffmpeg": "eq=contrast=1.04:saturation=1.0 ; plans d'ici : colorbalance=rs=-0.05:bs=0.06:rm=-0.03:bm=0.04 ; plans de souvenirs : colorbalance=rs=0.06:gs=0.02:bs=-0.06:rh=0.05:bh=-0.04"
+    },
+    "musique": {
+      "style": "deux mondes : kora et piano ensemble, le piano pour ici, la kora pour là-bas",
+      "recherche_bibliotheque": "kora and piano duet, calm, african acoustic, cinematic, hopeful",
+      "prompt_generation_en": "Calm duet of West African kora and soft piano, the piano playing a simple modern European motif and the kora answering with a traditional West African phrase, the two instruments gradually weaving together, around 75 BPM, warm and hopeful, no drums, no vocals",
+      "duree_s": 170
+    },
+    "rythme": "alternance ici / là-bas : un plan de chaque monde à tour de rôle pendant l'histoire",
+    "transitions": "coupes franches ; aucune musique pendant « À toi » ni pendant le défi"
+  },
+  "presentateur_ia_variables": {
+    "position": "sitting on a chair in a window corner",
+    "lieu_en": "in a small European apartment, a grey street visible through the window on one side, an old framed photograph, a folded African fabric and a craft object on a shelf on the other side",
+    "lumiere_en": "cool window daylight, with a small warm lamp near the objects from home",
+    "tenue_en": "sober shirt with a small detail in African fabric",
+    "cadre_en": "medium close-up from the chest up"
+  },
+  "machiavel": {
+    "phrase": "Dans un pays de langue et de coutumes différentes, le meilleur remède, c'est d'aller y habiter vraiment.",
+    "reference": "Le Prince, chapitre III"
+  },
+  "segments": [
+    {
+      "id": "S1",
+      "partie": "accroche",
+      "debut_s": 0,
+      "fin_s": 10,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-01"
+      ],
+      "texte": "Tu vis loin de chez toi ? Alors écoute bien : partir n'est pas fuir.",
+      "diction": "Tu vis **loin** de chez toi ? // Alors écoute bien : / partir / n'est pas **fuir**. //",
+      "ton": "voix posée",
+      "gestes": "regard caméra",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2",
+      "partie": "histoire_1",
+      "debut_s": 10,
+      "fin_s": 40,
+      "plans": [
+        "A",
+        "C"
+      ],
+      "rushes": [
+        "plan-02",
+        "plan-04"
+      ],
+      "texte": "Je vais te raconter l'histoire de Thierno. Il arrive en Europe à vingt-six ans. Il ne parle pas la langue d'ici. Au guichet, chez le médecin, il ne comprend presque rien. Alors le soir, après le travail, il apprend. Mot par mot. Dans le tram, avec un petit carnet. Trois ans plus tard, il parle bien. Il a un meilleur travail, une femme, un petit garçon, Ali.",
+      "diction": "Je vais te raconter l'histoire de **Thierno**. // Il arrive en Europe / à vingt-six ans. / Il ne parle pas la langue d'ici. / Au guichet, / chez le médecin, / il ne comprend presque **rien**. / Alors le soir, / après le travail, / il **apprend**. / Mot par mot. / *(léger sourire)* Dans le tram, / avec un petit carnet. // Trois ans plus tard, / il parle **bien**. / Il a un meilleur travail, / une femme, / un petit garçon, / **Ali**. //",
+      "ton": "conteur, lent ; léger sourire sur le carnet du tram",
+      "gestes": "mains qui tiennent un petit carnet imaginaire sur « avec un petit carnet »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3",
+      "partie": "histoire_2",
+      "debut_s": 40,
+      "fin_s": 75,
+      "plans": [
+        "A",
+        "C",
+        "B"
+      ],
+      "rushes": [
+        "plan-03",
+        "plan-04"
+      ],
+      "texte": "Et à la maison, Thierno fait une chose que ses collègues ne comprennent pas : avec son fils, il ne parle que la langue de chez lui. On lui dit : « Tu vas le gêner à l'école. Parle-lui comme ici. » Thierno répond : « Ici, il l'apprendra partout. Ma langue, il ne l'apprendra qu'avec moi. » Un dimanche, la grand-mère appelle du pays. Thierno n'est pas là. C'est Ali, six ans, qui décroche. Et il lui répond. Dans sa langue à elle. Au bout du fil, la grand-mère se tait un long moment. Puis elle dit : « Il n'est pas parti. Il est juste loin. »",
+      "diction": "Et à la maison, / Thierno fait une chose / que ses collègues ne comprennent pas : / avec son fils, / il ne parle **que** la langue de chez lui. // On lui dit : / *(voix d'un collègue : sûr de lui, bienveillant)* « Tu vas le gêner à l'école. / Parle-lui comme ici. » / Thierno répond : / *(voix de Thierno : calme, ferme)* « Ici, / il l'apprendra **partout**. // Ma langue, / il ne l'apprendra / qu'avec **moi**. » // Un dimanche, / la grand-mère appelle du pays. / Thierno n'est pas là. / C'est Ali, / six ans, / qui décroche. // Et il lui répond. // *(un temps)* Dans **sa** langue / à elle. // Au bout du fil, / la grand-mère se tait / un long moment. // *(2 secondes de silence)* Puis elle dit : / *(voix de la grand-mère : douce, lente, émue)* « Il n'est pas **parti**. // Il est juste **loin**. » //",
+      "ton": "calme puis très lent ; tout s'arrête sur la phrase de la grand-mère",
+      "gestes": "immobile pendant le silence de la grand-mère",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4",
+      "partie": "a_toi",
+      "debut_s": 75,
+      "fin_s": 108,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-05"
+      ],
+      "texte": "Maintenant, c'est à toi que je parle. Oui, toi. Peut-être que tu vis loin depuis des années. Peut-être que ta langue s'abîme un peu, que tu ne sais plus faire le plat de ta mère. Peut-être qu'on t'a dit que tu étais parti pour fuir. Je ne te juge pas. Thierno aussi a douté. Mais il a appris la langue d'ici sans lâcher la sienne. Alors aujourd'hui, sois comme Thierno. Apprends tout d'ici. Et n'oublie rien de là-bas.",
+      "diction": "*(2 secondes de silence, regard droit dans l'objectif)* Maintenant, / c'est à **toi** que je parle. // *(main ouverte vers la caméra, pas le doigt)* Oui, / toi. // Peut-être que tu vis loin / depuis des années. / Peut-être que ta langue / s'abîme un peu, / que tu ne sais plus faire / le plat de ta **mère**. / Peut-être qu'on t'a dit / que tu étais parti / pour **fuir**. // *(doux)* Je ne te juge pas. / Thierno aussi a **douté**. / Mais il a appris la langue d'ici / sans lâcher la **sienne**. // Alors aujourd'hui, // sois comme **Thierno**. / Apprends **tout** d'ici. // Et n'oublie **rien** / de là-bas. //",
+      "ton": "voix plus basse, plus proche, sans reproche ; sans musique",
+      "gestes": "chaise avancée de 30 cm ; main ouverte vers la caméra sur « Oui, toi » (jamais le doigt)",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5",
+      "partie": "conseil_1",
+      "debut_s": 108,
+      "fin_s": 117,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Alors trois choses. Un. Apprends la langue d'ici comme si ta vie en dépendait. Elle en dépend un peu.",
+      "diction": "Alors / trois choses. // *(un doigt)* **Un.** / Apprends la langue d'ici / comme si ta vie en dépendait. / *(léger sourire)* Elle en dépend **un peu**. //",
+      "ton": "plus direct mais doux, léger sourire",
+      "gestes": "chaise reculée ; un doigt",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6",
+      "partie": "conseil_2",
+      "debut_s": 117,
+      "fin_s": 126,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Deux. Garde un rendez-vous fixe avec chez toi : un appel, une recette, une musique, chaque semaine.",
+      "diction": "*(deux doigts)* **Deux.** / Garde un rendez-vous **fixe** avec chez toi : / un appel, / une recette, / une musique, / chaque semaine. //",
+      "ton": "doux",
+      "gestes": "deux doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7",
+      "partie": "conseil_3",
+      "debut_s": 126,
+      "fin_s": 133,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Trois. Si tu as des enfants, donne-leur ta langue. Dix mots par semaine suffisent pour commencer.",
+      "diction": "*(trois doigts)* **Trois.** / Si tu as des enfants, / donne-leur ta **langue**. / Dix mots par semaine / suffisent pour commencer. //",
+      "ton": "doux",
+      "gestes": "trois doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8",
+      "partie": "appel_commentaire",
+      "debut_s": 133,
+      "fin_s": 144,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Choisis-en une cette semaine. Et reviens ici, en commentaire, me dire d'où tu viens et où tu vis aujourd'hui. Je lis chaque message.",
+      "diction": "*(tu baisses la main, ton encourageant)* Choisis-en **une** / cette semaine. / *(tu montres le bas de l'écran, là où sont les commentaires)* Et reviens **ici**, / en commentaire, / me dire **d'où** tu viens / et **où** tu vis aujourd'hui. // Je lis chaque message. //",
+      "ton": "encourageant",
+      "gestes": "baisse la main, puis montre le bas de l'écran (les commentaires)",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S9",
+      "partie": "machiavel",
+      "debut_s": 144,
+      "fin_s": 151,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-07"
+      ],
+      "texte": "Machiavel l'a écrit : dans un pays de langue et de coutumes différentes, le meilleur remède, c'est d'aller y habiter vraiment.",
+      "diction": "Machiavel l'a écrit : / dans un pays de langue et de coutumes **différentes**, / le meilleur remède, / c'est d'aller y **habiter** vraiment. //",
+      "ton": "neutre, posé",
+      "gestes": "aucun",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S10",
+      "partie": "conseil_de_fin",
+      "debut_s": 151,
+      "fin_s": 180,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-08"
+      ],
+      "texte": "Toi qui vis loin, regarde-moi. Je te lance un défi. À toi, pas à un autre. Aujourd'hui, transmets une chose de chez toi à quelqu'un d'ici. Un mot, un plat, une histoire. À un collègue, à un voisin, à ton enfant. Puis reviens ici et écris un seul mot : « Transmis. » Tu n'as pas à choisir entre ici et là-bas. Tu peux porter les deux.",
+      "diction": "Toi / qui vis loin, // **regarde-moi**. // Je te lance un **défi**. // À **toi**. / Pas à un autre. // Aujourd'hui, / **transmets** une chose de chez toi / à quelqu'un d'ici. / Un mot, / un plat, / une histoire. / À un collègue, / à un voisin, / à ton **enfant**. // Puis reviens **ici** / et écris un seul mot : // « **Transmis**. » // *(main ouverte, paume vers le haut, les deux mains l'une à côté de l'autre)* Tu n'as pas à **choisir** / entre ici et là-bas. // Tu peux porter les **deux**. // *(2 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "le défi : voix basse, lente, ferme, les yeux dans les yeux ; sans musique",
+      "gestes": "lampe allumée, chaise de nouveau avancée ; 2 s de silence avant ; sur « Tu peux porter les deux », les deux mains ouvertes, paumes vers le haut, côte à côte",
+      "mouvement_camera": "statique"
+    }
+  ],
+  "defi": {
+    "texte": "aujourd'hui, transmettre une chose de chez soi (un mot, un plat, une histoire) à quelqu'un d'ici : un collègue, un voisin, son enfant",
+    "mot_a_ecrire_en_commentaire": "Transmis"
+  },
+  "appel_commentaire": "À la fin des conseils : en choisir un cette semaine, puis revenir dire en commentaire d'où l'on vient et où l'on vit aujourd'hui. Le présentateur s'engage à lire les messages.",
+  "plans_de_coupe": [
+    {
+      "id": "C1",
+      "description": "une vieille valise posée près d'une porte ou d'une fenêtre, un tissu coloré plié dessus",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "lent travelling avant",
+      "prompt_en": "An old worn leather suitcase standing by a window in a small apartment, a folded colorful African wax fabric on top of it, warm lamp light on the suitcase, cool grey daylight from the window, nobody in frame, slow push-in, cinematic, 9:16 vertical",
+      "prompt_negatif": "people, faces, luggage brand logo, airline tags readable, text, watermark, luxury suitcase, cartoon, 3D render",
+      "tournage_maison": "Ta valise ou n'importe quelle vieille valise, un tissu du pays dessus."
+    },
+    {
+      "id": "C2",
+      "description": "une vieille photo encadrée, en gros plan, sous la lumière chaude de la lampe (visages flous ou de dos)",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "très lent travelling latéral",
+      "prompt_en": "Close-up of an old faded family photograph in a simple wooden frame on a shelf, the faces in the photo blurred and unrecognizable, warm amber lamp light, soft dust in the air, very slow lateral camera slide, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "recognizable faces, readable text, logo, watermark, cartoon, 3D render",
+      "tournage_maison": "Une vraie vieille photo, filmée floue ou de façon à ce qu'on ne reconnaisse personne (ou une photo de dos, de paysage, de maison)."
+    },
+    {
+      "id": "C3",
+      "description": "des épices qu'on verse d'un petit sachet dans une marmite ou un bol, en gros plan, lumière chaude",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique, gros plan, léger ralenti",
+      "prompt_en": "Close-up slow motion of a hand pouring colorful ground spices from a small paper packet into a cooking pot, warm golden kitchen light, steam rising, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "faces, brand packaging, readable labels, text, logo, watermark, cartoon",
+      "tournage_maison": "Tes épices du pays, versées dans une marmite."
+    },
+    {
+      "id": "C4",
+      "description": "une rue ou un tram d'ici, sans visage reconnaissable, lumière grise",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "statique depuis le trottoir ou la fenêtre",
+      "prompt_en": "A modern tram passing on a grey European city street on an overcast morning, seen from a distance through a slightly fogged window, people only as blurred distant silhouettes, cool blue-grey tones, cinematic, 9:16 vertical",
+      "prompt_negatif": "recognizable faces, readable signs, readable tram line numbers, brand logos, text, watermark, cartoon, 3D render",
+      "tournage_maison": "Filme depuis ta fenêtre ou de loin sur le trottoir : silhouettes floues ou de dos, jamais un visage reconnaissable ni un enfant."
+    },
+    {
+      "id": "C5",
+      "description": "une carte d'embarquement fictive ou floutée posée sur une table, à côté d'un passeport fermé dont on ne voit pas la couverture",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "vue de dessus, statique",
+      "prompt_en": "Top-down shot of a blurred unreadable boarding pass lying on a wooden table next to a closed passport turned face down, warm side light, nostalgic mood, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable text, readable names, readable barcode, airline logo, country emblem, passport cover visible, watermark, cartoon",
+      "tournage_maison": "Une vieille carte d'embarquement floutée au montage, ou une carte imprimée sans vrai nom ; passeport retourné."
+    },
+    {
+      "id": "C6",
+      "description": "un petit carnet de vocabulaire ouvert, des mots écrits à la main (illisibles), un stylo posé dessus",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "statique",
+      "prompt_en": "Close-up of a small open pocket notebook filled with handwritten vocabulary lists, the words blurred and unreadable, a pen lying on it, cool grey light as if on a tram seat, cinematic, shallow depth of field, 9:16 vertical",
+      "prompt_negatif": "readable words, readable text, logo, brand, faces, watermark, cartoon",
+      "tournage_maison": "Un petit carnet avec des mots écrits à la main, filmé flou ou de biais."
+    },
+    {
+      "id": "C7",
+      "description": "un téléphone qui affiche un appel entrant de « Maman » (contact générique), posé sur une table",
+      "duree_utilisee_s": 6,
+      "mouvement_camera": "statique",
+      "prompt_en": "A smartphone lying on a wooden table lighting up with an incoming call, the caller name blurred, warm lamp light, a small woven basket and a folded African fabric softly blurred in the background, cinematic, 9:16 vertical",
+      "prompt_negatif": "readable real names, real app logo, brand, faces, watermark, cartoon",
+      "tournage_maison": "Crée un contact « Maman » et fais-toi appeler depuis un autre téléphone. En génération IA, le nom est ajouté au montage."
+    }
+  ],
+  "timeline": [
+    {
+      "debut_s": 0,
+      "fin_s": 3,
+      "image": "C1",
+      "mouvement": "lent travelling avant, chaud",
+      "musique": {
+        "niveau": 0,
+        "note": "voix seule"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Partir n'est pas fuir.",
+          "debut_s": 0,
+          "fin_s": 7
+        }
+      ]
+    },
+    {
+      "debut_s": 3,
+      "fin_s": 10,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0,
+        "note": "silence"
+      }
+    },
+    {
+      "debut_s": 10,
+      "fin_s": 15,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.06,
+        "note": "le piano entre, très bas"
+      }
+    },
+    {
+      "debut_s": 15,
+      "fin_s": 19,
+      "image": "C4",
+      "mouvement": "statique, froid",
+      "musique": {
+        "niveau": 0.08,
+        "note": "piano seul"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Le soir, dans le tram, mot par mot.",
+          "debut_s": 15,
+          "fin_s": 22
+        }
+      ]
+    },
+    {
+      "debut_s": 19,
+      "fin_s": 22,
+      "image": "C6",
+      "mouvement": "statique, froid",
+      "musique": {
+        "niveau": 0.08
+      }
+    },
+    {
+      "debut_s": 22,
+      "fin_s": 28,
+      "image": "C",
+      "mouvement": "côté objets du pays",
+      "musique": {
+        "niveau": 0.08
+      }
+    },
+    {
+      "debut_s": 28,
+      "fin_s": 35,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.1,
+        "note": "la kora rejoint le piano"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Trois ans plus tard.",
+          "debut_s": 28,
+          "fin_s": 33
+        }
+      ]
+    },
+    {
+      "debut_s": 35,
+      "fin_s": 40,
+      "image": "B",
+      "mouvement": "gros plan : « Ma langue, il ne l'apprendra qu'avec moi »",
+      "musique": {
+        "niveau": 0.1
+      },
+      "texte_ecran": [
+        {
+          "texte": "« Ma langue, il ne l'apprendra qu'avec moi. »",
+          "debut_s": 35,
+          "fin_s": 41
+        }
+      ]
+    },
+    {
+      "debut_s": 40,
+      "fin_s": 46,
+      "image": "C7",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.1,
+        "note": "kora seule"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Un dimanche, la grand-mère appelle.",
+          "debut_s": 41,
+          "fin_s": 46
+        }
+      ]
+    },
+    {
+      "debut_s": 46,
+      "fin_s": 55,
+      "image": "C",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08
+      }
+    },
+    {
+      "debut_s": 55,
+      "fin_s": 60,
+      "image": "C2",
+      "mouvement": "très lent travelling latéral, chaud",
+      "musique": {
+        "niveau": 0.05,
+        "note": "la musique baisse"
+      }
+    },
+    {
+      "debut_s": 60,
+      "fin_s": 68,
+      "image": "A",
+      "mouvement": "statique : le silence de la grand-mère",
+      "musique": {
+        "niveau": 0,
+        "note": "musique coupée"
+      }
+    },
+    {
+      "debut_s": 68,
+      "fin_s": 75,
+      "image": "B",
+      "mouvement": "gros plan : « Il n'est pas parti. Il est juste loin. »",
+      "musique": {
+        "niveau": 0.03,
+        "note": "la kora reprend, une note"
+      },
+      "texte_ecran": [
+        {
+          "texte": "« Il n'est pas parti. Il est juste loin. »",
+          "debut_s": 68,
+          "fin_s": 75
+        }
+      ]
+    },
+    {
+      "debut_s": 75,
+      "fin_s": 98,
+      "image": "A (rapproché)",
+      "mouvement": "chaise avancée, cadre plus serré, statique",
+      "musique": {
+        "niveau": 0,
+        "note": "AUCUNE musique : seulement la voix"
+      },
+      "texte_ecran": [
+        {
+          "texte": "À toi.",
+          "debut_s": 76,
+          "fin_s": 78
+        }
+      ]
+    },
+    {
+      "debut_s": 98,
+      "fin_s": 108,
+      "image": "B, puis A (rapproché)",
+      "mouvement": "gros plan B sur « N'oublie rien de là-bas »",
+      "musique": {
+        "niveau": 0
+      },
+      "texte_ecran": [
+        {
+          "texte": "Apprends tout d'ici. N'oublie rien de là-bas.",
+          "debut_s": 98,
+          "fin_s": 107
+        }
+      ]
+    },
+    {
+      "debut_s": 108,
+      "fin_s": 117,
+      "image": "A",
+      "mouvement": "statique (chaise reculée)",
+      "musique": {
+        "niveau": 0.08,
+        "note": "piano et kora reviennent, très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "1. La langue d'ici",
+          "debut_s": 111,
+          "fin_s": 117
+        }
+      ]
+    },
+    {
+      "debut_s": 117,
+      "fin_s": 120,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08
+      },
+      "texte_ecran": [
+        {
+          "texte": "2. Un rendez-vous fixe avec chez toi",
+          "debut_s": 117,
+          "fin_s": 126
+        }
+      ]
+    },
+    {
+      "debut_s": 120,
+      "fin_s": 123,
+      "image": "C3",
+      "mouvement": "gros plan, chaud",
+      "musique": {
+        "niveau": 0.08
+      }
+    },
+    {
+      "debut_s": 123,
+      "fin_s": 126,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08
+      }
+    },
+    {
+      "debut_s": 126,
+      "fin_s": 130,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08
+      },
+      "texte_ecran": [
+        {
+          "texte": "3. Dix mots par semaine à tes enfants",
+          "debut_s": 127,
+          "fin_s": 133
+        }
+      ]
+    },
+    {
+      "debut_s": 130,
+      "fin_s": 133,
+      "image": "C5",
+      "mouvement": "vue de dessus",
+      "musique": {
+        "niveau": 0.08
+      }
+    },
+    {
+      "debut_s": 133,
+      "fin_s": 144,
+      "image": "A",
+      "mouvement": "la main montre le bas de l'écran (les commentaires)",
+      "musique": {
+        "niveau": 0.12,
+        "note": "la musique monte un peu"
+      },
+      "texte_ecran": [
+        {
+          "texte": "D'où tu viens ? Où tu vis ? Dis-le en commentaire.",
+          "debut_s": 135,
+          "fin_s": 144
+        }
+      ]
+    },
+    {
+      "debut_s": 144,
+      "fin_s": 151,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.05,
+        "note": "la musique redescend"
+      }
+    },
+    {
+      "debut_s": 151,
+      "fin_s": 153,
+      "image": "A (rapproché)",
+      "mouvement": "lampe allumée, chaise de nouveau avancée, silence, regard caméra",
+      "musique": {
+        "niveau": 0,
+        "note": "musique à zéro"
+      }
+    },
+    {
+      "debut_s": 153,
+      "fin_s": 170,
+      "image": "A (rapproché) / B",
+      "mouvement": "gros plan B sur « Je te lance un défi »",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Le défi : transmets une chose de chez toi.",
+          "debut_s": 155,
+          "fin_s": 169
+        }
+      ]
+    },
+    {
+      "debut_s": 170,
+      "fin_s": 180,
+      "image": "A (rapproché)",
+      "mouvement": "les deux mains ouvertes, image la plus chaude, 2 s de regard caméra, coupe",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Écris « Transmis » en commentaire.",
+          "debut_s": 170,
+          "fin_s": 179
+        }
+      ]
+    }
+  ],
+  "couverture": {
+    "source": "C1 et C2 ensemble : la valise avec la vieille photo posée dessus",
+    "texte": "Partir n'est pas fuir",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "An old worn suitcase with an old framed family photograph resting on top of it, faces in the photo blurred, a folded colorful African fabric beside it, warm lamp light on one side and cool grey window light on the other, nobody in frame, empty dark upper third for a title, 9:16 vertical, photorealistic",
+    "prompt_negatif": "recognizable faces, readable text, logo, brand, flag, watermark, cartoon"
+  },
+  "legende": "Il a appris la langue d'ici mot par mot, dans le tram.\nEt il n'a jamais lâché la sienne. Un dimanche, son fils a répondu à sa grand-mère.\n\nEt toi, d'où tu viens, et où tu vis aujourd'hui ?\nDéfi du jour : transmets une chose de chez toi à quelqu'un d'ici. Écris « Transmis » quand c'est fait.",
+  "hashtags": [
+    "#MrZika",
+    "#Afrique",
+    "#Diaspora",
+    "#Discipline",
+    "#Machiavel"
+  ],
+  "si_trop_long": [
+    "Supprimer le segment S9 (Machiavel) en entier.",
+    "Supprimer le plan de coupe C5.",
+    "Ne jamais couper : l'histoire (S2, S3) et la phrase de la grand-mère, le moment « À toi » (S4), l'appel à revenir raconter (S8), le défi de fin (S10)."
+  ]
+}

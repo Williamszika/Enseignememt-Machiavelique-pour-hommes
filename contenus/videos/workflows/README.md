@@ -32,6 +32,7 @@ Ce que contient un workflow :
 | 4 | Le père (version 3 : « À toi », appel à revenir raconter, défi de fin ; **modèle des suivants**) | [bloc-04-le-pere.workflow.json](bloc-04-le-pere.workflow.json) |
 | 5 | La peur d'oser | [bloc-05-la-peur-d-oser.workflow.json](bloc-05-la-peur-d-oser.workflow.json) |
 | 6 | Seul, pas isolé (version 3) | [bloc-06-seul-pas-isole.workflow.json](bloc-06-seul-pas-isole.workflow.json) |
+| 7 | Partir sans se perdre (version 3) | [bloc-07-partir-sans-se-perdre.workflow.json](bloc-07-partir-sans-se-perdre.workflow.json) |
 
 ---
 
