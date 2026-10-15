@@ -1,0 +1,665 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-08-le-pardon",
+  "bloc": 8,
+  "theme": "Le pardon",
+  "titre": "Koffi, Yao et la parcelle",
+  "script": "contenus/videos/bloc-08-le-pardon.md",
+  "publication": "pendant le bloc (15-17 octobre 2026), idéalement le jour 2 ou 3",
+  "version": "3 (« À toi » + appel à revenir raconter en commentaire + défi lancé en face)",
+  "duree": {
+    "cible_s": 180,
+    "max_s": 180
+  },
+  "ambiance": {
+    "position": "assis sur une chaise au coin fenêtre",
+    "lieu": "coin fenêtre, tôt le matin ; un rideau léger (lin ou voilage clair) à demi tiré au début",
+    "decor": "épuré et clair : un mur clair, une petite table en bois avec une lettre pliée, une plante ; rien d'autre",
+    "lumiere": "lumière du matin, douce et dorée, de côté ; le rideau ouvert en grand avant le défi : la pièce devient plus lumineuse",
+    "tenue": "chemise claire (blanche, crème ou bleu pâle), sobre",
+    "moment": "tôt le matin (le recommencement)",
+    "cadre_A": "plan poitrine : face, hauteur des yeux, à 1-1,2 m ; la fenêtre et le rideau d'un côté, le mur clair de l'autre",
+    "position_A_rapproche": "pour « À toi » et pour le défi : la chaise avancée de 30 cm vers la caméra (repère au sol), le trépied ne bouge pas",
+    "position_C": "trépied à 45° côté fenêtre : la lumière du matin de face sur le visage, le mur clair flou derrière",
+    "reperes_sol": "deux repères de scotch pour les pieds de la chaise : place normale, et 30 cm plus près de la caméra",
+    "couleur": {
+      "description": "claire et douce : crème, sable, bleu pâle, accents or ; contraste bas, noirs relevés ; l'image s'éclaircit encore pour le défi",
+      "filtre_ffmpeg": "eq=brightness=0.03:contrast=0.94:saturation=0.9:gamma=1.04,colorbalance=rh=0.04:gh=0.02:bh=-0.02:bs=0.03,curves=all='0/0.04 1/1'"
+    },
+    "musique": {
+      "style": "calme, qui s'ouvre doucement : piano seul au début, des cordes douces qui le rejoignent au moment du pardon",
+      "recherche_bibliotheque": "calm piano strings, hopeful, slow build, morning, cinematic, gentle",
+      "prompt_generation_en": "Calm solo piano with a simple, slow, hopeful melody, soft strings gently joining after the first minute and slowly opening up like morning light, around 65 BPM, warm and clear, no drums, no vocals, gentle ending",
+      "duree_s": 152
+    },
+    "rythme": "lent ; fondus enchaînés entre les plans de l'histoire ; un long silence (3 s) avant la dernière phrase",
+    "transitions": "fondus enchaînés pendant l'histoire, coupes franches face caméra ; aucune musique pendant « À toi » ni pendant le défi"
+  },
+  "presentateur_ia_variables": {
+    "position": "sitting on a chair in a window corner",
+    "lieu_en": "in a simple, clean, bright room, a light linen curtain at the window, a small wooden table with a folded letter, a plant",
+    "lumiere_en": "soft golden early morning light from the side",
+    "tenue_en": "light-colored sober shirt (white, cream or pale blue)",
+    "cadre_en": "medium close-up from the chest up"
+  },
+  "machiavel": {
+    "phrase": "Celui qui croit que de nouveaux bienfaits font oublier les anciennes injures se trompe.",
+    "reference": "Le Prince, chapitre VII (fin)"
+  },
+  "segments": [
+    {
+      "id": "S1",
+      "partie": "accroche",
+      "debut_s": 0,
+      "fin_s": 10,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-01"
+      ],
+      "texte": "Quelqu'un t'a fait du mal, et tu n'arrives pas à pardonner ? Écoute bien : pardonner n'est pas rouvrir la porte.",
+      "diction": "Quelqu'un t'a fait du **mal**, / et tu n'arrives pas à pardonner ? // Écoute bien : / pardonner / n'est pas **rouvrir** la porte. //",
+      "ton": "voix posée, calme",
+      "gestes": "regard caméra, mains posées sur les genoux",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2",
+      "partie": "histoire_1",
+      "debut_s": 10,
+      "fin_s": 42,
+      "plans": [
+        "A",
+        "C"
+      ],
+      "rushes": [
+        "plan-02",
+        "plan-04"
+      ],
+      "texte": "Je vais te raconter l'histoire de deux frères, Koffi et Yao. Quand leur père meurt, il laisse une parcelle de terrain. Rien n'est écrit. Yao, le cadet, construit dessus sans rien demander. Koffi, l'aîné, se sent trahi. Pendant huit ans, les deux frères ne se parlent plus. Aux mariages, aux funérailles, chacun reste de son côté. Leurs enfants grandissent sans même se connaître.",
+      "diction": "Je vais te raconter l'histoire de deux frères, / **Koffi** / et **Yao**. // Quand leur père meurt, / il laisse une parcelle de terrain. / Rien n'est **écrit**. // Yao, / le cadet, / construit dessus / sans rien demander. / Koffi, / l'aîné, / se sent **trahi**. // Pendant **huit** ans, / les deux frères / ne se parlent plus. // *(plus lent)* Aux mariages, / aux funérailles, / chacun reste de son côté. / Leurs enfants grandissent / sans même se **connaître**. //",
+      "ton": "conteur, lent, grave sans être lourd",
+      "gestes": "immobile ; un léger mouvement de la main pour « chacun de son côté » (les deux mains qui s'écartent)",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3",
+      "partie": "histoire_2",
+      "debut_s": 42,
+      "fin_s": 75,
+      "plans": [
+        "A",
+        "C",
+        "B"
+      ],
+      "rushes": [
+        "plan-03",
+        "plan-04"
+      ],
+      "texte": "Un matin, Koffi se lève tôt et va frapper chez son frère. Yao ouvre, méfiant. Koffi dit : « Je ne viens pas me battre. Je te pardonne. Je suis fatigué de porter ça. » Yao baisse la tête. Ils se serrent la main. Puis Koffi sort une chemise de papiers : « Maintenant, on écrit tout, devant l'oncle Kouassi. Pour que nos enfants ne se battent jamais pour cette terre. » Yao signe. Koffi a pardonné. Mais il n'a pas oublié la leçon.",
+      "diction": "Un **matin**, / Koffi se lève tôt / et va frapper chez son frère. // Yao ouvre, / *(un temps)* méfiant. // Koffi dit : / *(voix de Koffi : basse, fatiguée, sincère)* « Je ne viens pas me battre. // Je te **pardonne**. // Je suis fatigué / de porter ça. » // Yao baisse la tête. / Ils se serrent la **main**. // Puis Koffi sort une chemise de papiers : / *(voix de Koffi : calme, ferme)* « Maintenant, / on **écrit** tout, / devant l'oncle Kouassi. / Pour que nos enfants / ne se battent **jamais** / pour cette terre. » // Yao signe. // *(2 secondes de silence)* Koffi a **pardonné**. // Mais il n'a pas oublié / la **leçon**. //",
+      "ton": "plus lent ; la voix de Koffi basse et sincère, puis ferme sur les papiers",
+      "gestes": "sur « Ils se serrent la main », un léger geste de la main droite ; immobile pendant le silence",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4",
+      "partie": "a_toi",
+      "debut_s": 75,
+      "fin_s": 108,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-05"
+      ],
+      "texte": "Maintenant, c'est à toi que je parle. Oui, toi. Peut-être que quelqu'un de ta famille t'a fait du mal. Un frère, un cousin, un associé. Peut-être que tu portes cette colère depuis des années, et qu'elle te réveille encore la nuit. Je ne te juge pas. Koffi aussi a attendu huit ans. Mais un matin, il a décidé de poser ce poids. Alors aujourd'hui, sois comme Koffi. Pardonne pour toi. Et écris la leçon pour tes enfants.",
+      "diction": "*(2 secondes de silence, regard droit dans l'objectif)* Maintenant, / c'est à **toi** que je parle. // *(main ouverte vers la caméra, pas le doigt)* Oui, / toi. // Peut-être que quelqu'un de ta **famille** / t'a fait du mal. / Un frère, / un cousin, / un associé. / Peut-être que tu portes cette colère / depuis des **années**, / et qu'elle te réveille encore / la nuit. // *(doux)* Je ne te juge pas. / Koffi aussi / a attendu **huit** ans. / Mais un matin, / il a décidé / de **poser** ce poids. // Alors aujourd'hui, // sois comme **Koffi**. / Pardonne / pour **toi**. // Et écris la leçon / pour tes **enfants**. //",
+      "ton": "voix plus basse, plus proche, sans reproche ; sans musique",
+      "gestes": "chaise avancée de 30 cm ; main ouverte vers la caméra sur « Oui, toi » (jamais le doigt) ; sur « poser ce poids », les deux mains se posent à plat sur les genoux",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5",
+      "partie": "conseil_1",
+      "debut_s": 108,
+      "fin_s": 117,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Alors trois choses. Un. Pardonne pour te libérer, pas pour lui faire plaisir. Tu n'as pas besoin qu'il s'excuse d'abord.",
+      "diction": "Alors / trois choses. // *(un doigt)* **Un.** / Pardonne pour te **libérer**, / pas pour lui faire plaisir. / Tu n'as pas besoin / qu'il s'excuse **d'abord**. //",
+      "ton": "plus direct mais doux",
+      "gestes": "chaise reculée ; un doigt",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6",
+      "partie": "conseil_2",
+      "debut_s": 117,
+      "fin_s": 127,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Deux. Pardonner n'est pas tout rendre. Ta confiance revient sur des actes, petit à petit. Et si quelqu'un te fait encore du mal aujourd'hui, protège-toi d'abord.",
+      "diction": "*(deux doigts)* **Deux.** / Pardonner / n'est pas tout **rendre**. / Ta confiance revient sur des **actes**, / petit à petit. // *(plus sérieux)* Et si quelqu'un te fait encore du mal **aujourd'hui**, / protège-toi **d'abord**. //",
+      "ton": "doux, puis sérieux sur la dernière phrase",
+      "gestes": "deux doigts ; main posée à plat sur « protège-toi d'abord »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7",
+      "partie": "conseil_3",
+      "debut_s": 127,
+      "fin_s": 134,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Trois. Mets au propre ce qui a causé la blessure : un papier, une règle claire, un témoin.",
+      "diction": "*(trois doigts)* **Trois.** / Mets au **propre** / ce qui a causé la blessure : / un papier, / une règle claire, / un **témoin**. //",
+      "ton": "net, concret",
+      "gestes": "trois doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8",
+      "partie": "appel_commentaire",
+      "debut_s": 134,
+      "fin_s": 145,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Essaie la première cette semaine. Puis reviens me dire en commentaire ce que tu as posé. Pas son nom : juste ce que ça t'a enlevé du cœur. Je lis tout, un par un.",
+      "diction": "*(tu baisses la main, ton encourageant, léger sourire)* Essaie la **première** / cette semaine. / *(tu montres le bas de l'écran, là où sont les commentaires)* Puis reviens me dire en commentaire / ce que tu as **posé**. / Pas son nom : / juste ce que ça t'a enlevé / du **cœur**. // Je lis tout, / un par un. //",
+      "ton": "encourageant, chaleureux",
+      "gestes": "baisse la main, léger sourire, puis montre le bas de l'écran (les commentaires)",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S9",
+      "partie": "machiavel",
+      "debut_s": 145,
+      "fin_s": 152,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-07"
+      ],
+      "texte": "Machiavel l'a écrit : celui qui croit que de nouveaux bienfaits font oublier les anciennes injures se trompe.",
+      "diction": "Machiavel l'a écrit : / celui qui croit que de nouveaux **bienfaits** / font oublier les anciennes **injures** / se trompe. //",
+      "ton": "neutre, posé",
+      "gestes": "aucun",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S10",
+      "partie": "conseil_de_fin",
+      "debut_s": 152,
+      "fin_s": 180,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-08"
+      ],
+      "texte": "Toi qui portes une vieille colère, regarde-moi. Je te lance un défi. À toi, pas à un autre. Ce soir, prends une feuille. En haut, écris ce que tu es prêt à laisser partir. En bas, la leçon que tu gardes. Cette feuille, tu ne l'envoies à personne. Elle est pour toi. Puis reviens ici et écris un seul mot : « Posé. » Le pardon ne change pas ce qu'il a fait. Il change ce que tu portes.",
+      "diction": "Toi / qui portes une vieille colère, // **regarde-moi**. // Je te lance un **défi**. // À **toi**. / Pas à un autre. // Ce soir, / prends une **feuille**. / En haut, / écris ce que tu es prêt / à laisser **partir**. / En bas, / la **leçon** que tu gardes. / Cette feuille, / tu ne l'envoies / à **personne**. // Elle est pour **toi**. // Puis reviens **ici** / et écris un seul mot : // « **Posé**. » // *(les deux mains se posent à plat sur la table, lentement)* Le pardon ne change pas / ce qu'il a **fait**. // Il change / ce que tu **portes**. // *(3 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "le défi : voix basse, lente, ferme, les yeux dans les yeux ; sans musique",
+      "gestes": "rideau ouvert en grand, chaise de nouveau avancée ; 2 s de silence avant ; sur « Il change ce que tu portes », les deux mains se posent à plat, lentement",
+      "mouvement_camera": "statique"
+    }
+  ],
+  "defi": {
+    "texte": "ce soir, écrire sur une feuille, en haut, ce qu'on est prêt à laisser partir, et en bas, la leçon qu'on garde ; ne l'envoyer à personne",
+    "mot_a_ecrire_en_commentaire": "Posé"
+  },
+  "appel_commentaire": "À la fin des conseils : essayer le premier cette semaine, puis revenir dire en commentaire ce qu'on a posé (sans nommer personne). Le présentateur s'engage à tout lire.",
+  "plans_de_coupe": [
+    {
+      "id": "C1",
+      "description": "une main d'homme qui écrit une lettre au stylo, sur une table en bois, lumière du matin (écriture illisible à l'écran)",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "plan fixe en plongée, très léger travelling latéral",
+      "prompt_en": "Close-up of a Black man's hand writing a letter with a pen on plain paper on a wooden table, soft golden morning light from a window, the handwriting blurred and unreadable, calm and slow, cream and sand tones, 9:16 vertical, cinematic, shallow depth of field",
+      "prompt_negatif": "faces, recognizable people, child, readable text, handwriting readable, logo, brand, watermark, banknotes, cartoon, 3D render, harsh contrast, night",
+      "tournage_maison": "Ta main, une feuille et un stylo, sur la table près de la fenêtre, le matin. Écris n'importe quoi, la caméra fait la mise au point sur le stylo, pas sur les mots."
+    },
+    {
+      "id": "C2",
+      "description": "la lettre pliée posée sur la table, dans un rayon de lumière du matin",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "lent travelling avant",
+      "prompt_en": "A folded handwritten letter resting on a light wooden table in a ray of soft golden morning light, a light linen curtain moving gently in the background, nobody in frame, slow push-in, cream, sand and pale blue tones, 9:16 vertical, cinematic, photorealistic",
+      "prompt_negatif": "faces, recognizable people, child, readable text, handwriting readable, logo, brand, watermark, banknotes, cartoon, 3D render, harsh contrast, night",
+      "tournage_maison": "La feuille du plan C1, pliée en trois, posée là où le soleil du matin tombe sur la table."
+    },
+    {
+      "id": "C3",
+      "description": "la porte d'une maison familiale, fermée, dans la lumière du matin",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "plan fixe, puis très lent travelling avant",
+      "prompt_en": "The closed wooden front door of a modest West African family house with a painted wall, early morning soft light, a little dust in the air, nobody in frame, calm and still, slow push-in, soft warm and pale tones, 9:16 vertical, cinematic, photorealistic",
+      "prompt_negatif": "faces, recognizable people, child, readable text, handwriting readable, logo, brand, watermark, banknotes, cartoon, 3D render, harsh contrast, night, house number, street sign",
+      "tournage_maison": "Ta propre porte d'entrée, fermée, filmée le matin. Si tu filmes une autre maison, demande l'accord des habitants et ne montre aucun numéro ni nom de rue."
+    },
+    {
+      "id": "C4",
+      "description": "deux mains d'homme qui se serrent, en gros plan (aucun visage)",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "plan fixe, la poignée de main au centre, légèrement au ralenti",
+      "prompt_en": "Close-up of two Black men's hands shaking firmly and slowly, only hands and forearms visible, simple shirts, soft morning light from the side, calm and sincere, slight slow motion, cream and sand tones, 9:16 vertical, cinematic, shallow depth of field",
+      "prompt_negatif": "faces, recognizable people, child, readable text, handwriting readable, logo, brand, watermark, banknotes, cartoon, 3D render, harsh contrast, night, rings with logos, watches with logos",
+      "tournage_maison": "Avec un frère ou un ami d'accord pour être filmé : uniquement les mains et les avant-bras, téléphone posé sur une pile de livres."
+    },
+    {
+      "id": "C5",
+      "description": "des papiers rangés dans une chemise cartonnée, qu'une main referme",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "plongée, plan fixe",
+      "prompt_en": "Top-down close-up of a hand placing a few sheets of paper into a plain cardboard folder on a wooden table and closing it, the papers blurred and unreadable, soft morning light, calm, cream and sand tones, 9:16 vertical, cinematic",
+      "prompt_negatif": "faces, recognizable people, child, readable text, handwriting readable, logo, brand, watermark, banknotes, cartoon, 3D render, harsh contrast, night, official stamps readable, money",
+      "tournage_maison": "N'importe quels papiers (des feuilles blanches suffisent) dans une chemise cartonnée, filmés de haut. Aucun vrai document lisible."
+    },
+    {
+      "id": "C6",
+      "description": "une parcelle de terre au lever du jour, avec une borne ou un piquet de limite, personne",
+      "duree_utilisee_s": 6,
+      "mouvement_camera": "lent panoramique de gauche à droite",
+      "prompt_en": "An empty plot of red earth land at sunrise in West Africa, a small boundary marker post in the foreground, a few trees in the distance, soft golden mist, nobody in frame, slow pan from left to right, peaceful, 9:16 vertical, cinematic, photorealistic",
+      "prompt_negatif": "faces, recognizable people, child, readable text, handwriting readable, logo, brand, watermark, banknotes, cartoon, 3D render, harsh contrast, night, buildings with signs, people",
+      "tournage_maison": "Un terrain vague ou un jardin au lever du soleil, un piquet ou une pierre au premier plan. Personne dans le cadre."
+    },
+    {
+      "id": "C7",
+      "description": "le rideau léger qu'une main ouvre en grand, la lumière du matin qui entre dans la pièce",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "plan fixe, contre-jour doux",
+      "prompt_en": "A hand slowly opening a light linen curtain, soft golden morning light flooding into a simple bright room, dust particles in the light, nobody's face visible, calm, a sense of a new beginning, 9:16 vertical, cinematic, photorealistic",
+      "prompt_negatif": "faces, recognizable people, child, readable text, handwriting readable, logo, brand, watermark, banknotes, cartoon, 3D render, harsh contrast, night",
+      "tournage_maison": "Le rideau de ta fenêtre, le matin : téléphone sur le rebord ou sur une chaise, tu ouvres le rideau d'un geste lent."
+    }
+  ],
+  "timeline": [
+    {
+      "debut_s": 0,
+      "fin_s": 3,
+      "image": "C2",
+      "mouvement": "lent travelling avant, lumière du matin",
+      "musique": {
+        "niveau": 0,
+        "note": "voix seule"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Pardonner n'est pas rouvrir la porte.",
+          "debut_s": 0,
+          "fin_s": 7
+        }
+      ]
+    },
+    {
+      "debut_s": 3,
+      "fin_s": 10,
+      "image": "A",
+      "mouvement": "statique, rideau à demi tiré",
+      "musique": {
+        "niveau": 0,
+        "note": "silence"
+      }
+    },
+    {
+      "debut_s": 10,
+      "fin_s": 16,
+      "image": "A",
+      "mouvement": "statique ; fondu enchaîné à la fin",
+      "musique": {
+        "niveau": 0.15,
+        "note": "le piano entre, très bas"
+      }
+    },
+    {
+      "debut_s": 16,
+      "fin_s": 22,
+      "image": "C6",
+      "mouvement": "lent panoramique, fondu d'entrée et de sortie",
+      "musique": {
+        "niveau": 0.2,
+        "note": "piano seul"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Une parcelle. Rien n'est écrit.",
+          "debut_s": 16,
+          "fin_s": 22
+        }
+      ]
+    },
+    {
+      "debut_s": 22,
+      "fin_s": 32,
+      "image": "C",
+      "mouvement": "statique, trois-quarts",
+      "musique": {
+        "niveau": 0.2,
+        "note": "piano"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Huit ans sans se parler.",
+          "debut_s": 26,
+          "fin_s": 32
+        }
+      ]
+    },
+    {
+      "debut_s": 32,
+      "fin_s": 37,
+      "image": "C3",
+      "mouvement": "plan fixe puis très lent travelling avant, fondu d'entrée",
+      "musique": {
+        "niveau": 0.2,
+        "note": "piano"
+      }
+    },
+    {
+      "debut_s": 37,
+      "fin_s": 42,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.15,
+        "note": "piano"
+      }
+    },
+    {
+      "debut_s": 42,
+      "fin_s": 48,
+      "image": "C",
+      "mouvement": "statique, trois-quarts",
+      "musique": {
+        "niveau": 0.15,
+        "note": "des cordes douces rejoignent le piano"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Un matin, il va frapper chez son frère.",
+          "debut_s": 42,
+          "fin_s": 48
+        }
+      ]
+    },
+    {
+      "debut_s": 48,
+      "fin_s": 56,
+      "image": "B",
+      "mouvement": "gros plan recadré (140 %) sur « Je te pardonne. Je suis fatigué de porter ça. »",
+      "musique": {
+        "niveau": 0.08,
+        "note": "la musique se retire sous la voix"
+      },
+      "texte_ecran": [
+        {
+          "texte": "« Je te pardonne. Je suis fatigué de porter ça. »",
+          "debut_s": 49,
+          "fin_s": 56
+        }
+      ]
+    },
+    {
+      "debut_s": 56,
+      "fin_s": 61,
+      "image": "C4",
+      "mouvement": "plan fixe, léger ralenti, fondu d'entrée",
+      "musique": {
+        "niveau": 0.2,
+        "note": "la musique s'ouvre"
+      }
+    },
+    {
+      "debut_s": 61,
+      "fin_s": 68,
+      "image": "C5",
+      "mouvement": "plongée, plan fixe",
+      "musique": {
+        "niveau": 0.2,
+        "note": "piano et cordes"
+      },
+      "texte_ecran": [
+        {
+          "texte": "« Maintenant, on écrit tout. »",
+          "debut_s": 61,
+          "fin_s": 68
+        }
+      ]
+    },
+    {
+      "debut_s": 68,
+      "fin_s": 75,
+      "image": "B",
+      "mouvement": "gros plan ; 2 s de silence avant « Koffi a pardonné »",
+      "musique": {
+        "niveau": 0.05,
+        "note": "musique presque coupée pendant le silence, une note à la fin"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Pardonner. Pas oublier la leçon.",
+          "debut_s": 69,
+          "fin_s": 75
+        }
+      ]
+    },
+    {
+      "debut_s": 75,
+      "fin_s": 100,
+      "image": "A (rapproché)",
+      "mouvement": "statique, chaise avancée",
+      "musique": {
+        "niveau": 0,
+        "note": "aucune musique : seulement la voix"
+      },
+      "texte_ecran": [
+        {
+          "texte": "À toi.",
+          "debut_s": 76,
+          "fin_s": 78
+        }
+      ]
+    },
+    {
+      "debut_s": 100,
+      "fin_s": 108,
+      "image": "B puis A (rapproché)",
+      "mouvement": "gros plan sur « sois comme Koffi », retour au plan rapproché",
+      "musique": {
+        "niveau": 0,
+        "note": "aucune musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Pardonne pour toi. Écris la leçon pour tes enfants.",
+          "debut_s": 100,
+          "fin_s": 107
+        }
+      ]
+    },
+    {
+      "debut_s": 108,
+      "fin_s": 117,
+      "image": "A",
+      "mouvement": "statique, chaise reculée",
+      "musique": {
+        "niveau": 0.12,
+        "note": "piano et cordes reviennent, très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "1. Pardonne pour te libérer",
+          "debut_s": 109,
+          "fin_s": 116
+        }
+      ]
+    },
+    {
+      "debut_s": 117,
+      "fin_s": 127,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.1,
+        "note": "très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "2. Pardonner n'est pas tout rendre",
+          "debut_s": 117,
+          "fin_s": 126
+        }
+      ]
+    },
+    {
+      "debut_s": 127,
+      "fin_s": 130,
+      "image": "C1",
+      "mouvement": "plongée, léger travelling latéral",
+      "musique": {
+        "niveau": 0.12,
+        "note": "très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "3. Un papier, une règle, un témoin",
+          "debut_s": 127,
+          "fin_s": 134
+        }
+      ]
+    },
+    {
+      "debut_s": 130,
+      "fin_s": 134,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.12,
+        "note": "très bas"
+      }
+    },
+    {
+      "debut_s": 134,
+      "fin_s": 145,
+      "image": "A",
+      "mouvement": "statique ; la main montre le bas de l'écran",
+      "musique": {
+        "niveau": 0.18,
+        "note": "la musique monte un peu"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Ce que tu as posé ? Dis-le en commentaire.",
+          "debut_s": 135,
+          "fin_s": 144
+        }
+      ]
+    },
+    {
+      "debut_s": 145,
+      "fin_s": 150,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.1,
+        "note": "la musique redescend"
+      }
+    },
+    {
+      "debut_s": 150,
+      "fin_s": 152,
+      "image": "C7",
+      "mouvement": "plan fixe, contre-jour : le rideau s'ouvre",
+      "musique": {
+        "niveau": 0.05,
+        "note": "la musique s'éteint en fondu"
+      }
+    },
+    {
+      "debut_s": 152,
+      "fin_s": 155,
+      "image": "A (rapproché)",
+      "mouvement": "statique, rideau ouvert, la pièce plus lumineuse ; long silence",
+      "musique": {
+        "niveau": 0,
+        "note": "musique à zéro"
+      }
+    },
+    {
+      "debut_s": 155,
+      "fin_s": 170,
+      "image": "A (rapproché), B sur « Je te lance un défi »",
+      "mouvement": "statique, gros plan recadré sur le défi",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Le défi : ce que tu laisses partir, la leçon que tu gardes.",
+          "debut_s": 158,
+          "fin_s": 169
+        }
+      ]
+    },
+    {
+      "debut_s": 170,
+      "fin_s": 180,
+      "image": "A (rapproché)",
+      "mouvement": "les deux mains posées à plat, image la plus lumineuse, 3 s de regard caméra, coupe",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Écris « Posé » en commentaire.",
+          "debut_s": 170,
+          "fin_s": 179
+        }
+      ]
+    }
+  ],
+  "couverture": {
+    "source": "C2 : la lettre pliée dans un rayon de lumière du matin",
+    "texte": "Pardonner n'est pas oublier",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "A folded handwritten letter on a light wooden table in a ray of soft golden morning light, a light linen curtain in the background, nobody in frame, handwriting unreadable, empty softly shadowed upper third for a title, cream, sand and pale blue tones, 9:16 vertical, photorealistic",
+    "prompt_negatif": "readable text, handwriting readable, faces, logo, brand, watermark, cartoon"
+  },
+  "legende": "Huit ans sans se parler, pour une parcelle de terrain.\nUn matin, l'aîné est allé frapper chez son frère. Il a pardonné. Puis il a tout fait écrire.\n\nEt toi, qu'est-ce que tu es prêt à poser ?\nDéfi du jour : écris ce que tu laisses partir, et la leçon que tu gardes. Écris « Posé » quand c'est fait.",
+  "hashtags": [
+    "#MrZika",
+    "#Pardon",
+    "#Famille",
+    "#Afrique",
+    "#Machiavel"
+  ],
+  "si_trop_long": [
+    "Supprimer le segment S9 (Machiavel) en entier.",
+    "Supprimer le plan de coupe C7 (garder l'ouverture du rideau hors champ).",
+    "Ne jamais couper : l'histoire (S2, S3) et la phrase « Koffi a pardonné. Mais il n'a pas oublié la leçon. », le moment « À toi » (S4), la phrase « protège-toi d'abord » (S6), l'appel à revenir raconter (S8), le défi de fin (S10)."
+  ]
+}

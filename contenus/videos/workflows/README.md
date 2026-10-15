@@ -33,6 +33,7 @@ Ce que contient un workflow :
 | 5 | La peur d'oser | [bloc-05-la-peur-d-oser.workflow.json](bloc-05-la-peur-d-oser.workflow.json) |
 | 6 | Seul, pas isolé (version 3) | [bloc-06-seul-pas-isole.workflow.json](bloc-06-seul-pas-isole.workflow.json) |
 | 7 | Partir sans se perdre (version 3) | [bloc-07-partir-sans-se-perdre.workflow.json](bloc-07-partir-sans-se-perdre.workflow.json) |
+| 8 | Le pardon (version 3) | [bloc-08-le-pardon.workflow.json](bloc-08-le-pardon.workflow.json) |
 
 ---
 

@@ -76,9 +76,9 @@ Les trois textes d'un bloc ne répètent ni la même accroche, ni la même phras
 - **J1 (jeu. 15)** — Pardonner n'est pas rouvrir la porte.
 - **J2 (ven. 16)** — Le piège : croire qu'un geste gentil efface une vieille blessure. Pardonner, ce n'est pas oublier la leçon.
 - **J3 (sam. 17)** — Défi : écris ce que tu es prêt à laisser partir, et ce que tu gardes comme leçon.
-- **Références** : ch. VII, fin (celui qui croit que de nouveaux bienfaits font oublier les anciennes injures se trompe).
-
-- **Fiche vidéo** — **Histoire** : deux frères brouillés depuis des années pour une parcelle de terrain ; l'aîné va voir le cadet et pardonne, mais met les papiers au propre devant un témoin. Pardonner, pas oublier la leçon. **Lieu** : coin fenêtre, **lumière du matin** (le recommencement). **Décor** : épuré, clair. **Plans de coupe** : une main qui écrit une lettre, une lettre pliée, la porte d'une maison familiale, deux mains qui se serrent, des papiers rangés dans une chemise. **Musique** : calme, qui s'ouvre doucement. **Couleur** : claire, douce. **Rythme** : lent, fondus, un long silence avant la fin. **Couverture** : la lettre pliée + « Pardonner n'est pas oublier ».
+- **Références** : ch. VII, fin (celui qui croit que de nouveaux bienfaits font oublier les anciennes injures se trompe) ; le J1 utilise le ch. VIII (les bienfaits peu à peu, afin qu'on les goûte mieux).
+- **Script vidéo 3 min** : [contenus/videos/bloc-08-le-pardon.md](../videos/bloc-08-le-pardon.md) — Koffi, Yao et la parcelle (version 3).
+- **Fiche vidéo** *(script écrit)* — **Histoire** : deux frères brouillés depuis des années pour une parcelle de terrain ; l'aîné va voir le cadet et pardonne, mais met les papiers au propre devant un témoin. Pardonner, pas oublier la leçon. **Lieu** : coin fenêtre, **lumière du matin** (le recommencement). **Décor** : épuré, clair. **Plans de coupe** : une main qui écrit une lettre, une lettre pliée, la porte d'une maison familiale, deux mains qui se serrent, des papiers rangés dans une chemise. **Musique** : calme, qui s'ouvre doucement. **Couleur** : claire, douce. **Rythme** : lent, fondus, un long silence avant la fin. **Couverture** : la lettre pliée + « Pardonner n'est pas oublier ».
 
 ---
 
