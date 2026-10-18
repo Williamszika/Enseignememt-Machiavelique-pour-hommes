@@ -1,6 +1,6 @@
-# Scripts vidéo de 2 minutes : un par thème
+# Scripts vidéo de 2 à 3 minutes : un par thème
 
-**Depuis le 18 octobre 2026**, il n'y a plus de texte du jour, de visuel, de prompt d'image ni de workflow JSON. Chaque thème du [calendrier](../../motivation/calendrier-themes.md) (un thème tous les trois jours) reçoit **un seul livrable** : un script vidéo de **2 minutes maximum (120 s)**, écrit le premier jour du thème, dans ce dossier : `bloc-NN-theme.md`.
+**Depuis le 18 octobre 2026**, il n'y a plus de texte du jour, de visuel, de prompt d'image ni de workflow JSON. Chaque thème du [calendrier](../../motivation/calendrier-themes.md) (un thème tous les trois jours) reçoit **un seul livrable** : un script vidéo de **2 à 3 minutes (120 à 180 s, jamais plus)**, écrit le premier jour du thème, dans ce dossier : `bloc-NN-theme.md`.
 
 ## Ce que doit être la vidéo
 
@@ -9,7 +9,7 @@
 - **Il parle à UN homme, en « tu »**, jamais « vous », jamais « les hommes d'aujourd'hui ». Jamais de honte : « je ne te dis pas ça pour te faire honte ».
 - **Un retournement** : le moment où il comprend autrement ce qu'il vit.
 - **Un défi** faisable aujourd'hui ou demain matin, et **quelque chose à écrire en commentaire** (un mot, ou mieux, un prénom, une date, une chose vraie).
-- **120 s au maximum.** Environ **230 à 260 mots** dans un mode lent (l'héritage, la lettre, le dernier jour…), **260 à 300** dans un mode rapide (le coup de fouet). Les silences comptent dans les deux minutes.
+- **Entre 2 et 3 minutes (120 à 180 s).** Environ **250 à 350 mots** dans un mode lent (l'héritage, la lettre, le dernier jour…), **280 à 420** dans un mode rapide (le coup de fouet). Les silences comptent dans la durée. On prend le temps qu'il faut pour toucher, pas plus.
 
 ## Les modes de motivation : on en change à chaque thème
 
@@ -24,16 +24,16 @@ Deux scripts qui se suivent n'utilisent jamais le même mode. Le mode est indiqu
 | **La lettre à celui qui doute** | Tu écris à l'abonné qui a envie de tout lâcher ce soir ; tu nommes ce qu'il ressent, et tu restes avec lui | Voix proche, nuit, une lampe ; si le thème touche aux idées noires : orienter d'abord vers une aide réelle |
 | **Le coup de fouet** | Le constat sans détour, un contraste entre deux hommes, trois actions, le défi | Debout, rapide, une coupe toutes les 2-3 s, musique rythmée coupée net avant le défi |
 
-## La structure (120 s), à adapter au mode
+## La structure (entre 2 et 3 min), à adapter au mode
 
-| Temps | Partie | Rôle |
+| Part de la durée | Partie | Rôle |
 |---|---|---|
-| 0:00–0:08 | **L'ouverture** | Une phrase qui arrête le pouce : une question intime, une image, un choc |
-| 0:08–0:45 | **L'histoire ou l'image** | Racontée comme une histoire (« je vais te raconter l'histoire de… »), jamais comme un fait réel ; ou la lettre, ou la scène |
-| 0:45–1:08 | **Le retournement** | Ça parle de lui, maintenant. La croyance qui tombe. Une vraie phrase de Machiavel seulement si elle sert l'émotion (jamais inventée) |
-| 1:08–1:27 | **Le sens** | Pourquoi ça compte, sans reproche. Dans le mode coup de fouet : trois actions numérotées |
-| 1:27–1:50 | **Le défi** | Lancé en face, un pas vers la caméra : faisable, vérifiable, avec ce qu'il écrit en commentaire |
-| 1:50–2:00 | **La phrase finale** | Courte, celle qu'on retient |
+| ~5 % (5 à 10 s) | **L'ouverture** | Une phrase qui arrête le pouce : une question intime, une image, un choc |
+| ~30 % | **L'histoire ou l'image** | Racontée comme une histoire (« je vais te raconter l'histoire de… »), jamais comme un fait réel ; ou la lettre, ou la scène |
+| ~20 % | **Le retournement** | Ça parle de lui, maintenant. La croyance qui tombe. Une vraie phrase de Machiavel seulement si elle sert l'émotion (jamais inventée) |
+| ~15 % | **Le sens** | Pourquoi ça compte, sans reproche. Dans le mode coup de fouet : trois actions numérotées |
+| ~20 % | **Le défi** | Lancé en face, un pas vers la caméra : faisable, vérifiable, avec ce qu'il écrit en commentaire |
+| ~5 % (10 s) | **La phrase finale** | Courte, celle qu'on retient |
 
 ## Ce que contient chaque fichier
 1. **Le mode de motivation** en tête, puis **le script minuté**, avec les indications de voix entre parenthèses (*bas*, *fort*, *un pas vers la caméra*, *silence 1 s*) et les mots à appuyer en **gras**.
