@@ -1,0 +1,675 @@
+{
+  "herite_de": "commun.json",
+  "id": "bloc-09-le-matin",
+  "bloc": 9,
+  "theme": "Le matin",
+  "titre": "Aziz, Lamine et le même matin",
+  "script": "contenus/videos/bloc-09-le-matin.md",
+  "publication": "pendant le bloc (18-20 octobre 2026), idéalement le jour 2 ou 3, de préférence tôt le matin (6 h - 8 h)",
+  "version": "3 (« À toi » + appel à revenir raconter en commentaire + défi lancé en face)",
+  "duree": {
+    "cible_s": 180,
+    "max_s": 180
+  },
+  "ambiance": {
+    "position": "debout près d'une petite table de cuisine ou du coin fenêtre",
+    "lieu": "la cuisine ou le coin fenêtre, avant l'aube ; on tourne pendant que le jour se lève",
+    "decor": "une bouilloire, une tasse, un carnet ouvert et un stylo sur la table ; une petite lampe chaude allumée ; la fenêtre encore bleue derrière",
+    "lumiere": "au début, la pénombre bleue de l'aube et la petite lampe ; à la fin, la lumière dorée du lever du soleil par la fenêtre",
+    "tenue": "t-shirt ou chemise simple de tous les jours, sans logo",
+    "moment": "avant l'aube : commencer 30 minutes avant le lever du soleil",
+    "cadre_A": "plan taille-poitrine : face, hauteur des yeux, à 1,2-1,5 m ; la fenêtre d'un côté, la table avec la bouilloire de l'autre",
+    "position_A_rapproche": "pour « À toi » et pour le défi : un pas en avant de 30 cm sur un repère au sol, le trépied ne bouge pas",
+    "position_C": "trépied à 45° côté fenêtre : le ciel de l'aube derrière le présentateur, flou",
+    "reperes_sol": "deux repères de scotch au sol pour les pieds : place normale, et 30 cm plus près de la caméra",
+    "couleur": {
+      "description": "bleu de l'aube au début (histoire d'Aziz, plans dans le noir), qui se réchauffe vers l'or du lever du soleil (Lamine, conseils, défi) ; face caméra neutre-chaud",
+      "filtre_ffmpeg": "eq=contrast=1.03:saturation=0.95 ; plans du début (0-42 s) : colorbalance=rs=-0.05:bs=0.08:rm=-0.03:bm=0.05 ; plans de la fin (à partir de 145 s) : colorbalance=rh=0.08:gh=0.03:bh=-0.06:rm=0.03"
+    },
+    "musique": {
+      "style": "presque inaudible au début (kalimba seule), une guitare légère la rejoint quand Lamine se lève ; la musique monte avec la lumière",
+      "recherche_bibliotheque": "kalimba guitar morning, calm, sunrise, hopeful, slow build, acoustic",
+      "prompt_generation_en": "Soft solo kalimba playing a few quiet notes like early dawn, a light acoustic guitar gently joining after forty seconds, slowly building warmth like a sunrise, around 80 BPM, hopeful and calm, no drums, no vocals, gentle fade out",
+      "duree_s": 152
+    },
+    "rythme": "lent et sombre au début ; plus vif et plus lumineux quand Lamine se lève, puis pendant les conseils",
+    "transitions": "coupes franches ; un fondu enchaîné entre le plan C1 (écran dans le noir) et le premier plan A ; aucune musique pendant « À toi » ni pendant le défi"
+  },
+  "presentateur_ia_variables": {
+    "position": "standing by a small kitchen table next to a window",
+    "lieu_en": "in a modest kitchen before dawn, a kettle, a cup and an open notebook on the table, a small warm lamp, a window with a deep blue sky turning orange",
+    "lumiere_en": "deep blue pre-dawn light with a small warm lamp, turning into golden sunrise light",
+    "tenue_en": "simple everyday t-shirt without logo",
+    "cadre_en": "medium shot from the waist up"
+  },
+  "machiavel": {
+    "phrase": "Je me lève le matin avec le soleil, et je vais revoir l'ouvrage de la veille.",
+    "reference": "Lettre à Francesco Vettori, 10 décembre 1513"
+  },
+  "segments": [
+    {
+      "id": "S1",
+      "partie": "accroche",
+      "debut_s": 0,
+      "fin_s": 10,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-01"
+      ],
+      "texte": "Qui touche ton matin en premier ? Toi, ou ton téléphone ?",
+      "diction": "Qui touche ton **matin** / en premier ? // Toi, // ou ton **téléphone** ? //",
+      "ton": "voix posée, encore un peu basse (c'est l'aube)",
+      "gestes": "regard caméra, debout, mains le long du corps ou posées sur la table",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S2",
+      "partie": "histoire_1",
+      "debut_s": 10,
+      "fin_s": 42,
+      "plans": [
+        "A",
+        "C"
+      ],
+      "rushes": [
+        "plan-02",
+        "plan-04"
+      ],
+      "texte": "Je vais te raconter l'histoire de deux voisins, Aziz et Lamine. Même immeuble, même travail, même réveil : cinq heures et demie. Aziz ouvre les yeux et prend son téléphone. Les groupes, les nouvelles, les problèmes d'un cousin, la photo d'un ancien ami. Quarante minutes plus tard, il est encore au lit. Il part en retard, déjà fatigué, déjà énervé, et la journée n'a même pas commencé.",
+      "diction": "Je vais te raconter l'histoire de deux voisins, / **Aziz** / et **Lamine**. // Même immeuble, / même travail, / même réveil : / cinq heures et demie. // Aziz ouvre les yeux / et prend son **téléphone**. / *(plus vite, comme une liste qui défile)* Les groupes, / les nouvelles, / les problèmes d'un cousin, / la photo d'un ancien ami. // Quarante minutes plus tard, / il est **encore** au lit. / Il part en retard, / déjà **fatigué**, / déjà **énervé**, / et la journée / n'a même pas **commencé**. //",
+      "ton": "conteur, posé ; un peu plus rapide sur la liste d'Aziz",
+      "gestes": "le pouce qui fait défiler un écran imaginaire sur « les groupes, les nouvelles… », puis la main retombe",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S3",
+      "partie": "histoire_2",
+      "debut_s": 42,
+      "fin_s": 75,
+      "plans": [
+        "A",
+        "C",
+        "B"
+      ],
+      "rushes": [
+        "plan-03",
+        "plan-04"
+      ],
+      "texte": "Lamine, lui, a laissé son téléphone dans la cuisine. Il pose les pieds par terre. De l'eau sur le visage, un verre d'eau. Il écrit trois choses à faire. Puis, pendant vingt minutes, chaque matin, il étudie la comptabilité. Un an plus tard, Lamine a son diplôme. Aziz lui demande : « Comment tu fais ? Tu as plus de temps que moi ? » Lamine sourit : « Non. J'ai le même matin que toi. Je ne le donne juste pas au téléphone. »",
+      "diction": "*(plus lent, plus calme)* Lamine, lui, / a laissé son téléphone / dans la **cuisine**. // Il pose les pieds par terre. / De l'eau sur le visage, / un verre d'eau. / Il écrit **trois** choses à faire. / Puis, pendant **vingt** minutes, / **chaque** matin, / il étudie la comptabilité. // Un an plus tard, / Lamine a son **diplôme**. // Aziz lui demande : / *(voix d'Aziz : étonné, un peu vexé)* « Comment tu fais ? / Tu as plus de temps que moi ? » // Lamine sourit : / *(voix de Lamine : simple, sans leçon)* « Non. // J'ai le **même** matin que toi. // Je ne le donne juste pas / au téléphone. » //",
+      "ton": "plus lent et plus calme pour Lamine ; la voix de Lamine simple, sans leçon",
+      "gestes": "les gestes du matin esquissés : les deux mains qui portent l'eau au visage, trois doigts pour les trois choses ; léger sourire sur la réponse de Lamine",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S4",
+      "partie": "a_toi",
+      "debut_s": 75,
+      "fin_s": 108,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-05"
+      ],
+      "texte": "Maintenant, c'est à toi que je parle. Oui, toi. Peut-être que ton téléphone est la première chose que tu touches le matin. Peut-être que tu te lèves déjà fatigué, déjà en retard, déjà énervé par des choses qui ne te concernent pas. Je ne te juge pas. Lamine aussi a commencé par une seule matinée. Et si tu vis loin, les messages du pays arrivent pendant ta nuit : ils peuvent attendre que tu sois debout. Alors demain, sois comme Lamine. Ton matin t'appartient. Garde-le pour toi.",
+      "diction": "*(2 secondes de silence, regard droit dans l'objectif)* Maintenant, / c'est à **toi** que je parle. // *(main ouverte vers la caméra, pas le doigt)* Oui, / toi. // Peut-être que ton téléphone / est la **première** chose que tu touches le matin. / Peut-être que tu te lèves déjà fatigué, / déjà en retard, / déjà énervé / par des choses qui ne te **concernent** pas. // *(doux)* Je ne te juge pas. / Lamine aussi / a commencé par **une** seule matinée. / Et si tu vis **loin**, / les messages du pays arrivent pendant ta nuit : / ils peuvent attendre / que tu sois **debout**. // Alors demain, // sois comme **Lamine**. / Ton matin / **t'appartient**. // Garde-le / pour **toi**. //",
+      "ton": "voix plus basse, plus proche, sans reproche ; sans musique",
+      "gestes": "un pas en avant de 30 cm (repère au sol) ; main ouverte vers la caméra sur « Oui, toi » (jamais le doigt) ; main posée sur la poitrine sur « Ton matin t'appartient »",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S5",
+      "partie": "conseil_1",
+      "debut_s": 108,
+      "fin_s": 117,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Alors trois choses. Un. Ce soir, ton téléphone dort dans une autre pièce. Un petit réveil coûte moins cher qu'une matinée perdue.",
+      "diction": "Alors / trois choses. // *(un doigt)* **Un.** / Ce soir, / ton téléphone dort / dans une **autre** pièce. / *(léger sourire)* Un petit réveil / coûte moins cher / qu'une matinée **perdue**. //",
+      "ton": "plus direct, plus réveillé",
+      "gestes": "un pas en arrière (premier repère) ; un doigt",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S6",
+      "partie": "conseil_2",
+      "debut_s": 117,
+      "fin_s": 127,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Deux. Les dix premières minutes sont à toi : de l'eau sur le visage, un verre d'eau, ta prière ou ton silence. Rien qui vient des autres.",
+      "diction": "*(deux doigts)* **Deux.** / Les **dix** premières minutes / sont à toi : / de l'eau sur le visage, / un verre d'eau, / ta prière / ou ton **silence**. / Rien qui vient / des **autres**. //",
+      "ton": "posé",
+      "gestes": "deux doigts",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S7",
+      "partie": "conseil_3",
+      "debut_s": 127,
+      "fin_s": 134,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Trois. Écris tes trois choses à faire, sur un papier, avant de lire celles des autres.",
+      "diction": "*(trois doigts)* **Trois.** / Écris **tes** trois choses à faire, / sur un papier, / avant de lire / celles des **autres**. //",
+      "ton": "net",
+      "gestes": "trois doigts ; la main mime l'écriture sur la table",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S8",
+      "partie": "appel_commentaire",
+      "debut_s": 134,
+      "fin_s": 145,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-06"
+      ],
+      "texte": "Essaie-les une semaine. Puis reviens me dire en commentaire à quelle heure tu as touché ton téléphone, et ce que tu as fait avant. Je lis chaque réponse, une par une.",
+      "diction": "*(tu baisses la main, ton encourageant, léger sourire)* Essaie-les / une **semaine**. / *(tu montres le bas de l'écran, là où sont les commentaires)* Puis reviens me dire en commentaire / à quelle **heure** tu as touché ton téléphone, / et ce que tu as fait **avant**. // Je lis chaque réponse, / une par une. //",
+      "ton": "encourageant, chaleureux",
+      "gestes": "baisse la main, léger sourire, puis montre le bas de l'écran (les commentaires)",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S9",
+      "partie": "machiavel",
+      "debut_s": 145,
+      "fin_s": 152,
+      "plans": [
+        "A"
+      ],
+      "rushes": [
+        "plan-07"
+      ],
+      "texte": "Machiavel l'a écrit en exil : je me lève le matin avec le soleil, et je vais revoir l'ouvrage de la veille.",
+      "diction": "Machiavel l'a écrit en exil : / je me lève le matin / avec le **soleil**, / et je vais revoir / l'ouvrage de la **veille**. //",
+      "ton": "neutre, posé",
+      "gestes": "aucun ; le soleil est levé dans la fenêtre",
+      "mouvement_camera": "statique"
+    },
+    {
+      "id": "S10",
+      "partie": "conseil_de_fin",
+      "debut_s": 152,
+      "fin_s": 180,
+      "plans": [
+        "A",
+        "B"
+      ],
+      "rushes": [
+        "plan-08"
+      ],
+      "texte": "Toi qui t'endors avec ton téléphone dans la main, regarde-moi. Je te lance un défi. À toi, pas à un autre. Ce soir, ton téléphone dort dans une autre pièce. Demain matin, trente minutes sans lui. Rien que toi, ton eau, tes trois choses à faire. Et seulement après, reviens ici et écris un seul mot : « Debout. » Le monde peut attendre trente minutes. Ta vie, elle, n'attend pas.",
+      "diction": "Toi / qui t'endors avec ton téléphone / dans la **main**, // **regarde-moi**. // Je te lance un **défi**. // À **toi**. / Pas à un autre. // Ce soir, / ton téléphone dort / dans une autre pièce. / Demain matin, / **trente** minutes sans lui. / Rien que toi, / ton eau, / tes trois choses à faire. // Et **seulement** après, / reviens ici / et écris un seul mot : // « **Debout**. » // *(les deux mains ouvertes, paumes vers le haut)* Le monde peut attendre / trente minutes. // Ta vie, / elle, / n'attend **pas**. // *(2 secondes de silence, regard caméra, puis coupe)*",
+      "ton": "le défi : voix basse, lente, ferme, les yeux dans les yeux ; sans musique",
+      "gestes": "le jour levé, un pas en avant (repère rapproché) ; 2 s de silence avant ; sur « Ta vie, elle, n'attend pas », les deux mains ouvertes, paumes vers le haut",
+      "mouvement_camera": "statique"
+    }
+  ],
+  "defi": {
+    "texte": "ce soir, laisser son téléphone dormir dans une autre pièce ; demain matin, trente minutes sans lui (de l'eau, ses trois choses à faire), et seulement après, revenir écrire en commentaire",
+    "mot_a_ecrire_en_commentaire": "Debout"
+  },
+  "appel_commentaire": "À la fin des conseils : les essayer une semaine, puis revenir dire en commentaire à quelle heure on a touché son téléphone et ce qu'on a fait avant. Le présentateur s'engage à lire chaque réponse.",
+  "plans_de_coupe": [
+    {
+      "id": "C1",
+      "description": "un écran de téléphone qui s'allume dans le noir sur une table de nuit (écran flou, aucun contenu lisible)",
+      "duree_utilisee_s": 3,
+      "mouvement_camera": "plan fixe, très léger travelling avant",
+      "prompt_en": "A smartphone lighting up in a dark bedroom on a bedside table before dawn, the screen glow blurred and unreadable, deep blue darkness around, nobody in frame, slow push-in, cinematic, 9:16 vertical, photorealistic",
+      "prompt_negatif": "faces of other people, recognizable people, child, readable text, readable screen, logo, brand, watermark, banknotes, cartoon, 3D render, neon, daylight noon",
+      "tournage_maison": "Ton téléphone sur la table de nuit, chambre dans le noir ; un deuxième téléphone filme pendant que l'écran s'allume. Mise au point volontairement floue sur l'écran."
+    },
+    {
+      "id": "C2",
+      "description": "des pieds nus qui se posent sur le sol, au bord du lit, dans la pénombre bleue",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "plan fixe au ras du sol",
+      "prompt_en": "Low angle close-up of a Black man's bare feet stepping down onto a simple tiled floor beside a bed at dawn, soft deep blue light, calm and decisive, nobody's face visible, 9:16 vertical, cinematic, shallow depth of field",
+      "prompt_negatif": "faces of other people, recognizable people, child, readable text, readable screen, logo, brand, watermark, banknotes, cartoon, 3D render, neon, daylight noon",
+      "tournage_maison": "Téléphone posé au sol, à côté du lit : tu poses les pieds par terre, lentement."
+    },
+    {
+      "id": "C3",
+      "description": "des mains qui jettent de l'eau sur un visage, au-dessus d'un lavabo ou d'une bassine",
+      "duree_utilisee_s": 4,
+      "mouvement_camera": "plan fixe, léger ralenti",
+      "prompt_en": "Close-up of a Black man's hands splashing cold water onto his face over a simple basin at dawn, water drops in slow motion, soft blue light with a warm lamp nearby, face mostly hidden by the hands, 9:16 vertical, cinematic",
+      "prompt_negatif": "faces of other people, recognizable people, child, readable text, readable screen, logo, brand, watermark, banknotes, cartoon, 3D render, neon, daylight noon",
+      "tournage_maison": "Toi, au lavabo ou au-dessus d'une bassine ; on voit surtout les mains et l'eau. Filmé au ralenti si ton téléphone le permet."
+    },
+    {
+      "id": "C4",
+      "description": "une bouilloire qui fume, puis du thé versé dans une tasse",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "plan fixe, puis léger panoramique vers la tasse",
+      "prompt_en": "A simple metal kettle steaming on a small stove in a modest kitchen before dawn, then hot tea poured into a cup, steam lit by a small warm lamp, blue window light in the background, nobody's face visible, 9:16 vertical, cinematic, photorealistic",
+      "prompt_negatif": "faces of other people, recognizable people, child, readable text, readable screen, logo, brand, watermark, banknotes, cartoon, 3D render, neon, daylight noon, branded packaging",
+      "tournage_maison": "Ta bouilloire et ta tasse, sous la petite lampe, la fenêtre bleue derrière."
+    },
+    {
+      "id": "C5",
+      "description": "un carnet ouvert où une main écrit trois lignes (illisibles)",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "plongée, plan fixe",
+      "prompt_en": "Top-down close-up of a hand writing three short lines in an open notebook on a kitchen table under a small warm lamp, the handwriting blurred and unreadable, a cup of tea beside it, dawn blue light at the edge of the frame, 9:16 vertical, cinematic",
+      "prompt_negatif": "faces of other people, recognizable people, child, readable text, readable screen, logo, brand, watermark, banknotes, cartoon, 3D render, neon, daylight noon",
+      "tournage_maison": "Ton carnet sous la lampe, filmé de haut ; trois lignes, la mise au point sur le stylo."
+    },
+    {
+      "id": "C6",
+      "description": "le ciel par la fenêtre qui passe du bleu de l'aube à l'orange du lever du soleil",
+      "duree_utilisee_s": 2,
+      "mouvement_camera": "plan fixe (accéléré)",
+      "prompt_en": "Timelapse through a kitchen window of the sky changing from deep blue dawn to orange sunrise over rooftops of an African city, nobody in frame, calm, 9:16 vertical, cinematic, photorealistic",
+      "prompt_negatif": "faces of other people, recognizable people, child, readable text, readable screen, logo, brand, watermark, banknotes, cartoon, 3D render, neon, daylight noon, readable signs",
+      "tournage_maison": "Le téléphone posé sur le rebord de la fenêtre en mode accéléré (time-lapse) pendant tout ton tournage : tu as ce plan gratuitement."
+    },
+    {
+      "id": "C7",
+      "description": "un téléphone posé écran contre la table, seul, dans une autre pièce (la cuisine), à côté d'un petit réveil",
+      "duree_utilisee_s": 5,
+      "mouvement_camera": "lent travelling latéral",
+      "prompt_en": "A smartphone lying face down alone on a kitchen counter in the dim blue light before dawn, a small simple alarm clock beside it, nobody in frame, slow lateral dolly, calm, 9:16 vertical, cinematic, photorealistic",
+      "prompt_negatif": "faces of other people, recognizable people, child, readable text, readable screen, logo, brand, watermark, banknotes, cartoon, 3D render, neon, daylight noon",
+      "tournage_maison": "Ton téléphone retourné sur le plan de travail de la cuisine, avec un petit réveil à côté (ou une montre posée)."
+    }
+  ],
+  "timeline": [
+    {
+      "debut_s": 0,
+      "fin_s": 3,
+      "image": "C1",
+      "mouvement": "léger travelling avant, bleu nuit",
+      "musique": {
+        "niveau": 0,
+        "note": "voix seule"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Qui touche ton matin en premier ?",
+          "debut_s": 0,
+          "fin_s": 7
+        }
+      ]
+    },
+    {
+      "debut_s": 3,
+      "fin_s": 10,
+      "image": "A",
+      "mouvement": "statique, aube bleue, petite lampe allumée",
+      "musique": {
+        "niveau": 0,
+        "note": "silence"
+      }
+    },
+    {
+      "debut_s": 10,
+      "fin_s": 16,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.08,
+        "note": "la kalimba entre, presque inaudible"
+      }
+    },
+    {
+      "debut_s": 16,
+      "fin_s": 24,
+      "image": "C",
+      "mouvement": "statique, trois-quarts",
+      "musique": {
+        "niveau": 0.1,
+        "note": "kalimba"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Même réveil : 5 h 30.",
+          "debut_s": 16,
+          "fin_s": 23
+        }
+      ]
+    },
+    {
+      "debut_s": 24,
+      "fin_s": 32,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.1,
+        "note": "kalimba"
+      },
+      "texte_ecran": [
+        {
+          "texte": "40 minutes plus tard, encore au lit.",
+          "debut_s": 26,
+          "fin_s": 32
+        }
+      ]
+    },
+    {
+      "debut_s": 32,
+      "fin_s": 37,
+      "image": "B",
+      "mouvement": "gros plan recadré (140 %) sur « déjà fatigué, déjà énervé »",
+      "musique": {
+        "niveau": 0.08,
+        "note": "kalimba, très bas"
+      }
+    },
+    {
+      "debut_s": 37,
+      "fin_s": 42,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.1,
+        "note": "kalimba"
+      }
+    },
+    {
+      "debut_s": 42,
+      "fin_s": 47,
+      "image": "C7",
+      "mouvement": "lent travelling latéral",
+      "musique": {
+        "niveau": 0.12,
+        "note": "une guitare légère rejoint la kalimba"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Lamine laisse son téléphone dans la cuisine.",
+          "debut_s": 42,
+          "fin_s": 47
+        }
+      ]
+    },
+    {
+      "debut_s": 47,
+      "fin_s": 52,
+      "image": "C2",
+      "mouvement": "plan fixe au ras du sol",
+      "musique": {
+        "niveau": 0.15,
+        "note": "guitare et kalimba"
+      }
+    },
+    {
+      "debut_s": 52,
+      "fin_s": 56,
+      "image": "C3",
+      "mouvement": "léger ralenti",
+      "musique": {
+        "niveau": 0.15,
+        "note": "guitare et kalimba"
+      }
+    },
+    {
+      "debut_s": 56,
+      "fin_s": 61,
+      "image": "C5",
+      "mouvement": "plongée, plan fixe",
+      "musique": {
+        "niveau": 0.18,
+        "note": "la musique monte un peu"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Trois choses. Vingt minutes d'étude.",
+          "debut_s": 56,
+          "fin_s": 61
+        }
+      ]
+    },
+    {
+      "debut_s": 61,
+      "fin_s": 68,
+      "image": "C",
+      "mouvement": "statique, trois-quarts",
+      "musique": {
+        "niveau": 0.15,
+        "note": "guitare et kalimba"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Un an plus tard.",
+          "debut_s": 61,
+          "fin_s": 66
+        }
+      ]
+    },
+    {
+      "debut_s": 68,
+      "fin_s": 75,
+      "image": "B",
+      "mouvement": "gros plan sur la réponse de Lamine",
+      "musique": {
+        "niveau": 0.06,
+        "note": "la musique se retire sous la voix"
+      },
+      "texte_ecran": [
+        {
+          "texte": "« J'ai le même matin que toi. »",
+          "debut_s": 69,
+          "fin_s": 75
+        }
+      ]
+    },
+    {
+      "debut_s": 75,
+      "fin_s": 100,
+      "image": "A (rapproché)",
+      "mouvement": "statique, un pas en avant",
+      "musique": {
+        "niveau": 0,
+        "note": "aucune musique : seulement la voix"
+      },
+      "texte_ecran": [
+        {
+          "texte": "À toi.",
+          "debut_s": 76,
+          "fin_s": 78
+        }
+      ]
+    },
+    {
+      "debut_s": 100,
+      "fin_s": 108,
+      "image": "B puis A (rapproché)",
+      "mouvement": "gros plan sur « sois comme Lamine », retour au plan rapproché",
+      "musique": {
+        "niveau": 0,
+        "note": "aucune musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Ton matin t'appartient. Garde-le.",
+          "debut_s": 101,
+          "fin_s": 107
+        }
+      ]
+    },
+    {
+      "debut_s": 108,
+      "fin_s": 117,
+      "image": "A",
+      "mouvement": "statique, un pas en arrière",
+      "musique": {
+        "niveau": 0.12,
+        "note": "kalimba et guitare reviennent, très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "1. Le téléphone dort dans une autre pièce",
+          "debut_s": 109,
+          "fin_s": 116
+        }
+      ]
+    },
+    {
+      "debut_s": 117,
+      "fin_s": 122,
+      "image": "C4",
+      "mouvement": "plan fixe puis léger panoramique vers la tasse",
+      "musique": {
+        "niveau": 0.14,
+        "note": "très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "2. Dix minutes pour toi",
+          "debut_s": 117,
+          "fin_s": 126
+        }
+      ]
+    },
+    {
+      "debut_s": 122,
+      "fin_s": 127,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.12,
+        "note": "très bas"
+      }
+    },
+    {
+      "debut_s": 127,
+      "fin_s": 134,
+      "image": "A",
+      "mouvement": "statique",
+      "musique": {
+        "niveau": 0.12,
+        "note": "très bas"
+      },
+      "texte_ecran": [
+        {
+          "texte": "3. Ta liste avant celle des autres",
+          "debut_s": 127,
+          "fin_s": 134
+        }
+      ]
+    },
+    {
+      "debut_s": 134,
+      "fin_s": 145,
+      "image": "A",
+      "mouvement": "statique ; la main montre le bas de l'écran",
+      "musique": {
+        "niveau": 0.2,
+        "note": "la musique monte un peu"
+      },
+      "texte_ecran": [
+        {
+          "texte": "À quelle heure tu as touché ton téléphone ? Dis-le en commentaire.",
+          "debut_s": 135,
+          "fin_s": 144
+        }
+      ]
+    },
+    {
+      "debut_s": 145,
+      "fin_s": 150,
+      "image": "A",
+      "mouvement": "statique, le soleil levé dans la fenêtre",
+      "musique": {
+        "niveau": 0.12,
+        "note": "la musique redescend"
+      }
+    },
+    {
+      "debut_s": 150,
+      "fin_s": 152,
+      "image": "C6",
+      "mouvement": "accéléré du ciel, du bleu à l'orange",
+      "musique": {
+        "niveau": 0.05,
+        "note": "la musique s'éteint en fondu"
+      }
+    },
+    {
+      "debut_s": 152,
+      "fin_s": 155,
+      "image": "A (rapproché)",
+      "mouvement": "statique, lumière dorée du lever du soleil ; silence",
+      "musique": {
+        "niveau": 0,
+        "note": "musique à zéro"
+      }
+    },
+    {
+      "debut_s": 155,
+      "fin_s": 170,
+      "image": "A (rapproché), B sur « Je te lance un défi »",
+      "mouvement": "statique, gros plan recadré sur le défi",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Le défi : demain matin, 30 minutes sans téléphone.",
+          "debut_s": 157,
+          "fin_s": 169
+        }
+      ]
+    },
+    {
+      "debut_s": 170,
+      "fin_s": 180,
+      "image": "A (rapproché)",
+      "mouvement": "les deux mains ouvertes, image la plus dorée, 2 s de regard caméra, coupe",
+      "musique": {
+        "niveau": 0,
+        "note": "pas de musique"
+      },
+      "texte_ecran": [
+        {
+          "texte": "Écris « Debout » en commentaire.",
+          "debut_s": 170,
+          "fin_s": 179
+        }
+      ]
+    }
+  ],
+  "couverture": {
+    "source": "C6 et C4 ensemble : la fenêtre à l'aube, la tasse fumante sur la table",
+    "texte": "Qui gagne ton matin ?",
+    "style_texte": "très gros, or #D4AF37, tiers haut",
+    "prompt_en": "A steaming cup of tea on a small kitchen table by a window at dawn, the sky deep blue with a thin orange line on the horizon, a small warm lamp, an open notebook beside the cup, nobody in frame, empty dark upper third for a title, 9:16 vertical, photorealistic",
+    "prompt_negatif": "readable text, readable handwriting, faces, logo, brand, watermark, cartoon"
+  },
+  "legende": "Même immeuble, même travail, même réveil à 5 h 30.\nL'un donne son matin au téléphone. L'autre le garde. Un an plus tard, l'un a un diplôme.\n\nEt toi, quelle est la première chose que tu touches le matin ?\nDéfi : ce soir, ton téléphone dort dans une autre pièce. Demain matin, 30 minutes sans lui. Puis écris « Debout ».",
+  "hashtags": [
+    "#MrZika",
+    "#Discipline",
+    "#Matin",
+    "#Afrique",
+    "#Machiavel"
+  ],
+  "si_trop_long": [
+    "Supprimer le segment S9 (Machiavel) en entier.",
+    "Supprimer le plan de coupe C3.",
+    "Ne jamais couper : l'histoire (S2, S3) et la réponse de Lamine, le moment « À toi » (S4), l'appel à revenir raconter (S8), le défi de fin (S10)."
+  ]
+}

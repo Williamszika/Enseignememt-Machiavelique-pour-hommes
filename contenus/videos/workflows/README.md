@@ -34,6 +34,7 @@ Ce que contient un workflow :
 | 6 | Seul, pas isolé (version 3) | [bloc-06-seul-pas-isole.workflow.json](bloc-06-seul-pas-isole.workflow.json) |
 | 7 | Partir sans se perdre (version 3) | [bloc-07-partir-sans-se-perdre.workflow.json](bloc-07-partir-sans-se-perdre.workflow.json) |
 | 8 | Le pardon (version 3) | [bloc-08-le-pardon.workflow.json](bloc-08-le-pardon.workflow.json) |
+| 9 | Le matin (version 3) | [bloc-09-le-matin.workflow.json](bloc-09-le-matin.workflow.json) |
 
 ---
 
