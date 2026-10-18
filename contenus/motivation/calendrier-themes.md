@@ -2,7 +2,9 @@
 
 **Chaque vidéo correspond à son thème.** Chaque bloc a sa **fiche vidéo** ci-dessous : l'idée de l'histoire, le lieu, le décor, les plans de coupe, la musique, la couleur, le rythme du montage et la couverture. Le script du bloc suit sa fiche, jamais un modèle générique. Ce qui reste identique d'une vidéo à l'autre : toi, ta voix, le style des sous-titres et la carte de fin « Mr Zika ».
 
-**Script vidéo :** chaque bloc a aussi **un script de vidéo de 3 minutes** (une petite histoire, trois conseils, un conseil de motivation de fin), livré le jour 1 du bloc dans `contenus/videos/bloc-NN-theme.md`.
+**Depuis le 18 octobre 2026 :** plus de texte du jour, de visuel, de prompt d'image ni de workflow. Chaque bloc reçoit **un seul livrable : un script vidéo de 2 minutes**, dynamique et motivant, écrit le jour 1 du bloc dans `contenus/videos/2min/bloc-NN-theme.md` (format : [contenus/videos/2min/README.md](../videos/2min/README.md)). Les angles J1/J2/J3 ci-dessous servent de matière au script ; les fiches vidéo donnent l'histoire et le lieu.
+
+*Jusqu'au 17 octobre : un script de 3 minutes par bloc dans `contenus/videos/bloc-NN-theme.md`, avec son workflow, et un texte par jour.*
 
 **Règle :** un texte par jour, mais **un même thème pendant trois jours consécutifs**, à partir du jeudi 24 septembre 2026. Chaque bloc suit le même arc :
 
@@ -88,7 +90,8 @@ Les trois textes d'un bloc ne répètent ni la même accroche, ni la même phras
 - **J3 (mar. 20)** — Défi : ce soir, ton téléphone dort dans une autre pièce. Demain matin, trente minutes sans lui.
 - **Références** : lettre à Francesco Vettori du 10 décembre 1513 (« je me lève le matin avec le soleil » et je vais revoir l'ouvrage de la veille : en exil, sa journée commence par le travail) ; ch. XXIV (les seules défenses bonnes, sûres et durables sont celles qui dépendent de toi).
 - **Idées de la [source 40](../../analyses/40-manifester-depuis-la-paix.md)** : le **récipient en verre** : ta paix, tu la confies à la première notification (A4) ; « ta paix est une affaire qui te concerne, pas celle du téléphone ».
-- **Script vidéo 3 min** : [contenus/videos/bloc-09-le-matin.md](../videos/bloc-09-le-matin.md) — Aziz, Lamine et le même matin (version 3).
+- **Script vidéo 2 min** : [contenus/videos/2min/bloc-09-le-matin.md](../videos/2min/bloc-09-le-matin.md) — le format en vigueur.
+- *Ancien format, script 3 min* : [contenus/videos/bloc-09-le-matin.md](../videos/bloc-09-le-matin.md) — Aziz, Lamine et le même matin (version 3).
 - **Fiche vidéo** *(script écrit)* — **Histoire** : deux voisins qui se lèvent à la même heure pour le même travail. L'un prend son téléphone dans le lit et lit les problèmes des autres pendant quarante minutes ; l'autre pose les pieds par terre, se lave le visage, écrit trois choses à faire et étudie vingt minutes. Un an plus tard, l'un a un diplôme. « J'ai le même matin que toi. Je ne le donne juste pas au téléphone. » **Lieu** : **la cuisine ou le coin fenêtre, avant l'aube**, debout près d'une table ; on tourne pendant que le jour se lève. **Décor** : une bouilloire, une tasse, un carnet ; la fenêtre encore bleue. **Plans de coupe** : un écran qui s'allume dans le noir, des pieds nus qui se posent sur le sol, de l'eau sur le visage, une bouilloire qui fume, un carnet avec trois lignes, le ciel qui passe du bleu à l'orange, un téléphone posé écran contre la table dans une autre pièce. **Musique** : presque inaudible au début (kalimba ou guitare), qui monte avec la lumière. **Couleur** : bleu de l'aube au début, or du lever du soleil à la fin. **Rythme** : lent au début, plus vif quand le jour se lève. **Couverture** : la fenêtre à l'aube et la tasse + « Qui gagne ton matin ? ».
 
 ## Bloc 10 — 21, 22, 23 octobre : **Désir, pas besoin** (le couple)
