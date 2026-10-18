@@ -1,23 +1,26 @@
 export const meta = {
   name: 'texte-vers-scripts',
-  description: "Mr Zika : l'agent expert en motivation lit un texte envoyé, en tire les thèmes et leur sens avec les mots du texte, le sculpte phrase par phrase et écrit des scripts vidéo de 1 min 20 à 3 min (thème à l'écran, histoire, motivation), relus et corrigés",
+  description: "Mr Zika : l'agent expert en motivation lit un texte envoyé, en tire les thèmes et leur sens avec les mots du texte, le sculpte phrase par phrase et ajoute ses thèmes à la file quotidienne (un script de 1 min 20 à 3 min par jour) ; avec max_scripts > 0, il écrit aussi des scripts tout de suite, relus et corrigés",
   whenToUse: "Quand l'utilisateur envoie un texte (transcript, article) : d'abord l'enregistrer dans sources/NN-texte-integral.md, phrases numérotées, puis lancer ce workflow avec args {numero, source}",
   phases: [
     { title: 'Lire', detail: 'de quoi parle le texte, ses thèmes, leur sens, les mots du texte, le plan des scripts' },
     { title: 'Sculpter', detail: 'phrase par phrase, une partie par agent' },
     { title: 'Écrire', detail: 'un agent par script' },
     { title: 'Relire', detail: 'un relecteur exigeant par script, puis correction' },
-    { title: 'Rassembler', detail: 'la fiche des thèmes et des scripts' },
+    { title: 'Rassembler', detail: 'la fiche des thèmes et des scripts, et les thèmes ajoutés à la file quotidienne' },
   ],
 }
 
-// args : { numero: "41", source: "sources/41-texte-integral.md", sculpture: true, max_scripts: 5 }
+// args : { numero: "41", source: "sources/41-texte-integral.md", sculpture: true, max_scripts: 0 }
+// Par défaut (max_scripts: 0), aucun script n'est écrit tout de suite : les thèmes s'ajoutent à la fin de
+// contenus/videos/2min/file-des-themes.md et la routine quotidienne en écrit un par jour.
+// max_scripts: N > 0 écrit en plus N scripts immédiatement.
 const A = args || {}
 const NUM = String(A.numero || '').padStart(2, '0')
 const SOURCE = A.source
 if (!NUM || NUM === '00' || !SOURCE) throw new Error("args requis : {numero, source}")
 const SCULPTURE = A.sculpture !== false
-const MAX = A.max_scripts || 5
+const MAX = (A.max_scripts === undefined || A.max_scripts === null) ? 0 : A.max_scripts
 
 const AGENT = "Tu es l'agent « expert en motivation » du compte Mr Zika. Lis d'abord .claude/agents/expert-motivation.md et suis-le. Lis aussi personnage.md, contenus/videos/2min/README.md et la section « Machiavel (le vrai) » de glossaire.md. Travaille dans le dépôt /home/user/Enseignememt-Machiavelique-pour-hommes. Ne fais aucun commit git."
 
@@ -70,14 +73,14 @@ Réponds :
 1. De quoi parle le texte (résumé simple).
 2. Ses parties (vidéos, chapitres, leçons) avec la première et la dernière phrase de chacune ; toutes les phrases doivent être dans une partie.
 3. Tous les thèmes qu'il fait ressortir (souvent 5 à 12) : pour chacun, le titre à afficher à l'écran, ce qu'il veut dire, 3 à 8 phrases EXACTES du texte (avec leur numéro) qui le portent, ce que le texte dit de faux ou de dangereux à son sujet, et sa force.
-4. Le plan de ${MAX} scripts au plus (au moins 2) : les thèmes les plus forts, un script peut réunir 1 à 3 thèmes proches. Pour chacun, une histoire émouvante, sincère et SIMPLE (une seule personne, chronologique, rien à deviner ; alterne héroïnes et héros), une durée entre 1:20 et 3:00 selon la richesse du thème, et un défi avec un mot à écrire en commentaire. Pas deux histoires semblables.
+4. Le plan de scripts, un par thème fort (de 3 à 15 selon la richesse du texte), classés du plus fort au moins fort : les thèmes les plus forts, un script peut réunir 1 à 3 thèmes proches. Pour chacun, une histoire émouvante, sincère et SIMPLE (une seule personne, chronologique, rien à deviner ; alterne héroïnes et héros), une durée entre 1:20 et 3:00 selon la richesse du thème, et un défi avec un mot à écrire en commentaire. Pas deux histoires semblables.
 
 ${REGLES}`, { label: 'Lire tout le texte', phase: 'Lire', schema: CARTE })
 
 if (!carte) throw new Error("La lecture du texte a échoué")
 log(`${carte.themes.length} thèmes, ${carte.parties.length} parties, ${carte.scripts.length} scripts prévus`)
 const scripts = carte.scripts.slice(0, MAX)
-if (carte.scripts.length > MAX) log(`${carte.scripts.length - MAX} scripts proposés laissés de côté (max_scripts = ${MAX})`)
+log(MAX ? `${scripts.length} scripts écrits maintenant, ${carte.scripts.length - scripts.length} ajoutés à la file` : `${carte.scripts.length} thèmes de scripts ajoutés à la file (un par jour)`)
 const themesTexte = carte.themes.map(t =>
   `${t.id} — ${t.titre_ecran} (force ${t.force}/10)\nSens : ${t.sens}\nMots du texte : ${t.mots_du_texte.map(m => `${m.num} « ${m.phrase} »`).join(' ; ')}\nÀ corriger : ${t.a_corriger}`).join('\n\n')
 
@@ -98,7 +101,7 @@ const RELU = { type: 'object', properties: {
   problemes: { type: 'array', items: { type: 'string' }, description: 'chaque problème précis, avec la ligne concernée et la correction attendue' },
 }, required: ['ok', 'duree_estimee', 'problemes'] }
 
-const ecrire = () => pipeline(scripts,
+const ecrire = () => !scripts.length ? Promise.resolve([]) : pipeline(scripts,
   (s) => agent(`${AGENT}
 
 Mission 2 (écrire un script). Écris contenus/videos/2min/source-${NUM}-${s.slug}.md, sur le modèle de contenus/videos/2min/source-40-tomber-n-est-pas-echouer.md.
@@ -149,7 +152,9 @@ ${themesTexte}
 - « Les scripts » : pour chacun, le lien vers contenus/videos/2min/source-${NUM}-<slug>.md (chemin relatif depuis analyses/ : ../contenus/videos/2min/…), le thème affiché, la durée, le défi. Scripts : ${scripts.map(s => `${s.slug} (${s.titre_ecran}, ${s.duree}, défi : ${s.defi})`).join(' ; ')}
 - « La sculpture phrase par phrase » : les liens vers analyses/${NUM}-sculpture-*.md ${SCULPTURE ? '' : '(non faite cette fois)'}
 - Une ligne vers le texte : ../${SOURCE}
-Vérifie que chaque fichier de script existe avant de le lier. Réponds en une ligne : le chemin de la fiche.`, { label: 'Fiche des thèmes et des scripts', phase: 'Rassembler' })
+Vérifie que chaque fichier de script existe avant de le lier.
+Puis AJOUTE À LA FIN du tableau de contenus/videos/2min/file-des-themes.md une ligne par script prévu qui n'a pas encore été écrit, dans l'ordre (du plus fort au moins fort), sans toucher aux lignes existantes : N° (à la suite), « Jour prévu » (le jour qui suit le dernier jour prévu du tableau), « Thème à l'écran », « D'où il vient » (Source ${NUM}, partie, numéros de phrases), « Idée d'histoire », « à faire », et une colonne Script vide. Les scripts prévus : ${carte.scripts.map(s => `${s.titre_ecran} — thèmes ${s.themes.join('+')} — histoire : ${s.histoire} — défi : ${s.defi}`).join(' || ')}. Les scripts déjà écrits maintenant (à marquer « fait » avec leur lien) : ${scripts.map(s => `source-${NUM}-${s.slug}.md`).join(', ') || 'aucun'}.
+Réponds en une ligne : le chemin de la fiche et le nombre de thèmes ajoutés à la file.`, { label: 'Fiche des thèmes et des scripts', phase: 'Rassembler' })
 
 return {
   resume: carte.resume,

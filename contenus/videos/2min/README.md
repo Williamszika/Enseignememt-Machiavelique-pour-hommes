@@ -49,13 +49,16 @@ L'**agent expert en motivation** (`.claude/agents/expert-motivation.md`) écrit 
 ## Les règles du compte (elles ne changent pas)
 Histoires présentées comme des histoires. Jamais de citation inventée. Pas de « toutes les femmes », pas de technique, pas de mot qui déclenche la modération (soumission, dominée, dresser). On ne promet rien sur personne : on parle de ce que l'homme fait. Secouer l'excuse, jamais humilier la personne. Si le thème touche à la violence, au contrôle ou aux idées noires, on oriente d'abord vers une aide réelle.
 
+## Un thème par jour : la file
+
+Chaque jour, la routine prend **le premier thème « à faire »** de [file-des-themes.md](file-des-themes.md), le fait écrire en script par l'agent expert en motivation (relu et corrigé), le marque « fait » avec son lien, et l'envoie à Mr Zika. Quand la file est vide, elle demande un nouveau texte.
+
 ## Quand Mr Zika envoie un texte : le workflow
 
 1. Le texte est enregistré tel quel dans `sources/NN-texte-integral.md`, **phrase par phrase, numérotées** (A-001, A-002…).
 2. On lance le workflow **`texte-vers-scripts`** (`.claude/workflows/texte-vers-scripts.js`) avec `{numero: "NN", source: "sources/NN-texte-integral.md"}`. L'agent expert en motivation :
    - **lit tout le texte** : de quoi il parle, tous ses thèmes, ce que chacun veut dire, les phrases exactes qui les portent, ce qu'il faut corriger ;
    - **le sculpte phrase par phrase** : `analyses/NN-sculpture-*.md` ;
-   - **écrit les scripts** des thèmes les plus forts (un script peut en réunir plusieurs), de 1 min 20 à 3 minutes, le thème affiché devant, l'histoire, la motivation, avec les mots du texte : `contenus/videos/2min/source-NN-*.md` ;
-   - fait **relire chaque script par un relecteur exigeant**, puis le corrige ;
+   - **ajoute ses thèmes à la fin de la file**, du plus fort au moins fort : un script par jour ensuite ;
    - rassemble tout dans **`analyses/NN-themes-et-scripts.md`**, la fiche à lire en premier.
-
+   - Avec `max_scripts: N`, il écrit aussi N scripts tout de suite, chacun relu par un relecteur exigeant puis corrigé.
