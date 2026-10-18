@@ -1,82 +1,92 @@
-# Script 2 min — Bloc 9 : Le matin
+# Script vidéo — Bloc 9 : Le matin
 
-**Mode de motivation : l'héritage** (voir le [README](README.md)). On ne pousse pas, on touche : quelqu'un s'est levé avant le soleil pour toi ; ce matin-là, tu le portes.
-**Durée :** environ 2 min 15 (entre 2 et 3 minutes). **Format :** face caméra, 9:16, plan serré, voix basse, longues prises.
-**À publier :** pendant le thème (18–20 octobre), de préférence tôt le matin (6 h – 8 h).
-**Défi :** demain matin, te lever avant ton téléphone ; trente minutes pour toi ; appeler pour dire merci. **En commentaire :** le prénom de celle ou celui qui se levait pour toi.
+**Durée :** environ 2 min 40 (entre 2 et 3 minutes). **Format :** debout, face caméra, 9:16, direct et dynamique (voir le [README](README.md)).
+**Idées tirées de tes textes :** [source 40](../../../analyses/40-manifester-depuis-la-paix.md) : « ta paix est une affaire qui te concerne, pas celle du téléphone », le récipient en verre, « ne confonds pas mouvement avec avancement ».
+**Défi :** demain matin, une heure sans téléphone. **En commentaire :** « Debout ».
 
 ---
 
 ## Le script
 
-**[0:00–0:08] L'ouverture** *(écran noir 2 s, on entend un feu qu'on allume ; puis ton visage, plan serré, voix basse, presque un murmure ; pas de musique)*
-> Quelqu'un s'est levé avant le soleil… pour toi.
-> *(silence 1 s)* Tu t'en souviens ?
+**[0:00–0:08] L'accroche** *(plan serré, voix forte, regard droit, aucun sourire)*
+> Toi qui dis : « Je n'ai pas le temps »…
+> Écoute-moi bien. Tu te **mens**.
 
-**[0:08–0:48] L'histoire** *(lent, tendre, comme on raconte à quelqu'un assis à côté ; la kora entre, très bas)*
-> Je vais te raconter l'histoire de **Mariama**.
-> Quatre heures du matin. Tout le quartier dort.
-> Elle allume le feu. Elle va chercher l'eau. Elle prépare les beignets du marché.
-> Elle n'a pas de réveil. Elle n'a pas de téléphone.
-> Elle a un fils qui dort sur la natte. Et une seule idée en tête : **qu'il aille à l'école**.
-> *(silence 1 s)* Quinze ans. Quinze ans à se lever avant le soleil.
-> Pas **une** fois pour elle.
-> Le fils a grandi. Diplômé. Parti travailler loin.
+**[0:08–0:30] Je te parle** *(plan large, rythme rapide, les mains qui parlent)*
+> Le matin, tu ouvres les yeux. Et avant même de dire bonjour à ta propre vie, tu donnes ta tête à ton **téléphone**.
+> Les groupes. Les vidéos. Les problèmes des autres.
+> Et après, tu me dis que tu es fatigué ? Que tu n'avances pas ?
+> *(plan serré)* Frère, tu n'avances pas parce que tu commences chaque journée **assis dans la vie des autres**.
 
-**[0:48–1:15] Le retournement** *(la voix se rapproche ; tu regardes l'objectif ; la kora monte un peu)*
-> Ce fils… c'est peut-être **toi**.
-> Pour toi, c'était peut-être ta mère. Ton père. Ta grand-mère. Un oncle qui partait au champ avant l'aube.
-> Et ce matin qu'on t'a donné… aujourd'hui, **à qui tu le donnes ?**
-> Tu ouvres les yeux, et ta première minute va à un écran. À des inconnus.
-> *(silence 2 s, la musique s'efface)*
-> Ils ont donné leurs matins pour que tu aies une vie.
-> Ne donne pas les tiens **pour regarder celle des autres**.
+**[0:30–1:10] L'histoire** *(conteur, mais rapide et clair ; un geste par étape)*
+> Je vais te raconter l'histoire de **Karim**.
+> Karim répète toujours la même phrase : « Je n'ai pas le temps. »
+> Pas le temps pour le sport. Pas le temps pour son projet d'atelier de soudure.
+> Un soir, son petit frère lui prend le téléphone et ouvre le temps d'écran.
+> *(silence 1 s)* **Une heure et dix minutes.** Chaque matin. Avant même de sortir du lit.
+> Karim fait le calcul. Plus de **quatre cents heures** par an. **Dix-sept jours** entiers, couché, à regarder la vie des autres.
+> Le lendemain, il laisse son téléphone dans le salon. Une heure. Pour lui.
+> Six mois plus tard, son petit atelier tourne le samedi.
+> Même homme. Même salaire. Mêmes vingt-quatre heures.
+> Il a juste arrêté de les **donner**.
 
-**[1:15–1:38] Le sens** *(doux, sans reproche ; une main sur la poitrine)*
-> Je ne te dis pas ça pour te faire honte.
-> Je te le dis parce que tu **portes** leurs matins.
-> Te lever avant tout le reste, ce n'est pas de la discipline.
-> C'est de la **reconnaissance**.
-> C'est dire : ce qu'ils ont commencé, **je le continue**.
+**[1:10–1:25] La conclusion** *(un pas vers la caméra, plus lent, chaque phrase posée)*
+> Alors retiens ça.
+> Tu n'as pas un problème de **temps**.
+> Tu as un problème de **premier geste**.
+> Celui qui donne son matin à son téléphone donne sa journée **aux autres**.
 
-**[1:38–2:05] Le défi** *(un pas vers la caméra, voix basse et ferme, main ouverte, jamais le doigt ; aucune musique)*
-> Demain, fais une chose pour eux.
-> Lève-toi **avant** ton téléphone. Trente minutes, rien que pour toi. De l'eau sur le visage, et une chose qui construit ta vie.
-> Et si elle est encore là… **appelle-la**. Pas pour demander. Pour dire **merci**.
-> Si elle n'est plus là, ce matin sera ta prière pour elle.
-> Puis reviens ici, et écris **son prénom**.
+**[1:25–1:55] Le conseil** *(plan large, énergie qui remonte, compte sur tes doigts)*
+> Voilà ce que tu fais.
+> **Un.** Ce soir, ton téléphone dort dans une **autre pièce**. Un petit réveil coûte moins cher que ta vie.
+> **Deux.** Au réveil : debout tout de suite. De l'eau sur le visage. Pas de négociation.
+> **Trois.** Ta première heure, tu la donnes à **une** chose qui construit ta vie : ton corps, ton projet, ta formation, ta prière.
+> Les messages ? Ils seront encore là dans une heure. **Ta vie, peut-être pas.**
 
-**[2:05–2:15] La phrase finale** *(silence 1 s ; la kora revient, une seule note ; regard fixe)*
-> Quelqu'un s'est levé pour toi.
-> *(un temps)* Maintenant, **lève-toi**.
+**[1:55–2:20] Les phrases qui restent** *(plan serré, fort, une phrase par coupe)*
+> Ta paix, tu la portes comme un verre. Arrête de la confier à la première **notification**.
+> Ne confonds pas **bouger** et **avancer**.
+> Personne ne viendra te réveiller pour ta vie.
+> Tu veux changer de vie ? **Change ta première heure.**
+
+**[2:20–2:40] Le défi** *(musique coupée net ; un pas vers la caméra, voix basse et ferme, main ouverte)*
+> Toi qui es encore là, regarde-moi.
+> Je te lance un défi. Demain matin : **une heure sans téléphone**.
+> Et seulement après, tu viens ici et tu écris un mot : « **Debout**. »
+> *(un temps, la musique reprend)* Ton matin, c'est ton premier combat. **Gagne-le.**
 
 ---
 
 ## Texte à l'écran
-Peu de texte : on laisse parler le visage. Lettres blanches, fines, centrées ; un seul mot en or par phrase.
-- 0:02 — `Quelqu'un s'est levé avant le soleil… pour toi.`
-- 0:12 — `4 h du matin.`
-- 0:38 — `Pas une fois pour elle.`
-- 0:50 — `Ce fils… c'est peut-être toi.`
-- 1:02 — `À qui tu donnes ton matin ?`
-- 1:28 — `Ce n'est pas de la discipline. C'est de la reconnaissance.`
-- 1:45 — `Demain : 30 minutes avant ton téléphone.`
-- 1:58 — `Écris son prénom.`
-- 2:08 — `Maintenant, lève-toi.`
+- 0:00 — `« Je n'ai pas le temps. »`
+- 0:05 — `TU TE MENS.`
+- 0:25 — `Tu commences ta journée dans la vie des autres.`
+- 0:50 — `1 h 10 chaque matin.`
+- 0:58 — `400 heures par an. 17 jours.`
+- 1:08 — `Il a arrêté de les donner.`
+- 1:15 — `Pas un problème de temps. Un problème de premier geste.`
+- 1:30 — `1. Le téléphone dort ailleurs`
+- 1:38 — `2. Debout tout de suite`
+- 1:45 — `3. Ta première heure pour TA vie`
+- 2:00 — `Ne confonds pas bouger et avancer.`
+- 2:15 — `Change ta première heure.`
+- 2:25 — `DÉFI : 1 heure sans téléphone`
+- 2:32 — `Écris « Debout »`
 
-## Le tournage en cinq lignes
-- **Lieu :** près d'une fenêtre, **à l'aube**, la pièce encore presque sombre ; une seule lumière douce sur ton visage (la fenêtre ou une petite lampe). Assis ou debout, mais immobile.
-- **Tenue :** simple et sombre. Rien qui attire l'œil : tout est dans le visage et la voix.
-- **Cadre :** un seul plan **serré** (du haut de la poitrine au-dessus de la tête), trépied fixe ; tu fais un pas vers la caméra pour le défi. **Prises longues, peu de coupes** : c'est l'inverse d'une vidéo nerveuse.
-- **Plans de coupe (si tu en as) :** une allumette qui allume un feu ou un réchaud, de l'eau versée d'un seau, des mains qui roulent une pâte, une natte au sol, la fenêtre qui s'éclaire. Jamais le visage d'un enfant.
-- **Son :** le bruit du feu au début ; **kora seule**, très douce, qui monte au « c'est peut-être toi », **disparaît** pendant le défi, et revient sur une seule note à la fin.
+## Le tournage
+- **Lieu :** ta cuisine ou ta fenêtre, le matin, debout.
+- **Tenue :** t-shirt simple, sans logo.
+- **Deux cadres, trépied fixe :** le large (de la taille à la tête) et le serré (un pas vers la caméra, repère au sol). Chaque partie dans le cadre indiqué.
+- **Montage :** une coupe toutes les 2 à 3 secondes, un zoom rapide sur chaque mot en gras, les chiffres en gros à l'écran.
+- **Musique :** afrobeat instrumental ou beat rythmé, coupée net à 2:20, reprise sur la dernière phrase. Si tu as une minute de plus : filme l'écran « temps d'écran » de ton propre téléphone (flou sur les noms d'applications) et ton téléphone posé dans une autre pièce.
 
 ## Légende
 ```
-Quatre heures du matin. Elle allumait le feu pour que tu ailles à l'école.
-Ce matin qu'on t'a donné, à qui tu le donnes aujourd'hui ?
+« Je n'ai pas le temps. » 1 h 10 de téléphone chaque matin, avant même de se lever. 17 jours par an.
+Tu n'as pas un problème de temps. Tu as un problème de premier geste.
 
-Demain, lève-toi avant ton téléphone. Et écris ici le prénom de celle ou celui qui se levait pour toi.
+Et toi, combien de temps tu donnes à ton téléphone avant de te lever ?
+Défi : demain matin, une heure sans téléphone. Puis écris « Debout ».
 
-#MrZika #Matin #Famille #Afrique #Motivation
+#MrZika #Discipline #Matin #Afrique #Motivation
 ```
