@@ -2,7 +2,7 @@
 
 **Chaque vidéo correspond à son thème.** Chaque bloc a sa **fiche vidéo** ci-dessous : l'idée de l'histoire, le lieu, le décor, les plans de coupe, la musique, la couleur, le rythme du montage et la couverture. Le script du bloc suit sa fiche, jamais un modèle générique. Ce qui reste identique d'une vidéo à l'autre : toi, ta voix, le style des sous-titres et la carte de fin « Mr Zika ».
 
-**Depuis le 18 octobre 2026 :** plus de texte du jour, de visuel, de prompt d'image ni de workflow. Chaque bloc reçoit **un seul livrable : un script vidéo de 2 à 3 minutes**, direct, dynamique et motivant (une histoire simple sur le thème, la conclusion, le conseil, des phrases qui restent, un défi), basé sur les idées des textes envoyés, écrit le jour 1 du bloc dans `contenus/videos/2min/bloc-NN-theme.md` (format : [contenus/videos/2min/README.md](../videos/2min/README.md)). Les angles J1/J2/J3 ci-dessous servent de matière au script ; les fiches vidéo donnent l'histoire et le lieu.
+**Depuis le 18 octobre 2026 :** plus de texte du jour, de visuel, de prompt d'image ni de workflow. Chaque bloc reçoit **un seul livrable : un script vidéo de 2 à 3 minutes**, direct, très actif et motivant, qui parle à la personne qui écoute, femme ou homme (une histoire simple sur le thème, la conclusion, le conseil, des phrases qui restent, un défi), basé sur les idées des textes envoyés, écrit le jour 1 du bloc dans `contenus/videos/2min/bloc-NN-theme.md` (format : [contenus/videos/2min/README.md](../videos/2min/README.md)). Les angles J1/J2/J3 ci-dessous servent de matière au script ; les fiches vidéo donnent l'histoire et le lieu.
 
 *Jusqu'au 17 octobre : un script de 3 minutes par bloc dans `contenus/videos/bloc-NN-theme.md`, avec son workflow, et un texte par jour.*
 
