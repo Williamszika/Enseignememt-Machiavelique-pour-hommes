@@ -17,17 +17,20 @@
 - **Basé sur les textes que Mr Zika envoie** : chaque script reprend au moins une idée des analyses (`analyses/`), notée sous « Idées de la source NN » dans le bloc du calendrier, et l'indique en tête du fichier. On garde l'idée vraie, on laisse de côté ce que l'analyse a corrigé.
 - **Durée** : entre 2 et 3 minutes, environ **330 à 420 mots** parlés à rythme soutenu, avec quelques silences d'une seconde avant les phrases fortes.
 
-## La structure
+## La structure (depuis le 18 octobre, à la demande de Mr Zika)
+
+**Le thème s'affiche, une histoire émouvante et sincère, puis la motivation.**
 
 | Temps (environ) | Partie | Ce qu'on fait |
 |---|---|---|
-| 0:00–0:08 | **L'accroche** | On interpelle : « Toi. Oui, toi. », la phrase que la personne se dit, et on la casse (« Arrête. Ce n'est pas vrai. ») |
-| 0:08–0:30 | **Je te parle** | On fait agir tout de suite (« Pense à ce matin… c'était quoi ? ») et on pose le constat en face : ce qu'elle ou il fait, ce que ça coûte |
-| 0:30–1:10 | **L'histoire** | « Je vais te raconter l'histoire de… » : une personne, une situation, un fait concret, une fin claire. Toujours présentée comme une histoire, jamais comme un fait réel |
-| 1:10–1:25 | **La conclusion** | Ce que l'histoire prouve, en deux phrases. La croyance qui tombe |
-| 1:25–1:55 | **Le conseil** | Deux ou trois gestes numérotés, concrets |
-| 1:55–2:20 | **Les phrases qui restent** | Trois ou quatre phrases de motivation, dont une tirée des textes envoyés ; une vraie phrase de Machiavel seulement si elle frappe (glossaire, jamais inventée) |
-| 2:20–2:40 | **Le défi** | « Regarde-moi. C'est à toi que je parle. Je te lance un défi. » Faisable, vérifiable, le mot à écrire en commentaire, et une dernière phrase à l'impératif |
+| 0:00–0:04 | **Le thème à l'écran** | Quelques mots seuls, sur fond sobre (ex. `TOMBER N'EST PAS ÉCHOUER`). Pas encore de voix, ou une seule respiration |
+| 0:04–1:15 | **L'histoire** | Émouvante et sincère. **Une** personne (femme ou homme, on alterne d'un thème à l'autre), un lieu, un problème, un moment qui serre le cœur, une phrase dite par quelqu'un, un tournant, une fin claire. Chronologique, simple, comprise à la première écoute : rien à deviner. Présentée comme une histoire (« écoute l'histoire de… »), jamais comme un fait réel |
+| 1:15–1:35 | **Et toi** | On se tourne vers la personne qui écoute : « Et toi… », « C'est à toi que je parle. » On relie l'histoire à sa vie |
+| 1:35–2:00 | **La vérité** | La croyance qui tombe, la conclusion de l'histoire et du thème (« Alors retiens bien ça. ») |
+| 2:00–2:25 | **Le conseil et les phrases qui restent** | Deux ou trois gestes concrets (« Pas demain. Ce soir. »), puis deux ou trois phrases de motivation courtes, dont une tirée des textes envoyés |
+| 2:25–2:50 | **Le défi** | « Regarde-moi. Je te lance un défi. » Faisable, vérifiable, avec le mot à écrire en commentaire, et une dernière phrase à l'impératif |
+
+L'**agent expert en motivation** (`.claude/agents/expert-motivation.md`) écrit les scripts dans cette forme. Il « sculpte » d'abord, phrase par phrase, chaque texte que Mr Zika envoie, et il en tire les thèmes et les histoires.
 
 ## Ce que contient chaque fichier
 1. En tête : la durée, **les idées tirées des textes envoyés** (avec le lien vers l'analyse), le défi et le mot à écrire.
