@@ -1,86 +1,82 @@
 # Script 2 min — Bloc 9 : Le matin
 
-**Durée :** 2 minutes maximum. **Format :** debout, face caméra, 9:16, très dynamique (voir les règles de montage dans le [README](README.md)).
+**Mode de motivation : l'héritage** (voir le [README](README.md)). On ne pousse pas, on touche : quelqu'un s'est levé avant le soleil pour toi ; ce matin-là, tu le portes.
+**Durée :** 2 minutes maximum. **Format :** face caméra, 9:16, plan serré, voix basse, longues prises.
 **À publier :** pendant le thème (18–20 octobre), de préférence tôt le matin (6 h – 8 h).
-**Défi :** demain matin, 30 minutes sans téléphone. **Mot en commentaire :** « Debout ».
+**Défi :** demain matin, te lever avant ton téléphone ; trente minutes pour toi ; appeler pour dire merci. **En commentaire :** le prénom de celle ou celui qui se levait pour toi.
 
 ---
 
 ## Le script
 
-**[0:00–0:05] L'accroche** *(plan serré, voix forte, sans sourire)*
-> Ton téléphone te réveille ?
-> **Non.** Il te **vole**.
+**[0:00–0:08] L'ouverture** *(écran noir 2 s, on entend un feu qu'on allume ; puis ton visage, plan serré, voix basse, presque un murmure ; pas de musique)*
+> Quelqu'un s'est levé avant le soleil… pour toi.
+> *(silence 1 s)* Tu t'en souviens ?
 
-**[0:05–0:20] Le constat** *(plan large, rythme rapide, comme une liste qui défile)*
-> Tu ouvres les yeux. Ta main cherche l'écran.
-> Les groupes. Les nouvelles. Les problèmes des autres.
-> Quarante minutes plus tard, tu n'as **rien** fait pour toi, et tu es déjà fatigué.
-> Tu crois que tu commences ta journée ?
-> *(plan serré)* Tu commences **celle des autres**.
+**[0:08–0:45] L'histoire** *(lent, tendre, comme on raconte à quelqu'un assis à côté ; la kora entre, très bas)*
+> Je vais te raconter l'histoire de **Mariama**.
+> Quatre heures du matin. Tout le quartier dort.
+> Elle allume le feu. Elle va chercher l'eau. Elle prépare les beignets du marché.
+> Elle n'a pas de réveil. Elle n'a pas de téléphone.
+> Elle a un fils qui dort sur la natte. Et une seule idée en tête : **qu'il aille à l'école**.
+> *(silence 1 s)* Quinze ans. Quinze ans à se lever avant le soleil.
+> Pas **une** fois pour elle.
+> Le fils a grandi. Diplômé. Parti travailler loin.
 
-**[0:20–0:50] L'histoire** *(ton de conteur, mais rapide ; un geste par personnage)*
-> Je vais te raconter l'histoire de deux voisins. Même immeuble, même travail, même réveil : cinq heures et demie.
-> **Aziz** prend son téléphone.
-> **Lamine** pose les pieds par terre. De l'eau sur le visage. Trois choses écrites sur un papier. Vingt minutes d'étude. **Tous** les matins.
-> Un an plus tard, Lamine a son diplôme.
-> Aziz lui demande : « Tu as plus de temps que moi ? »
-> *(silence 1 s)* Lamine répond : « Non. J'ai le **même** matin que toi. Je ne le donne pas au téléphone. »
+**[0:45–1:08] Le retournement** *(la voix se rapproche ; tu regardes l'objectif ; la kora monte un peu)*
+> Ce fils… c'est peut-être **toi**.
+> Pour toi, c'était peut-être ta mère. Ton père. Ta grand-mère.
+> Et ce matin qu'on t'a donné… aujourd'hui, **à qui tu le donnes ?**
+> Tu ouvres les yeux, et ta première minute va à un écran. À des inconnus.
+> *(silence 2 s, la musique s'efface)*
+> Ils ont donné leurs matins pour que tu aies une vie.
+> Ne donne pas les tiens **pour regarder celle des autres**.
 
-**[0:50–1:05] Le déclic** *(plan serré, plus lent, chaque phrase posée)*
-> Écoute-moi bien.
-> Ce n'est pas le **temps** qui te manque.
-> C'est ton premier quart d'heure, que tu offres à **n'importe qui**.
-> Machiavel, chassé de Florence, écrivait : « Je me lève le matin avec le soleil. »
-> Pas avec les nouvelles. **Avec le soleil.**
+**[1:08–1:27] Le sens** *(doux, sans reproche ; une main sur la poitrine)*
+> Je ne te dis pas ça pour te faire honte.
+> Je te le dis parce que tu **portes** leurs matins.
+> Te lever avant tout le reste, ce n'est pas de la discipline.
+> C'est de la **reconnaissance**.
+> C'est dire : ce qu'ils ont commencé, **je le continue**.
 
-**[1:05–1:30] Trois actions** *(plan large, énergie qui remonte, compte sur tes doigts)*
-> Alors, trois choses.
-> **Un.** Ce soir, ton téléphone dort dans une **autre pièce**.
-> **Deux.** Au réveil : de l'eau, un verre d'eau, ta prière ou ton silence. Rien qui vient des autres.
-> **Trois.** Écris **tes** trois choses à faire, avant de lire celles des autres.
-> C'est simple. Pas facile. Mais **simple**.
+**[1:27–1:50] Le défi** *(un pas vers la caméra, voix basse et ferme, main ouverte, jamais le doigt ; aucune musique)*
+> Demain, fais une chose pour eux.
+> Lève-toi **avant** ton téléphone. Trente minutes, rien que pour toi.
+> Et si elle est encore là… **appelle-la**. Pas pour demander. Pour dire **merci**.
+> Si elle n'est plus là, ce matin sera ta prière pour elle.
+> Puis reviens ici, et écris **son prénom**.
 
-**[1:30–1:50] Le défi** *(musique coupée ; un pas vers la caméra, plan serré, voix basse et ferme ; main ouverte, jamais le doigt)*
-> Toi qui t'endors le téléphone à la main, **regarde-moi**.
-> Je te lance un défi. À toi, pas à un autre.
-> Demain matin : **trente minutes** sans téléphone.
-> Et seulement après, tu viens ici, et tu écris un seul mot : « **Debout**. »
-
-**[1:50–2:00] La phrase finale** *(la musique reprend ; plan serré, regard fixe)*
-> Le monde peut attendre trente minutes.
-> Ta vie, **non**.
+**[1:50–2:00] La phrase finale** *(silence 1 s ; la kora revient, une seule note ; regard fixe)*
+> Quelqu'un s'est levé pour toi.
+> *(un temps)* Maintenant, **lève-toi**.
 
 ---
 
 ## Texte à l'écran
-- 0:00 — `TON TÉLÉPHONE TE VOLE.`
-- 0:15 — `Tu commences la journée… des autres.`
-- 0:25 — `Même réveil : 5 h 30.`
-- 0:45 — `« J'ai le même matin que toi. »`
-- 0:55 — `Ce n'est pas le temps qui te manque.`
-- 1:02 — `« Je me lève le matin avec le soleil. » — Machiavel`
-- 1:08 — `1. Le téléphone dort ailleurs`
-- 1:14 — `2. Dix minutes pour toi`
-- 1:20 — `3. Ta liste d'abord`
-- 1:35 — `DÉFI : 30 min sans téléphone`
-- 1:45 — `Écris « Debout »`
-- 1:52 — `Ta vie, non.`
+Peu de texte : on laisse parler le visage. Lettres blanches, fines, centrées ; un seul mot en or par phrase.
+- 0:02 — `Quelqu'un s'est levé avant le soleil… pour toi.`
+- 0:12 — `4 h du matin.`
+- 0:35 — `Pas une fois pour elle.`
+- 0:47 — `Ce fils… c'est peut-être toi.`
+- 0:58 — `À qui tu donnes ton matin ?`
+- 1:20 — `Ce n'est pas de la discipline. C'est de la reconnaissance.`
+- 1:35 — `Demain : 30 minutes avant ton téléphone.`
+- 1:45 — `Écris son prénom.`
+- 1:55 — `Maintenant, lève-toi.`
 
 ## Le tournage en cinq lignes
-- **Lieu :** ta cuisine ou ta fenêtre, **tôt le matin**, la lumière du jour qui se lève derrière toi. Debout.
-- **Tenue :** t-shirt simple, sans logo. Tu viens de te lever, et tu es déjà réveillé.
-- **Deux cadres sans bouger le trépied :** le **large** (de la taille à la tête, à 1,5 m) et le **serré** (tu fais un pas vers la caméra, repère au sol). Tu dis chaque partie dans le cadre indiqué.
-- **Le mouvement :** un pas en avant pour le déclic et pour le défi, un pas en arrière pour les trois actions. Les mains parlent : un geste par idée.
-- **Musique :** afrobeat instrumental calme mais rythmé ; coupée net à 1:30, elle reprend à 1:50. Si tu as 2 minutes de plus : filme ton téléphone retourné sur la table et ton verre d'eau, pour couper dans l'histoire.
+- **Lieu :** près d'une fenêtre, **à l'aube**, la pièce encore presque sombre ; une seule lumière douce sur ton visage (la fenêtre ou une petite lampe). Assis ou debout, mais immobile.
+- **Tenue :** simple et sombre. Rien qui attire l'œil : tout est dans le visage et la voix.
+- **Cadre :** un seul plan **serré** (du haut de la poitrine au-dessus de la tête), trépied fixe ; tu fais un pas vers la caméra pour le défi. **Prises longues, peu de coupes** : c'est l'inverse d'une vidéo nerveuse.
+- **Plans de coupe (si tu en as) :** une allumette qui allume un feu ou un réchaud, de l'eau versée d'un seau, des mains qui roulent une pâte, une natte au sol, la fenêtre qui s'éclaire. Jamais le visage d'un enfant.
+- **Son :** le bruit du feu au début ; **kora seule**, très douce, qui monte au « c'est peut-être toi », **disparaît** pendant le défi, et revient sur une seule note à la fin.
 
 ## Légende
 ```
-Même réveil. Même travail. Un an plus tard, l'un a un diplôme.
-La différence ? Le premier quart d'heure.
+Quatre heures du matin. Elle allumait le feu pour que tu ailles à l'école.
+Ce matin qu'on t'a donné, à qui tu le donnes aujourd'hui ?
 
-Et toi, à qui tu donnes ton matin ?
-Défi : demain matin, 30 minutes sans téléphone. Puis écris « Debout ».
+Demain, lève-toi avant ton téléphone. Et écris ici le prénom de celle ou celui qui se levait pour toi.
 
-#MrZika #Discipline #Matin #Afrique #Motivation
+#MrZika #Matin #Famille #Afrique #Motivation
 ```
