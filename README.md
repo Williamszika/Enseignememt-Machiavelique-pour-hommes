@@ -19,6 +19,8 @@ live et des thèmes de discussion.
 
 Chaque texte reçu nourrit aussi `personnage.md` : la voix, les structures, les idées et les limites du compte. C'est avec cette voix que tout le reste est écrit.
 
+**Depuis le 18 octobre 2026 :** chaque texte reçu passe par le workflow **`texte-vers-scripts`** (`.claude/workflows/texte-vers-scripts.js`) et l'**agent expert en motivation** (`.claude/agents/expert-motivation.md`) : lecture complète et thèmes, sculpture phrase par phrase, scripts vidéo de 1 min 20 à 3 min (thème affiché, histoire, motivation) relus et corrigés, et une fiche `analyses/NN-themes-et-scripts.md`. Détail : [contenus/videos/2min/README.md](contenus/videos/2min/README.md).
+
 ## À la demande
 
 Quatre choses se produisent sur simple demande, dans le ton du compte et sans dérive :

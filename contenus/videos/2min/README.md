@@ -1,6 +1,6 @@
-# Scripts vidéo de 2 à 3 minutes : un par thème
+# Scripts vidéo de 1 min 20 à 3 minutes
 
-**Depuis le 18 octobre 2026**, il n'y a plus de texte du jour, de visuel, de prompt d'image ni de workflow JSON. Chaque thème du [calendrier](../../motivation/calendrier-themes.md) (un thème tous les trois jours) reçoit **un seul livrable** : un script vidéo de **2 à 3 minutes (120 à 180 s, jamais plus)**, écrit le premier jour du thème, dans ce dossier : `bloc-NN-theme.md`. Le modèle : [bloc-09-le-matin.md](bloc-09-le-matin.md).
+**Depuis le 18 octobre 2026**, il n'y a plus de texte du jour, de visuel, de prompt d'image ni de workflow JSON. Chaque thème du [calendrier](../../motivation/calendrier-themes.md) (un thème tous les trois jours) reçoit **un seul livrable** : un script vidéo de **1 min 20 à 3 minutes (80 à 180 s, jamais plus)**, écrit le premier jour du thème, dans ce dossier : `bloc-NN-theme.md`. Le modèle : [bloc-09-le-matin.md](bloc-09-le-matin.md).
 
 ## Ce que doit être la vidéo (la demande de Mr Zika)
 
@@ -15,7 +15,7 @@
 - **Des phrases de motivation** qui restent, courtes, martelées, une par plan.
 - **Un défi** pour finir, avec **un mot à écrire en commentaire**.
 - **Basé sur les textes que Mr Zika envoie** : chaque script reprend au moins une idée des analyses (`analyses/`), notée sous « Idées de la source NN » dans le bloc du calendrier, et l'indique en tête du fichier. On garde l'idée vraie, on laisse de côté ce que l'analyse a corrigé.
-- **Durée** : entre 2 et 3 minutes, environ **330 à 420 mots** parlés à rythme soutenu, avec quelques silences d'une seconde avant les phrases fortes.
+- **Durée** : entre 1 min 20 et 3 minutes, environ **200 à 420 mots** parlés (150 par minute, silences compris), selon la richesse du thème.
 
 ## La structure (depuis le 18 octobre, à la demande de Mr Zika)
 
@@ -48,3 +48,14 @@ L'**agent expert en motivation** (`.claude/agents/expert-motivation.md`) écrit 
 
 ## Les règles du compte (elles ne changent pas)
 Histoires présentées comme des histoires. Jamais de citation inventée. Pas de « toutes les femmes », pas de technique, pas de mot qui déclenche la modération (soumission, dominée, dresser). On ne promet rien sur personne : on parle de ce que l'homme fait. Secouer l'excuse, jamais humilier la personne. Si le thème touche à la violence, au contrôle ou aux idées noires, on oriente d'abord vers une aide réelle.
+
+## Quand Mr Zika envoie un texte : le workflow
+
+1. Le texte est enregistré tel quel dans `sources/NN-texte-integral.md`, **phrase par phrase, numérotées** (A-001, A-002…).
+2. On lance le workflow **`texte-vers-scripts`** (`.claude/workflows/texte-vers-scripts.js`) avec `{numero: "NN", source: "sources/NN-texte-integral.md"}`. L'agent expert en motivation :
+   - **lit tout le texte** : de quoi il parle, tous ses thèmes, ce que chacun veut dire, les phrases exactes qui les portent, ce qu'il faut corriger ;
+   - **le sculpte phrase par phrase** : `analyses/NN-sculpture-*.md` ;
+   - **écrit les scripts** des thèmes les plus forts (un script peut en réunir plusieurs), de 1 min 20 à 3 minutes, le thème affiché devant, l'histoire, la motivation, avec les mots du texte : `contenus/videos/2min/source-NN-*.md` ;
+   - fait **relire chaque script par un relecteur exigeant**, puis le corrige ;
+   - rassemble tout dans **`analyses/NN-themes-et-scripts.md`**, la fiche à lire en premier.
+
