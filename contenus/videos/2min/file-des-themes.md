@@ -10,7 +10,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 1 | 18 oct. | JE LE VEUX. JE N'EN AI PAS BESOIN. | Source 40, vidéo A, leçon 1 (A-033, A-068, A-069) | Cheikh, électricien, et le visa qui ne vient pas | fait (18 oct.) | [script](source-40-je-le-veux-sans-en-avoir-besoin.md) |
 | 2 | 19 oct. | LE CALME N'EST PAS UNE VENGEANCE | Source 40, vidéo B, leçon 5 (B-216, B-220, B-221, B-241 à B-243 ; contre B-228, B-229, B-232) | Mariam, comptable rabaissée chaque lundi | fait (19 oct.) | [script](source-40-le-calme-n-est-pas-une-vengeance.md) |
 | 3 | 20 oct. | J'AI PEUR. JE LE FAIS QUAND MÊME. | Source 40, vidéo C, leçon 3 (C-125, C-141, C-142, C-158) | Koffi, commis de cuisine, et la table du marché | fait (20 oct.) | [script](source-40-j-ai-peur-je-le-fais-quand-meme.md) |
-| 4 | 21 oct. | TA PAIX EST UN VERRE | Source 40, vidéo A, leçon 4 (A-164 à A-167, A-185) | Grâce et le groupe WhatsApp du marché | à faire | |
+| 4 | 21 oct. | TA PAIX EST UN VERRE | Source 40, vidéo A, leçon 4 (A-164 à A-167, A-185) | Grâce, vendeuse de pagnes, et le groupe WhatsApp du marché | fait (21 oct.) | [script](source-40-ta-paix-est-un-verre.md) |
 | 5 | 22 oct. | PAS DE DÉCISION SUR UNE ÉMOTION D'UN SOIR | Source 40, vidéo B, leçon 3 | Fatou | à faire | |
 | 6 | 23 oct. | EST-CE VRAI, OU EST-CE APPRIS ? | Source 40, vidéo C, leçon 1 (C-040, C-036, C-056) | à choisir | à faire | |
 | 7 | 24 oct. | TA COLÈRE EST UN SIGNAL, PAS UN ORDRE | Source 40, vidéo A, leçon 7 (A-317, A-334 à A-336) | Didier et le client insultant | à faire | |
