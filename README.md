@@ -77,6 +77,7 @@ personnage.md la voix du compte, nourrie par chaque texte reçu
 | 38 | **Chaîne F** : 5 mensonges, 7 signes, le retour de l'ex. **Les quatre figurants** (Thomas et Sarah jouent deux histoires opposées) et **« l'hostilité de défense »** | [analyses/38](analyses/38-les-cinq-mensonges.md) |
 | 39 | **Chaînes A + F dans le même upload** : 5 astuces, le silence stratégique. **Une vidéo traite l'autre d'immature à 15 min d'écart**, le silence punitif, et les *Ghiribizzi* | [analyses/39](analyses/39-cinq-astuces-et-le-silence.md) |
 | 40 | **Chaîne E** : 3 vidéos, « manifester depuis la paix », la trempe de l'esprit, ta façon de parler. **La loi de l'attraction habillée en stoïcisme**, et un script traduit (« pourquoi lui, mais pourquoi ») | [analyses/40](analyses/40-manifester-depuis-la-paix.md) |
+| 41 | **Chaîne E** : les phrases qui trahissent un homme immature (8 points annoncés comme 5). Lu, sculpté phrase par phrase et transformé en thèmes par l'agent expert en motivation | [analyses/41 — thèmes et scripts](analyses/41-themes-et-scripts.md) |
 
 > Sources 10-25 : transcripts reçus en bloc le 2026-09-06, archivés sous forme de structure et citations clés (pas intégralement). Voir chaque fichier `sources/10-…` à `sources/25-…`. Sources 27 (56 min), 28 (1 h 14), 29 (44 min), 30 (44 min), 31 (30 min), 32 (31 min), 33 (2 h 15), 34 (2 h 17), 35 (1 h 29), 36 (1 h 32), 37 (1 h 15), 38 (1 h 33), 39 (1 h 14) et 40 (trois vidéos, reçues en texte) : idem, structure et citations clés.
 

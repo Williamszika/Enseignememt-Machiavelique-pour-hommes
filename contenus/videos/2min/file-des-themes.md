@@ -22,5 +22,16 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 13 | 30 oct. | POURQUOI MOI, OU POUR QUOI FAIRE ? | Source 40, vidéo A, leçon 3 (A-118 ; Marc Aurèle, V, 20) | Serge et le permis poids lourd | à faire | |
 | 14 | 31 oct. | NE DEVIENS PAS CE QUI T'A BLESSÉ | Source 40, vidéo B, leçon 9 | Ngozi | à faire | |
 | 15 | 1er nov. | PARLE-TOI COMME À QUELQU'UN QUE TU AIMES | Source 40, vidéo C, leçon 2 (C-070, C-086, C-087) | à choisir | à faire | |
+| 16 | 2 nov. | SA COLÈRE N'EST PAS TA FAUTE | Source 41, partie 6 (A-290, A-294, A-312 ; contre A-313) | Rokia, coiffeuse à Bamako, et le verre cassé : sécurité et aide réelle d'abord, puis le miroir | à faire | |
+| 17 | 3 nov. | TU SAIS CE QUE TU AS VU | Source 41, partie 5 (A-242, A-244, A-245, A-263) | Moussa, la caisse de la boutique familiale à Abidjan, et le carnet des faits | à faire | |
+| 18 | 4 nov. | ADMETTRE UNE ERREUR N'EST PAS TE BRISER | Source 41, parties 5 et 7 (A-272, A-275, A-276, A-371, A-372) | Salimata, imprimerie à Ouagadougou, et les cinq cents faire-part | à faire | |
+| 19 | 5 nov. | ACTEUR, PAS SPECTATEUR DE TA VIE | Source 41, partie 3 (A-145, A-159, A-168, A-171) | Thierry, licence de maths à Kinshasa, et la question de sa sœur Prisca | à faire | |
+| 20 | 6 nov. | RESTE LÀ SANS TOUT PORTER | Source 41, partie 3 (A-158, A-164, A-165 ; contre A-154, A-157) | Delphine, aide-soignante à Yaoundé, et l'amie qui ne veut plus se réveiller | à faire | |
+| 21 | 7 nov. | LA VRAIE FORCE NE CRIE PAS | Source 41, parties 1 et 4 (A-070 à A-073, A-187, A-218) | Paul, garage à Douala, et la phrase de son fils | à faire | |
+| 22 | 8 nov. | L'HUMILITÉ N'EST PAS TE FAIRE PETIT | Source 41, parties 2 et 7 (A-125, A-126, A-353) | Odile, maquis à Abidjan, et sa nièce Joëlle | à faire | |
+| 23 | 9 nov. | T'ÉLOIGNER N'EST PAS FUIR | Source 41, parties 4 et 8 (A-221, A-222, A-393, A-401, A-407) | Rodrigue, étudiant à Cotonou, et le grin | à faire | |
+| 24 | 10 nov. | TU N'AS RIEN À PROUVER · LE VOLUME N'EST PAS L'AUTORITÉ | Source 41, parties 1 et 2 (A-038, A-060, A-067, A-068, A-088, A-098) | Bintou, stand de bissap à Lomé, et le grand frère du dimanche | à faire | |
+| 25 | 11 nov. | LÂCHE CE QUE TU NE DIRIGES PAS | Source 41, partie 6 (A-283 à A-285, A-304, A-328 ; Épictète, Manuel, I) | Ousmane, conducteur de tram à Lyon, et le chantier au Sénégal | à faire | |
+| 26 | 12 nov. | TES MOTS CONSTRUISENT OU DÉTRUISENT | Source 41, partie 8 (A-405, A-415, A-416, A-417, A-421) | Clarisse, secrétaire de mairie à Libreville, et Hervé | à faire | |
 
 Les idées d'histoire sont des points de départ : l'agent peut en changer si une autre est plus simple et plus forte. Deux scripts qui se suivent n'ont jamais la même histoire, le même métier ou le même défi, et on alterne une héroïne et un héros.
