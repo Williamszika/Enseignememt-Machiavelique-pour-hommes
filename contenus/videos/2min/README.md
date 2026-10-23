@@ -4,47 +4,48 @@
 
 ## Le modèle « Face à toi » (depuis le 24 octobre 2026, à la demande de Mr Zika)
 
-**Il n'y a plus d'histoire racontée sur quelqu'un d'autre : la personne qui écoute est l'histoire.** Mr Zika lui parle seul à seul, comme en appel vidéo. Il décrit son moment à elle, au présent, puis il le vit avec elle pendant la vidéo. Le modèle : [modele-face-a-toi.md](modele-face-a-toi.md). Les scripts écrits du 18 au 23 octobre (histoire racontée, puis « Et toi ? ») restent dans ce dossier, mais ne servent plus de modèle.
+**Mr Zika parle seul à seul à la personne qui écoute, comme en appel vidéo, et au milieu il lui raconte une histoire comme à quelqu'un assis en face de lui.** Le modèle et son exemple : [modele-face-a-toi.md](modele-face-a-toi.md). Les scripts écrits du 18 au 22 octobre (histoire lue comme un récit, puis « Et toi ? ») restent dans ce dossier, mais ne servent plus de modèle.
 
-- **« C'est à toi que je parle » dès la 3e seconde.** Pas de personnage, pas de prénom, pas de « écoute l'histoire de… ». La scène, c'est la sienne : « Il y a quelqu'un qui t'a mis le sang à la tête. Aujourd'hui. »
-- **Des détails concrets du corps et du quotidien** : la mâchoire serrée, le pouce au-dessus du bouton, l'heure, le plafond à minuit. La personne doit se reconnaître, pas deviner.
-- **La voix dans sa tête, citée mot pour mot**, puis démontée en une phrase.
-- **Le ton d'une personne assise en face** : la voix basse et proche, sans crier. Ferme avec l'excuse, jamais méprisant avec la personne.
-- **Un seul geste, fait pendant la vidéo**, avec de vrais silences : « Fais-le avec moi. Là. Pendant que je parle. »
-- **La fin : une phrase à répéter** à voix basse, puis à écrire en commentaire, et une dernière phrase à l'impératif.
-- **Femme ou homme : chaque phrase marche pour les deux.** Pas d'adjectif accordé quand on parle à « tu » (« la colère monte », pas « tu es furieux ») ; pas de « frère » tout seul ; on cite plusieurs personnes possibles (« un chef, un frère, une sœur »).
-- **Basé sur les textes que Mr Zika envoie** : au moins trois phrases du texte, dans leur version juste (sculpture et analyse), indiquées en tête du fichier avec leur numéro.
-- **Durée** : entre 1 min 20 et 3 minutes, environ **200 à 380 mots** parlés (moins de mots qu'avant : les silences comptent).
+- **« C'est à toi que je parle » dès la 3e seconde**, puis sa scène à elle en deux ou trois phrases concrètes (la mâchoire serrée, le petit rire, le pouce au-dessus du bouton), et « Je vais te raconter une histoire. »
+- **L'histoire, racontée à la personne** : une personne (« Appelons-la Ramatou », « Un homme, à Douala »), un problème, un moment qui serre le cœur, une phrase dite par quelqu'un, un tournant, une fin honnête. Mr Zika s'interrompt et la fait entrer dedans : « Tu sais ce qu'elle répond ? », « Attends, la suite. », « Tu imagines ? », « Tu vois la scène ? ». **Toujours présentée comme une histoire** : jamais « je l'ai vu », jamais un client ni un fait réel.
+- **Ce que la personne se dit en écoutant**, cité, puis démonté en une phrase.
+- **Savoir parler à l'autre** : des mots de tous les jours, des phrases courtes, pas de leçon. On parle à une personne, pas à une foule. On raconte, on demande, on laisse un silence, on aide.
+- **Un seul geste, fait pendant la vidéo**, souvent le geste du personnage (« Fais comme elle. Là. Pendant que je parle. »), avec de vrais silences.
+- **La fin : une phrase à répéter** à voix basse, puis un mot à écrire en commentaire, et une dernière phrase à l'impératif.
+- **Femme ou homme : chaque phrase dite à « tu » marche pour les deux.** Pas d'adjectif accordé avec « tu » (« la colère monte », pas « tu es furieux ») ; pas de « frère » tout seul. On alterne héroïne et héros d'un jour à l'autre.
+- **Les mots du texte, avec mesure** : deux à quatre phrases du texte envoyé, dans leur version juste, indiquées en tête du fichier avec leur numéro. Pas plus : le reste, ce sont les mots simples de Mr Zika.
+- **Durée** : entre 1 min 20 et 3 minutes, environ **300 à 400 mots** parlés, silences compris (jamais plus de 180 s).
 
 ## La structure
 
 | Temps (environ) | Partie | Ce qu'on fait |
 |---|---|---|
-| 0:00–0:03 | **Le thème à l'écran** | Quelques mots seuls, sur fond sobre (ex. `TA COLÈRE EST UN SIGNAL, PAS UN ORDRE.`). Aucun son |
-| 0:03–0:40 | **Je te vois** | « Attends. C'est à toi que je parle. » Puis la scène de la personne, au présent, avec des détails concrets |
-| 0:40–1:05 | **Ce que tu te dis** | La voix dans sa tête, citée (« Si je ne réponds pas maintenant… »), puis démontée en une phrase |
-| 1:05–1:40 | **Si j'étais assis en face de toi** | La vérité du thème, avec trois ou quatre phrases du texte envoyé, dites doucement |
-| 1:40–2:10 | **Fais-le avec moi, maintenant** | Un seul geste, fait en direct, avec des silences gardés au montage. Si le thème touche à la violence, au deuil, au contrôle ou aux idées noires : la phrase d'aide réelle ici |
-| 2:10–2:25 | **Ta phrase** | « Répète après moi, à voix basse : … » Puis « Écris-le ici : … » (le mot à écrire en commentaire), et une dernière phrase à l'impératif |
+| 0:00–0:03 | **Le thème à l'écran** | Quelques mots seuls, sur fond sobre. Aucun son |
+| 0:03–0:18 | **Je te vois** | « Attends. C'est à toi que je parle. » Sa scène en deux ou trois phrases, puis « Je vais te raconter une histoire. » |
+| 0:18–1:20 | **L'histoire, racontée à toi** | Une personne, chronologique, simple, avec des questions et des apartés à la personne qui écoute |
+| 1:20–1:35 | **Ce que tu te dis** | « Et toi, en m'écoutant, tu te dis peut-être : … », puis démonté en une phrase |
+| 1:35–1:55 | **Si j'étais assis en face de toi** | La vérité du thème, avec deux à quatre phrases du texte, dites doucement |
+| 1:55–2:35 | **Fais-le avec moi, maintenant** | Un seul geste, en direct, silences gardés au montage. Violence, deuil, humiliation, contrôle, idées noires : la phrase d'aide réelle ici |
+| 2:35–2:50 | **Ta phrase** | « Répète après moi, à voix basse : … », puis « Écris-le ici : … », et une dernière phrase à l'impératif |
 
-L'**agent expert en motivation** (`.claude/agents/expert-motivation.md`) écrit les scripts dans cette forme. Il « sculpte » d'abord, phrase par phrase, chaque texte que Mr Zika envoie, et il en tire les thèmes et les scènes.
+L'**agent expert en motivation** (`.claude/agents/expert-motivation.md`) écrit les scripts dans cette forme. Il « sculpte » d'abord, phrase par phrase, chaque texte que Mr Zika envoie, et il en tire les thèmes et les histoires.
 
 ## Ce que contient chaque fichier
-1. En tête : la durée, **les phrases tirées des textes envoyés** (numéros et lien vers la sculpture), ce qui est laissé de côté, la phrase à répéter et le mot à écrire.
+1. En tête : la durée, **les phrases tirées des textes envoyés** (deux à quatre, numéros et lien vers la sculpture), ce qui est laissé de côté, la phrase à répéter et le mot à écrire.
 2. **Le script minuté**, avec les indications entre parenthèses (*très près*, *plus bas*, *silence 4 s*) et les mots à appuyer en **gras**.
 3. **Le texte à l'écran**, minuté, avec peu de texte, pour garder le face-à-face.
 4. **Le tournage** en quelques lignes.
 5. **La légende**, avec 3 à 5 hashtags dont #MrZika, qui rappelle la phrase et le mot à écrire.
 
 ## Le tournage
-- **Un seul cadre** : le téléphone à hauteur des yeux, à 50 cm, comme un appel vidéo. Assis, lumière douce de face, le regard dans l'objectif.
+- **Un seul cadre** : le téléphone à hauteur des yeux, à 50 cm, comme un appel vidéo. Assis, lumière douce de face, le regard dans l'objectif. L'histoire se raconte comme à un ami : on se penche, on sourit, on baisse la voix.
 - **Une seule prise si possible**, sans plans de coupe : l'impression d'être là, en vrai.
 - **Les silences restent** au montage (le « Souffle » de 4 secondes ne se coupe pas).
 - **Musique** : aucune, ou une seule note grave très basse.
 - **Sous-titres** gros, centrés ; le mot-clé en or.
 
 ## Les règles du compte (elles ne changent pas)
-Pas de personnage présenté comme un fait réel ou un client. Jamais de citation inventée. Pas de « toutes les femmes », pas de technique, pas de mot qui déclenche la modération (soumission, dominée, dresser). On ne promet rien sur personne : on parle de ce que la personne fait. Secouer l'excuse, jamais humilier la personne. Si le thème touche à la violence, au contrôle ou aux idées noires, on oriente d'abord vers une aide réelle.
+Histoires présentées comme des histoires, jamais comme un fait vu ou un client. Jamais de citation inventée. Pas de « toutes les femmes », pas de technique, pas de mot qui déclenche la modération (soumission, dominée, dresser). On ne promet rien sur personne : on parle de ce que la personne fait. Secouer l'excuse, jamais humilier la personne. Si le thème touche à la violence, au contrôle ou aux idées noires, on oriente d'abord vers une aide réelle.
 
 ## Un thème par jour : la file
 
