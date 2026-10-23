@@ -1,4 +1,4 @@
-# Modèle proposé : « Face à toi » (23 octobre 2026)
+# Le modèle « Face à toi » (adopté le 23 octobre 2026, en place dès le 24)
 
 **L'idée :** il n'y a plus d'histoire racontée sur quelqu'un d'autre. **La personne qui écoute est l'histoire.** Mr Zika lui parle seul à seul, comme en appel vidéo : il décrit son moment à elle, au présent, puis il le vit avec elle pendant la vidéo.
 
