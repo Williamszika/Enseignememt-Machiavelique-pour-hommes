@@ -27,6 +27,17 @@
 
 **Savoir parler à l'autre :** des phrases courtes, des mots de tous les jours, pas de leçon. On parle à quelqu'un, pas à une foule. On ne juge pas : on raconte, on demande, on attend la réponse (un silence), on aide.
 
+## Le conseil final, dans tous les scripts (adopté par Mr Zika le 24 octobre 2026)
+
+Chaque script finit par **« Mon conseil pour toi »**, environ 30 secondes, le seul moment où l'énergie monte vraiment (on se redresse, la voix se pose et devient ferme, une note grave revient). Toujours en cinq temps :
+1. **L'annonce** : « Et maintenant, écoute mon conseil. Garde-le toute ta vie. »
+2. **Une règle de vie claire** : « La prochaine fois que… » (on te provoque, une phrase te dit « ce n'est pas pour toi »…), avec un acte simple (« Prends deux minutes. Puis dis ta limite, la tête haute. »).
+3. **Une phrase forte qui retourne la situation** : « La personne qui te met en colère ne doit jamais devenir celle qui te dirige. », « Cette phrase s'arrête avec toi. »
+4. **Une image d'énergie ou de force** : « Ta colère, c'est de l'énergie. Mets-la dans ce que tu construis. », « Chaque chose que tu apprends, c'est une porte que tu ouvres pour toute ta famille. »
+5. **La fin** : « Répète avec moi : … », « Écris-le ici : … », puis une dernière phrase à l'impératif, droit dans l'objectif.
+
+Jamais de promesse magique dans le conseil. Pour tenir sous 3 minutes, on raccourcit l'histoire ou les autres parties, jamais le conseil. Le conseil revient aussi en une ligne dans la légende (« Mon conseil : … »).
+
 ---
 
 ## Exemple sur le thème de demain : « Ta colère est un signal, pas un ordre »

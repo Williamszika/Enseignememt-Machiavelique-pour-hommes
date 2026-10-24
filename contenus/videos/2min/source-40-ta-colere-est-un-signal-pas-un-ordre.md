@@ -93,6 +93,7 @@
 Devant tout le garage, un client lui crie : « Tu ne sais rien faire. » La pire réponse est dans sa gorge.
 Il pose la clé et il dit : « Je reviens. » Deux minutes plus tard, il dit sa limite. Calmement.
 Ta colère est un signal, pas un ordre.
+Mon conseil : la prochaine fois qu'on te provoque, prends deux minutes. Puis dis ta limite, la tête haute.
 Peur de frapper ou de casser : sors, et appelle une personne de confiance ou un médecin.
 
 Répète « Je ressens tout. Je choisis ce que je fais », puis écris « Je choisis ».
