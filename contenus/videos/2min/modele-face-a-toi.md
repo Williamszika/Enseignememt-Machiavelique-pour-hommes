@@ -11,7 +11,7 @@
 | « Et toi ? » arrive après 1 min 20 | La personne est là du début à la fin ; l'histoire lui renvoie sa propre phrase |
 | Trois gestes pour « ce soir » | **Un seul geste, fait pendant la vidéo**, avec de vrais silences |
 | Beaucoup de phrases du texte | **Deux à quatre phrases du texte, pas plus** : le reste, ce sont les mots de Mr Zika, simples |
-| Le défi lancé à la fin | La personne **répète une phrase**, puis l'écrit en commentaire |
+| Le défi lancé à la fin | **Un conseil très motivant à la fin** (« Et maintenant, écoute mon conseil. »), puis la personne **répète une phrase** et l'écrit en commentaire |
 
 ## La structure (1 min 20 à 3 min, environ 300 à 400 mots)
 
@@ -22,8 +22,8 @@
 | 0:18–1:15 | **L'histoire, racontée à toi** | Une personne (« appelons-la Awa », « un homme, à Douala »), un problème, un moment qui serre le cœur, une phrase dite par quelqu'un, un tournant, une fin honnête. Racontée en parlant à la personne : « Tu sais ce qu'il a fait ? », « Attends. », « Tu imagines ? », « Toi, à sa place… » Toujours présentée comme une histoire : jamais « je l'ai vu », jamais un client ou un fait réel |
 | 1:15–1:30 | **Ce que tu te dis** | Ce que la personne pense en écoutant (« Lui, c'est lui. Moi, c'est différent. »), puis on le démonte en une phrase |
 | 1:30–1:50 | **Si j'étais assis en face de toi** | La vérité du thème, avec deux à quatre phrases du texte, dites doucement |
-| 1:50–2:35 | **Fais-le avec moi, maintenant** | Un seul geste, fait en direct (souvent le geste du personnage : « Fais comme elle. »), avec des silences gardés au montage ; l'aide réelle ici si le thème l'exige |
-| 2:35–2:50 | **Ta phrase** | « Répète après moi, à voix basse : … », puis « Écris-le ici : … », et une dernière phrase à l'impératif |
+| 1:50–2:20 | **Fais-le avec moi, maintenant** | Un seul geste, fait en direct (souvent le geste du personnage : « Fais comme elle. »), avec des silences gardés au montage ; l'aide réelle ici si le thème l'exige |
+| 2:20–2:55 | **Mon conseil pour toi** | **Un conseil très motivant**, pour la vie et pas seulement pour ce soir : la voix monte, on se redresse. « Et maintenant, écoute mon conseil. » Une règle claire (« La prochaine fois que… »), une phrase forte qui retourne la situation, une image d'énergie ou de force. Puis « Répète avec moi : … », « Écris-le ici : … », et une dernière phrase à l'impératif, dite droit dans l'objectif |
 
 **Savoir parler à l'autre :** des phrases courtes, des mots de tous les jours, pas de leçon. On parle à quelqu'un, pas à une foule. On ne juge pas : on raconte, on demande, on attend la réponse (un silence), on aide.
 
@@ -64,7 +64,7 @@
 > Te maîtriser, ce n'est pas nier ce que tu ressens.
 > Tu n'es pas ce que tu ressens. Tu es ce que tu **en fais**.
 
-**[1:55–2:35] Fais-le avec moi, maintenant** *(regard fixe ; les silences restent au montage)*
+**[1:55–2:20] Fais-le avec moi, maintenant** *(regard fixe ; les silences restent au montage)*
 > Alors fais comme Didier. Là. Pendant que je parle.
 > Lâche le message. Pose-le, comme il a posé sa clé.
 > Dis-le dans ta tête : « C'est de la colère. » *(silence 2 s)* Inspire. *(silence 4 s)* Souffle.
@@ -72,10 +72,17 @@
 > Ça, tu le diras demain. En une phrase. Une limite, ça se dit. Ça ne se **crie** pas.
 > *(plus grave)* Et si ta colère te fait peur, si tu sens que tu pourrais frapper ou casser : sors de la pièce, et appelle une personne de confiance ou un médecin. Ça aussi, c'est de la force.
 
-**[2:35–2:50] Ta phrase** *(un petit sourire ; la voix redevient chaude)*
-> Répète après moi, à voix basse : « Je ressens tout. **Je choisis** ce que je fais. »
+**[2:20–2:55] Mon conseil pour toi** *(tu te redresses ; la voix monte, ferme, chaque phrase posée)*
+> Et maintenant, écoute mon conseil. **Garde-le toute ta vie.**
+> La prochaine fois qu'on te provoque : ne te tais pas. Ne crie pas.
+> Prends **deux minutes**. Puis reviens, et dis ta limite, la tête **haute**.
+> La personne qui te met en colère ne doit jamais devenir celle qui te **dirige**.
+> Ta colère, c'est de l'**énergie**. Mets-la dans ce que tu **construis**.
+> Répète avec moi : « Je ressens tout. **Je choisis** ce que je fais. »
 > Et écris-le ici : « **Je choisis**. »
-> *(un temps)* Ressens tout. **Et choisis ce que tu fais.**
+> *(un temps, regard droit dans l'objectif)* Ressens tout. **Puis choisis.**
+
+(Le script du 24 octobre, [source-40-ta-colere-est-un-signal-pas-un-ordre.md](source-40-ta-colere-est-un-signal-pas-un-ordre.md), est la version relue et raccourcie de cet exemple, sous les 3 minutes.)
 
 ### Texte à l'écran (peu, pour garder le face-à-face)
 - 0:00 : `TA COLÈRE EST UN SIGNAL, PAS UN ORDRE.`

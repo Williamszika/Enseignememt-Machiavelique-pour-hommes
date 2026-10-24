@@ -11,7 +11,7 @@
 - **Ce que la personne se dit en écoutant**, cité, puis démonté en une phrase.
 - **Savoir parler à l'autre** : des mots de tous les jours, des phrases courtes, pas de leçon. On parle à une personne, pas à une foule. On raconte, on demande, on laisse un silence, on aide.
 - **Un seul geste, fait pendant la vidéo**, souvent le geste du personnage (« Fais comme elle. Là. Pendant que je parle. »), avec de vrais silences.
-- **La fin : une phrase à répéter** à voix basse, puis un mot à écrire en commentaire, et une dernière phrase à l'impératif.
+- **La fin : un conseil très motivant** (demande de Mr Zika, 24 octobre) : « Et maintenant, écoute mon conseil. » Une règle de vie claire, une phrase forte, la voix qui monte ; puis la phrase à répéter, le mot à écrire en commentaire, et une dernière phrase à l'impératif.
 - **Femme ou homme : chaque phrase dite à « tu » marche pour les deux.** Pas d'adjectif accordé avec « tu » (« la colère monte », pas « tu es furieux ») ; pas de « frère » tout seul. On alterne héroïne et héros d'un jour à l'autre.
 - **Les mots du texte, avec mesure** : deux à quatre phrases du texte envoyé, dans leur version juste, indiquées en tête du fichier avec leur numéro. Pas plus : le reste, ce sont les mots simples de Mr Zika.
 - **Durée** : entre 1 min 20 et 3 minutes, environ **300 à 400 mots** parlés, silences compris (jamais plus de 180 s).
@@ -25,8 +25,8 @@
 | 0:18–1:20 | **L'histoire, racontée à toi** | Une personne, chronologique, simple, avec des questions et des apartés à la personne qui écoute |
 | 1:20–1:35 | **Ce que tu te dis** | « Et toi, en m'écoutant, tu te dis peut-être : … », puis démonté en une phrase |
 | 1:35–1:55 | **Si j'étais assis en face de toi** | La vérité du thème, avec deux à quatre phrases du texte, dites doucement |
-| 1:55–2:35 | **Fais-le avec moi, maintenant** | Un seul geste, en direct, silences gardés au montage. Violence, deuil, humiliation, contrôle, idées noires : la phrase d'aide réelle ici |
-| 2:35–2:50 | **Ta phrase** | « Répète après moi, à voix basse : … », puis « Écris-le ici : … », et une dernière phrase à l'impératif |
+| 1:55–2:20 | **Fais-le avec moi, maintenant** | Un seul geste, en direct, silences gardés au montage. Violence, deuil, humiliation, contrôle, idées noires : la phrase d'aide réelle ici |
+| 2:20–2:55 | **Mon conseil pour toi** | **Un conseil très motivant**, pour la vie et pas seulement pour ce soir : la voix monte, on se redresse. « Et maintenant, écoute mon conseil. » Une règle claire (« La prochaine fois que… »), une phrase forte qui retourne la situation, une image d'énergie ou de force. Puis « Répète avec moi : … », « Écris-le ici : … », et une dernière phrase à l'impératif, dite droit dans l'objectif |
 
 L'**agent expert en motivation** (`.claude/agents/expert-motivation.md`) écrit les scripts dans cette forme. Il « sculpte » d'abord, phrase par phrase, chaque texte que Mr Zika envoie, et il en tire les thèmes et les histoires.
 
