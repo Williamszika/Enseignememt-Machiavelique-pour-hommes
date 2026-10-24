@@ -13,7 +13,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 4 | 21 oct. | TA PAIX EST UN VERRE | Source 40, vidéo A, leçon 4 (A-164 à A-167, A-185) | Grâce, vendeuse de pagnes, et le groupe WhatsApp du marché | fait (21 oct.) | [script](source-40-ta-paix-est-un-verre.md) |
 | 5 | 22 oct. | PAS DE DÉCISION SUR UNE ÉMOTION D'UN SOIR | Source 40, vidéo B, leçon 3 (B-106, B-118 à B-120, B-137) | Bakary, boulanger, et le message de 23 h à son frère | fait (22 oct.) | [script](source-40-pas-de-decision-sur-une-emotion-d-un-soir.md) |
 | 6 | 23 oct. | EST-CE VRAI, OU EST-CE APPRIS ? | Source 40, vidéo C, leçon 1 (C-040, C-036, C-056) | Ramatou, agente d'entretien dans une pharmacie, et la phrase « Chez nous, on n'est pas des gens d'école » (refait le 23 oct. au modèle « Face à toi ») | fait (23 oct.) | [script](source-40-est-ce-vrai-ou-est-ce-appris.md) |
-| 7 | 24 oct. | TA COLÈRE EST UN SIGNAL, PAS UN ORDRE | Source 40, vidéo A, leçon 7 (A-317, A-334 à A-336) | Didier, mécanicien à Douala, et le client qui l'humilie devant le garage (exemple prêt dans [modele-face-a-toi.md](modele-face-a-toi.md)) | à faire | |
+| 7 | 24 oct. | TA COLÈRE EST UN SIGNAL, PAS UN ORDRE | Source 40, vidéo A, leçon 7 (A-317, A-334 à A-336) | Didier, mécanicien à Douala, et le client qui l'humilie devant le garage | fait (24 oct.) | [script](source-40-ta-colere-est-un-signal-pas-un-ordre.md) |
 | 8 | 25 oct. | PERDRE SANS TE PERDRE | Source 40, vidéo B, leçon 4 (deuil : droit d'avoir mal, aide réelle) | Ibrahim | à faire | |
 | 9 | 26 oct. | QUELLE PART DÉPEND DE TOI ? | Source 40, vidéo C, leçon 5 (C-218, C-219, C-244) | à choisir | à faire | |
 | 10 | 27 oct. | NE CONFONDS PAS BOUGER ET AVANCER | Source 40, vidéo A, leçon 5 (A-223, A-237, A-238) | Kofi et ses cinq commerces | à faire | |
@@ -27,7 +27,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 18 | 4 nov. | ADMETTRE UNE ERREUR N'EST PAS TE BRISER | Source 41, parties 5 et 7 (A-272, A-275, A-276, A-371, A-372) | Salimata, imprimerie à Ouagadougou, et les cinq cents faire-part | à faire | |
 | 19 | 5 nov. | ACTEUR, PAS SPECTATEUR DE TA VIE | Source 41, partie 3 (A-145, A-159, A-168, A-171) | Thierry, licence de maths à Kinshasa, et la question de sa sœur Prisca | à faire | |
 | 20 | 6 nov. | RESTE LÀ SANS TOUT PORTER | Source 41, partie 3 (A-158, A-164, A-165 ; contre A-154, A-157) | Delphine, aide-soignante à Yaoundé, et l'amie qui ne veut plus se réveiller | à faire | |
-| 21 | 7 nov. | LA VRAIE FORCE NE CRIE PAS | Source 41, parties 1 et 4 (A-070 à A-073, A-187, A-218) | Paul, garage à Douala, et la phrase de son fils | à faire | |
+| 21 | 7 nov. | LA VRAIE FORCE NE CRIE PAS | Source 41, parties 1 et 4 (A-070 à A-073, A-187, A-218) | Paul, chef de chantier à Yaoundé, et la phrase de son fils (métier et ville changés : Didier, garage à Douala, le 24 oct.) | à faire | |
 | 22 | 8 nov. | L'HUMILITÉ N'EST PAS TE FAIRE PETIT | Source 41, parties 2 et 7 (A-125, A-126, A-353) | Odile, maquis à Abidjan, et sa nièce Joëlle | à faire | |
 | 23 | 9 nov. | T'ÉLOIGNER N'EST PAS FUIR | Source 41, parties 4 et 8 (A-221, A-222, A-393, A-401, A-407) | Rodrigue, étudiant à Cotonou, et le grin | à faire | |
 | 24 | 10 nov. | TU N'AS RIEN À PROUVER · LE VOLUME N'EST PAS L'AUTORITÉ | Source 41, parties 1 et 2 (A-038, A-060, A-067, A-068, A-088, A-098) | Bintou, stand de bissap à Lomé, et le grand frère du dimanche | à faire | |
