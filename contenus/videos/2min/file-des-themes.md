@@ -14,7 +14,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 5 | 22 oct. | PAS DE DÉCISION SUR UNE ÉMOTION D'UN SOIR | Source 40, vidéo B, leçon 3 (B-106, B-118 à B-120, B-137) | Bakary, boulanger, et le message de 23 h à son frère | fait (22 oct.) | [script](source-40-pas-de-decision-sur-une-emotion-d-un-soir.md) |
 | 6 | 23 oct. | EST-CE VRAI, OU EST-CE APPRIS ? | Source 40, vidéo C, leçon 1 (C-040, C-036, C-056) | Ramatou, agente d'entretien dans une pharmacie, et la phrase « Chez nous, on n'est pas des gens d'école » (refait le 23 oct. au modèle « Face à toi ») | fait (23 oct.) | [script](source-40-est-ce-vrai-ou-est-ce-appris.md) |
 | 7 | 24 oct. | TA COLÈRE EST UN SIGNAL, PAS UN ORDRE | Source 40, vidéo A, leçon 7 (A-317, A-334 à A-336) | Didier, mécanicien à Douala, et le client qui l'humilie devant le garage | fait (24 oct.) | [script](source-40-ta-colere-est-un-signal-pas-un-ordre.md) |
-| 8 | 25 oct. | PERDRE SANS TE PERDRE | Source 40, vidéo B, leçon 4 (deuil : droit d'avoir mal, aide réelle) | Ibrahim | à faire | |
+| 8 | 25 oct. | PERDRE SANS TE PERDRE | Source 40, vidéo B, leçon 4 (B-153 à B-155, B-180, B-196 ; deuil : droit d'avoir mal, aide réelle) | Estelle, institutrice à Pointe-Noire, et le « Sois forte » après la mort de sa mère | fait (25 oct.) | [script](source-40-perdre-sans-te-perdre.md) |
 | 9 | 26 oct. | QUELLE PART DÉPEND DE TOI ? | Source 40, vidéo C, leçon 5 (C-218, C-219, C-244) | à choisir | à faire | |
 | 10 | 27 oct. | NE CONFONDS PAS BOUGER ET AVANCER | Source 40, vidéo A, leçon 5 (A-223, A-237, A-238) | Kofi et ses cinq commerces | à faire | |
 | 11 | 28 oct. | CE QUI POUSSE TROP VITE N'A PAS DE RACINES | Source 40, vidéo B, leçon 6 (Machiavel, ch. VII) | Kwame | à faire | |
