@@ -6,10 +6,11 @@
 - **Modèle : `eleven_v3` (Eleven v3), obligatoirement.** Les anciens modèles (`eleven_multilingual_v2`, Flash) ne comprennent pas les balises : ils les liraient à voix haute.
 - **Voix :** la voix clonée de Mr Zika seulement.
 - **Stabilité :** « Natural » (0.5) ou « Creative » (0.0) ; « Robust » suit moins les balises.
-- **Par morceaux :** un paragraphe (bloc séparé par une ligne vide) = un appel. Les six paragraphes suivent les parties du script : Je te vois, l'histoire, ce que tu te dis, la vérité, le geste et l'aide, le conseil.
+- **Par morceaux :** un paragraphe (bloc séparé par une ligne vide) = un appel. Au format court (depuis le 26 octobre 2026), les cinq paragraphes suivent les parties du script : l'accroche de crise, l'histoire, toi et la vérité, le conseil (avec l'aide réelle si besoin), la question oui/non.
+- **Format court :** 60 à 75 s (80 s avec la phrase d'aide). La vidéo se fait d'abord avec le visage et la vraie voix de Mr Zika ; la voix ElevenLabs est un dépannage.
 - **Deux ou trois prises par morceau,** garder la meilleure, puis assembler.
 - **Silences :** `…` = une respiration, `[pause]` ≈ 1 s, `[long pause]` = un silence long, à allonger au montage jusqu'à la durée notée dans le script (souvent 4 s).
-- **Le thème à l'écran n'est pas lu** : il s'écrit à l'image pendant les 3 premières secondes (voir le script `.md`, section « Texte à l'écran »).
+- **Le thème n'est pas lu** : depuis le 26 octobre, c'est la couverture (miniature) de la vidéo ; à l'écran, seulement les sous-titres.
 - **La phrase d'aide** (deuil, violence, idées noires) ne se coupe jamais et reste au moins 4 à 6 secondes à l'écran.
 - Si la voix de la vidéo est générée : activer « Contenu généré par IA » sur TikTok.
 

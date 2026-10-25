@@ -2,6 +2,22 @@
 
 **L'idée :** Mr Zika parle seul à seul à la personne qui écoute, comme en appel vidéo. Au milieu, **il lui raconte une histoire, comme on la raconte à quelqu'un assis en face** : il s'interrompt, il lui pose des questions, il la fait entrer dans l'histoire (« Tu sais ce qu'elle a répondu ? », « Attends, la suite. », « Tu imagines ? »). Puis il revient vers elle, et il fait le geste avec elle.
 
+## ⚠️ Le format court fait foi (depuis le 26 octobre 2026)
+
+Après l'analyse TikTok du 25 octobre (`analyses/tiktok-mr-drey2-2026-10-25.md`), Mr Zika a adopté ses améliorations. **Ce format court remplace la durée, la structure et l'appel à l'action décrits plus bas** ; le reste (règles du compte, tonalités, version ElevenLabs) ne change pas. Le script de référence : [source-40-perdre-sans-te-perdre.md](source-40-perdre-sans-te-perdre.md).
+
+- **Durée : 60 à 75 secondes**, environ **150 à 190 mots** parlés (jusqu'à 80 s quand la phrase d'aide réelle est nécessaire). Une histoire = un moment clé + la morale. Si l'histoire est trop riche : **partie 1 / partie 2** (60 à 75 s chacune ; la partie 1 s'arrête sur le moment de suspense et annonce « la suite demain »).
+- **Ton visage et ta voix** : Mr Zika face caméra, filmé par lui, au moins dès l'ouverture. La voix ElevenLabs n'est qu'un dépannage.
+- **Accroche en 2 secondes avec tension** : on ouvre sur **le moment de crise** de l'histoire (« Sa main est restée en l'air. La craie dedans. »), jamais sur la morale. La morale vient à la fin.
+- **Le thème** n'est plus un bandeau : il devient **la couverture (miniature) de la vidéo**, et la morale est dite à la fin.
+- **Une seule couche de texte** : les sous-titres animés (mot-clé en jaune), rien d'autre à l'écran.
+- **Un seul appel à l'action, dit à l'oral à la fin** : une question simple, oui ou non (« Toi, on t'a déjà demandé de ne pas pleurer ? Oui ou non. »). Plus de « Répète avec moi », plus de mot à écrire, plus de « abonne-toi ».
+- **Le conseil reste**, en court (environ 15 s) : « Mon conseil : » + une règle « La prochaine fois que… » + une phrase forte qui retourne la situation.
+- **Structure** : accroche de crise (0:00–0:04) → l'histoire racontée à toi, avec un aparté (« Tu sais ce qui l'a sauvée ? ») (jusqu'à 0:40) → toi et la vérité, deux ou trois phrases du texte (jusqu'à 0:52) → mon conseil, avec l'aide réelle si le thème l'exige (jusqu'à 1:08) → la question oui/non (jusqu'à 1:14).
+- **Jamais « histoire vraie »** ni « je l'ai vue chez nous » : nos histoires sont inventées et restent présentées comme des histoires (« Appelons-la… »).
+- **Légende** : une ou deux lignes + la même question oui/non. **Hashtags (3 à 5)** : #mrzika + #diasporaafricaine + #motivation + un hashtag du thème (+ un pays si l'histoire s'y passe). Plus de #machiavel sur les histoires de famille.
+- **Publication** : le soir, **19 h–21 h UTC** (test de deux semaines). Partager en story WhatsApp et Facebook, demander à 5 proches de commenter dans les 30 premières minutes, répondre à chaque commentaire dans la première heure.
+
 ## Ce qui change par rapport à l'ancien modèle (18–22 octobre)
 
 | Ancien modèle | Modèle « Face à toi » |

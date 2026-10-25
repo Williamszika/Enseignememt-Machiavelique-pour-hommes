@@ -57,9 +57,9 @@ const CARTE = {
       slug: { type: 'string', description: 'nom de fichier court, minuscules et tirets, ex. tomber-n-est-pas-echouer' },
       titre_ecran: { type: 'string', description: "Le ou les thèmes affichés au début, ex. « TOMBER N'EST PAS ÉCHOUER »" },
       themes: { type: 'array', items: { type: 'string' }, description: 'ids des thèmes couverts (1 à 3)' },
-      duree: { type: 'string', description: 'durée visée, entre 1:20 et 3:00' },
+      duree: { type: 'string', description: 'durée visée, entre 0:60 et 1:15 (format court)' },
       histoire: { type: 'string', description: "En 3 lignes (modèle « Face à toi ») : la scène de la personne qui écoute (au présent, à « tu ») ; l'histoire à lui raconter (une personne, prénom, femme ou homme, un lieu, un problème, un moment qui touche, une phrase dite par quelqu'un, un tournant, une fin honnête) ; le seul geste à faire avec elle pendant la vidéo" },
-      defi: { type: 'string', description: 'le défi et le mot à écrire en commentaire' },
+      defi: { type: 'string', description: 'la question oui/non dite à la fin (un seul appel à l\'action)' },
     }, required: ['slug', 'titre_ecran', 'themes', 'duree', 'histoire', 'defi'] } },
   },
   required: ['resume', 'parties', 'themes', 'scripts'],
@@ -112,7 +112,7 @@ Le script :
 - puis « Ce que tu te dis » (la voix dans sa tête, citée, puis démontée), « Si j'étais assis en face de toi » (la vérité du thème, dite doucement, avec deux à quatre phrases du texte, pas plus), « Fais-le avec moi, maintenant » (un seul geste fait pendant la vidéo, silences notés ; l'aide réelle ici si le thème l'exige), « Mon conseil pour toi » (un conseil très motivant pour la vie, la voix qui monte : « Et maintenant, écoute mon conseil. », une règle claire, une phrase forte ; puis la phrase à répéter et le mot à écrire en commentaire : ${s.defi}) ; une dernière phrase à l'impératif ;
 - utilise LES MOTS DU TEXTE avec mesure : reprends deux à quatre phrases du texte (dans leur version juste, corrigée si besoin), le reste en mots simples, sur les thèmes ${s.themes.join(', ')} :
 ${carte.themes.filter(t => s.themes.includes(t.id)).map(t => `${t.id} — ${t.titre_ecran} : ${t.sens}\nMots du texte : ${t.mots_du_texte.map(m => `${m.num} « ${m.phrase} »`).join(' ; ')}\nÀ corriger : ${t.a_corriger}`).join('\n\n')}
-- durée visée ${s.duree} (entre 1:20 et 3:00 ; environ 150 mots par minute en comptant les silences ; 300 à 400 mots parlés) ;
+- FORMAT COURT (depuis le 26 octobre 2026, section « Le format court fait foi » du README) : durée visée ${s.duree}, 60 à 75 s, 150 à 190 mots parlés ; ouvrir sur le moment de crise, morale à la fin, un seul appel à l'action (la question oui/non), sous-titres seulement, le thème en couverture ; ceci remplace la structure longue ci-dessus si elle la contredit ;
 - en tête du fichier : durée, thèmes couverts, les phrases du texte reprises (avec leur numéro et un lien vers ../../../${SOURCE}), le défi, le mot à écrire ; puis le script minuté (indications entre parenthèses, mots en gras), le texte à l'écran, le tournage (un seul cadre, comme un appel vidéo), la légende (3 à 5 hashtags dont #MrZika, rappelle la phrase et le mot à écrire).
 
 ${REGLES}
@@ -124,7 +124,7 @@ Contrôle chaque point, et liste chaque problème précisément :
 2. Modèle « Face à toi » : « C'est à toi que je parle » dans les premières secondes ; l'histoire est émouvante, simple, comprise à la première écoute, racontée À la personne (questions, apartés), et présentée comme une histoire (jamais « je l'ai vu »).
 3. Les parties sont là, dans l'ordre : Je te vois, L'histoire racontée à toi, Ce que tu te dis, Si j'étais assis en face de toi, Fais-le avec moi maintenant (un seul geste, silences notés), Mon conseil pour toi (un conseil très motivant, concret, pour la vie ; puis la phrase à répéter et le mot à écrire en commentaire), une dernière phrase à l'impératif.
 4. Deux à quatre phrases viennent vraiment du texte (vérifie les numéros et l'exactitude), et aucune n'est une idée que l'analyse ou la carte a jugée fausse.
-5. Durée entre 1:20 et 3:00 (compte les mots parlés : environ 150 par minute).
+5. Format court : 60 à 75 s (150 à 190 mots parlés), ouverture sur la crise, un seul appel à l'action (question oui/non).
 6. Aucune citation inventée ou mal attribuée ; aucune promesse magique ; aucune honte ; rien pour seulement les hommes ou seulement les femmes ; pas d'adjectif accordé avec « tu ».
 7. Deuil, violence, idées noires : aide réelle si le thème y touche.
 8. Phrases courtes, actives, qu'on a envie de dire à voix haute.

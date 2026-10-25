@@ -1,43 +1,20 @@
-[softly] Attends. [pause] C'est à toi que je parle.
-[gently] Tu as perdu quelqu'un. Ou quelque chose qui comptait.
-Et depuis… tu tiens. Au travail, tu souris. [sad] Le soir, tu ne dors pas.
-[warmly] Je vais te raconter une histoire.
+[whispers] Sa main est restée en l'air. La craie dedans. Devant toute sa classe.
+[softly] Reste. C'est pour toi.
 
-[warmly] Une femme, à Pointe-Noire. Appelons-la Estelle. Elle est institutrice.
-[sad] Un dimanche… sa mère meurt.
-Estelle est l'aînée. Alors elle fait tout : les repas, les chaises, la famille.
-Une tante la voit pleurer, et lui dit : [firmly] « Tu es l'aînée. Sois forte. »
-[softly] Le lundi, Estelle est devant sa classe. Elle sourit. Elle ne pleure plus.
-Trois mois passent. Un matin, elle prend la craie pour écrire la date… [whispers] et sa main reste en l'air.
-[curious] Tu vois la scène ? [pause]
-[warmly] Le soir, sa voisine, Mama Jeanne, s'assoit à côté d'elle. Elle lui dit : [gently] « Tu as le droit d'avoir mal. »
-[curious] Tu sais ce qu'Estelle fait ? [pause] [sad] Elle pleure. Enfin.
-[softly] Le lendemain, Mama Jeanne l'emmène chez le médecin.
-[sad] Sa mère lui manque encore. [pause]
-[warmly] Un soir, elle dit le nom de sa mère, à voix haute. Et elle sourit.
+[warmly] Appelons-la Estelle. Institutrice, à Pointe-Noire.
+[sad] Un dimanche, sa mère meurt. Une tante lui dit : [firmly] « Tu es l'aînée. Sois forte. »
+[softly] Alors Estelle tient. Elle ne pleure plus.
+[sad] Trois mois après, devant le tableau, elle n'arrive plus à écrire la date.
+[curious] Tu sais ce qui l'a sauvée ? [pause] [warmly] Sa voisine. Elle s'assoit près d'elle : [gently] « Tu as le droit d'avoir mal. »
+[sad] Estelle pleure. Enfin. [softly] Et le lendemain, elle va voir un médecin.
+[warmly] Sa mère lui manque encore. Mais elle ne porte plus ça seule.
 
-[gently] Et toi, tu te dis peut-être : « Si je commence à pleurer, je ne vais plus m'arrêter. » [pause]
-[softly] Estelle a pleuré. Et le lendemain… elle s'est levée.
-
-[serious] Une perte, ça fait mal. Et ça prend le temps que ça prend.
-[softly] Pleurer quelqu'un, ce n'est pas résister à la vie. C'est l'aimer encore.
+[serious] Et toi, tu tiens depuis combien de temps ? [pause]
+[softly] Pleurer quelqu'un, c'est l'aimer encore.
 [serious] Tu perds ce que tu avais. [pause] Pas ce que tu es.
 
-[calm] Fais comme Estelle. Là.
-[calm] Pose ta main sur ta poitrine. [pause]
-[whispers] Et dis son nom. Ou le nom de ce que tu as perdu. [long pause]
-[softly] Si les larmes viennent… laisse-les. [pause]
-[serious] Écoute-moi bien.
-[serious] [slowly] Si la peine devient trop lourde, si tu n'arrives plus à te lever, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
-[serious] Si tu es en danger, appelle les urgences.
-[warmly] Demander de l'aide, ce n'est pas faiblir. C'est te garder.
+[determined] Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est dur. »
+[firmly] Ta peine ne dit pas que tu es faible. [pause] Elle dit que tu as aimé.
+[serious] [slowly] Et si c'est trop lourd, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
 
-[determined] Et maintenant, écoute mon conseil. Garde-le toute ta vie.
-[firmly] La prochaine fois que la peine revient… ne la cache pas.
-[firmly] Dis à quelqu'un : « Aujourd'hui, c'est dur. »
-[determined] Ta peine ne dit pas que tu es faible. [pause] Elle dit que tu as aimé.
-[firmly] Après un incendie, la terre repousse. Lentement… et pas sans pluie.
-[determined] Tes racines, personne ne les a brûlées.
-[warmly] Répète avec moi : « J'ai mal. Et je suis là. » [pause]
-[warmly] Et écris-le ici : « Je suis là. »
-[softly] [slowly] Ne traverse pas ça sans personne. [pause] Garde-toi.
+[warmly] Toi, on t'a déjà demandé de ne pas pleurer ? [pause] Oui ou non.
