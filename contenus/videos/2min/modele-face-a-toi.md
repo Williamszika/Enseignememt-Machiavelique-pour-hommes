@@ -77,6 +77,13 @@ Chaque script porte deux choses en plus, pour que la voix touche plus de monde :
 - **Les pauses** : `…` pour une respiration, `[pause]` pour environ une seconde, `[long pause]` pour les silences longs. Les silences de 4 secondes s'allongent ensuite au montage, si la voix ne les tient pas.
 - **Le thème à l'écran n'est pas lu** : il est écrit à l'image.
 - **Réglages** : Eleven v3, stabilité « Creative » ou « Natural » (« Robust » suit moins les balises). Générer deux ou trois prises par partie et garder la plus juste.
+
+### Eleven v4 pour tous les nouveaux scripts (règle de Mr Zika, 25 octobre 2026)
+- La version ElevenLabs s'écrit pour **Eleven v4** (sorti fin septembre 2026), section `## Version ElevenLabs (Eleven v4)`.
+- **Balises combinées et décrites en mots**, en anglais : `[warm storyteller voice]`, `[tired, sighing]`, `[curious, with a small smile]`, `[determined, voice rising]`, `[serious, slow, every word weighed]`. Une balise par phrase, deux ou trois mots dedans. Pauses : `[short pause]`, `[pause]`, `…`.
+- **Une seule génération** si le texte fait moins de 3 000 caractères (c'est le cas au format court) ; sinon couper aux paragraphes.
+- Stabilité basse pour plus d'émotion ; deux ou trois prises, garder la meilleure. Si une balise est lue comme un son, la remplacer par une description de la voix.
+- Le script de référence : [source-40-quelle-part-depend-de-toi.md](source-40-quelle-part-depend-de-toi.md).
 - **La voix** : la voix clonée de Mr Zika seulement (jamais celle de quelqu'un d'autre). Si la voix est générée, le signaler sur TikTok (« Contenu généré par IA »).
 
 ---

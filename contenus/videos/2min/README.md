@@ -80,6 +80,13 @@ Chaque script porte deux choses en plus, pour que la voix touche plus de monde :
 - **Les pauses** : `…` pour une respiration, `[pause]` pour environ une seconde, `[long pause]` pour les silences longs. Les silences de 4 secondes s'allongent ensuite au montage, si la voix ne les tient pas.
 - **Le thème à l'écran n'est pas lu** : il est écrit à l'image.
 - **Réglages** : Eleven v3, stabilité « Creative » ou « Natural » (« Robust » suit moins les balises). Générer deux ou trois prises par partie et garder la plus juste.
+
+### Eleven v4 pour tous les nouveaux scripts (règle de Mr Zika, 25 octobre 2026)
+- La version ElevenLabs s'écrit pour **Eleven v4** (sorti fin septembre 2026), section `## Version ElevenLabs (Eleven v4)`.
+- **Balises combinées et décrites en mots**, en anglais : `[warm storyteller voice]`, `[tired, sighing]`, `[curious, with a small smile]`, `[determined, voice rising]`, `[serious, slow, every word weighed]`. Une balise par phrase, deux ou trois mots dedans. Pauses : `[short pause]`, `[pause]`, `…`.
+- **Une seule génération** si le texte fait moins de 3 000 caractères (c'est le cas au format court) ; sinon couper aux paragraphes.
+- Stabilité basse pour plus d'émotion ; deux ou trois prises, garder la meilleure. Si une balise est lue comme un son, la remplacer par une description de la voix.
+- Le script de référence : [source-40-quelle-part-depend-de-toi.md](source-40-quelle-part-depend-de-toi.md).
 - **La voix** : la voix clonée de Mr Zika seulement (jamais celle de quelqu'un d'autre). Si la voix est générée, le signaler sur TikTok (« Contenu généré par IA »).
 
 ## Ce que contient chaque fichier
@@ -88,7 +95,7 @@ Chaque script porte deux choses en plus, pour que la voix touche plus de monde :
 3. **Le texte à l'écran**, minuté, avec peu de texte, pour garder le face-à-face.
 4. **Le tournage** en quelques lignes.
 5. **La légende**, avec 3 à 5 hashtags dont #MrZika, qui rappelle la phrase et le mot à écrire.
-6. **La version ElevenLabs** : le texte seul, avec les balises d'émotion en anglais entre crochets, prêt à coller dans Eleven v3.
+6. **La version ElevenLabs** : le texte seul, avec les balises d'émotion en anglais entre crochets, prêt à coller dans Eleven v4 (depuis le 25 octobre 2026).
 7. **Le fichier `elevenlabs/source-NN-<slug>.txt`** : la même version ElevenLabs, seule, dans [elevenlabs/](elevenlabs/README.md). C'est ce fichier que le dépôt des vidéos (`reseau-sociaux-bots-`) récupère pour fabriquer la voix et la vidéo.
 
 **Règle de Mr Zika (25 octobre 2026) : tous les scripts, maintenant et à l'avenir, sont livrés avec les émotions à l'intérieur** (la tonalité dans le script, la version ElevenLabs à la fin, et le fichier `.txt`).

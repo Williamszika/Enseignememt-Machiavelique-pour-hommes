@@ -68,28 +68,28 @@ Toi, tu répètes la même plainte depuis des années ? Oui ou non.
 - **Dans les 30 premières minutes :** partager en story WhatsApp et Facebook, et demander à 5 proches de commenter.
 - **Dans la première heure :** répondre à chaque commentaire. Si quelqu'un raconte une vraie injustice (patron qui ne paie pas, humiliation, violence), ne pas lui répondre « regarde ta part » : d'abord le croire, et l'orienter vers une aide réelle si besoin.
 
-## Version ElevenLabs (Eleven v3)
-À coller dans ElevenLabs, modèle **Eleven v3**, stabilité « Natural » ou « Creative », voix clonée de Mr Zika (dépannage seulement : la vidéo se fait d'abord avec ta vraie voix). Les balises entre crochets ne sont pas lues.
+## Version ElevenLabs (Eleven v4)
+À coller dans ElevenLabs, modèle **Eleven v4**, voix clonée de Mr Zika (dépannage seulement : la vidéo se fait d'abord avec ta vraie voix). Eleven v4 comprend les balises **combinées et décrites en mots** (`[warm, rising hope]`) : elles ne sont pas lues. Le texte tient en **une seule génération** (moins de 3 000 caractères). Stabilité basse pour plus d'émotion ; deux ou trois prises, garder la meilleure.
 
 ```
-[whispers] Il a compté les billets trois fois. [sad] Il manque deux mille francs. Le patron attend.
-[softly] Reste. Cette histoire est pour toi.
+[low voice, tense, almost a whisper] Il a compté les billets trois fois. [worried] Il manque deux mille francs. Le patron attend.
+[softly, close to the listener] Reste. Cette histoire est pour toi.
 
-[warmly] Appelons-le Prosper. Chauffeur de taxi, à Brazzaville.
-[sighs] Chaque soir, la même liste : « Le patron prend tout. La famille demande. Ce pays ne me laisse aucune chance. »
+[warm storyteller voice] Appelons-le Prosper. Chauffeur de taxi, à Brazzaville.
+[tired, sighing] Chaque soir, la même liste : « Le patron prend tout. La famille demande. Ce pays ne me laisse aucune chance. »
 [softly] Ce soir-là, sa femme l'écoute.
-[curious] Tu sais ce qu'elle répond ? [pause] [gently] « Tout ça est vrai. Mais demain, quelle part dépend de toi ? »
-[calm] Sur un papier, il barre ce qu'il ne peut pas changer. Il reste une ligne : partir à cinq heures, pour les commerçantes du marché Total.
-[serious] Le pays n'a pas changé. Le patron non plus.
-[warmly] Mais l'argent du patron est prêt. Et Prosper ne compte plus les billets en tremblant.
+[curious, with a small smile] Tu sais ce qu'elle répond ? [short pause] [gentle, calm, loving] « Tout ça est vrai. Mais demain, quelle part dépend de toi ? »
+[calm, slower] Sur un papier, il barre ce qu'il ne peut pas changer. Il reste une ligne : partir à cinq heures, pour les commerçantes du marché Total.
+[serious, matter-of-fact] Le pays n'a pas changé. Le patron non plus.
+[warm, rising hope] Mais l'argent du patron est prêt. Et Prosper ne compte plus les billets en tremblant.
 
-[serious] Et toi, c'est quoi, ta liste ? [pause]
-[softly] Quand tu t'entends te plaindre, demande-toi : quelle part de ça dépend de moi ?
-[serious] Regarder ta part, ça ne te rend pas coupable. [pause] Ça te rend responsable.
+[serious, direct, speaking to one person] Et toi, c'est quoi, ta liste ? [pause]
+[softly, thoughtful] Quand tu t'entends te plaindre, demande-toi : quelle part de ça dépend de moi ?
+[serious, slow, every word weighed] Regarder ta part, ça ne te rend pas coupable. [pause] Ça te rend responsable.
 
-[determined] Mon conseil : la prochaine fois que la plainte monte, arrête-toi. Respire.
-[firmly] Puis trouve une seule chose à faire demain.
-[firmly] Les injustices sont réelles. [pause] [warmly] Ta part aussi.
+[determined, voice rising] Mon conseil : la prochaine fois que la plainte monte, arrête-toi. [firm] Respire.
+[firm, rhythmic] Puis trouve une seule chose à faire demain.
+[strong, steady] Les injustices sont réelles. [pause] [warm, encouraging] Ta part aussi.
 
-[warmly] Toi, tu répètes la même plainte depuis des années ? [pause] Oui ou non.
+[warm, friendly, with a small smile] Toi, tu répètes la même plainte depuis des années ? [pause] [inviting an answer] Oui ou non.
 ```
