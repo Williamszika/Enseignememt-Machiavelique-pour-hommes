@@ -38,6 +38,31 @@ Chaque script finit par **« Mon conseil pour toi »**, environ 30 secondes, le 
 
 Jamais de promesse magique dans le conseil. Pour tenir sous 3 minutes, on raccourcit l'histoire ou les autres parties, jamais le conseil. Le conseil revient aussi en une ligne dans la légende (« Mon conseil : … »).
 
+## Les tonalités et la version ElevenLabs (depuis le 25 octobre 2026)
+
+Chaque script porte deux choses en plus, pour que la voix touche plus de monde : **la tonalité de chaque partie** (comment Mr Zika prononce les mots) et une **version ElevenLabs** à coller telle quelle dans ElevenLabs (modèle **Eleven v3**), avec des balises d'émotion entre crochets.
+
+### La tonalité, partie par partie
+
+| Partie | Tonalité (pour Mr Zika et pour ElevenLabs) | Balises ElevenLabs |
+|---|---|---|
+| Je te vois | Basse, proche, lente, comme au téléphone tard le soir. On arrête la personne sans crier | `[softly]` `[gently]` |
+| L'histoire | Voix de conteur, chaude. Elle descend sur le moment dur, remonte un peu sur la phrase dite par quelqu'un | `[warmly]` `[sad]` `[whispers]` |
+| Les apartés (« Tu sais ce qu'il fait ? ») | Une petite montée, presque un sourire, puis on attend | `[curious]` puis `[pause]` |
+| Ce que tu te dis | Lente, compréhensive, sans moquerie : on cite la pensée comme si c'était la sienne | `[gently]` `[slowly]` |
+| Si j'étais assis en face de toi | Grave et lente, chaque phrase posée ; le mot en gras un peu plus appuyé | `[serious]` `[softly]` |
+| Fais-le avec moi | Très calme, presque murmurée ; les silences comptent | `[calm]` `[whispers]` `[exhales]` |
+| La phrase d'aide | Grave, lente, très claire, sans effet. On ne joue pas : on informe | `[serious]` `[slowly]` |
+| Mon conseil pour toi | On monte d'un cran : ferme, rythmée, presque martelée. Une petite pause avant chaque mot fort. La toute dernière phrase redescend, plus lente et chaude | `[determined]` `[firmly]` puis `[warmly]` |
+
+### Les règles de la version ElevenLabs
+- **Texte seul**, sans gras, sans minutage, sans indications entre parenthèses : ElevenLabs lirait tout à voix haute.
+- **Les balises en anglais**, entre crochets, juste avant la phrase qu'elles colorent. Une ou deux balises par phrase, pas plus.
+- **Les pauses** : `…` pour une respiration, `[pause]` pour environ une seconde, `[long pause]` pour les silences longs. Les silences de 4 secondes s'allongent ensuite au montage, si la voix ne les tient pas.
+- **Le thème à l'écran n'est pas lu** : il est écrit à l'image.
+- **Réglages** : Eleven v3, stabilité « Creative » ou « Natural » (« Robust » suit moins les balises). Générer deux ou trois prises par partie et garder la plus juste.
+- **La voix** : la voix clonée de Mr Zika seulement (jamais celle de quelqu'un d'autre). Si la voix est générée, le signaler sur TikTok (« Contenu généré par IA »).
+
 ---
 
 ## Exemple sur le thème de demain : « Ta colère est un signal, pas un ordre »

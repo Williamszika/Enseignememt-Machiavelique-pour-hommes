@@ -99,3 +99,47 @@ Peur de frapper ou de casser : sors, et appelle une personne de confiance ou un 
 Répète « Je ressens tout. Je choisis ce que je fais », puis écris « Je choisis ».
 #MrZika #Motivation #Colère #Afrique #Diaspora
 ```
+
+## Version ElevenLabs (Eleven v3)
+À coller telle quelle dans ElevenLabs, modèle **Eleven v3**, stabilité « Natural » ou « Creative », avec la voix clonée de Mr Zika. Les balises en anglais entre crochets donnent l'émotion ; elles ne sont pas lues. Le thème à l'écran n'est pas lu. Les silences de 4 secondes s'allongent au montage si besoin. Tonalités : voir le tableau « Les tonalités et la version ElevenLabs » du [README](README.md).
+
+```
+[softly] Attends. Ne fais pas défiler. [pause] C'est à toi que je parle.
+[gently] Quelqu'un t'a mal parlé aujourd'hui. Peut-être devant les autres.
+Ta mâchoire est serrée. Ta réponse est prête.
+[warmly] Retiens-la. Je vais te raconter une histoire.
+
+[warmly] Un homme, à Douala. Appelons-le Didier. Il est mécanicien.
+Un client revient : sa voiture est encore en panne.
+Et devant tout le garage, il crie : [angry] « Tu ne sais rien faire. »
+[softly] Didier a la clé à la main.
+[whispers] La pire réponse est là, dans sa gorge.
+[curious] Tu sais ce qu'il fait ? [pause] [calm] Il pose la clé. Il dit : « Je reviens. »
+[softly] Deux minutes, derrière le garage. Il se dit : « C'est de la colère. » Puis : « Qu'est-ce qui a été franchi ? »
+[calm] Et il revient. Calmement, il dit : [firmly] « Monsieur, vous pouvez critiquer mon travail. Pas me parler comme ça. Je refais le diagnostic, ou vous allez ailleurs. »
+[serious] Le client part. Didier perd ce client. [pause] C'est vrai, ça coûte.
+[curious] Le soir, un apprenti lui demande : « Patron, pourquoi tu n'as pas crié ? »
+[warmly] Et Didier dit : « Ma colère m'a dit qu'il avait passé une limite. Elle ne m'a pas dit quoi faire. »
+
+[gently] Et toi, tu te dis peut-être : « Si je ne réponds pas tout de suite, on va me marcher dessus. » [pause]
+[softly] Didier a répondu. Deux minutes après.
+
+[serious] Ta colère a raison sur une chose : quelque chose a été franchi.
+[serious] Mais ta colère est un signal. [pause] Pas un ordre.
+[softly] Tu n'es pas ce que tu ressens. Tu es ce que tu en fais.
+
+[calm] Fais comme Didier. Là.
+[calm] Desserre la mâchoire. Pose ta colère, comme il a posé sa clé. [pause]
+[whispers] Dis-le dans ta tête : « C'est de la colère. » [pause] Inspire. [long pause] [exhales] Souffle.
+[calm] Et demande-toi : qu'est-ce qui a été franchi ? [pause]
+[serious] [slowly] Et si tu sens que tu pourrais frapper ou casser : sors de la pièce, et appelle une personne de confiance ou un médecin. Ça aussi, c'est de la force.
+
+[determined] Et maintenant, écoute mon conseil. Garde-le toute ta vie.
+[firmly] La prochaine fois qu'on te provoque : ne te tais pas. Ne crie pas.
+[firmly] Prends deux minutes. Puis reviens, et dis ta limite, la tête haute.
+[determined] La personne qui te met en colère ne doit jamais devenir celle qui te dirige.
+[determined] Ta colère, c'est de l'énergie. [pause] Mets-la dans ce que tu construis.
+[warmly] Répète avec moi : « Je ressens tout. Je choisis ce que je fais. » [pause]
+[warmly] Et écris-le ici : « Je choisis. »
+[softly] [slowly] Ressens tout. [pause] Puis choisis.
+```
