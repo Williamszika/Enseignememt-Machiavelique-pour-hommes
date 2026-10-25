@@ -1,0 +1,20 @@
+[whispers] Il a compté les billets trois fois. [sad] Il manque deux mille francs. Le patron attend.
+[softly] Reste. Cette histoire est pour toi.
+
+[warmly] Appelons-le Prosper. Chauffeur de taxi, à Brazzaville.
+[sighs] Chaque soir, la même liste : « Le patron prend tout. La famille demande. Ce pays ne me laisse aucune chance. »
+[softly] Ce soir-là, sa femme l'écoute.
+[curious] Tu sais ce qu'elle répond ? [pause] [gently] « Tout ça est vrai. Mais demain, quelle part dépend de toi ? »
+[calm] Sur un papier, il barre ce qu'il ne peut pas changer. Il reste une ligne : partir à cinq heures, pour les commerçantes du marché Total.
+[serious] Le pays n'a pas changé. Le patron non plus.
+[warmly] Mais l'argent du patron est prêt. Et Prosper ne compte plus les billets en tremblant.
+
+[serious] Et toi, c'est quoi, ta liste ? [pause]
+[softly] Quand tu t'entends te plaindre, demande-toi : quelle part de ça dépend de moi ?
+[serious] Regarder ta part, ça ne te rend pas coupable. [pause] Ça te rend responsable.
+
+[determined] Mon conseil : la prochaine fois que la plainte monte, arrête-toi. Respire.
+[firmly] Puis trouve une seule chose à faire demain.
+[firmly] Les injustices sont réelles. [pause] [warmly] Ta part aussi.
+
+[warmly] Toi, tu répètes la même plainte depuis des années ? [pause] Oui ou non.
