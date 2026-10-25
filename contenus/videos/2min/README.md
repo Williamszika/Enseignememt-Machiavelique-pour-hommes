@@ -73,6 +73,9 @@ Chaque script porte deux choses en plus, pour que la voix touche plus de monde :
 4. **Le tournage** en quelques lignes.
 5. **La légende**, avec 3 à 5 hashtags dont #MrZika, qui rappelle la phrase et le mot à écrire.
 6. **La version ElevenLabs** : le texte seul, avec les balises d'émotion en anglais entre crochets, prêt à coller dans Eleven v3.
+7. **Le fichier `elevenlabs/source-NN-<slug>.txt`** : la même version ElevenLabs, seule, dans [elevenlabs/](elevenlabs/README.md). C'est ce fichier que le dépôt des vidéos (`reseau-sociaux-bots-`) récupère pour fabriquer la voix et la vidéo.
+
+**Règle de Mr Zika (25 octobre 2026) : tous les scripts, maintenant et à l'avenir, sont livrés avec les émotions à l'intérieur** (la tonalité dans le script, la version ElevenLabs à la fin, et le fichier `.txt`).
 
 ## Le tournage
 - **Un seul cadre** : le téléphone à hauteur des yeux, à 50 cm, comme un appel vidéo. Assis, lumière douce de face, le regard dans l'objectif. L'histoire se raconte comme à un ami : on se penche, on sourit, on baisse la voix.
