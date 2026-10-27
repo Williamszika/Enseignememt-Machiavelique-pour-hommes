@@ -16,7 +16,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 7 | 24 oct. | TA COLÈRE EST UN SIGNAL, PAS UN ORDRE | Source 40, vidéo A, leçon 7 (A-317, A-334 à A-336) | Didier, mécanicien à Douala, et le client qui l'humilie devant le garage | fait (24 oct.) | [script](source-40-ta-colere-est-un-signal-pas-un-ordre.md) |
 | 8 | 25 oct. | PERDRE SANS TE PERDRE | Source 40, vidéo B, leçon 4 (B-153 à B-155, B-180, B-196 ; deuil : droit d'avoir mal, aide réelle) | Estelle, institutrice à Pointe-Noire, et le « Sois forte » après la mort de sa mère | fait (25 oct.) | [script](source-40-perdre-sans-te-perdre.md) |
 | 9 | 26 oct. | QUELLE PART DÉPEND DE TOI ? | Source 40, vidéo C, leçon 5 (C-218, C-219, C-243 à C-245) | Prosper, chauffeur de taxi à Brazzaville, et sa liste de plaintes (format court) | fait (26 oct., écrit le 25) | [script](source-40-quelle-part-depend-de-toi.md) |
-| 10 | 27 oct. | NE CONFONDS PAS BOUGER ET AVANCER | Source 40, vidéo A, leçon 5 (A-223, A-237, A-238) | Kofi et ses cinq commerces | à faire | |
+| 10 | 27 oct. | NE CONFONDS PAS BOUGER ET AVANCER | Source 40, vidéo A, leçon 5 (A-223, A-237, A-238) | Fatou, caissière à Marseille, et ses cinq commerces (format court) | fait (27 oct.) | [script](source-40-ne-confonds-pas-bouger-et-avancer.md) |
 | 11 | 28 oct. | CE QUI POUSSE TROP VITE N'A PAS DE RACINES | Source 40, vidéo B, leçon 6 (Machiavel, ch. VII) | Kwame | à faire | |
 | 12 | 29 oct. | OSE LE BROUILLON | Source 40, vidéo C, leçon 4 (C-176, C-182) | à choisir | à faire | |
 | 13 | 30 oct. | POURQUOI MOI, OU POUR QUOI FAIRE ? | Source 40, vidéo A, leçon 3 (A-118 ; Marc Aurèle, V, 20) | Serge et le permis poids lourd | à faire | |
