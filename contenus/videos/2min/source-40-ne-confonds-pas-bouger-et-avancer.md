@@ -29,7 +29,7 @@
 > Tu sais ce qu'elle fait, le lendemain ? *(un temps, petit sourire)* Elle garde les **beignets**.
 > *(la voix remonte, chaude)* Aujourd'hui, ses beignets partent chaque samedi **avant midi**.
 
-**[0:46–0:57] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
+**[0:46–0:55] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
 > Et **toi** ?
 > Ne confonds pas **bouger** et **avancer**.
 > Tu ne fais pas mûrir une **mangue** en tirant dessus.
