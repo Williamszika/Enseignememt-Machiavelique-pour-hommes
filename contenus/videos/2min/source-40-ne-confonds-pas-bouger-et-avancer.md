@@ -1,6 +1,6 @@
 # Script vidéo — « Ne confonds pas bouger et avancer » (thème tiré de la source 40, format court)
 
-**Durée :** environ 1 min 16 (190 mots parlés). Histoire corrigée le 27 octobre à la demande de Mr Zika : Fatou répond à sa sœur, puis comprend, avant le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). **Pour toute personne qui écoute, femme ou homme.**
+**Durée :** environ 1 min 15 (185 mots parlés). Histoire corrigée le 27 octobre à la demande de Mr Zika : la question de la sœur, la réponse de Fatou qui s'arrête, **le déclic** (elle fait le compte), **la décision**, puis le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). **Pour toute personne qui écoute, femme ou homme.**
 **Couverture (miniature) :** `NE CONFONDS PAS BOUGER ET AVANCER`
 **Tiré de ton texte :** [source 40](../../../sources/40-texte-integral.md), vidéo A, leçon 5 « Attends avec patience stratégique », dans ses versions justes ([sculpture A](../../../analyses/40-sculpture-A.md), à partir de la ligne 248) :
 - **A-237** (gardée) : « Ne confonds pas mouvement et avancement. » Dite avec les mots de la couverture : « Ne confonds pas bouger et avancer. »
@@ -23,15 +23,14 @@
 > En deux ans, elle lance **cinq** commerces : mèches, karité, sacs, jus, beignets.
 > Et chaque commerce, elle le lâche au bout de **trois mois**.
 > Un soir, sa grande sœur regarde sous le lit. *(doucement, sans méchanceté)* « Tu as fini **quoi**, toi ? »
-> Fatou veut répondre : « Les mèches, le karité… » *(un temps)* Puis elle se tait. Elle n'a **rien** fini.
-> *(plus bas)* Cette nuit-là, elle comprend : elle a trop **commencé**. Rien **fini**.
-> Tu sais ce qu'elle fait, le lendemain ? *(un temps, petit sourire)* Elle ne lance **rien**.
-> Elle garde **un seul** commerce : les beignets.
-> *(honnête, sans enjoliver)* Elle perd de l'argent sur le reste.
+> Fatou veut répondre : « Les mèches, le karité… » *(un temps)* Puis elle se tait.
+> *(plus bas, lent)* Et là, c'est le **déclic**. Elle fait le compte : six cents euros dépensés. **Rien** de fini.
+> *(posé, décidé)* Cette nuit-là, elle décide : **un seul** commerce. Pas cinq.
+> Tu sais ce qu'elle fait, le lendemain ? *(un temps, petit sourire)* Elle ne lance **rien**. Elle garde les **beignets**.
 > *(la voix remonte, chaude)* Aujourd'hui, ses beignets partent chaque samedi **avant midi**.
 
 **[0:46–0:57] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
-> Et toi, tu as commencé **combien** de choses ?
+> Et **toi** ?
 > Ne confonds pas **bouger** et **avancer**.
 > Tu ne fais pas mûrir une **mangue** en tirant dessus.
 
@@ -46,18 +45,18 @@
 
 ## À l'écran
 - **Couverture :** `NE CONFONDS PAS BOUGER ET AVANCER` (gros, sur une image de ton visage, sans autre texte).
-- **Pendant la vidéo : les sous-titres seulement**, gros, centrés, mot par mot, le mot-clé en jaune (« Aucun », « fini quoi », « rien fini », « un seul », « bouger », « avancer », « mangue », « finis »). Pas de bandeau en haut.
+- **Pendant la vidéo : les sous-titres seulement**, gros, centrés, mot par mot, le mot-clé en jaune (« Aucun », « fini quoi », « déclic », « Rien de fini », « un seul », « bouger », « avancer », « mangue », « finis »). Pas de bandeau en haut.
 
 ## Le tournage
 - **Face caméra, toi :** le téléphone à hauteur des yeux, à 50 cm, un seul cadre, une prise. Lumière douce de face.
 - **L'accroche se dit tout de suite**, sans « bonjour », sans respiration avant : la première image, c'est déjà ta voix sur « Cinq sacs de marchandise sous son lit ».
-- **La liste des commerces** se dit un peu plus vite ; **la question de la sœur** se dit doucement, sans moquerie ; **la réponse de Fatou** (« Les mèches, le karité… ») hésite, puis s'arrête : laisse le silence avant « Puis elle se tait ». On ne rit pas de Fatou, on se reconnaît en elle.
+- **La liste des commerces** se dit un peu plus vite ; **la question de la sœur** se dit doucement, sans moquerie ; **la réponse de Fatou** (« Les mèches, le karité… ») hésite, puis s'arrête : laisse le silence avant « Puis elle se tait », puis dis « Et là, c'est le déclic » lentement, plus bas : c'est le cœur de l'histoire. On ne rit pas de Fatou, on se reconnaît en elle.
 - **Pas d'images IA, pas de plan de sacs, de marché ou de rue** : la force de la vidéo, c'est ton visage. Aucun visage d'enfant.
 - **Musique :** aucune, ou une seule note grave très basse à partir de 0:46.
 
 ## Légende
 ```
-Cinq commerces en deux ans. Un soir, sa grande sœur lui demande : « Tu as fini quoi, toi ? » Elle veut répondre… puis elle se tait. Elle n'a rien fini.
+Cinq commerces en deux ans. Un soir, sa grande sœur lui demande : « Tu as fini quoi, toi ? » Elle veut répondre… puis elle se tait. Elle fait le compte : six cents euros, rien de fini. Le déclic.
 Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 
 #mrzika #diasporaafricaine #motivation #entrepreneuriat
@@ -79,14 +78,13 @@ Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 [lively, listing quickly] En deux ans, elle lance cinq commerces : mèches, karité, sacs, jus, beignets.
 [slower, a little sad] Et chaque commerce, elle le lâche au bout de trois mois.
 [quiet, slowing down] Un soir, sa grande sœur regarde sous le lit. [gentle, kind, no mockery] « Tu as fini quoi, toi ? »
-[hesitant, searching for words] Fatou veut répondre : « Les mèches, le karité… » [long pause] [quiet, ashamed but honest] Puis elle se tait. Elle n'a rien fini.
-[soft, thoughtful, a realization] Cette nuit-là, elle comprend : elle a trop commencé. Rien fini.
-[curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle ne lance rien.
-[steady, calm, decided] Elle garde un seul commerce : les beignets.
-[honest, matter-of-fact] Elle perd de l'argent sur le reste.
+[hesitant, searching for words] Fatou veut répondre : « Les mèches, le karité… » [long pause] [quiet, ashamed but honest] Puis elle se tait.
+[slow, low, a realization dawning] Et là, c'est le déclic. Elle fait le compte : six cents euros dépensés. Rien de fini.
+[steady, calm, decided] Cette nuit-là, elle décide : un seul commerce. Pas cinq.
+[curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle ne lance rien. Elle garde les beignets.
 [warm, rising hope] Aujourd'hui, ses beignets partent chaque samedi avant midi.
 
-[serious, direct, speaking to one person] Et toi, tu as commencé combien de choses ? [pause]
+[serious, direct, speaking to one person] Et toi ? [pause]
 [serious, slow, every word weighed] Ne confonds pas bouger et avancer.
 [softly, with a knowing smile] Tu ne fais pas mûrir une mangue en tirant dessus.
 
