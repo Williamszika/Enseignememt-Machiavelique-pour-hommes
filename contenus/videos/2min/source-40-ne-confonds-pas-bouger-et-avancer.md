@@ -1,9 +1,9 @@
 # Script vidéo — « Ne confonds pas bouger et avancer » (thème tiré de la source 40, format court)
 
-**Durée :** environ 1 min 15 (187 mots parlés). **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). **Pour toute personne qui écoute, femme ou homme.**
+**Durée :** environ 1 min 16 (190 mots parlés). Histoire corrigée le 27 octobre à la demande de Mr Zika : Fatou répond à sa sœur, puis comprend, avant le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). **Pour toute personne qui écoute, femme ou homme.**
 **Couverture (miniature) :** `NE CONFONDS PAS BOUGER ET AVANCER`
 **Tiré de ton texte :** [source 40](../../../sources/40-texte-integral.md), vidéo A, leçon 5 « Attends avec patience stratégique », dans ses versions justes ([sculpture A](../../../analyses/40-sculpture-A.md), à partir de la ligne 248) :
-- **A-237 à A-238** (gardées) : « Ne confonds pas mouvement et avancement. Ni bruit et progrès. » Dites avec les mots de la couverture : « Ne confonds pas bouger et avancer. Ni le bruit et le progrès. »
+- **A-237** (gardée) : « Ne confonds pas mouvement et avancement. » Dite avec les mots de la couverture : « Ne confonds pas bouger et avancer. »
 - **A-223** (gardée) : « Tu ne fais pas mûrir une mangue en tirant dessus. »
 - Dans le conseil, la phrase forte est de Mr Zika, dans l'esprit de la version juste de **A-229** (« Tu te reconnais ? Finis une chose aujourd'hui. ») : « Ce n'est pas ce que tu commences qui te construit. C'est ce que tu finis. »
 
@@ -18,20 +18,21 @@
 > Cinq sacs de marchandise sous son lit. **Aucun** n'est vendu. Le loyer tombe **demain**.
 > *(un temps, plus doux)* Ne pars pas. C'est peut-être **toi**.
 
-**[0:06–0:44] L'histoire, racontée à toi** *(voix de conteur, chaude ; elle accélère sur la course de Fatou, s'arrête net sur la question de la sœur, puis repart, plus lente et posée, jusqu'à la fin)*
+**[0:06–0:46] L'histoire, racontée à toi** *(voix de conteur, chaude ; elle s'arrête net sur la question de la sœur, laisse le silence de Fatou, puis repart plus lente et posée)*
 > Appelons-la **Fatou**. Caissière, à Marseille.
 > En deux ans, elle lance **cinq** commerces : mèches, karité, sacs, jus, beignets.
-> *(plus vite, comme essoufflée)* Elle court, elle poste, elle répond.
 > Et chaque commerce, elle le lâche au bout de **trois mois**.
 > Un soir, sa grande sœur regarde sous le lit. *(doucement, sans méchanceté)* « Tu as fini **quoi**, toi ? »
+> Fatou veut répondre : « Les mèches, le karité… » *(un temps)* Puis elle se tait. Elle n'a **rien** fini.
+> *(plus bas)* Cette nuit-là, elle comprend : elle a trop **commencé**. Rien **fini**.
 > Tu sais ce qu'elle fait, le lendemain ? *(un temps, petit sourire)* Elle ne lance **rien**.
-> Elle garde **un seul** commerce : les beignets. Un an, rien d'autre.
-> *(honnête, sans enjoliver)* Le reste, elle le brade pour payer le loyer. Elle perd de l'argent.
+> Elle garde **un seul** commerce : les beignets.
+> *(honnête, sans enjoliver)* Elle perd de l'argent sur le reste.
 > *(la voix remonte, chaude)* Aujourd'hui, ses beignets partent chaque samedi **avant midi**.
 
-**[0:44–0:57] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
+**[0:46–0:57] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
 > Et toi, tu as commencé **combien** de choses ?
-> Ne confonds pas **bouger** et **avancer**. *(un temps)* Ni le bruit et le progrès.
+> Ne confonds pas **bouger** et **avancer**.
 > Tu ne fais pas mûrir une **mangue** en tirant dessus.
 
 **[0:57–1:10] Mon conseil** *(on se redresse ; ferme, rythmé, une petite pause avant chaque mot fort ; la dernière phrase redescend, chaude)*
@@ -45,18 +46,18 @@
 
 ## À l'écran
 - **Couverture :** `NE CONFONDS PAS BOUGER ET AVANCER` (gros, sur une image de ton visage, sans autre texte).
-- **Pendant la vidéo : les sous-titres seulement**, gros, centrés, mot par mot, le mot-clé en jaune (« Aucun », « fini quoi », « un seul », « bouger », « avancer », « mangue », « finis »). Pas de bandeau en haut.
+- **Pendant la vidéo : les sous-titres seulement**, gros, centrés, mot par mot, le mot-clé en jaune (« Aucun », « fini quoi », « rien fini », « un seul », « bouger », « avancer », « mangue », « finis »). Pas de bandeau en haut.
 
 ## Le tournage
 - **Face caméra, toi :** le téléphone à hauteur des yeux, à 50 cm, un seul cadre, une prise. Lumière douce de face.
 - **L'accroche se dit tout de suite**, sans « bonjour », sans respiration avant : la première image, c'est déjà ta voix sur « Cinq sacs de marchandise sous son lit ».
-- **La course de Fatou** (« Elle court, elle poste, elle répond ») se dit un peu plus vite, comme essoufflée ; **la question de la sœur** se dit doucement, sans moquerie : on ne rit pas de Fatou, on se reconnaît en elle.
+- **La liste des commerces** se dit un peu plus vite ; **la question de la sœur** se dit doucement, sans moquerie ; **la réponse de Fatou** (« Les mèches, le karité… ») hésite, puis s'arrête : laisse le silence avant « Puis elle se tait ». On ne rit pas de Fatou, on se reconnaît en elle.
 - **Pas d'images IA, pas de plan de sacs, de marché ou de rue** : la force de la vidéo, c'est ton visage. Aucun visage d'enfant.
-- **Musique :** aucune, ou une seule note grave très basse à partir de 0:44.
+- **Musique :** aucune, ou une seule note grave très basse à partir de 0:46.
 
 ## Légende
 ```
-Cinq commerces en deux ans, et aucun fini. Un soir, sa grande sœur lui demande : « Tu as fini quoi, toi ? »
+Cinq commerces en deux ans. Un soir, sa grande sœur lui demande : « Tu as fini quoi, toi ? » Elle veut répondre… puis elle se tait. Elle n'a rien fini.
 Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 
 #mrzika #diasporaafricaine #motivation #entrepreneuriat
@@ -68,7 +69,7 @@ Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 - **Dans la première heure :** répondre à chaque commentaire. Si quelqu'un écrit qu'il cumule plusieurs petits boulots pour nourrir sa famille, ne pas lui répondre « tu bouges sans avancer » : le respecter d'abord (tenir plusieurs boulots, c'est tenir), et parler seulement des projets qu'on lance et qu'on lâche.
 
 ## Version ElevenLabs (Eleven v4)
-À coller dans ElevenLabs, modèle **Eleven v4**, voix clonée de Mr Zika (dépannage seulement : la vidéo se fait d'abord avec ta vraie voix). Eleven v4 comprend les balises **combinées et décrites en mots** (`[fast, a little breathless]`) : elles ne sont pas lues. Le texte tient en **une seule génération** (moins de 3 000 caractères). Stabilité basse pour plus d'émotion ; deux ou trois prises, garder la meilleure. Le même texte, seul : [elevenlabs/source-40-ne-confonds-pas-bouger-et-avancer.txt](elevenlabs/source-40-ne-confonds-pas-bouger-et-avancer.txt).
+À coller dans ElevenLabs, modèle **Eleven v4**, voix clonée de Mr Zika (dépannage seulement : la vidéo se fait d'abord avec ta vraie voix). Eleven v4 comprend les balises **combinées et décrites en mots** (`[hesitant, searching for words]`) : elles ne sont pas lues. Le texte tient en **une seule génération** (moins de 3 000 caractères). Stabilité basse pour plus d'émotion ; deux ou trois prises, garder la meilleure. Le même texte, seul : [elevenlabs/source-40-ne-confonds-pas-bouger-et-avancer.txt](elevenlabs/source-40-ne-confonds-pas-bouger-et-avancer.txt).
 
 ```
 [low voice, tense, almost a whisper] Cinq sacs de marchandise sous son lit. [worried, quiet] Aucun n'est vendu. Le loyer tombe demain.
@@ -76,16 +77,17 @@ Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 
 [warm storyteller voice] Appelons-la Fatou. Caissière, à Marseille.
 [lively, listing quickly] En deux ans, elle lance cinq commerces : mèches, karité, sacs, jus, beignets.
-[fast, a little breathless] Elle court, elle poste, elle répond.
 [slower, a little sad] Et chaque commerce, elle le lâche au bout de trois mois.
 [quiet, slowing down] Un soir, sa grande sœur regarde sous le lit. [gentle, kind, no mockery] « Tu as fini quoi, toi ? »
+[hesitant, searching for words] Fatou veut répondre : « Les mèches, le karité… » [long pause] [quiet, ashamed but honest] Puis elle se tait. Elle n'a rien fini.
+[soft, thoughtful, a realization] Cette nuit-là, elle comprend : elle a trop commencé. Rien fini.
 [curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle ne lance rien.
-[steady, calm, decided] Elle garde un seul commerce : les beignets. Un an, rien d'autre.
-[honest, matter-of-fact] Le reste, elle le brade pour payer le loyer. Elle perd de l'argent.
+[steady, calm, decided] Elle garde un seul commerce : les beignets.
+[honest, matter-of-fact] Elle perd de l'argent sur le reste.
 [warm, rising hope] Aujourd'hui, ses beignets partent chaque samedi avant midi.
 
 [serious, direct, speaking to one person] Et toi, tu as commencé combien de choses ? [pause]
-[serious, slow, every word weighed] Ne confonds pas bouger et avancer. [short pause] Ni le bruit et le progrès.
+[serious, slow, every word weighed] Ne confonds pas bouger et avancer.
 [softly, with a knowing smile] Tu ne fais pas mûrir une mangue en tirant dessus.
 
 [determined, voice rising] Mon conseil : la prochaine fois qu'une nouvelle idée te démange, note-la. [firm, rhythmic] Et finis d'abord ce qui est en cours.

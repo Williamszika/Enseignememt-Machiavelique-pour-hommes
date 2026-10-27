@@ -3,16 +3,17 @@
 
 [warm storyteller voice] Appelons-la Fatou. Caissière, à Marseille.
 [lively, listing quickly] En deux ans, elle lance cinq commerces : mèches, karité, sacs, jus, beignets.
-[fast, a little breathless] Elle court, elle poste, elle répond.
 [slower, a little sad] Et chaque commerce, elle le lâche au bout de trois mois.
 [quiet, slowing down] Un soir, sa grande sœur regarde sous le lit. [gentle, kind, no mockery] « Tu as fini quoi, toi ? »
+[hesitant, searching for words] Fatou veut répondre : « Les mèches, le karité… » [long pause] [quiet, ashamed but honest] Puis elle se tait. Elle n'a rien fini.
+[soft, thoughtful, a realization] Cette nuit-là, elle comprend : elle a trop commencé. Rien fini.
 [curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle ne lance rien.
-[steady, calm, decided] Elle garde un seul commerce : les beignets. Un an, rien d'autre.
-[honest, matter-of-fact] Le reste, elle le brade pour payer le loyer. Elle perd de l'argent.
+[steady, calm, decided] Elle garde un seul commerce : les beignets.
+[honest, matter-of-fact] Elle perd de l'argent sur le reste.
 [warm, rising hope] Aujourd'hui, ses beignets partent chaque samedi avant midi.
 
 [serious, direct, speaking to one person] Et toi, tu as commencé combien de choses ? [pause]
-[serious, slow, every word weighed] Ne confonds pas bouger et avancer. [short pause] Ni le bruit et le progrès.
+[serious, slow, every word weighed] Ne confonds pas bouger et avancer.
 [softly, with a knowing smile] Tu ne fais pas mûrir une mangue en tirant dessus.
 
 [determined, voice rising] Mon conseil : la prochaine fois qu'une nouvelle idée te démange, note-la. [firm, rhythmic] Et finis d'abord ce qui est en cours.
