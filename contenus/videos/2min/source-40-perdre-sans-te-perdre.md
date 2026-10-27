@@ -1,9 +1,8 @@
 # Script vidéo — « Perdre sans te perdre » (thème tiré de la source 40, format court)
 
-**Durée :** environ 1 min 19 (200 mots parlés, avec la phrase d'aide : la limite est de 80 s quand elle est nécessaire). Histoire reprise le 27 octobre (règle de Mr Zika) : la phrase de la voisine, la réponse d'Estelle, **le déclic**, **la décision**, puis le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). Ce script remplace la version longue du 25 octobre (elle reste dans l'historique git). **Pour toute personne qui écoute, femme ou homme.**
+**Durée :** environ 1 min 24 (210 mots parlés, avec la phrase d'aide : la limite est de 80 s quand elle est nécessaire). Histoire reprise le 27 octobre (règle de Mr Zika) : la phrase de la voisine, la réponse d'Estelle, **le déclic**, **la décision**, puis le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). Ce script remplace la version longue du 25 octobre (elle reste dans l'historique git). **Pour toute personne qui écoute, femme ou homme.**
 **Couverture (miniature) :** `PERDRE SANS TE PERDRE`
 **Tiré de ton texte :** [source 40](../../../sources/40-texte-integral.md), vidéo B, leçon 4 « Perds sans te perdre », dans ses versions justes ([sculpture B](../../../analyses/40-sculpture-B.md)) :
-- **B-180** (corrigée) : « Pleurer quelqu'un, c'est l'aimer encore. »
 - **B-196** (corrigée) : « Tu perds ce que tu avais. Pas ce que tu es. »
 
 **Laissé de côté :** B-181 (« c'est optionnel », jeté), B-179, B-162, B-191, B-193, B-200 (voir la sculpture). Pas de promesse sur la fin de la douleur, pas de délai.
@@ -15,7 +14,7 @@
 
 **[0:00–0:03] L'accroche de crise** *(face caméra, très près ; voix basse, presque un murmure ; aucune musique)*
 > Sa main est restée **en l'air**, devant le tableau.
-> Reste. C'est pour **toi**.
+> **Reste.**
 
 **[0:03–0:46] L'histoire, racontée à toi** *(voix de conteur, chaude ; elle descend sur la mort, laisse le silence d'Estelle, ralentit sur le déclic, remonte à la fin)*
 > Appelons-la **Estelle**. Institutrice, à Pointe-Noire.
@@ -26,19 +25,19 @@
 > *(plus bas, lent)* Et là, c'est le **déclic** : elle ne peut plus tenir **comme ça**.
 > *(posé, décidé)* Cette nuit-là, elle décide de demander de l'**aide**.
 > Tu sais ce qu'elle fait, le lendemain ? *(un temps)* Elle va voir un **médecin**.
-> *(chaud)* Sa mère lui manque encore. Mais elle ne porte plus ça **seule**.
+> *(chaud)* Elle ne porte plus ça **seule**.
 
-**[0:46–0:55] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
+**[0:44–0:50] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
 > Et **toi** ?
-> Pleurer quelqu'un, c'est l'**aimer encore**.
 > Tu perds ce que tu avais. Pas ce que tu **es**.
 
-**[0:55–1:13] Mon conseil** *(on se redresse ; ferme et calme, une force tranquille)*
+**[0:50–1:18] Mon conseil** *(on se redresse ; ferme et calme, une force tranquille)*
 > Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est **dur**. »
+> *(plus posé, on explique)* Pourquoi ? Parce qu'une peine dite pèse **moins**. Tu dors mieux. Tu tiens **debout**. Et tu évites de craquer un matin, devant **tout le monde**.
 > Ta peine ne dit pas que tu es faible. Elle dit que tu as **aimé**.
 > *(plus grave, plus lent)* Et si c'est trop lourd, si des idées noires arrivent : appelle **tout de suite** une personne de confiance, un médecin ou une ligne d'écoute.
 
-**[1:13–1:19] La question** *(chaud, un petit sourire ; on attend la réponse)*
+**[1:18–1:24] La question** *(chaud, un petit sourire ; on attend la réponse)*
 > Toi, on t'a déjà demandé de ne pas pleurer ? **Oui ou non.**
 
 ---
@@ -73,7 +72,7 @@ Idées noires, peine trop lourde : appelle une personne de confiance, un médeci
 
 ```
 [low voice, almost a whisper] Sa main est restée en l'air, devant le tableau.
-[softly, close to the listener] Reste. C'est pour toi.
+[softly, close to the listener] Reste.
 
 [warm storyteller voice] Appelons-la Estelle. Institutrice, à Pointe-Noire.
 [sad, quiet] Un dimanche, sa mère meurt. Une tante lui dit : [firm, a little cold] « Tu es l'aînée. Sois forte. »
@@ -83,13 +82,13 @@ Idées noires, peine trop lourde : appelle une personne de confiance, un médeci
 [slow, low, a realization dawning] Et là, c'est le déclic : elle ne peut plus tenir comme ça.
 [steady, calm, decided] Cette nuit-là, elle décide de demander de l'aide.
 [curious, softly] Tu sais ce qu'elle fait, le lendemain ? [short pause] [warm, reassuring] Elle va voir un médecin.
-[warm, quiet hope] Sa mère lui manque encore. Mais elle ne porte plus ça seule.
+[warm, quiet hope] Elle ne porte plus ça seule.
 
 [serious, direct, speaking to one person] Et toi ? [pause]
-[softly, tender] Pleurer quelqu'un, c'est l'aimer encore.
 [serious, slow, every word weighed] Tu perds ce que tu avais. [pause] Pas ce que tu es.
 
 [determined, calm strength] Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est dur. »
+[calm, explaining, convincing] Pourquoi ? Parce qu'une peine dite pèse moins. Tu dors mieux. Tu tiens debout. Et tu évites de craquer un matin, devant tout le monde.
 [firm, steady] Ta peine ne dit pas que tu es faible. [pause] [warm] Elle dit que tu as aimé.
 [serious, slow, very clear] Et si c'est trop lourd, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
 

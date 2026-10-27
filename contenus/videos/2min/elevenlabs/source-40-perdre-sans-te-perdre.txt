@@ -1,5 +1,5 @@
 [low voice, almost a whisper] Sa main est restée en l'air, devant le tableau.
-[softly, close to the listener] Reste. C'est pour toi.
+[softly, close to the listener] Reste.
 
 [warm storyteller voice] Appelons-la Estelle. Institutrice, à Pointe-Noire.
 [sad, quiet] Un dimanche, sa mère meurt. Une tante lui dit : [firm, a little cold] « Tu es l'aînée. Sois forte. »
@@ -9,13 +9,13 @@
 [slow, low, a realization dawning] Et là, c'est le déclic : elle ne peut plus tenir comme ça.
 [steady, calm, decided] Cette nuit-là, elle décide de demander de l'aide.
 [curious, softly] Tu sais ce qu'elle fait, le lendemain ? [short pause] [warm, reassuring] Elle va voir un médecin.
-[warm, quiet hope] Sa mère lui manque encore. Mais elle ne porte plus ça seule.
+[warm, quiet hope] Elle ne porte plus ça seule.
 
 [serious, direct, speaking to one person] Et toi ? [pause]
-[softly, tender] Pleurer quelqu'un, c'est l'aimer encore.
 [serious, slow, every word weighed] Tu perds ce que tu avais. [pause] Pas ce que tu es.
 
 [determined, calm strength] Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est dur. »
+[calm, explaining, convincing] Pourquoi ? Parce qu'une peine dite pèse moins. Tu dors mieux. Tu tiens debout. Et tu évites de craquer un matin, devant tout le monde.
 [firm, steady] Ta peine ne dit pas que tu es faible. [pause] [warm] Elle dit que tu as aimé.
 [serious, slow, very clear] Et si c'est trop lourd, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
 

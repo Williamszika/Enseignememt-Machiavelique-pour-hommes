@@ -1,6 +1,6 @@
 # Script vidéo — « Ne confonds pas bouger et avancer » (thème tiré de la source 40, format court)
 
-**Durée :** environ 1 min 15 (185 mots parlés). Histoire corrigée le 27 octobre à la demande de Mr Zika : la question de la sœur, la réponse de Fatou qui s'arrête, **le déclic** (elle fait le compte), **la décision**, puis le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). **Pour toute personne qui écoute, femme ou homme.**
+**Durée :** environ 1 min 19 (199 mots parlés). Histoire corrigée le 27 octobre à la demande de Mr Zika : la question de la sœur, la réponse de Fatou qui s'arrête, **le déclic** (elle fait le compte), **la décision**, puis le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). **Pour toute personne qui écoute, femme ou homme.**
 **Couverture (miniature) :** `NE CONFONDS PAS BOUGER ET AVANCER`
 **Tiré de ton texte :** [source 40](../../../sources/40-texte-integral.md), vidéo A, leçon 5 « Attends avec patience stratégique », dans ses versions justes ([sculpture A](../../../analyses/40-sculpture-A.md), à partir de la ligne 248) :
 - **A-237** (gardée) : « Ne confonds pas mouvement et avancement. » Dite avec les mots de la couverture : « Ne confonds pas bouger et avancer. »
@@ -15,8 +15,8 @@
 ## Le script
 
 **[0:00–0:06] L'accroche de crise** *(face caméra, très près ; voix basse, tendue ; aucune musique)*
-> Cinq sacs de marchandise sous son lit. **Aucun** n'est vendu. Le loyer tombe **demain**.
-> *(un temps, plus doux)* Ne pars pas. C'est peut-être **toi**.
+> Cinq sacs sous son lit. **Aucun** n'est vendu. Le loyer tombe **demain**.
+> *(un temps, plus doux)* **Reste.**
 
 **[0:06–0:46] L'histoire, racontée à toi** *(voix de conteur, chaude ; elle s'arrête net sur la question de la sœur, laisse le silence de Fatou, puis repart plus lente et posée)*
 > Appelons-la **Fatou**. Caissière, à Marseille.
@@ -26,7 +26,7 @@
 > Fatou veut répondre : « Les mèches, le karité… » *(un temps)* Puis elle se tait.
 > *(plus bas, lent)* Et là, c'est le **déclic**. Elle fait le compte : six cents euros dépensés. **Rien** de fini.
 > *(posé, décidé)* Cette nuit-là, elle décide : **un seul** commerce. Pas cinq.
-> Tu sais ce qu'elle fait, le lendemain ? *(un temps, petit sourire)* Elle ne lance **rien**. Elle garde les **beignets**.
+> Tu sais ce qu'elle fait, le lendemain ? *(un temps, petit sourire)* Elle garde les **beignets**.
 > *(la voix remonte, chaude)* Aujourd'hui, ses beignets partent chaque samedi **avant midi**.
 
 **[0:46–0:57] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
@@ -34,11 +34,12 @@
 > Ne confonds pas **bouger** et **avancer**.
 > Tu ne fais pas mûrir une **mangue** en tirant dessus.
 
-**[0:57–1:10] Mon conseil** *(on se redresse ; ferme, rythmé, une petite pause avant chaque mot fort ; la dernière phrase redescend, chaude)*
+**[0:55–1:14] Mon conseil** *(on se redresse ; ferme, rythmé, une petite pause avant chaque mot fort ; la dernière phrase redescend, chaude)*
 > Mon conseil : la prochaine fois qu'une nouvelle idée te démange, **note-la**. Et finis d'abord ce qui est **en cours**.
+> *(plus posé, on explique)* Pourquoi ? Parce qu'une chose finie te donne des clients qui **reviennent**, de l'argent que tu peux **compter**. Et elle t'évite de tout recommencer à **zéro**.
 > Ce n'est pas ce que tu **commences** qui te construit. *(un temps)* C'est ce que tu **finis**.
 
-**[1:10–1:15] La question** *(chaud, un petit sourire ; on attend la réponse)*
+**[1:14–1:19] La question** *(chaud, un petit sourire ; on attend la réponse)*
 > Toi, tu as un projet commencé et jamais fini ? **Oui ou non.**
 
 ---
@@ -71,8 +72,8 @@ Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 À coller dans ElevenLabs, modèle **Eleven v4**, voix clonée de Mr Zika (dépannage seulement : la vidéo se fait d'abord avec ta vraie voix). Eleven v4 comprend les balises **combinées et décrites en mots** (`[hesitant, searching for words]`) : elles ne sont pas lues. Le texte tient en **une seule génération** (moins de 3 000 caractères). Stabilité basse pour plus d'émotion ; deux ou trois prises, garder la meilleure. Le même texte, seul : [elevenlabs/source-40-ne-confonds-pas-bouger-et-avancer.txt](elevenlabs/source-40-ne-confonds-pas-bouger-et-avancer.txt).
 
 ```
-[low voice, tense, almost a whisper] Cinq sacs de marchandise sous son lit. [worried, quiet] Aucun n'est vendu. Le loyer tombe demain.
-[softly, close to the listener] Ne pars pas. C'est peut-être toi.
+[low voice, tense, almost a whisper] Cinq sacs sous son lit. [worried, quiet] Aucun n'est vendu. Le loyer tombe demain.
+[softly, close to the listener] Reste.
 
 [warm storyteller voice] Appelons-la Fatou. Caissière, à Marseille.
 [lively, listing quickly] En deux ans, elle lance cinq commerces : mèches, karité, sacs, jus, beignets.
@@ -81,7 +82,7 @@ Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 [hesitant, searching for words] Fatou veut répondre : « Les mèches, le karité… » [long pause] [quiet, ashamed but honest] Puis elle se tait.
 [slow, low, a realization dawning] Et là, c'est le déclic. Elle fait le compte : six cents euros dépensés. Rien de fini.
 [steady, calm, decided] Cette nuit-là, elle décide : un seul commerce. Pas cinq.
-[curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle ne lance rien. Elle garde les beignets.
+[curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle garde les beignets.
 [warm, rising hope] Aujourd'hui, ses beignets partent chaque samedi avant midi.
 
 [serious, direct, speaking to one person] Et toi ? [pause]
@@ -89,6 +90,7 @@ Toi, tu as un projet commencé et jamais fini ? Oui ou non.
 [softly, with a knowing smile] Tu ne fais pas mûrir une mangue en tirant dessus.
 
 [determined, voice rising] Mon conseil : la prochaine fois qu'une nouvelle idée te démange, note-la. [firm, rhythmic] Et finis d'abord ce qui est en cours.
+[calm, explaining, convincing] Pourquoi ? Parce qu'une chose finie te donne des clients qui reviennent, de l'argent que tu peux compter. Et elle t'évite de tout recommencer à zéro.
 [strong, steady] Ce n'est pas ce que tu commences qui te construit. [pause] [warm, encouraging] C'est ce que tu finis.
 
 [warm, friendly, with a small smile] Toi, tu as un projet commencé et jamais fini ? [pause] [inviting an answer] Oui ou non.

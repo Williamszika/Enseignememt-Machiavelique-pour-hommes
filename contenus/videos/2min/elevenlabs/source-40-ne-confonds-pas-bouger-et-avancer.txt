@@ -1,5 +1,5 @@
-[low voice, tense, almost a whisper] Cinq sacs de marchandise sous son lit. [worried, quiet] Aucun n'est vendu. Le loyer tombe demain.
-[softly, close to the listener] Ne pars pas. C'est peut-être toi.
+[low voice, tense, almost a whisper] Cinq sacs sous son lit. [worried, quiet] Aucun n'est vendu. Le loyer tombe demain.
+[softly, close to the listener] Reste.
 
 [warm storyteller voice] Appelons-la Fatou. Caissière, à Marseille.
 [lively, listing quickly] En deux ans, elle lance cinq commerces : mèches, karité, sacs, jus, beignets.
@@ -8,7 +8,7 @@
 [hesitant, searching for words] Fatou veut répondre : « Les mèches, le karité… » [long pause] [quiet, ashamed but honest] Puis elle se tait.
 [slow, low, a realization dawning] Et là, c'est le déclic. Elle fait le compte : six cents euros dépensés. Rien de fini.
 [steady, calm, decided] Cette nuit-là, elle décide : un seul commerce. Pas cinq.
-[curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle ne lance rien. Elle garde les beignets.
+[curious, with a small smile] Tu sais ce qu'elle fait, le lendemain ? [short pause] [calm, almost amused] Elle garde les beignets.
 [warm, rising hope] Aujourd'hui, ses beignets partent chaque samedi avant midi.
 
 [serious, direct, speaking to one person] Et toi ? [pause]
@@ -16,6 +16,7 @@
 [softly, with a knowing smile] Tu ne fais pas mûrir une mangue en tirant dessus.
 
 [determined, voice rising] Mon conseil : la prochaine fois qu'une nouvelle idée te démange, note-la. [firm, rhythmic] Et finis d'abord ce qui est en cours.
+[calm, explaining, convincing] Pourquoi ? Parce qu'une chose finie te donne des clients qui reviennent, de l'argent que tu peux compter. Et elle t'évite de tout recommencer à zéro.
 [strong, steady] Ce n'est pas ce que tu commences qui te construit. [pause] [warm, encouraging] C'est ce que tu finis.
 
 [warm, friendly, with a small smile] Toi, tu as un projet commencé et jamais fini ? [pause] [inviting an answer] Oui ou non.
