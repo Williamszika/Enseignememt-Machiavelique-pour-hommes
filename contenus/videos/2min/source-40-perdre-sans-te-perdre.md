@@ -1,6 +1,6 @@
 # Script vidéo — « Perdre sans te perdre » (thème tiré de la source 40, format court)
 
-**Durée :** environ 1 min 16 (191 mots parlés, avec la phrase d'aide : la limite est de 80 s quand elle est nécessaire). **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). Ce script remplace la version longue du 25 octobre (elle reste dans l'historique git). **Pour toute personne qui écoute, femme ou homme.**
+**Durée :** environ 1 min 19 (200 mots parlés, avec la phrase d'aide : la limite est de 80 s quand elle est nécessaire). Histoire reprise le 27 octobre (règle de Mr Zika) : la phrase de la voisine, la réponse d'Estelle, **le déclic**, **la décision**, puis le lendemain. **Format :** le format court (voir « Le format court fait foi » dans le [README](README.md)), adopté le 26 octobre 2026 après l'[analyse TikTok](../../../analyses/tiktok-mr-drey2-2026-10-25.md). Ce script remplace la version longue du 25 octobre (elle reste dans l'historique git). **Pour toute personne qui écoute, femme ou homme.**
 **Couverture (miniature) :** `PERDRE SANS TE PERDRE`
 **Tiré de ton texte :** [source 40](../../../sources/40-texte-integral.md), vidéo B, leçon 4 « Perds sans te perdre », dans ses versions justes ([sculpture B](../../../analyses/40-sculpture-B.md)) :
 - **B-180** (corrigée) : « Pleurer quelqu'un, c'est l'aimer encore. »
@@ -13,30 +13,32 @@
 
 ## Le script
 
-**[0:00–0:04] L'accroche de crise** *(face caméra, très près ; voix basse, presque un murmure ; aucune musique)*
-> Sa main est restée **en l'air**. La craie dedans. Devant toute sa classe.
+**[0:00–0:03] L'accroche de crise** *(face caméra, très près ; voix basse, presque un murmure ; aucune musique)*
+> Sa main est restée **en l'air**, devant le tableau.
 > Reste. C'est pour **toi**.
 
-**[0:04–0:40] L'histoire, racontée à toi** *(voix de conteur, chaude ; elle descend sur la mort, remonte sur la voisine)*
+**[0:03–0:46] L'histoire, racontée à toi** *(voix de conteur, chaude ; elle descend sur la mort, laisse le silence d'Estelle, ralentit sur le déclic, remonte à la fin)*
 > Appelons-la **Estelle**. Institutrice, à Pointe-Noire.
 > Un dimanche, sa mère meurt. Une tante lui dit : « Tu es l'aînée. **Sois forte.** »
-> Alors Estelle tient. Elle ne pleure plus.
 > Trois mois après, devant le tableau, elle n'arrive plus à écrire **la date**.
-> Tu sais ce qui l'a sauvée ? *(un temps)* Sa voisine. Elle s'assoit près d'elle : « Tu as le droit d'avoir **mal**. »
-> Estelle pleure. **Enfin.** Et le lendemain, elle va voir un médecin.
-> Sa mère lui manque encore. Mais elle ne porte plus ça **seule**.
+> Sa voisine s'assoit près d'elle : « Tu as le droit d'avoir **mal**. »
+> Estelle veut dire : « Ça va. » *(un temps)* Elle n'y arrive pas. Elle pleure. **Enfin.**
+> *(plus bas, lent)* Et là, c'est le **déclic** : elle ne peut plus tenir **comme ça**.
+> *(posé, décidé)* Cette nuit-là, elle décide de demander de l'**aide**.
+> Tu sais ce qu'elle fait, le lendemain ? *(un temps)* Elle va voir un **médecin**.
+> *(chaud)* Sa mère lui manque encore. Mais elle ne porte plus ça **seule**.
 
-**[0:40–0:52] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
-> Et toi, tu tiens depuis combien de temps ?
+**[0:46–0:55] Toi, et la vérité** *(regard droit ; grave et lent, chaque phrase posée)*
+> Et **toi** ?
 > Pleurer quelqu'un, c'est l'**aimer encore**.
 > Tu perds ce que tu avais. Pas ce que tu **es**.
 
-**[0:52–1:10] Mon conseil** *(on se redresse ; ferme et calme, une force tranquille)*
+**[0:55–1:13] Mon conseil** *(on se redresse ; ferme et calme, une force tranquille)*
 > Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est **dur**. »
 > Ta peine ne dit pas que tu es faible. Elle dit que tu as **aimé**.
 > *(plus grave, plus lent)* Et si c'est trop lourd, si des idées noires arrivent : appelle **tout de suite** une personne de confiance, un médecin ou une ligne d'écoute.
 
-**[1:10–1:16] La question** *(chaud, un petit sourire ; on attend la réponse)*
+**[1:13–1:19] La question** *(chaud, un petit sourire ; on attend la réponse)*
 > Toi, on t'a déjà demandé de ne pas pleurer ? **Oui ou non.**
 
 ---
@@ -66,28 +68,30 @@ Idées noires, peine trop lourde : appelle une personne de confiance, un médeci
 - **Dans les 30 premières minutes :** partager en story WhatsApp et Facebook, et demander à 5 proches de commenter.
 - **Dans la première heure :** répondre à chaque commentaire.
 
-## Version ElevenLabs (Eleven v3)
-À coller dans ElevenLabs, modèle **Eleven v3**, stabilité « Natural » ou « Creative », voix clonée de Mr Zika (dépannage seulement : la vidéo se fait d'abord avec ta vraie voix). Les balises entre crochets ne sont pas lues.
+## Version ElevenLabs (Eleven v4)
+À coller dans ElevenLabs, modèle **Eleven v4**, voix clonée de Mr Zika (dépannage seulement : la vidéo se fait d'abord avec ta vraie voix). Les balises entre crochets, combinées et décrites en mots, ne sont pas lues. Une seule génération (moins de 3 000 caractères) ; stabilité basse ; deux ou trois prises, garder la meilleure.
 
 ```
-[whispers] Sa main est restée en l'air. La craie dedans. Devant toute sa classe.
-[softly] Reste. C'est pour toi.
+[low voice, almost a whisper] Sa main est restée en l'air, devant le tableau.
+[softly, close to the listener] Reste. C'est pour toi.
 
-[warmly] Appelons-la Estelle. Institutrice, à Pointe-Noire.
-[sad] Un dimanche, sa mère meurt. Une tante lui dit : [firmly] « Tu es l'aînée. Sois forte. »
-[softly] Alors Estelle tient. Elle ne pleure plus.
-[sad] Trois mois après, devant le tableau, elle n'arrive plus à écrire la date.
-[curious] Tu sais ce qui l'a sauvée ? [pause] [warmly] Sa voisine. Elle s'assoit près d'elle : [gently] « Tu as le droit d'avoir mal. »
-[sad] Estelle pleure. Enfin. [softly] Et le lendemain, elle va voir un médecin.
-[warmly] Sa mère lui manque encore. Mais elle ne porte plus ça seule.
+[warm storyteller voice] Appelons-la Estelle. Institutrice, à Pointe-Noire.
+[sad, quiet] Un dimanche, sa mère meurt. Une tante lui dit : [firm, a little cold] « Tu es l'aînée. Sois forte. »
+[sad, slow] Trois mois après, devant le tableau, elle n'arrive plus à écrire la date.
+[warm, gentle] Sa voisine s'assoit près d'elle : [tender, kind] « Tu as le droit d'avoir mal. »
+[hesitant, holding back tears] Estelle veut dire : « Ça va. » [long pause] [voice breaking, then relief] Elle n'y arrive pas. Elle pleure. Enfin.
+[slow, low, a realization dawning] Et là, c'est le déclic : elle ne peut plus tenir comme ça.
+[steady, calm, decided] Cette nuit-là, elle décide de demander de l'aide.
+[curious, softly] Tu sais ce qu'elle fait, le lendemain ? [short pause] [warm, reassuring] Elle va voir un médecin.
+[warm, quiet hope] Sa mère lui manque encore. Mais elle ne porte plus ça seule.
 
-[serious] Et toi, tu tiens depuis combien de temps ? [pause]
-[softly] Pleurer quelqu'un, c'est l'aimer encore.
-[serious] Tu perds ce que tu avais. [pause] Pas ce que tu es.
+[serious, direct, speaking to one person] Et toi ? [pause]
+[softly, tender] Pleurer quelqu'un, c'est l'aimer encore.
+[serious, slow, every word weighed] Tu perds ce que tu avais. [pause] Pas ce que tu es.
 
-[determined] Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est dur. »
-[firmly] Ta peine ne dit pas que tu es faible. [pause] Elle dit que tu as aimé.
-[serious] [slowly] Et si c'est trop lourd, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
+[determined, calm strength] Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est dur. »
+[firm, steady] Ta peine ne dit pas que tu es faible. [pause] [warm] Elle dit que tu as aimé.
+[serious, slow, very clear] Et si c'est trop lourd, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
 
-[warmly] Toi, on t'a déjà demandé de ne pas pleurer ? [pause] Oui ou non.
+[warm, friendly, with a small smile] Toi, on t'a déjà demandé de ne pas pleurer ? [pause] [inviting an answer] Oui ou non.
 ```

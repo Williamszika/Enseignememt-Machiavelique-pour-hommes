@@ -1,20 +1,22 @@
-[whispers] Sa main est restée en l'air. La craie dedans. Devant toute sa classe.
-[softly] Reste. C'est pour toi.
+[low voice, almost a whisper] Sa main est restée en l'air, devant le tableau.
+[softly, close to the listener] Reste. C'est pour toi.
 
-[warmly] Appelons-la Estelle. Institutrice, à Pointe-Noire.
-[sad] Un dimanche, sa mère meurt. Une tante lui dit : [firmly] « Tu es l'aînée. Sois forte. »
-[softly] Alors Estelle tient. Elle ne pleure plus.
-[sad] Trois mois après, devant le tableau, elle n'arrive plus à écrire la date.
-[curious] Tu sais ce qui l'a sauvée ? [pause] [warmly] Sa voisine. Elle s'assoit près d'elle : [gently] « Tu as le droit d'avoir mal. »
-[sad] Estelle pleure. Enfin. [softly] Et le lendemain, elle va voir un médecin.
-[warmly] Sa mère lui manque encore. Mais elle ne porte plus ça seule.
+[warm storyteller voice] Appelons-la Estelle. Institutrice, à Pointe-Noire.
+[sad, quiet] Un dimanche, sa mère meurt. Une tante lui dit : [firm, a little cold] « Tu es l'aînée. Sois forte. »
+[sad, slow] Trois mois après, devant le tableau, elle n'arrive plus à écrire la date.
+[warm, gentle] Sa voisine s'assoit près d'elle : [tender, kind] « Tu as le droit d'avoir mal. »
+[hesitant, holding back tears] Estelle veut dire : « Ça va. » [long pause] [voice breaking, then relief] Elle n'y arrive pas. Elle pleure. Enfin.
+[slow, low, a realization dawning] Et là, c'est le déclic : elle ne peut plus tenir comme ça.
+[steady, calm, decided] Cette nuit-là, elle décide de demander de l'aide.
+[curious, softly] Tu sais ce qu'elle fait, le lendemain ? [short pause] [warm, reassuring] Elle va voir un médecin.
+[warm, quiet hope] Sa mère lui manque encore. Mais elle ne porte plus ça seule.
 
-[serious] Et toi, tu tiens depuis combien de temps ? [pause]
-[softly] Pleurer quelqu'un, c'est l'aimer encore.
-[serious] Tu perds ce que tu avais. [pause] Pas ce que tu es.
+[serious, direct, speaking to one person] Et toi ? [pause]
+[softly, tender] Pleurer quelqu'un, c'est l'aimer encore.
+[serious, slow, every word weighed] Tu perds ce que tu avais. [pause] Pas ce que tu es.
 
-[determined] Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est dur. »
-[firmly] Ta peine ne dit pas que tu es faible. [pause] Elle dit que tu as aimé.
-[serious] [slowly] Et si c'est trop lourd, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
+[determined, calm strength] Mon conseil : la prochaine fois que la peine revient, ne la cache pas. Dis à quelqu'un : « Aujourd'hui, c'est dur. »
+[firm, steady] Ta peine ne dit pas que tu es faible. [pause] [warm] Elle dit que tu as aimé.
+[serious, slow, very clear] Et si c'est trop lourd, si des idées noires arrivent : appelle tout de suite une personne de confiance, un médecin ou une ligne d'écoute.
 
-[warmly] Toi, on t'a déjà demandé de ne pas pleurer ? [pause] Oui ou non.
+[warm, friendly, with a small smile] Toi, on t'a déjà demandé de ne pas pleurer ? [pause] [inviting an answer] Oui ou non.
