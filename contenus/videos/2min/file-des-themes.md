@@ -17,7 +17,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 8 | 25 oct. | PERDRE SANS TE PERDRE | Source 40, vidéo B, leçon 4 (B-153 à B-155, B-180, B-196 ; deuil : droit d'avoir mal, aide réelle) | Estelle, institutrice à Pointe-Noire, et le « Sois forte » après la mort de sa mère | fait (25 oct.) | [script](source-40-perdre-sans-te-perdre.md) |
 | 9 | 26 oct. | QUELLE PART DÉPEND DE TOI ? | Source 40, vidéo C, leçon 5 (C-218, C-219, C-243 à C-245) | Prosper, chauffeur de taxi à Brazzaville, et sa liste de plaintes (format court) | fait (26 oct., écrit le 25) | [script](source-40-quelle-part-depend-de-toi.md) |
 | 10 | 27 oct. | NE CONFONDS PAS BOUGER ET AVANCER | Source 40, vidéo A, leçon 5 (A-223, A-237, A-238) | Fatou, caissière à Marseille, et ses cinq commerces (format court) | fait (27 oct.) | [script](source-40-ne-confonds-pas-bouger-et-avancer.md) |
-| 11 | 28 oct. | CE QUI POUSSE TROP VITE N'A PAS DE RACINES | Source 40, vidéo B, leçon 6 (Machiavel, ch. VII) | Kwame | à faire | |
+| 11 | 28 oct. | CE QUI POUSSE TROP VITE N'A PAS DE RACINES | Source 40, vidéo B, leçon 6 (B-262, B-287 ; Machiavel, *Le Prince*, ch. VII) | Kwame, menuisier à Kumasi, et la chaise au pied fendu (format court) | fait (28 oct.) | [script](source-40-ce-qui-pousse-trop-vite.md) |
 | 12 | 29 oct. | OSE LE BROUILLON | Source 40, vidéo C, leçon 4 (C-176, C-182) | à choisir | à faire | |
 | 13 | 30 oct. | POURQUOI MOI, OU POUR QUOI FAIRE ? | Source 40, vidéo A, leçon 3 (A-118 ; Marc Aurèle, V, 20) | Serge et le permis poids lourd | à faire | |
 | 14 | 31 oct. | NE DEVIENS PAS CE QUI T'A BLESSÉ | Source 40, vidéo B, leçon 9 | Ngozi | à faire | |
