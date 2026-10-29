@@ -4,7 +4,7 @@
 
 ## ⭐ Depuis le 29 octobre 2026 : les scripts s'écrivent avec le skill `script-motivation-realisation`
 
-Règle de Mr Zika : chaque script du jour est écrit en suivant le skill **`anthropic-skills:script-motivation-realisation`** (thème → histoire → leçons → motivation → action → **citation de M. Zika**), avec sa charte (couleur or, sous-titres blanc/jaune/rouge, écran final « — M. Zika »), ses blocs (hook, histoire en 3 ou 5 temps, miroir, leçons à 3 étages, climax, action, citation), sa note qualité sur 100 (85 au moins), et le [Registre M. Zika](registre-m-zika.md) à lire avant et à compléter après. Le premier : [source-40-ose-le-brouillon.md](source-40-ose-le-brouillon.md).
+Règle de Mr Zika : chaque script du jour est écrit en suivant le skill **`anthropic-skills:script-motivation-realisation`** (thème → histoire → leçons → motivation → action → **citation de Mr Zika**), avec sa charte (couleur or, sous-titres blanc/jaune/rouge, écran final « — Mr Zika »), ses blocs (hook, histoire en 3 ou 5 temps, miroir, leçons à 3 étages, climax, action, citation), sa note qualité sur 100 (85 au moins), et le [Registre Mr Zika](registre-m-zika.md) à lire avant et à compléter après. Le premier : [source-40-ose-le-brouillon.md](source-40-ose-le-brouillon.md).
 
 Les règles de la maison restent par-dessus le skill :
 - **Durée : 2 minutes au maximum** (règle de Mr Zika, 29 octobre 2026 : elle remplace les 80 s) : les durées du skill, de 40 s (environ 90 mots) à 2 min (environ 260 mots), 90 s par défaut. Jamais plus de 2 min : un thème plus riche passe en série.

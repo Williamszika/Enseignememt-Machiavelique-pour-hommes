@@ -22,7 +22,7 @@
 | Public | 18–35 ans qui ont une idée et n'osent pas la lancer |
 | Objet symbole | Le carnet noir : fermé au point bas, ouvert à la fin |
 | Action | Aujourd'hui, 20 minutes : ta version un, montrée à une seule personne |
-| Citation de M. Zika | « Le chef-d'œuvre dont tu rêves commence par le brouillon que tu oses. » |
+| Citation de Mr Zika | « Le chef-d'œuvre dont tu rêves commence par le brouillon que tu oses. » |
 | Musique | Piano doux → silence au point bas → cordes au déclic → percussions au climax → une note seule sur la citation |
 | **Note qualité** | **90/100** — critère le plus faible : le rythme (8/10), parce que 260 mots, c'est la limite : il faut tenir les pauses courtes |
 
@@ -52,7 +52,7 @@
 | Conteur | Histoire | Calme et chaud, comme un souvenir ; ralentir au point bas |
 | Ferme / direct | Leçons | Regard fixe, phrases qui finissent vers le bas ↘ |
 | Explosif | Climax | Depuis le ventre, mots détachés |
-| Solennel | Citation de M. Zika | Après 2 s de silence, très lent, léger sourire |
+| Solennel | Citation de Mr Zika | Après 2 s de silence, très lent, léger sourire |
 
 Les 3 consignes les plus importantes :
 1. « Il referme son carnet » presque à voix basse, puis un vrai silence avant la question de Nadia.
@@ -124,7 +124,7 @@ Plans : RECON main qui gomme un logo · pouce qui s'arrête sur un t-shirt au ma
 
 *Pourquoi :* une seule action, un moment, une durée, une preuve. *Erreur à éviter :* trois conseils vagues.
 
-**CITATION DE M. ZIKA (1:44–1:55)** — *2 s de silence, puis solennel, très lent, léger sourire* · plan rapide : le carnet noir ouvert sur une page blanche · écran noir, citation en blanc, filet or, « — M. Zika » en or (4 s) · une seule note de piano
+**CITATION DE M. ZIKA (1:44–1:55)** — *2 s de silence, puis solennel, très lent, léger sourire* · plan rapide : le carnet noir ouvert sur une page blanche · écran noir, citation en blanc, filet or, « — Mr Zika » en or (4 s) · une seule note de piano
 > [PAUSE 2s] « Le chef-d'œuvre dont tu rêves / commence par le brouillon que tu oses. » ↘
 
 *Pourquoi :* l'opposition « rêves / oses » reste en tête ; le carnet revient ouvert, la boucle est bouclée. *Erreur à éviter :* la lire vite ou fort.
@@ -146,7 +146,7 @@ Plans : RECON main qui gomme un logo · pouce qui s'arrête sur un t-shirt au ma
 - [ ] Sous-titres 2–4 mots, blanc en majuscules, mot prononcé en jaune, « MAIS LANCE-LE ! » en rouge, rien dans les 20 % du bas ni à droite
 - [ ] Étalonnage : look souvenir jusqu'à « Et toi ? », puis image nette et contrastée
 - [ ] Flash noir de 2 images au début du climax
-- [ ] Écran final : citation en blanc, filet or, « — M. Zika » en or, 4 s
+- [ ] Écran final : citation en blanc, filet or, « — Mr Zika » en or, 4 s
 - [ ] Export 1080p, test sans le son, test les yeux fermés
 
 ## 9. Texte pour le prompteur
@@ -166,11 +166,11 @@ Un : le perfectionnisme, c'est la peur déguisée en excellence. / Ismaël n'att
 Deux : une action imparfaite vaut plus qu'une intention parfaite. / Quatre clients lui ont appris plus que trois ans de croquis. / Pourquoi ? Parce qu'un vrai client te dit ce qui marche et ce qui manque. / Et il t'évite de corriger dans le vide.
 Alors arrête de corriger dans ta tête. / Écris-le mal. Filme-le mal. Lance-le mal. / Mais lance-le !
 Aujourd'hui. / Vingt minutes. / Ta version un. / Montre-la à une seule personne.
-« Le chef-d'œuvre dont tu rêves / commence par le brouillon que tu oses. » — M. Zika
+« Le chef-d'œuvre dont tu rêves / commence par le brouillon que tu oses. » — Mr Zika
 
 ## 10. Alternatives
 - Hooks : « 1 095 jours. C'est le temps qu'Ismaël a passé à attendre le bon moment. » · « Aujourd'hui, son premier t-shirt raté est encadré au-dessus de son bureau. Voilà pourquoi. »
-- Citations de M. Zika : « On ne corrige que ce qu'on a eu le courage de commencer. » · « Ton brouillon d'aujourd'hui est la fondation de ta fierté de demain. »
+- Citations de Mr Zika : « On ne corrige que ce qu'on a eu le courage de commencer. » · « Ton brouillon d'aujourd'hui est la fondation de ta fierté de demain. »
 - Phrase rituelle (pas encore choisie) : « On se voit au prochain pas. » · « Commence petit. Commence aujourd'hui. »
 
 ## 11. Légende
