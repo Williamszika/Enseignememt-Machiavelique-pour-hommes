@@ -1,7 +1,7 @@
 # Script vidéo — « Ose le brouillon » (thème tiré de la source 40, écrit avec le skill script-motivation-realisation)
 
 **Origine :** la « version finale » écrite par Mr Zika avec le skill `script-motivation-realisation` le 29 octobre 2026 (doc « Ose le brouillon — version finale »), reprise ici telle quelle, avec en plus la version Eleven v4 et le `plan.json` pour le skill `video-motivation-ia`.
-**Durée :** 90 s, environ 205 mots (le skill vise 90 s pour un thème à 3 leçons). ⚠️ C'est au-dessus de la règle des 80 s : pour une version de 75 s, garder une seule leçon (la n° 1) et couper le temps « personnage ».
+**Durée :** 90 s, environ 205 mots (le skill vise 90 s pour un thème à 3 leçons ; la limite est de 2 min depuis le 29 octobre).
 **Tiré de ton texte :** [source 40](../../../sources/40-texte-integral.md), vidéo C, leçon 4 « Ose être imparfait » : **C-176** (« Le perfectionnisme, c'est la peur déguisée en excellence ») et **C-182** (« Une action imparfaite vaut plus qu'une intention parfaite ») portent l'idée ; le script les dit avec ses propres mots (« une idée parfaite ne bat jamais un brouillon publié »).
 
 ## Fiche résumé
