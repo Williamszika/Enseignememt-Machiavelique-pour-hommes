@@ -2,6 +2,19 @@
 
 **Depuis le 18 octobre 2026**, il n'y a plus de texte du jour, de visuel, de prompt d'image ni de workflow JSON. Chaque jour, un thème de la [file](file-des-themes.md) reçoit **un seul livrable** : un script vidéo, **de 60 à 75 secondes depuis le 26 octobre 2026** (1 min 20 à 3 minutes avant), dans ce dossier : `source-NN-theme.md`. Depuis le 24 octobre, le modèle est [« Face à toi »](modele-face-a-toi.md).
 
+## ⭐ Depuis le 29 octobre 2026 : les scripts s'écrivent avec le skill `script-motivation-realisation`
+
+Règle de Mr Zika : chaque script du jour est écrit en suivant le skill **`anthropic-skills:script-motivation-realisation`** (thème → histoire → leçons → motivation → action → **citation de M. Zika**), avec sa charte (couleur or, sous-titres blanc/jaune/rouge, écran final « — M. Zika »), ses blocs (hook, histoire en 3 ou 5 temps, miroir, leçons à 3 étages, climax, action, citation), sa note qualité sur 100 (85 au moins), et le [Registre M. Zika](registre-m-zika.md) à lire avant et à compléter après. Le premier : [source-40-ose-le-brouillon.md](source-40-ose-le-brouillon.md).
+
+Les règles de la maison restent par-dessus le skill :
+- **Durée : 80 s au maximum** (85 s avec la phrase d'aide), donc les formats « 40 s » ou « 60 s » du skill, ou un « 90 s » ramené à 80 s ; jamais 2 min.
+- **L'histoire a un sens jusqu'au bout** : question → réponse → déclic → décision → « le lendemain » (c'est le point bas et le déclic du skill).
+- **Les leçons disent pourquoi** (les 3 étages du skill : principe, preuve tirée de l'histoire, application).
+- **Une seule action** à la fin (celle du skill) ; la question oui/non passe dans la légende ou le commentaire épinglé.
+- **Fiction présentée comme une histoire**, jamais « histoire vraie » ; thèmes sensibles : section 11 du skill + aide réelle.
+- **Les émotions en Eleven v4** (`## Version ElevenLabs (Eleven v4)` + le `.txt` dans `elevenlabs/`), et le **`plan.json`** du skill pour `video-motivation-ia`.
+- **Chaque script est poussé dans le dépôt des vidéos** (`reseau-sociaux-bots-`, `videos/scripts-du-jour/AAAA-MM-JJ-<slug>/` : `script.md`, `elevenlabs.txt`, `plan.json`).
+
 ## ⚠️ Le format court fait foi (depuis le 26 octobre 2026)
 
 Après l'analyse TikTok du 25 octobre (`analyses/tiktok-mr-drey2-2026-10-25.md`), Mr Zika a adopté ses améliorations. **Ce format court remplace la durée, la structure et l'appel à l'action décrits plus bas** ; le reste (règles du compte, tonalités, version ElevenLabs) ne change pas. Le script de référence : [source-40-perdre-sans-te-perdre.md](source-40-perdre-sans-te-perdre.md).
