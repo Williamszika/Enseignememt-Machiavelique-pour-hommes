@@ -40,7 +40,11 @@ Pour chaque phrase (ou groupe), une ligne de tableau :
 
 À la fin du document : les **thèmes de scripts** les plus forts du texte, classés, et la liste des phrases jetées les plus dangereuses (pour le compte, à démonter dans une vidéo).
 
-## Mission 2 — Écrire un script vidéo au format court (60 à 75 secondes, depuis le 26 octobre 2026)
+## Mission 2 — Écrire un script vidéo : avec le skill `script-motivation-realisation` (règle de Mr Zika, 29 octobre 2026)
+
+**Tous les scripts s'écrivent avec le skill `anthropic-skills:script-motivation-realisation`.** Si tu peux l'invoquer (outil Skill), fais-le ; sinon, la session qui t'a lancé l'a lu pour toi : suis le modèle `contenus/videos/2min/source-40-ose-le-brouillon.md` (fiche résumé, histoire en 5 temps, brief voix, coaching, réglages, script bloc par bloc avec « pourquoi » et « erreur à éviter », plan de tournage, checklist, prompteur, alternatives, légende, après publication, `plan.json`, ligne du registre, note qualité ≥ 85/100) et la section « ⭐ Depuis le 29 octobre 2026 » de `contenus/videos/2min/README.md`. Lis le registre `contenus/videos/2min/registre-m-zika.md` avant d'écrire. Les règles ci-dessous (déclic, pourquoi, Eleven v4, règles du compte) restent par-dessus le skill ; la durée est de 2 minutes au maximum.
+
+### Ancienne consigne (format court, gardée pour mémoire) (60 à 75 secondes, depuis le 26 octobre 2026)
 
 **Le format court fait foi** (section « Le format court fait foi » de `contenus/videos/2min/README.md`, adoptée par Mr Zika après l'analyse TikTok du 25 octobre). Le script de référence : `contenus/videos/2min/source-40-perdre-sans-te-perdre.md`. Mr Zika parle face caméra, seul à seul à la personne, et lui raconte une histoire.
 

@@ -104,7 +104,7 @@ const RELU = { type: 'object', properties: {
 const ecrire = () => !scripts.length ? Promise.resolve([]) : pipeline(scripts,
   (s) => agent(`${AGENT}
 
-Mission 2 (écrire un script). Écris contenus/videos/2min/source-${NUM}-${s.slug}.md, sur le modèle « Face à toi » : contenus/videos/2min/modele-face-a-toi.md.
+Mission 2 (écrire un script) avec la méthode du skill script-motivation-realisation (modèle : contenus/videos/2min/source-40-ose-le-brouillon.md ; registre : contenus/videos/2min/registre-m-zika.md ; 2 min au maximum). Écris contenus/videos/2min/source-${NUM}-${s.slug}.md, sur le modèle « Face à toi » : contenus/videos/2min/modele-face-a-toi.md.
 Le script :
 - commence par LE THÈME BIEN AFFICHÉ DEVANT : « ${s.titre_ecran} », seul à l'écran, avant toute parole ;
 - puis « Je te vois » : « Attends. C'est à toi que je parle. », la scène de la personne qui écoute en deux ou trois phrases, et « Je vais te raconter une histoire. » ;
