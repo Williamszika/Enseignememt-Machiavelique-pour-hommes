@@ -2,6 +2,10 @@
 
 **Depuis le 18 octobre 2026**, il n'y a plus de texte du jour, de visuel, de prompt d'image ni de workflow JSON. Chaque jour, un thème de la [file](file-des-themes.md) reçoit **un seul livrable** : un script vidéo, **de 60 à 75 secondes depuis le 26 octobre 2026** (1 min 20 à 3 minutes avant), dans ce dossier : `source-NN-theme.md`. Depuis le 24 octobre, le modèle est [« Face à toi »](modele-face-a-toi.md).
 
+## Le rôle de ce dépôt (décision de Mr Zika, 29 octobre 2026)
+
+Ici, on fait **seulement** ceci : Mr Zika envoie un texte → on en tire les thèmes (workflow `texte-vers-scripts`) → chaque jour, un script de motivation écrit avec le skill `script-motivation-realisation` → il est poussé ici et dans le dépôt des vidéos du jour (`reseau-sociaux-bots-`). **Plus de films ni de séries ici** : tout ce qui les concerne (série « Awa », Awa la couturière, leur workflow) est dans le dépôt `Williamszika/Film-series-AI`.
+
 ## ⭐ Depuis le 29 octobre 2026 : les scripts s'écrivent avec le skill `script-motivation-realisation`
 
 Règle de Mr Zika : chaque script du jour est écrit en suivant le skill **`anthropic-skills:script-motivation-realisation`** (thème → histoire → leçons → motivation → action → **citation de Mr Zika**), avec sa charte (couleur or, sous-titres blanc/jaune/rouge, écran final « — Mr Zika »), ses blocs (hook, histoire en 3 ou 5 temps, miroir, leçons à 3 étages, climax, action, citation), sa note qualité sur 100 (85 au moins), et le [Registre Mr Zika](registre-m-zika.md) à lire avant et à compléter après. Le premier : [source-40-ose-le-brouillon.md](source-40-ose-le-brouillon.md).

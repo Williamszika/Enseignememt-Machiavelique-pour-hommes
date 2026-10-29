@@ -94,30 +94,5 @@ Défi : aujourd'hui, fais le premier petit pas de ton recommencement. Puis écri
 #MrZika #Motivation #Recommencer #Afrique #Discipline
 ```
 
-## Images d'illustration (ElevenLabs Image & Video, modèle Nano Banana)
-
-**Accord :** la femme qui joue Awa a donné son accord à Mr Zika (24 octobre 2026) pour que son visage serve à illustrer cette histoire. Sa photo de référence reste **hors du dépôt** : Mr Zika l'ajoute lui-même dans ElevenLabs comme image de référence.
-**À chaque publication :** activer « Contenu généré par IA » sur TikTok, et écrire « Image d'illustration » dans la légende. L'histoire reste présentée comme une histoire, pas comme la vraie vie de cette femme.
-**Conseils :** générer 3 ou 4 versions, garder la meilleure (vérifier les mains, les doigts, les yeux, le tissu), passer l'image choisie dans « Upscale », et ajouter le texte du thème après, dans CapCut ou Canva (jamais dans l'image).
-
-**Image 1 : Awa dans son nouvel atelier** (la fin de l'histoire ; la meilleure pour la miniature)
-```
-Use the woman in the reference photo as the main character. Keep her face, skin tone, smile and features exactly the same.
-Photorealistic photo of her as a West African seamstress in her small tailoring workshop, standing proudly next to a black sewing machine, a measuring tape around her neck.
-She wears a colorful wax-print dress and a matching headwrap.
-On the wall behind her, a piece of faded, water-damaged fabric is pinned up like a memory.
-Shelves of folded African wax fabrics, a notebook open on the table.
-Warm natural window light from the side, late afternoon, soft shadows.
-Shot on a 35mm lens, shallow depth of field, real skin texture, natural colors, no makeup look, documentary style.
-Vertical 9:16 format. No text, no logo, no watermark.
-```
-
-**Image 2 : le soir de l'inondation** (le moment qui serre le cœur)
-```
-Use the woman in the reference photo as the main character. Keep her face and features exactly the same.
-Photorealistic photo of her sitting on the wet concrete floor of a small flooded tailoring workshop at dusk, surrounded by soaked colorful wax fabrics, a sewing machine on a table behind her.
-She looks down, tired and sad but calm, one hand resting on a wet piece of fabric.
-Puddles of water reflect a single hanging light bulb. Blue evening light from the door.
-Shot on a 35mm lens, realistic, cinematic but natural, real skin texture, documentary style.
-Vertical 9:16 format. No text, no logo, no watermark.
-```
+## Images d'illustration
+Les prompts d'images d'Awa et sa photo de référence sont maintenant dans le dépôt des films et séries : `Williamszika/Film-series-AI`, dossier `illustrations/awa-couturiere/` (décision de Mr Zika, 29 octobre 2026).
