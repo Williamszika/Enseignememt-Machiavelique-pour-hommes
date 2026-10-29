@@ -5,7 +5,7 @@ La mémoire de toutes les vidéos (skill `script-motivation-realisation`, sectio
 ## Identité
 - **Couleur signature :** or #D4AF37 (« — Mr Zika », filet de l'écran final, mot-clé de la citation).
 - **Sous-titres :** blanc en majuscules, mot prononcé en jaune, rouge seulement pour la phrase du pic.
-- **Signature :** toujours écrite **« Mr Zika »** (jamais « M. Zika »), en **écriture manuscrite or** (#D4AF37) sous la citation ; police à choisir parmi les 4 de la planche « Signature Mr Zika » (Great Vibes, Allura, Pinyon Script, Satisfy).
+- **Signature :** toujours écrite **« Mr Zika »** (jamais « M. Zika »), en **écriture manuscrite or** (#D4AF37) sous la citation ; police **Pinyon Script** (Google Fonts), choisie par Mr Zika le 29 octobre 2026 (option C de la planche « Signature Mr Zika »). La citation reste dans la police grasse des sous-titres (Montserrat ExtraBold, blanc, majuscules), le filet or fait 64 px.
 - **Écran final :** fond noir, citation en blanc, filet or, « — Mr Zika » en or, 4 s ; signature sonore : silence 2 s, montée douce, une note de piano.
 - **Phrase rituelle :** pas encore choisie (proposées le 29 octobre : « On se voit au prochain pas. » · « Commence petit. Commence aujourd'hui. »).
 
