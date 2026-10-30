@@ -19,7 +19,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 10 | 27 oct. | NE CONFONDS PAS BOUGER ET AVANCER | Source 40, vidéo A, leçon 5 (A-223, A-237, A-238) | Fatou, caissière à Marseille, et ses cinq commerces (format court) | fait (27 oct.) | [script](source-40-ne-confonds-pas-bouger-et-avancer.md) |
 | 11 | 28 oct. | CE QUI POUSSE TROP VITE N'A PAS DE RACINES | Source 40, vidéo B, leçon 6 (B-262, B-287 ; Machiavel, *Le Prince*, ch. VII) | Kwame, menuisier à Kumasi, et la chaise au pied fendu (format court) | fait (28 oct.) | [script](source-40-ce-qui-pousse-trop-vite.md) |
 | 12 | 29 oct. | OSE LE BROUILLON | Source 40, vidéo C, leçon 4 (C-176, C-182) | Ismaël, 23 ans, sa marque de t-shirts et le carnet noir (skill script-motivation-realisation) | fait (29 oct.) | [script](source-40-ose-le-brouillon.md) |
-| 13 | 30 oct. | POURQUOI MOI, OU POUR QUOI FAIRE ? | Source 40, vidéo A, leçon 3 (A-118 ; Marc Aurèle, V, 20) | Serge et le permis poids lourd | à faire | |
+| 13 | 30 oct. | POURQUOI MOI, OU POUR QUOI FAIRE ? | Source 40, vidéo A, leçon 3 (A-118 ; Marc Aurèle, V, 20) | Khady, 34 ans, et le permis poids lourd à Dakar (au lieu de Serge, pour alterner héroïne et héros) | fait (30 oct.) | [script](source-40-pourquoi-moi-ou-pour-quoi-faire.md) |
 | 14 | 31 oct. | NE DEVIENS PAS CE QUI T'A BLESSÉ | Source 40, vidéo B, leçon 9 | Ngozi | à faire | |
 | 15 | 1er nov. | PARLE-TOI COMME À QUELQU'UN QUE TU AIMES | Source 40, vidéo C, leçon 2 (C-070, C-086, C-087) | à choisir | à faire | |
 | 16 | 2 nov. | SA COLÈRE N'EST PAS TA FAUTE | Source 41, partie 6 (A-290, A-294, A-312 ; contre A-313) | Rokia, coiffeuse à Bamako, et le verre cassé : sécurité et aide réelle d'abord, puis le miroir | à faire | |
