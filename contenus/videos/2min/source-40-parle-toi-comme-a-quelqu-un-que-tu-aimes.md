@@ -1,7 +1,8 @@
 # Script vidéo — « Parle-toi comme à quelqu'un que tu aimes » (source 40, skill script-motivation-realisation)
 
 **Écrit le 1er novembre 2026** (rendez-vous quotidien, thème n° 15 de la [file](file-des-themes.md)), avec le skill `script-motivation-realisation` et les règles de la maison : question → réponse → **déclic** → **décision** → « le lendemain », leçons qui disent **pourquoi**, une seule action, citation de Mr Zika.
-**Durée :** environ 1 min 56 (257 mots, sous la limite de 2 min). **Format :** vertical 9:16, TikTok / Reels / Shorts. **Langue :** français.
+**Repris le 1er novembre 2026 (passage de 12 h)** selon la revue du skill d'analyse ([revue](../../../retours-video/revue_parle-toi-comme-a-quelqu-un-que-tu-aimes.md)) : climax posé en registre solennel, question finale à un mot avant la citation, arrêts et registres posés dans le `plan.json`, pas de musique dans le fichier.
+**Durée :** environ 2 min 10 avec les arrêts (266 mots, sous la limite de 3 min). **Format :** vertical 9:16, TikTok / Reels / Shorts. **Langue :** français.
 **Tiré de ton texte :** [source 40](../../../sources/40-texte-integral.md), vidéo C, leçon 2 « Parle avec responsabilité » ([sculpture C](../../../analyses/40-sculpture-C.md)) :
 - **C-070** (gardée) : « "Je suis comme ça", ce n'est pas une description. C'est une sentence. » (leçon 1)
 - **C-075** (corrigée : pas de fausse science) : « Ce que tu répètes, tu finis par le croire. » (le pourquoi de la leçon 1)
@@ -23,16 +24,16 @@
 | Type d'histoire | Fiction : Adjoa, 31 ans, à Berlin, et ses notes vocales à son amie Efua (présentée comme une histoire) |
 | Archétype | Avant / après une habitude (la phrase qu'on se dit) — différent des deux dernières : l'élève et le mentor, deux chemins |
 | Décor | Un hôtel à Berlin (le travail), sa petite chambre le soir |
-| Durée | ≈ 1 min 56, 257 mots : histoire en 5 temps avec le déclic, 2 leçons à 3 étages |
+| Durée | ≈ 2 min 10 avec les arrêts, 266 mots : histoire en 5 temps avec le déclic, 2 leçons à 3 étages |
 | Public | 18–35 ans, et plus, en particulier la diaspora qui apprend une langue et un métier dans un nouveau pays |
 | Objet symbole | Le post-it jaune « J'apprends » sur le miroir |
 | Temps pour toi | Variante « la phrase entendue » : la question du miroir, 2 s de silence, « Tu l'entends ? Ce qui suit va la remplacer. » |
 | Action | Ce soir : écrire sa nouvelle phrase et la coller là où on se regarde le matin |
 | Citation de Mr Zika | « Tu es la voix que tu entends le plus souvent. Parle-toi bien. » |
-| Musique | Piano doux → silence après « je suis comme ça » → cordes au déclic → coupure pendant le temps pour toi → percussions au climax → une note seule sur la citation |
-| **Note qualité** | **91/100** — critère le plus faible : le hook (13/15), parce qu'il donne déjà le chiffre « quatorze » ; il ouvre la boucle (pourquoi compte-t-elle ?) mais retire un peu de surprise au déclic |
+| Musique | Aucune dans le fichier : le son TikTok est ajouté à la publication. Au montage : silence après « je suis comme ça », silence pendant le temps pour toi, une note seule sur la citation |
+| **Note qualité** | **90/100** — critère le plus faible : le hook (13/15), parce qu'il donne déjà le chiffre « quatorze » ; il ouvre la boucle (pourquoi compte-t-elle ?) mais retire un peu de surprise au déclic |
 
-**Grille :** hook 13/15 · histoire et émotion 19/20 · leçons 14/15 · temps pour toi 4/5 · rythme et durée 4/5 · découpage et prompts 4/5 · climax 9/10 · action 10/10 · citation 9/10 · originalité 5/5.
+**Grille :** hook 13/15 · histoire et émotion 19/20 · leçons 14/15 · temps pour toi 4/5 · rythme et durée 4/5 · découpage et prompts 4/5 · climax 8/10 (posé : moins de contraste, mais plus juste pour le compte) · action 10/10 · citation 9/10 · originalité 5/5.
 
 ## 2. L'histoire en résumé
 | Temps | Ce qui se passe | Ce que ça fait au spectateur |
@@ -57,7 +58,7 @@
 | Grave / intime | Hook, point bas, miroir, temps pour toi | Voix basse, proche du micro |
 | Conteur | Histoire | Chaud, un peu fatigué pour les notes vocales |
 | Ferme / direct | Leçons | Regard fixe, phrases qui finissent vers le bas ↘ |
-| Montée puis explosif | Climax | La question doucement, puis « Alors ne te le dis plus ! » projeté |
+| Solennel | Climax | Posé et lent, un arrêt après chaque phrase ; rien n'est crié |
 | Solennel | Citation de Mr Zika | Après 2 s de silence, très lent, léger sourire |
 
 Les 3 consignes les plus importantes :
@@ -118,17 +119,22 @@ Plans : RECON chariot de ménage dans un couloir d'hôtel · mains qui tournent 
 
 *Pourquoi :* chaque leçon a son principe, sa preuve tirée de l'histoire et son pourquoi concret (ce que la phrase ferme, ce qu'elle ouvre). *Erreur à éviter :* promettre que les mots changent tout seuls la vie : ils font poser la question, c'est la question qui fait avancer.
 
-**CLIMAX (1:32–1:39)** — *montée ↗ puis explosif* · flash noir 2 images, TGP yeux, puis contre-plongée · percussions · `ALORS NE TE LE DIS PLUS !` en rouge
-> *(doux)* Le dirais-tu à quelqu'un que tu aimes ? [PAUSE 1s] / Non ? / [RESPIRE] Alors **NE TE LE DIS PLUS** !
+**CLIMAX (1:36–1:45)** — *solennel, posé, lent* · TGP yeux, plan fixe, léger push-in · silence, aucune percussion · `ALORS NE TE LE DIS PLUS.` en rouge
+> *(doux)* Le dirais-tu à quelqu'un que tu aimes ? [PAUSE 1s] / Non ? [PAUSE 0,7s] / Alors ne te le dis **plus**. ↘
 
-*Pourquoi :* la question met la personne face à ce qu'elle sait déjà ; la réponse « non » vient d'elle, et le cri la confirme. *Erreur à éviter :* crier la question : seule la dernière phrase explose.
+*Pourquoi :* la question met la personne face à ce qu'elle sait déjà ; la réponse « non » vient d'elle, et la dernière phrase, dite calmement, sonne comme une certitude. *Erreur à éviter :* monter la voix : le pic vient du silence et de la lenteur, pas du volume.
 
-**ACTION (1:39–1:47)** — *retour au calme, complice* · GP face fixe · silence total · `TA NOUVELLE PHRASE. / LÀ OÙ TU TE REGARDES.`
+**ACTION (1:45–1:53)** — *retour au calme, complice* · GP face fixe · silence total · `TA NOUVELLE PHRASE. / LÀ OÙ TU TE REGARDES.`
 > *(lent)* Ce soir, écris ta nouvelle phrase. / Colle-la là où tu te regardes le **matin**.
 
 *Pourquoi :* une seule action, ce soir, en deux minutes ; la phrase sera lue chaque matin, comme le post-it d'Adjoa. *Erreur à éviter :* donner une liste de phrases toutes faites : chacun écrit la sienne.
 
-**CITATION DE MR ZIKA (1:47–1:56)** — *2 s de silence, puis solennel, très lent, léger sourire* · plan rapide : le post-it jaune « J'apprends » sur le miroir, lumière du matin · écran noir, citation en blanc (Montserrat ExtraBold), filet or de 64 px, « — Mr Zika » en or #D4AF37, écriture Pinyon Script (4 s) · une seule note de piano
+**LA QUESTION (1:53–1:59)** — *intime, complice* · GP face fixe · `TU L'ÉCRIS ? OUI OU NON.`
+> Et toi, ce soir, tu l'**écris** ? [PAUSE 1s] / Oui ou non. [PAUSE 2s]
+
+*Pourquoi :* une question fermée à un mot, que le spectateur peut écrire en commentaire ; elle engage sur l'action. *Erreur à éviter :* une question ouverte, à laquelle personne ne répond.
+
+**CITATION DE MR ZIKA (1:59–2:10)** — *2 s de silence, puis solennel, très lent, léger sourire* · plan rapide : le post-it jaune « J'apprends » sur le miroir, lumière du matin · écran noir, citation en blanc (Montserrat ExtraBold), filet or de 64 px, « — Mr Zika » en or #D4AF37, écriture Pinyon Script (4 s) · une seule note de piano
 > [PAUSE 2s] « Tu es la voix que tu entends le plus souvent. / Parle-toi **bien**. » ↘
 
 *Pourquoi :* une vérité simple que personne ne s'était dite ainsi, et un ordre doux à la fin. *Erreur à éviter :* la lire vite ou fort.
@@ -156,10 +162,11 @@ Plans : RECON chariot de ménage dans un couloir d'hôtel · mains qui tournent 
 - [ ] Voix posée, blancs coupés sauf les pauses voulues (question d'Efua, « quatorze… zéro », temps pour toi, citation)
 - [ ] La note vocale d'Adjoa avec un léger filtre « téléphone » (aigus coupés), 2 s seulement
 - [ ] Plans : histoire 3–5 s, temps pour toi en un plan fixe, leçons 2–3 s, climax 1–2 s, citation en un plan long
-- [ ] Musique à -12/-15 dB : piano → silence après la note vocale → cordes au déclic → coupure au temps pour toi → percussions au climax → une note sur la citation
-- [ ] Sous-titres 2–4 mots, blanc en majuscules, mot prononcé en jaune, « ALORS NE TE LE DIS PLUS ! » en rouge, rien dans les 20 % du bas ni à droite
+- [ ] Pas de musique dans le fichier vidéo : le son TikTok est ajouté à la publication ; seule la note de piano de la signature reste sur la citation
+- [ ] Sous-titres 2–4 mots, blanc en majuscules, mot prononcé en jaune, « ALORS NE TE LE DIS PLUS. » en rouge, rien dans les 20 % du bas ni à droite
 - [ ] Étalonnage : look souvenir jusqu'à « Et toi ? », puis image nette et contrastée
-- [ ] Flash noir de 2 images au début du climax
+- [ ] Climax en plan fixe, sans flash ni percussion (voix posée)
+- [ ] Question finale « TU L'ÉCRIS ? OUI OU NON. » à l'écran, 2 s de silence avant la citation
 - [ ] Écran final : citation en blanc, filet or, « — Mr Zika » en or, Pinyon Script, 4 s
 - [ ] Export 1080p, test sans le son, test les yeux fermés
 
@@ -178,8 +185,9 @@ Et toi ? / Quelle phrase tu te dis / quand tu te trompes ?
 Tu l'entends ? / Ce qui suit va la remplacer.
 Un : « je suis comme ça », / ce n'est pas une description. / C'est une sentence. / Pourquoi ? Parce que ce que tu répètes, / tu finis par le croire.
 Deux : dis « j'apprends » / au lieu de « je n'y arrive pas ». / Pourquoi ? Parce que « je suis bête » ferme la porte. / « J'apprends » te fait poser la question suivante. / Comme Adjoa avec son chef.
-Le dirais-tu à quelqu'un que tu aimes ? / Non ? / Alors ne te le dis plus !
+Le dirais-tu à quelqu'un que tu aimes ? / Non ? / Alors ne te le dis plus.
 Ce soir, écris ta nouvelle phrase. / Colle-la là où tu te regardes le matin.
+Et toi, ce soir, tu l'écris ? / Oui ou non.
 « Tu es la voix que tu entends le plus souvent. / Parle-toi bien. » — Mr Zika
 
 ## 11. Alternatives
@@ -191,7 +199,7 @@ Ce soir, écris ta nouvelle phrase. / Colle-la là où tu te regardes le matin.
 ## 12. Légende
 ```
 Chaque soir, elle s'envoyait la même phrase : « Je suis bête. » Puis son amie lui a posé une seule question.
-Tu te parles comme à quelqu'un que tu aimes ? Oui ou non.
+Et toi, ce soir, tu l'écris ? Oui ou non.
 
 #mrzika #diasporaafricaine #motivation #confianceensoi #japprends
 ```
@@ -225,7 +233,7 @@ Ligne ajoutée dans [registre-m-zika.md](registre-m-zika.md) (2026-11-01).
 [immediate, tender, without thinking] Adjoa : « Que tu apprends. »
 [slow, low, a realization dawning] Et là, c'est le déclic. Elle réécoute ses notes. Quatorze fois « je suis bête ». [pause] [quiet, stunned] Zéro fois « j'apprends ».
 [steady, calm, decided] Alors elle décide : un post-it jaune sur le miroir. [soft, almost a whisper] « J'apprends. »
-[curious, with a small smile] Tu sais ce qu'elle a fait, le lendemain ? [short pause] [storyteller, energy rising] Son chef dit un mot inconnu. Au lieu de « pardon, je suis bête », elle demande : [calm, confident] « Vous pouvez répéter ? » [storyteller] Et elle l'écrit.
+[curious, with a small smile] Tu sais ce qu'elle a fait, le lendemain ? [short pause] [storyteller, a little brighter] Son chef dit un mot inconnu. Au lieu de « pardon, je suis bête », elle demande : [calm, confident] « Vous pouvez répéter ? » [storyteller] Et elle l'écrit.
 [warm, proud, with a smile] Six mois plus tard, c'est elle qui forme les nouvelles. En allemand.
 
 [low voice, direct, speaking to one person] Et toi ? [pause] Quelle phrase tu te dis quand tu te trompes ? [long pause]
@@ -233,12 +241,14 @@ Ligne ajoutée dans [registre-m-zika.md](registre-m-zika.md) (2026-11-01).
 
 [firm, steady, falling at the end] Un : « je suis comme ça », ce n'est pas une description. C'est une sentence.
 [calm, explaining, convincing] Pourquoi ? Parce que ce que tu répètes, tu finis par le croire.
-[firm, a notch more energetic] Deux : dis « j'apprends » au lieu de « je n'y arrive pas ».
+[firm, calm, steady] Deux : dis « j'apprends » au lieu de « je n'y arrive pas ».
 [calm, explaining, convincing] Pourquoi ? Parce que « je suis bête » ferme la porte. « J'apprends » te fait poser la question suivante. [warm] Comme Adjoa avec son chef.
 
-[soft, gentle, a real question] Le dirais-tu à quelqu'un que tu aimes ? [pause] Non ? [deep breath, voice rising, projected, powerful] Alors ne te le dis plus !
+[soft, gentle, a real question] Le dirais-tu à quelqu'un que tu aimes ? [pause] Non ? [short pause] [calm, slow, solemn] Alors ne te le dis plus.
 
 [calm, slow, complicit] Ce soir, écris ta nouvelle phrase. Colle-la là où tu te regardes le matin.
+
+[warm, intimate, a simple question] Et toi, ce soir, tu l'écris ? [pause] Oui ou non.
 
 [long pause] [solemn, very slow, a slight smile] Tu es la voix que tu entends le plus souvent. Parle-toi bien.
 ```
