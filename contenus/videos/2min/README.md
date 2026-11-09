@@ -6,6 +6,10 @@
 
 Ici, on fait **seulement** ceci : Mr Zika envoie un texte → on en tire les thèmes (workflow `texte-vers-scripts`) → chaque jour, un script de motivation écrit avec le skill `script-motivation-realisation` → il est poussé ici et dans le dépôt des vidéos du jour (`reseau-sociaux-bots-`). **Plus de films ni de séries ici** : tout ce qui les concerne (série « Awa », Awa la couturière, leur workflow) est dans le dépôt `Williamszika/Film-series-AI`.
 
+## Rubrique « Zika le Machiavel » (depuis le 9 novembre 2026)
+
+Une rubrique à part, décidée par Mr Zika : quand il envoie un texte, il dit sa rubrique ; les textes de pouvoir et de stratégie vont dans **[Zika le Machiavel](../zika-le-machiavel/README.md)** (Mr Zika parle seul à seul à un homme, voix imposante et sincère, couleur ivoirienne légère, une règle de Machiavel le vrai, son illustration, une action). Les autres thèmes restent dans cette file de motivation.
+
 ## ⭐ Depuis le 29 octobre 2026 : les scripts s'écrivent avec le skill `script-motivation-realisation`
 
 Règle de Mr Zika : chaque script du jour est écrit en suivant le skill **`anthropic-skills:script-motivation-realisation`** (thème → histoire → leçons → motivation → action → **citation de Mr Zika**), avec sa charte (couleur or, sous-titres blanc/jaune/rouge, écran final « — Mr Zika »), ses blocs (hook, histoire en 3 ou 5 temps, miroir, leçons à 3 étages, climax, action, citation), sa note qualité sur 100 (85 au moins), et le [Registre Mr Zika](registre-m-zika.md) à lire avant et à compléter après. Le premier : [source-40-ose-le-brouillon.md](source-40-ose-le-brouillon.md).

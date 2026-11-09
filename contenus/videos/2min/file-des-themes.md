@@ -2,6 +2,8 @@
 
 **Règle (décidée par Mr Zika le 18 octobre 2026) :** chaque jour, un thème de cette file devient un script vidéo (1 min 20 à 3 min), écrit par l'agent expert en motivation. **Depuis le 24 octobre, au modèle [« Face à toi »](modele-face-a-toi.md)** : le thème affiché devant, puis Mr Zika parle seul à seul à la personne qui écoute et lui raconte l'histoire de la colonne « Idée d'histoire » comme à quelqu'un assis en face. On prend toujours **le premier thème « à faire »**, dans l'ordre. Quand Mr Zika envoie un nouveau texte, le workflow `texte-vers-scripts` le lit et le sculpte, et ses thèmes s'ajoutent **à la fin** de cette file.
 
+**Rubrique « Zika le Machiavel » (9 novembre 2026) :** un thème précédé de **[Zika le Machiavel]** s'écrit selon [sa page](../zika-le-machiavel/README.md) : Mr Zika parle à un homme, voix imposante, couleur ivoirienne, une règle de Machiavel le vrai et son illustration. Mr Zika dit la rubrique quand il envoie un texte.
+
 Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme), repérés par l'agent dans ses trois sculptures : [vidéo A](../../../analyses/40-sculpture-A.md), [vidéo B](../../../analyses/40-sculpture-B.md), [vidéo C](../../../analyses/40-sculpture-C.md). On alterne les trois vidéos, du thème le plus fort au moins fort.
 
 | N° | Jour prévu | Thème à l'écran | D'où il vient | Idée d'histoire (de la sculpture) | Statut | Script |
