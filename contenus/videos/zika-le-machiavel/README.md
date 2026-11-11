@@ -78,9 +78,17 @@ Le texte reste en français clair : la couleur est dans le rythme et dans quelqu
 > Aujourd'hui, choisis un projet. Ne le raconte à personne tant qu'il n'est pas lancé.
 > Tu tiens ta langue cette semaine ? Oui ou non.
 
-## Où sont rangés les thèmes
+## Comment on travaille (décision de Mr Zika, 11 novembre 2026)
 
-Ils vont dans la même [file des thèmes](../2min/file-des-themes.md), avec la mention **[Zika le Machiavel]** devant le thème. Le jour où un de ces thèmes sort, le script suit cette page au lieu du modèle de motivation. On garde un script par jour au total, sauf si Mr Zika demande autre chose.
+1. Mr Zika envoie un texte et dit : « rubrique Zika le Machiavel ».
+2. L'agent **découpe le texte en thèmes** (un thème = une vidéo), comme pour les autres textes, et les range dans [la file de la rubrique](file-zika-le-machiavel.md).
+3. Pour chaque thème, l'agent écrit **un script normal, à lire par Mr Zika lui-même** : Mr Zika parle à une personne, face caméra, avec la structure ci-dessus. Pas de voix ElevenLabs ni de plan.json pour la vidéo automatique : **Mr Zika enregistre lui-même la vidéo**, puis l'envoie à l'équipe qui ajoute les illustrations.
+4. Chaque script contient donc deux colonnes : **ce que Mr Zika dit**, et **l'illustration proposée** pour l'équipe de montage (image, plan, mot à l'écran), plus le texte prompteur seul.
+5. Fichiers : `zm-NN-<slug>.md` dans ce dossier ; copie dans le dépôt des vidéos sous `videos/zika-le-machiavel/AAAA-MM-JJ-<slug>/script.md`.
+
+**Les deux chaînes restent séparées :**
+- la file quotidienne de motivation (`../2min/`) continue chaque jour, avec la vidéo automatique (voix, plan.json) ;
+- la rubrique « Zika le Machiavel » : des scripts à tourner par Mr Zika, chaque titre et chaque compte-rendu commence par **[Zika le Machiavel]** pour qu'on ne les confonde jamais.
 
 ## Hashtags
 
