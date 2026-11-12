@@ -33,7 +33,7 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 22 | 8 nov. | L'HUMILITÉ N'EST PAS TE FAIRE PETIT | Source 41, parties 2 et 7 (A-125, A-126, A-353) | Odile, maquis à Abidjan, et sa nièce Joëlle | fait (9 nov.) | [script](source-41-l-humilite-n-est-pas-te-faire-petit.md) |
 | 23 | 9 nov. | T'ÉLOIGNER N'EST PAS FUIR | Source 41, parties 4 et 8 (A-221, A-222, A-393, A-401, A-407) | Rodrigue, étudiant à Cotonou, et le grin | fait (10 nov.) | [script](source-41-t-eloigner-n-est-pas-fuir.md) |
 | 24 | 10 nov. | TU N'AS RIEN À PROUVER · LE VOLUME N'EST PAS L'AUTORITÉ | Source 41, parties 1 et 2 (A-038, A-060, A-067, A-068, A-088, A-098) | Bintou, stand de bissap à Lomé, et le grand frère du dimanche | fait (11 nov.) | [script](source-41-tu-n-as-rien-a-prouver.md) |
-| 25 | 11 nov. | LÂCHE CE QUE TU NE DIRIGES PAS | Source 41, partie 6 (A-283 à A-285, A-304, A-328 ; Épictète, Manuel, I) | Ousmane, conducteur de tram à Lyon, et le chantier au Sénégal | à faire | |
+| 25 | 11 nov. | LÂCHE CE QUE TU NE DIRIGES PAS | Source 41, partie 6 (A-283 à A-285, A-304, A-328 ; Épictète, Manuel, I) | Ousmane, conducteur de tram à Lyon, et le chantier au Sénégal | fait (12 nov.) | [script](source-41-lache-ce-que-tu-ne-diriges-pas.md) |
 | 26 | 12 nov. | TES MOTS CONSTRUISENT OU DÉTRUISENT | Source 41, partie 8 (A-405, A-415, A-416, A-417, A-421) | Clarisse, secrétaire de mairie à Libreville, et Hervé | à faire | |
 
 Les idées d'histoire sont des points de départ : l'agent peut en changer si une autre est plus simple et plus forte. Deux scripts qui se suivent n'ont jamais la même histoire, le même métier ou le même défi, et on alterne une héroïne et un héros.
