@@ -43,6 +43,7 @@ Les fichiers sont les mêmes que pour la file quotidienne :
 - `plan.json`.
 
 Le script est poussé dans le dépôt des vidéos, sous `videos/scripts-du-jour/AAAA-MM-JJ-zm-<slug>/`.
+Dans le dépôt des vidéos, chaque dossier de la rubrique porte `-zm-` dans son nom, `"rubrique": "Zika le Machiavel"` et `"episode": "ZM-NN"` en tête du `plan.json`, et un bandeau en tête du `script.md`. La mise en forme (nom de la rubrique sur la couverture, playlist à part, légende « Zika le Machiavel — ZM-NN ») est décrite dans `videos/scripts-du-jour/README.md` de ce dépôt.
 
 ## La couleur ivoirienne (légère, jamais une caricature)
 
