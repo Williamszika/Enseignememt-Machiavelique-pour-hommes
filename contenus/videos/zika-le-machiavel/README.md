@@ -2,6 +2,10 @@
 
 **Créée le 9 novembre 2026, à la demande de Mr Zika.** C'est une rubrique à part de la file quotidienne de motivation (`../2min/`). Quand Mr Zika envoie un texte, il dit dans quelle rubrique il va. S'il ne le dit pas et que le texte parle de pouvoir, de stratégie ou de Machiavel, l'agent propose cette rubrique. **La décision revient toujours à Mr Zika.**
 
+## ⭐ La voix de la rubrique (choix de Mr Zika, 17 novembre 2026)
+
+Quand la voix est générée par ElevenLabs, la rubrique utilise **Paul K — Deep French Narrator** (`5l4ttmr4SKNgi0HnOelT`) : une voix française grave, qui parle avec autorité et énergie. Modèle `eleven_multilingual_v2`, réglages : stabilité 0,35, similarité 0,8, style 0,7, speaker boost activé, vitesse 1,03. La voix clonée « Monsieur Zika » n'est pas utilisée (essai refusé le 17 novembre).
+
 ## Ce que c'est
 
 Mr Zika parle **à un homme**, seul à seul, comme s'il était assis en face de lui. Il ne fait pas un cours et ne raconte pas un conte à tout le monde : il s'adresse à un frère.

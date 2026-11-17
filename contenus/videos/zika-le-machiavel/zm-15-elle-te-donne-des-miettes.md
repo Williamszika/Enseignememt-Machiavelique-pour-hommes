@@ -2,7 +2,7 @@
 
 **Rubrique Zika le Machiavel** · brouillon du 17 novembre 2026, à partir de la [source 44](../../../sources/44-zika-le-machiavel-texte.md) (vidéo 1 : le silence et la machine à sous). **Attend la relecture de Mr Zika** avant les illustrations, la version Eleven v4 et le plan.json.
 **À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. Modèle du 17 novembre (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, citation).
-**Durée :** 3 min 09 mesurée avec la voix « Monsieur Zika » (490 mots) : un peu au-dessus des 3 min.
+**Durée :** 3 min 15 mesurée avec la voix Paul K, choisie par Mr Zika le 17 nov. (490 mots) : un peu au-dessus des 3 min. Audio : `audio/zm-15-elle-te-donne-des-miettes-paul-k.mp3`.
 **Version 2 :** accroche qui pique (« tu n'as pas une copine, tu as un abonnement »), « Je vais te raconter une histoire. J'ai un ami, Serge », la scène du maquis où Prisca l'ignore, puis comment se comporter.
 
 - **Titre à l'écran :** `ELLE TE DONNE DES MIETTES`
