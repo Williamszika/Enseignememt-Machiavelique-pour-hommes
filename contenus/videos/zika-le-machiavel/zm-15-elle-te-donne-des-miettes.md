@@ -1,8 +1,9 @@
-# [Zika le Machiavel] ZM-15 — Elle te donne des miettes (brouillon d'exemple)
+# [Zika le Machiavel] ZM-15 — Elle te donne des miettes (version 2, corrections de Mr Zika du 17 nov.)
 
 **Rubrique Zika le Machiavel** · brouillon du 17 novembre 2026, à partir de la [source 44](../../../sources/44-zika-le-machiavel-texte.md) (vidéo 1 : le silence et la machine à sous). **Attend la relecture de Mr Zika** avant les illustrations, la version Eleven v4 et le plan.json.
 **À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. Modèle du 17 novembre (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, citation).
-**Durée :** environ 2 min 55 (environ 400 mots).
+**Durée :** 3 min 09 mesurée avec la voix « Monsieur Zika » (490 mots) : un peu au-dessus des 3 min.
+**Version 2 :** accroche qui pique (« tu n'as pas une copine, tu as un abonnement »), « Je vais te raconter une histoire. J'ai un ami, Serge », la scène du maquis où Prisca l'ignore, puis comment se comporter.
 
 - **Titre à l'écran :** `ELLE TE DONNE DES MIETTES`
 - **La règle :** *Le Prince*, ch. XVI : la libéralité qu'on montre pour paraître généreux consume tout et rend pauvre et méprisé ; et la phrase du texte : « Son silence ne dit rien de ta valeur. Il parle de sa stratégie. »
@@ -10,41 +11,44 @@
 
 ## Texte pour le prompteur
 
-Elle disparaît trois jours. Elle revient avec « tu me manques »… et une demande.
-Et si c'était toi, mon frère… tu continuerais à payer ?
-Reste avec moi. Ce que Serge a compris peut te sortir de là.
-Je vais te dire une affaire.
-Serge, trente et un ans, vend des pièces auto à Adjamé.
-Prisca, il l'aime vraiment.
-Elle ne répond plus. Un jour. Deux jours. Trois.
-Et quand il n'en peut plus… un message.
+Mon frère… tu n'as pas une copine. Tu as un abonnement. Et c'est toi qui paies.
+Si demain elle t'écrit « bébé, tu me manques »… tu sais vraiment ce qu'elle veut ?
+Reste avec moi. Ce qui est arrivé à mon ami Serge peut t'éviter la même honte.
+Je vais te raconter une histoire.
+J'ai un ami, Serge. Un homme bien. Il vend des pièces auto à Adjamé.
+Il a une copine : Prisca.
+Quand Serge lui écrit, elle répond un jour. Puis plus rien. Un jour. Deux jours. Trois jours.
+Et quand il est fatigué d'attendre… le message tombe.
 « Bébé, tu me manques. »
-Deux minutes après : « Au fait, tu peux m'envoyer trente mille ? C'est urgent. »
-Il envoie. À chaque fois.
-Un dimanche, devant toute la famille, sa petite sœur Aïcha demande :
-« Grand frère, l'école réclame les frais d'examen. »
-Serge baisse la tête. « Ce mois-ci, j'ai rien. »
-Son oncle : « Rien pour ta sœur… mais hier soir, ton argent est bien parti quelque part. »
+Deux minutes plus tard : « Tu peux me faire un transfert ? C'est vraiment urgent. »
+Ils ont parlé, alors Serge croit qu'il est en couple. Il envoie. À chaque fois.
+Pourtant, un soir, à la maison, sa petite sœur lui demande les frais d'examen.
+« Ce mois-ci, j'ai rien. »
+Son oncle le regarde : « Rien pour ta sœur… mais hier, ton argent est bien parti quelque part. »
 Silence. Serge a honte.
-Le soir, il relit la conversation. Et il voit.
+Mais il ne change pas.
+Un vendredi, Prisca écrit : « Ma mère est malade. Cinquante mille, c'est urgent. »
+Il envoie.
+Le soir même, il livre une pièce dans un maquis à Cocody.
+Et là, à une table… Prisca. Robe neuve. Elle rit. Un autre homme lui tient la main.
+Leurs yeux se croisent. Elle tourne la tête. Comme s'il était un inconnu.
+Serge reste debout, son carton dans les mains. Devant tout le monde.
+Cette nuit-là, il relit la conversation.
 Chaque « tu me manques » arrive juste avant une demande.
 Chaque silence arrive juste après qu'il a payé.
-Silence. Miette. Demande. Silence.
-Une machine à sous : tu perds, tu perds… un petit « bébé », et tu rejoues.
-Trois jours plus tard : « Tu me manques… tu peux m'aider ? »
-Serge écrit :
-« Je ne paie plus tes retours. Si tu veux me voir, on se voit. Sans facture. »
-Elle n'a plus jamais répondu.
-Le lendemain, Serge a payé l'école d'Aïcha. Et ce soir-là, il a dormi.
-Une seule phrase a suffi. Et cette phrase… toi, tu ne l'as pas encore écrite.
-Et toi, mon frère ?
-Ton téléphone sonne pour qu'on te parle… ou pour qu'on te demande ?
+Il n'était pas son homme. Il était sa caisse.
+Le lendemain, il bloque son numéro. Sans message. Sans scène.
+Il paie l'école de sa sœur. Et ce soir-là, il dort.
+Un regard détourné lui a ouvert les yeux. Toi… il t'en faudra combien ?
+Et toi, mon frère ? Ton téléphone sonne pour qu'on te parle… ou pour qu'on te demande ?
 Pense à la dernière fois qu'elle est revenue. Tu l'as ? Garde ça.
 Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.
-Son silence ne dit rien de ta valeur. Il parle de sa stratégie.
-J'aimerais que tu gardes ça. Machiavel l'écrit, chapitre seize du Prince : la générosité qu'on montre pour plaire consume tout… et rend pauvre et méprisé.
-Et écoute-moi bien : regarde l'ordre. Si la tendresse arrive toujours juste avant la demande, c'est pas de l'amour. C'est une facture.
-Une femme qui t'aime ne disparaît pas pour te faire payer son retour.
-Alors arrête de payer. Et redeviens l'homme qui choisit !
-Change maintenant. N'attends pas que ta famille paie le prix de ses miettes.
-« Celle qui t'aime revient pour toi. Celle qui te joue revient pour ta poche. » — Mr Zika
+Regarde l'ordre. Si la tendresse arrive toujours juste avant la demande, c'est pas de l'amour. C'est une facture.
+Quand elle disparaît, tu ne cours pas. Tu travailles.
+Quand elle revient avec une urgence, tu réponds : « On se voit d'abord. »
+Celle qui t'aime viendra. Celle qui te joue disparaîtra.
+J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre seize du Prince : la générosité qu'on montre pour plaire consume tout… et rend pauvre et méprisé.
+Et écoute-moi bien : une femme qui t'aime ne disparaît pas pour te faire payer son retour.
+Alors ferme la caisse. Et redeviens un homme qui choisit !
+Change maintenant. N'attends pas de la voir au bras d'un autre, avec ton argent sur le dos.
+« Celle qui t'aime revient pour toi. Celle qui te joue revient pour ta poche. » — Mr Zika.
