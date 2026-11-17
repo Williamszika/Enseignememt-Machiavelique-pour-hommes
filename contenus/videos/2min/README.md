@@ -6,6 +6,28 @@
 
 Ici, on fait **seulement** ceci : Mr Zika envoie un texte → on en tire les thèmes (workflow `texte-vers-scripts`) → chaque jour, un script de motivation écrit avec le skill `script-motivation-realisation` → il est poussé ici et dans le dépôt des vidéos du jour (`reseau-sociaux-bots-`). **Plus de films ni de séries ici** : tout ce qui les concerne (série « Awa », Awa la couturière, leur workflow) est dans le dépôt `Williamszika/Film-series-AI`.
 
+## ⭐⭐ Le modèle du 17 novembre 2026 fait foi pour TOUS les scripts qui viennent (décision de Mr Zika)
+
+Mr Zika a relu le script de Clarisse et donné ses corrections le 17 novembre 2026. La version 2 est devenue **le modèle de tous les scripts suivants** : même tempo, même manière, même ordre. Script de référence : [source-41-tes-mots-construisent-ou-detruisent.md](source-41-tes-mots-construisent-ou-detruisent.md). **Ce modèle passe par-dessus la structure du skill et des sections plus bas** ; les règles du compte, la durée (3 min au plus), Eleven v4, la signature et le plan.json ne changent pas.
+
+L'ordre, bloc par bloc :
+1. **Accroche convaincante (0–6 s).** On ouvre sur la phrase la plus forte de l'histoire, puis on met le spectateur dedans avec une vraie question (« Et si un jour, on disait ça de toi… tu ferais quoi ? »), puis une promesse qui donne envie de rester (« Reste avec moi. Ce qu'elle a fait ensuite peut changer tes journées. »). **Jamais un simple « Et si c'était toi ? »**, trop faible.
+2. **Un petit silence ou un petit bruit** avant l'histoire (1 s de silence, puis un son réel du décor : tasse posée, porte, moteur, foule).
+3. **L'histoire** : un personnage, son habitude ou son problème, qui dure.
+4. **Une situation qui met la personne dans l'embarras, vers la fin de l'histoire.** Il faut un événement extérieur qui la gêne : une phrase dite devant tout le monde, un geste, une scène. Un simple constat (« elle se rend compte que… ») ne suffit pas. Un silence suit.
+5. **La réflexion puis le déclic** : la nuit ou le moment d'après, elle repense, se pose la question, et comprend.
+6. **La décision, le lendemain** : un geste ou une phrase, puis un résultat honnête (pas de miracle).
+7. **Une relance avant « Et toi ? »** : une ou deux phrases qui accrochent de nouveau (« Une seule phrase a ouvert les yeux de Clarisse. Et cette phrase… quelqu'un la pense peut-être déjà de toi. »).
+8. **Le miroir et le temps pour toi** (« Et toi ? … Ferme les yeux trois secondes. Tu l'as ? Garde-le. »).
+9. **Les conseils, dits à UNE personne.** **Pas de « Un, deux, trois »** ni de leçons numérotées à l'écran. Mr Zika parle à quelqu'un en face de lui : « Tu sais… », « J'aimerais que tu gardes une phrase avec toi… », « Et écoute-moi bien… ». Il donne des conseils à retenir, avec leur pourquoi et leur limite.
+10. **Le climax, toujours un conseil** qui monte (« Tes mots, c'est ta réputation… Alors choisis-les. Et construis ! »).
+11. **Plus de bloc « action + question oui/non ».** À la place vient un appel à changer maintenant pour ne pas en arriver là : « Change maintenant. N'attends pas qu'un jour… ». On peut aussi reposer la situation (« Et si c'était toi… »).
+12. **La citation de Mr Zika**, après un silence, avec la même signature.
+
+La question oui/non peut rester dans la légende ou dans le commentaire épinglé, mais jamais dans la voix.
+
+Dans plan.json, les blocs sont : `hook` (avec un `sfx` d'ambiance au début du bloc suivant), `histoire`, `situation` (la gêne, `pause_after` 1 s), `declic`, `transformation`, `relance` (`"relance": true`), `miroir`, `temps_pour_toi`, `conseils`, `climax`, `appel`. Il n'y a plus de bloc `question`.
+
 ## Rubrique « Zika le Machiavel » (depuis le 9 novembre 2026)
 
 Une rubrique à part, décidée par Mr Zika : quand il envoie un texte, il dit sa rubrique ; les textes de pouvoir et de stratégie vont dans **[Zika le Machiavel](../zika-le-machiavel/README.md)** (Mr Zika parle seul à seul à un homme, voix imposante et sincère, couleur ivoirienne légère, une règle de Machiavel le vrai, son illustration, une action). Les autres thèmes restent dans cette file de motivation.

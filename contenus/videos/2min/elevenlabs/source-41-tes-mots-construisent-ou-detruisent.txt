@@ -1,33 +1,40 @@
-[low, tired, quoting someone] « À cette table, ça me vide. » [direct, speaking to one person] Et si c'était toi ?
+[slow, weighty, quoting a mocking line] « Clarisse ? C'est celle qui se plaint toujours. » [low, serious] Devant tout le service.
+[direct, speaking to one person] Et si un jour, on disait ça de toi… tu ferais quoi ?
+[warm, inviting, a little mysterious] Reste avec moi. Ce qu'elle a fait ensuite peut changer tes journées. [pause]
 
 [warm storyteller voice, natural pace] Clarisse, trente-huit ans, secrétaire à la mairie de Libreville.
 [storyteller] Chaque midi, à la cantine, elle pose son thermos bleu au milieu de la table. Et elle ouvre la conversation.
 [quick, a little amused, habitual] « Le chef a encore changé les horaires. La file d'attente, c'est une honte. Et ce salaire, n'en parlons pas. »
-[storyteller] Tout le monde suit. Les plaintes tournent jusqu'au café.
-[lower, a little sad] Hervé, le nouveau du service, prend son plateau et va manger seul, dehors.
+[storyteller] Tout le monde suit.
+[lower, a little sad] Hervé, le nouveau du service, mange de plus en plus souvent dehors. Clarisse ne remarque rien.
 
-[lower, intimate] Un jour, elle l'entend au téléphone, dans la cour : [low, tired, no anger] « À cette table, ça me vide. »
-[storyteller, quiet] Clarisse reste figée, son gobelet à la main. Elle se demande : [quiet, thoughtful] « Est-ce que c'est moi, ce qui vide la table ? » [pause]
+[slower, tension rising] Au pot de fin d'année, le chef propose un jeu : chacun dit un mot sur un collègue.
+[tense, hesitant] Vient le tour d'Hervé. Il hésite, puis il dit doucement : [soft, almost embarrassed] « Clarisse… c'est celle qui commence toujours par une plainte. »
+[light] Tout le monde rit.
+[quiet, heavy] Clarisse sourit aussi. Mais sa main serre son gobelet. [pause]
 
-[energy rising, a realization] Et là, c'est le déclic. Depuis des mois, elle dort cinq heures par nuit.
+[intimate, slow] Ce soir-là, elle ne dort pas.
+[quiet, thoughtful] Elle se demande : « Depuis quand je suis devenue ça ? »
+[energy rising, a realization] Et là, elle comprend. Depuis des mois, elle dort cinq heures par nuit.
 [firm, revealing] Ce n'est pas la mairie qui parle à midi. C'est sa fatigue.
-[storyteller] Le lendemain, quand la première plainte arrive, [calm, with a smile] elle dit : « Je préfère qu'on parle de solution. »
 
-[honest, storyteller] Un collègue lève les yeux au ciel et s'en va. Les autres restent.
-[warm, smiling] Une semaine plus tard, Hervé revient avec son plateau. Et Clarisse lui sert le thé de son thermos bleu.
+[storyteller, warm] Le lundi, à la première plainte, elle dit : [calm, with a smile] « Je préfère qu'on parle de solution. »
+[honest] Un collègue lève les yeux au ciel et s'en va.
+[warm, smiling] Une semaine plus tard, Hervé revient s'asseoir avec son plateau. Et Clarisse lui sert le thé de son thermos bleu.
 
-[intimate, direct, no judgment] Et toi ? Combien de fois, cette semaine, c'est toi qui as lancé la plainte ?
-[soft] Dans ta tête, en un mot : la plainte que tu répètes le plus. [quiet, firm] Tu l'as ? Garde-la. [warm] Tout à l'heure, tu pourras l'écrire en commentaire.
+[lower, mysterious] Une seule phrase a ouvert les yeux de Clarisse. Et cette phrase… quelqu'un la pense peut-être déjà de toi.
 
-[firm, warm, convincing] Un : ce qui abîme une conversation ne vient pas toujours des autres. Parfois, elle naît de ta fatigue. De ta colère. D'une journée trop lourde.
-[convincing, energy rising] Pourquoi c'est important ? Parce que quand tu le vois, tu peux soigner ta fatigue au lieu de nourrir la plainte.
-[firm, energetic] Deux : une phrase suffit. [calm, with a smile] « Je préfère qu'on parle de solution. »
-[convincing] Ça peut changer la conversation. [firm] Sinon, ça change ta place dedans.
-[calm, clear] Et parler de solution, ce n'est pas tout taire. Une vraie injustice, tu la dis. Une fois, à la bonne personne.
+[intimate, direct] Et toi ? Si on demandait à tes proches un seul mot sur toi… lequel diraient-ils ?
+[soft] Ferme les yeux trois secondes. [quiet, firm] Tu l'as ? Garde-le.
 
-[voice rising, full, inspiring, powerful but never shouting] Tes mots construisent ou détruisent. Tu choisis lesquels tu dis. Alors construis !
+[warm, firm, speaking to one person] Tu sais, ce qui abîme une conversation ne vient pas toujours des autres. Parfois, ça vient de ta fatigue.
+[convincing] Alors avant d'accuser la table, regarde ton sommeil. Regarde ton cœur.
+[warm, personal] J'aimerais que tu gardes une phrase avec toi : « Je préfère qu'on parle de solution. »
+[convincing] Elle peut changer la conversation. Sinon, elle change ta place dedans.
+[firm, caring] Et écoute-moi bien : parler de solution, ce n'est pas tout avaler. Une vraie injustice, tu la dis. Une fois, à la bonne personne.
 
-[calm, warm, complicit] Aujourd'hui, compte tes plaintes. Un trait sur un papier à chaque fois. Ce soir, regarde le chiffre.
-[warm, simple question] Tu comptes les tiennes aujourd'hui ? Oui ou non.
+[voice rising, full, inspiring, powerful but never shouting] Tes mots, c'est ta réputation. Chaque jour, ils disent aux autres qui tu es. Alors choisis-les. Et construis !
+
+[calm, grave] Change maintenant. N'attends pas qu'un jour, devant tout le monde, on te résume en une plainte.
 
 [short pause] [solemn, slow, a slight smile] Chaque mot pose une pierre. À toi de choisir : un mur ou un pont.
