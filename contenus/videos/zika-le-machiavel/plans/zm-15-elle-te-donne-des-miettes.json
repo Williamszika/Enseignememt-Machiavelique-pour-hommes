@@ -1,0 +1,449 @@
+{
+ "title": "Elle te donne des miettes",
+ "output": "zm_15_elle_te_donne_des_miettes.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Adjamé market, Cocody maquis), warm night light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 115,
+ "character": "a 31-year-old Ivorian man, dark skin, short hair, wearing a navy work polo with grease marks, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "ELLE TE DONNE DES MIETTES",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU N'AS PAS UNE COPINE. TU AS UN ABONNEMENT.",
+   "segments": [
+    {
+     "text": "Mon frère… tu n'as pas une copine. Tu as un abonnement. Et c'est toi qui paies.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "abonnement",
+      "paies"
+     ]
+    },
+    {
+     "text": "Si demain elle t'écrit « bébé, tu me manques »… tu sais vraiment ce qu'elle veut ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "vraiment"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Serge peut t'éviter la même honte.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone on a dark table lighting up with a message notification, close-up, night",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone notification ping",
+      "vol": 0.16,
+      "q": "notification"
+     }
+    },
+    {
+     "prompt": "a hand sending money on a mobile money app, thumb pressing send, extreme close-up, cold light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Abidjan market street with car horns",
+      "at": "start",
+      "vol": 0.2,
+      "q": "market street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Serge. Un homme bien. Il vend des pièces auto à Adjamé.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Prisca.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Quand Serge lui écrit, elle répond un jour. Puis plus rien. Un jour. Deux jours. Trois jours.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Et quand il est fatigué d'attendre… le message tombe.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "« Bébé, tu me manques. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Deux minutes plus tard : « Tu peux me faire un transfert ? C'est vraiment urgent. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ils ont parlé, alors Serge croit qu'il est en couple. Il envoie. À chaque fois.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 31-year-old Ivorian man, dark skin, short hair, wearing a navy work polo with grease marks, seen from behind or in profile, face never sharp, behind the counter of a small auto parts shop in Adjamé market, piles of spare parts, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "metal parts clinking",
+      "vol": 0.12,
+      "q": "metal clink"
+     }
+    },
+    {
+     "prompt": "a 31-year-old Ivorian man, dark skin, short hair, wearing a navy work polo with grease marks, seen from behind or in profile, face never sharp, sitting alone at night, staring at his phone, profile",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a phone screen showing a chat with a heart emoji, blurred text, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un soir, à la maison, sa petite sœur lui demande les frais d'examen.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Ce mois-ci, j'ai rien. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Son oncle le regarde : « Rien pour ta sœur… mais hier, ton argent est bien parti quelque part. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "quelque part"
+     ]
+    },
+    {
+     "text": "Silence. Serge a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un vendredi, Prisca écrit : « Ma mère est malade. Cinquante mille, c'est urgent. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il envoie.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le soir même, il livre une pièce dans un maquis à Cocody.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et là, à une table… Prisca. Robe neuve. Elle rit. Un autre homme lui tient la main.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Prisca"
+     ]
+    },
+    {
+     "text": "Leurs yeux se croisent. Elle tourne la tête. Comme s'il était un inconnu.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Serge reste debout, son carton dans les mains. Devant tout le monde.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an Ivorian family living room at night, an older man in a chair seen from behind, a schoolbag on the floor, warm dim light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an open-air maquis restaurant in Cocody at night, string lights, tables, music, seen from a distance",
+     "motion": "push_in",
+     "foley": {
+      "text": "maquis music and chatter at night",
+      "vol": 0.14,
+      "q": "bar crowd music"
+     }
+    },
+    {
+     "prompt": "a young Ivorian woman in a new red dress, seen from behind or in profile, face never sharp, laughing at a table while a man holds her hand, seen from behind, bokeh lights",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 31-year-old Ivorian man, dark skin, short hair, wearing a navy work polo with grease marks, seen from behind or in profile, face never sharp, standing still holding a cardboard box, seen from behind, people around him",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il relit la conversation.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque « tu me manques » arrive juste avant une demande.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque silence arrive juste après qu'il a payé.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il n'était pas son homme. Il était sa caisse.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "caisse"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling up a long chat conversation on a phone at night, close-up, blue light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an empty cash box open on a table, single lamp, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il bloque son numéro. Sans message. Sans scène.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il paie l'école de sa sœur. Et ce soir-là, il dort.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb pressing a block contact button on a phone, close-up, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 31-year-old Ivorian man, dark skin, short hair, wearing a navy work polo with grease marks, seen from behind or in profile, face never sharp, handing an envelope at a school office counter, morning light, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "school courtyard morning ambience",
+      "vol": 0.1,
+      "q": "schoolyard"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un regard détourné lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, Abidjan lagoon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Ton téléphone sonne pour qu'on te parle… ou pour qu'on te demande ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone ringing face up on a wooden table, nobody touching it, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois qu'elle est revenue.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Regarde l'ordre. Si la tendresse arrive toujours juste avant la demande, c'est pas de l'amour. C'est une facture.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "facture"
+     ]
+    },
+    {
+     "text": "Quand elle disparaît, tu ne cours pas. Tu travailles.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Quand elle revient avec une urgence, tu réponds : « On se voit d'abord. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Celle qui t'aime viendra. Celle qui te joue disparaîtra.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre seize du Prince : la générosité qu'on montre pour plaire consume tout… et rend pauvre et méprisé.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "méprisé"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 31-year-old Ivorian man, dark skin, short hair, wearing a navy work polo with grease marks, seen from behind or in profile, face never sharp, working hard in his shop, lifting a car part, daylight",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme qui t'aime ne disparaît pas pour te faire payer son retour.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors ferme la caisse. Et redeviens un homme qui choisit !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "choisit"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man closing a metal cash box firmly, close-up on hands, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas de la voir au bras d'un autre, avec ton argent sur le dos.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 31-year-old Ivorian man, dark skin, short hair, wearing a navy work polo with grease marks, seen from behind or in profile, face never sharp, walking away down an Abidjan street at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Celle qui t'aime revient pour toi. Celle qui te joue revient pour ta poche.",
+  "author": "Mr Zika"
+ }
+}

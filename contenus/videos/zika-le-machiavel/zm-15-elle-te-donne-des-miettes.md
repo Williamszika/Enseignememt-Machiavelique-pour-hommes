@@ -1,4 +1,4 @@
-# [Zika le Machiavel] ZM-15 — Elle te donne des miettes (version 2, corrections de Mr Zika du 17 nov.)
+# [Zika le Machiavel] ZM-15 — Elle te donne des miettes (version 2, validée par Mr Zika le 17 nov. : modèle de la rubrique)
 
 **Rubrique Zika le Machiavel** · brouillon du 17 novembre 2026, à partir de la [source 44](../../../sources/44-zika-le-machiavel-texte.md) (vidéo 1 : le silence et la machine à sous). **Attend la relecture de Mr Zika** avant les illustrations, la version Eleven v4 et le plan.json.
 **À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. Modèle du 17 novembre (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, citation).
