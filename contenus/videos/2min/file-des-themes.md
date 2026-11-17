@@ -44,6 +44,6 @@ Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme)
 | 33 | 19 nov. | MÊME QUAND PERSONNE NE REGARDE | Source 43, partie 7 (A-274, A-279, A-281 à A-283, A-307 ; T8) | Hanta, brodeuse à Antananarivo, et l'envers de la nappe (détail : fiche 43, script 7) | à faire | |
 | 34 | 20 nov. | TA PREMIÈRE RESPIRATION EST À TOI | Source 43, parties 8, 12 et 17 (A-465, A-466, A-483, A-487, A-490, A-499 ; A-315, A-359, A-684, A-706 ; T9 + T10) | Yannick, étudiant infirmier à Bordeaux, et les quarante-sept minutes d'écran (détail : fiche 43, script 8) | à faire | |
 | 35 | 21 nov. | TON CORPS N'EST PAS UN ORNEMENT | Source 43, parties 4, 9 et 18 (A-139, A-140, A-150, A-165, A-392, A-731, A-741 ; T11) | Bernadette, vendeuse de poisson à Bujumbura, et la danse au mariage (détail : fiche 43, script 9) | à faire | |
-| 36 | 22 nov. | LE CALME, PAS LE CONFORT | Source 43, partie 22 (A-857, A-862, A-872, A-874, A-875, A-877 ; T13) | Rodrigue, arbitre amateur à Port-Gentil, et le derby du quartier (détail : fiche 43, script 10) | à faire | |
+| 36 | 22 nov. | LE CALME, PAS LE CONFORT | Source 43, partie 22 (A-857, A-862, A-872, A-874, A-875, A-877 ; T13) | Ghislain, arbitre amateur à Port-Gentil, et le derby du quartier (détail : fiche 43, script 10) | à faire | |
 
 Les idées d'histoire sont des points de départ : l'agent peut en changer si une autre est plus simple et plus forte. Deux scripts qui se suivent n'ont jamais la même histoire, le même métier ou le même défi, et on alterne une héroïne et un héros.
