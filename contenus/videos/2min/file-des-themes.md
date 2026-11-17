@@ -6,6 +6,8 @@
 
 Les thèmes ci-dessous viennent de la **source 40** (le texte sur le stoïcisme), repérés par l'agent dans ses trois sculptures : [vidéo A](../../../analyses/40-sculpture-A.md), [vidéo B](../../../analyses/40-sculpture-B.md), [vidéo C](../../../analyses/40-sculpture-C.md). On alterne les trois vidéos, du thème le plus fort au moins fort.
 
+> **Le mercredi : pas de thème de cette file** (jour de Zika le Machiavel, règle du 17/11/2026). Les dates de la colonne 2 donnent seulement l'ordre de passage.
+
 | N° | Jour prévu | Thème à l'écran | D'où il vient | Idée d'histoire (de la sculpture) | Statut | Script |
 |---|---|---|---|---|---|---|
 | 0 | 18 oct. | TOMBER N'EST PAS ÉCHOUER | Source 40, vidéo B, leçon 7 | Awa et l'atelier inondé | fait (démonstration) | [script](source-40-tomber-n-est-pas-echouer.md) |

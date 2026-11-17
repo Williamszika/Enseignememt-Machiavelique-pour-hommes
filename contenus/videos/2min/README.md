@@ -6,6 +6,10 @@
 
 Ici, on fait **seulement** ceci : Mr Zika envoie un texte → on en tire les thèmes (workflow `texte-vers-scripts`) → chaque jour, un script de motivation écrit avec le skill `script-motivation-realisation` → il est poussé ici et dans le dépôt des vidéos du jour (`reseau-sociaux-bots-`). **Plus de films ni de séries ici** : tout ce qui les concerne (série « Awa », Awa la couturière, leur workflow) est dans le dépôt `Williamszika/Film-series-AI`.
 
+## ⭐ Le mercredi est réservé à « Zika le Machiavel » (règle de Mr Zika, 17 novembre 2026)
+
+Les scripts de motivation (pensées stoïciennes et autres thèmes de cette file) continuent leur routine **du jeudi au mardi**. **Le mercredi, aucun script de motivation n'est écrit et aucune vidéo de motivation n'est publiée** : le mercredi à 10 h (heure de Berlin), seul l'épisode [Zika le Machiavel](../zika-le-machiavel/README.md) sort.
+
 ## ⭐⭐ Le modèle du 17 novembre 2026 fait foi pour TOUS les scripts qui viennent (décision de Mr Zika)
 
 Mr Zika a relu le script de Clarisse et donné ses corrections le 17 novembre 2026. La version 2 est devenue **le modèle de tous les scripts suivants** : même tempo, même manière, même ordre. Script de référence : [source-41-tes-mots-construisent-ou-detruisent.md](source-41-tes-mots-construisent-ou-detruisent.md). **Ce modèle passe par-dessus la structure du skill et des sections plus bas** ; les règles du compte, la durée (3 min au plus), Eleven v4, la signature et le plan.json ne changent pas.

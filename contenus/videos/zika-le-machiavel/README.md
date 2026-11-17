@@ -4,7 +4,7 @@
 
 ## ⭐ Le rythme : un épisode chaque mercredi à 10 h (règle de Mr Zika, 17 novembre 2026)
 
-- **Publication : le mercredi à 10 h 00, heure de Berlin**, un épisode par semaine.
+- **Publication : le mercredi à 10 h 00, heure de Berlin**, un épisode par semaine. **Le mercredi n'appartient qu'à cette rubrique** : pas de vidéo de motivation ce jour-là (elles continuent du jeudi au mardi).
 - **Le lundi**, la tâche programmée « Zika le Machiavel du mercredi » écrit l'épisode suivant de la file sur le modèle de ZM-15, fait la voix Paul K et pousse `script.md`, `elevenlabs.txt`, `plan.json` et `voix-paul-k.mp3` dans le dépôt des vidéos (`videos/scripts-du-jour/AAAA-MM-JJ-zm-<slug>/`, date du mercredi).
 - Le dépôt des vidéos fabrique, fait contrôler, envoie la vidéo et la légende à Mr Zika, et programme la publication du mercredi 10 h **après son accord** (demande `demandes/2026-11-17_zika-le-machiavel-chaque-mercredi-10h.md` de ce dépôt).
 - Ordre : ZM-15 (18 nov.), puis ZM-07 à ZM-14, puis ZM-01 à ZM-06 réécrits sur le modèle de ZM-15.
