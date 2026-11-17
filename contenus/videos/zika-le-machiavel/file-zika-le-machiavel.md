@@ -15,3 +15,6 @@ Scripts à tourner par Mr Zika lui-même (voir [la page de la rubrique](README.m
 | ZM-09 | POSE TA LIGNE SANS CRIER | source 44 (vidéo 2) | Le Prince, ch. XVII (craint, jamais haï) et XIX (jamais méprisé) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
 | ZM-10 | INVESTIS AU MÊME NIVEAU, OU RETIRE-TOI | source 44 (vidéo 3) | Le Prince, ch. XXI (se déclarer sans réserve) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
 | ZM-11 | TON CALME PARLE AVANT TOI | source 44 (vidéo 2) | Le Prince, ch. XVIII (on juge par les yeux) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
+| ZM-12 | ELLE EST PARTIE ? RECONSTRUIS-TOI POUR TOI | source 45 (vidéo 1) | Le Prince, ch. XIII et XXIV (tes propres forces) ; phrase du texte : « Le prix, ce n'est pas elle. » | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
+| ZM-13 | TA TABLE PARLE DE TOI | source 45 (vidéo 2) | Le Prince, ch. XXII (on juge un homme sur ceux qu'il garde près de lui) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
+| ZM-14 | NI SA BÉQUILLE NI SON JUGE : TRAITE-LA EN ÉGALE | source 45 (vidéo 3) | Le Prince, ch. VIII (le bien peu à peu : le compliment rare et précis) | à inventer (pas Pablo et Sofia) | proposé (17 nov.), attend l'accord de Mr Zika | — |
