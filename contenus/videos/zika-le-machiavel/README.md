@@ -2,6 +2,13 @@
 
 **Créée le 9 novembre 2026, à la demande de Mr Zika.** C'est une rubrique à part de la file quotidienne de motivation (`../2min/`). Quand Mr Zika envoie un texte, il dit dans quelle rubrique il va. S'il ne le dit pas et que le texte parle de pouvoir, de stratégie ou de Machiavel, l'agent propose cette rubrique. **La décision revient toujours à Mr Zika.**
 
+## ⭐ Le rythme : un épisode chaque mercredi à 10 h (règle de Mr Zika, 17 novembre 2026)
+
+- **Publication : le mercredi à 10 h 00, heure de Berlin**, un épisode par semaine.
+- **Le lundi**, la tâche programmée « Zika le Machiavel du mercredi » écrit l'épisode suivant de la file sur le modèle de ZM-15, fait la voix Paul K et pousse `script.md`, `elevenlabs.txt`, `plan.json` et `voix-paul-k.mp3` dans le dépôt des vidéos (`videos/scripts-du-jour/AAAA-MM-JJ-zm-<slug>/`, date du mercredi).
+- Le dépôt des vidéos fabrique, fait contrôler, envoie la vidéo et la légende à Mr Zika, et programme la publication du mercredi 10 h **après son accord** (demande `demandes/2026-11-17_zika-le-machiavel-chaque-mercredi-10h.md` de ce dépôt).
+- Ordre : ZM-15 (18 nov.), puis ZM-07 à ZM-14, puis ZM-01 à ZM-06 réécrits sur le modèle de ZM-15.
+
 ## ⭐ La voix de la rubrique (choix de Mr Zika, 17 novembre 2026)
 
 Quand la voix est générée par ElevenLabs, la rubrique utilise **Paul K — Deep French Narrator** (`5l4ttmr4SKNgi0HnOelT`) : une voix française grave, qui parle avec autorité et énergie. Modèle `eleven_multilingual_v2`, réglages : stabilité 0,35, similarité 0,8, style 0,7, speaker boost activé, vitesse 1,03. La voix clonée « Monsieur Zika » n'est pas utilisée (essai refusé le 17 novembre).
