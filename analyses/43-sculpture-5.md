@@ -1,0 +1,113 @@
+# Sculpture de la source 43 — partie 5 : Vidéo 1, leçon 4 : arrête de te cacher derrière l'impulsion
+
+Ce document reprend une à une les phrases A-167 à A-214 du [texte intégral de la source 43](../sources/43-texte-integral.md), la leçon 4 de la vidéo « 8 leçons » (« Arrête de te soumettre à l'excuse de l'impulsion »). Pour chacune, il dit ce qu'elle veut dire, comment elle cherche à convaincre, ce qu'on en garde et comment Mr Zika la dirait.
+Les thèmes T1 à T13 repérés dans tout le [texte](../sources/43-texte-integral.md) font foi pour les corrections (ici surtout T5 : une envie n'est pas un ordre, avec T4 : la seconde avant de répondre, T6 : la confiance en soi qu'on tient ou qu'on perd, et T1 : on ne construit pas sa force sans aide quand on n'en peut plus) ; on regroupe au plus trois phrases consécutives qui portent la même idée, et on le signale par « à » dans la colonne N°.
+
+---
+
+## Sous-partie 1 — L'étincelle et l'excuse (A-167 à A-182)
+
+| N° | Ce que la phrase veut dire | Le levier | Verdict | Version Mr Zika |
+|---|---|---|---|---|
+| A-167 | « 4 » : le numéro de la leçon. | Liste numérotée | **Jeter** : simple repère du texte ; le modèle du compte ne numérote pas les leçons dans la voix | — |
+| A-168 | Arrête de te servir de l'impulsion comme excuse. | Impératif, formule-titre | **Corriger** : l'idée est le cœur de la leçon (T5) ; « te soumettre » est un mot qui déclenche la modération | Arrête de te cacher derrière l'impulsion. |
+| A-169 | Une impulsion, c'est une étincelle dans une forêt sèche. | Image (l'étincelle, le feu) | **Garder** : une image simple et filmable | Une envie, c'est une étincelle dans de l'herbe sèche. |
+| A-170 | Elle a l'air sans danger une seconde ; si tu la laisses faire, quelques minutes plus tard, c'est un incendie qui ravage tout. | Gradation (seconde → minutes → incendie), peur | **Corriger** : la montée rapide est vraie ; « ravage tout » dramatise : la plupart des envies coûtent quelque chose, pas tout | Une seconde, elle paraît sans danger. Laisse-la faire, et quelques minutes plus tard, ça brûle. |
+| A-171 | Souvent, tu ne vois même pas que c'est toi qui as allumé le feu, parce que tu as pris l'habitude de te justifier : « Je suis comme ça, je n'y ai pas pensé, je n'ai pas pu l'éviter. » | Accusation (« c'est toi-même »), liste des excuses entendues | **Corriger** : la liste des excuses est juste et chacun s'y reconnaît ; « tu es habitué » s'accorde au masculin, et « c'est toi qui as allumé la flamme » accuse au lieu de faire voir | Et souvent, on a toute une phrase prête : « Je suis comme ça. Je n'y ai pas pensé. Je n'ai pas pu m'en empêcher. » |
+| A-172 | Mais en vérité, tu le pouvais. | Rupture, affirmation tranchée | **Corriger** : vrai dans beaucoup de cas, faux pour les addictions (alcool, jeu, produits) et les troubles alimentaires (T5) ; la phrase juste est « c'était difficile » | Souvent, c'était possible. Difficile, mais possible. |
+| A-173 à A-175 | Tu n'as simplement pas voulu ; tu t'es rendu sans combattre ; et chaque fois, tu deviens plus faible. | Honte, accusation de lâcheté, menace (« plus faible ») | **Jeter** : la partie la plus dure du texte (T5). C'est de la honte, c'est faux pour une addiction ou un trouble alimentaire, qui ne sont pas un manque de volonté, et ça pousse à se cacher au lieu de demander de l'aide | — |
+| A-176 | Obéir à l'impulsion, c'est le chemin le plus rapide pour perdre le contrôle de ta vie. | Superlatif, peur de perdre le contrôle | **Corriger** : « se soumettre » est à remplacer ; « le moyen le plus rapide de perdre ta vie » exagère. L'idée vraie : l'envie prend la place de la décision | Obéir à chaque envie, c'est laisser l'envie conduire ta journée. |
+| A-177 à A-178 | Je ne parle pas seulement de colère ou de décisions précipitées, mais du schéma silencieux qui te ramène toujours à ce qui te détruit. | Élargissement, mot dramatique (« te détruit ») | **Corriger** : le « schéma silencieux » est l'idée la plus juste de la leçon (on ne voit pas qu'on répète) ; « ce qui te détruit » dramatise | Je ne parle pas seulement de colère. Je parle de ce chemin silencieux qui te ramène, encore et encore, à ce qui te fait du mal. |
+| A-179 | Manger ce qui te fait du mal, dire ce que tu ne voulais pas dire, remettre à plus tard, retourner à ce qui t'a déjà brisé. | Liste concrète, reconnaissance | **Corriger** : la liste est concrète et forte ; mais « manger ce qui te fait mal » fait courir un risque à qui a un trouble alimentaire (on mange sans honte, et on demande un avis médical, T11), et « retourner à ce qui t'a brisé » peut être une relation qui fait mal ou violente : là, ce n'est pas qu'une question de volonté, on en parle à une personne de confiance ou à une ligne d'écoute | Dire ce que tu ne voulais pas dire. Remettre à demain ce que tu sais devoir faire aujourd'hui. Revenir vers ce qui t'a déjà fait du mal. |
+| A-180 | L'impulsion est un ennemi déguisé en besoin. | Image (le déguisement), formule courte | **Garder** : la formule est retenue dans T5 ; on garde le déguisement, sans faire de l'envie un « ennemi » à combattre | L'envie se déguise en besoin. |
+| A-181 | Elle te fait croire que tu en as besoin, que tu ne peux pas résister, que ça ne dépend pas de toi. | Triade, voix intérieure mise en scène | **Garder** : c'est exactement ce que dit l'envie, et l'entendre nommée aide à la reconnaître (T5, avec T3) | Elle te dit : « Tu en as besoin. Tu ne peux pas résister. » |
+| A-182 | Mais c'est un mensonge. | Rupture, phrase courte | **Corriger** : l'envie est réelle, et pour une addiction elle peut être très forte ; ce qui est faux, c'est « tu ne peux pas » | Elle exagère. Elle te dit « impossible » quand c'est seulement difficile. |
+
+**Ce que la partie enseigne vraiment** : une envie se présente comme un besoin et arrive avec son excuse toute prête (« je suis comme ça ») ; la reconnaître, c'est voir que c'était souvent difficile, pas impossible.
+
+**Les deux meilleures phrases** :
+- « L'envie se déguise en besoin. Elle te dit : "Tu en as besoin. Tu ne peux pas résister." » (A-180 à A-181)
+- « Et souvent, on a toute une phrase prête : "Je suis comme ça. Je n'y ai pas pensé. Je n'ai pas pu m'en empêcher." » (A-171, corrigée)
+
+**Un thème de script + une histoire à raconter à la personne qui écoute** : `« JE SUIS COMME ÇA » N'EST PAS UN FAIT` (T5, avec T3)
+Appelons-la Rokia, 38 ans, couturière dans un atelier du marché de Bamako : chaque fois qu'une cliente critique une couture, elle répond sec, et deux clientes fidèles ne sont plus revenues. « J'ai le sang chaud, je suis comme ça. » Un soir, son apprentie lui demande : « Tu es comme ça avec tout le monde, ou seulement le soir ? » Rokia ne répond pas tout de suite, puis dit : « Le soir. »
+Le déclic : elle reprend son cahier de commandes ; ses trois disputes du mois ont eu lieu après 19 h, sans avoir mangé depuis midi. Elle décide que le soir, elle note la remarque de la cliente et lui répond le lendemain matin. Fin honnête : elle s'est encore emportée une fois cette semaine ; deux fois, elle a attendu. Le geste avec la personne qui écoute : « Écris la phrase que tu te dis pour t'excuser. Et à côté, à quel moment de la journée elle revient. »
+
+---
+
+## Sous-partie 2 — Se gouverner, pas se punir (A-183 à A-199)
+
+| N° | Ce que la phrase veut dire | Le levier | Verdict | Version Mr Zika |
+|---|---|---|---|---|
+| A-183 | Le stoïcisme fait de la maîtrise de soi une des plus hautes vertus, non pour réprimer, mais parce que se gouverner est l'acte le plus puissant qui soit. | Autorité (le stoïcisme), superlatif | **Corriger** : la maîtrise de soi (la tempérance) fait bien partie des quatre vertus des stoïciens, et « pas la répression » est juste ; « l'acte le plus puissant » gonfle. On garde l'idée, sans guillemets ni citation | Pour les stoïciens, la maîtrise de soi est une des grandes vertus. Pas pour tout écraser en toi : pour te gouverner. |
+| A-184 | Quand tu cèdes à chaque impulsion, tu dis que ta volonté vaut moins que ton confort du moment. | Jugement, comparaison de valeur | **Corriger** : l'idée (le court terme passe devant ce qu'on veut vraiment) est vraie ; « tu dis que ta volonté vaut moins » juge la personne | Quand l'envie décide à chaque fois, c'est le confort de la minute qui passe avant ce que tu veux vraiment. |
+| A-185 | Tu confies les clés de ta vie à quelque chose qui dure quelques secondes. | Image (les clés), contraste de durée | **Garder** : une des phrases retenues dans T5 ; on dit « quelques minutes », plus juste pour une envie | Tu donnes les clés de ta journée à quelque chose qui dure quelques minutes. |
+| A-186 | Et chaque fois, tu perds un peu de respect pour toi, parce que tu sais que tu te trahis, et rien n'est plus frustrant que de ne pas pouvoir te faire confiance. | Honte (« tu perds du respect »), trahison | **Corriger** : « tu perds du respect pour toi-même » culpabilise (T5) ; la confiance en soi qui s'use quand on se fait faux bond est vraie (T6) | Et chaque fois que tu te fais faux bond, tu te fais un peu moins confiance. |
+| A-187 | La psychologie l'explique clairement. | Autorité vague | **Jeter** : aucune source, aucun contenu ; une autorité invoquée pour faire croire la suite | — |
+| A-188 | L'impulsion vient du cerveau le plus primitif, du besoin de plaisir immédiat. | Fausse précision scientifique (« le cerveau primitif ») | **Corriger** : le goût du plaisir immédiat est réel ; le « cerveau primitif » simplifie trop (T5) | Une partie de toi veut le plaisir tout de suite. C'est humain. |
+| A-189 à A-190 | Mais la partie qui réfléchit et décide est là aussi ; elle a seulement besoin de pratique, d'entraînement, de pause. | Espoir, triade (pratique, entraînement, pause) | **Garder** : juste, et lié à la seconde avant de répondre (T4) | Et une autre partie de toi sait réfléchir. Elle a besoin d'entraînement. Et d'une pause. |
+| A-191 | Personne ne naît avec la maîtrise de soi. | Vérité générale, déculpabilisation | **Garder** | Personne ne naît en sachant se maîtriser. Ça s'apprend. |
+| A-192 | Elle se construit dans les moments inconfortables, quand tout en toi crie, et que tu décides de ne pas bouger, ou de bouger dans une autre direction. | Scène intérieure, alternative | **Garder** : concret, et la nuance « ou de bouger ailleurs » est précieuse (on ne fait pas que résister, on fait autre chose) | Ça se construit dans les moments inconfortables. Quand tout en toi crie « vas-y », et que tu restes. Ou que tu pars dans une autre direction. |
+| A-193 à A-194 | La bonne direction : la plus difficile, celle qui te rend le plus fort. | Morale (« la bonne »), règle « le plus dur = le mieux » | **Corriger** : « le plus difficile est toujours le meilleur » est faux (se reposer, demander de l'aide peuvent être le bon choix, T7) ; ce qui compte, c'est que ce soit ton choix | Celle que tu as choisie. Pas celle que l'envie a choisie pour toi. |
+| A-195 à A-196 | Ne plus obéir à l'impulsion, ce n'est pas devenir une machine froide, c'est être un être humain qui a du caractère. | Négation d'une crainte, contraste machine / humain | **Corriger** : la phrase rassure bien (on ne demande pas de ne rien ressentir) ; « te soumettre » est à remplacer | Ne plus obéir à chaque envie, ce n'est pas devenir une machine. C'est rester humain, avec du caractère. |
+| A-197 | C'est agir depuis la conscience, pas depuis l'habitude. | Contraste conscience / habitude | **Garder** | C'est agir parce que tu l'as choisi. Pas parce que c'est l'habitude. |
+| A-198 | Si tu ne casses pas ce schéma, tu tourneras en rond toute ta vie, avec les mêmes erreurs et les mêmes culpabilités, et tu finiras par croire que c'est ton identité. | Menace (« toute ta vie »), identité | **Corriger** : « tu passeras ta vie à tourner en rond » fait peur ; l'idée finale est la plus juste (une habitude répétée finit par passer pour un caractère, T2) | Le même geste répété, la même culpabilité, et un jour tu crois que c'est ton caractère. |
+| A-199 | Alors que ce n'est qu'une mauvaise habitude. | Recadrage, déculpabilisation | **Garder** : retenue dans T5 ; on précise que l'alcool, le jeu ou un produit, c'est plus qu'une habitude : on en parle à un médecin, sans honte | Ce n'est pas qui tu es. C'est une habitude. Et une habitude, ça se travaille. |
+
+**Ce que la partie enseigne vraiment** : la maîtrise de soi ne se reçoit pas à la naissance et ne consiste pas à tout écraser : elle s'entraîne, dans les moments inconfortables, et ce qu'on prend pour son caractère n'est souvent qu'une habitude répétée.
+
+**Les deux meilleures phrases** :
+- « Ce n'est pas qui tu es. C'est une habitude. Et une habitude, ça se travaille. » (A-199)
+- « Tu donnes les clés de ta journée à quelque chose qui dure quelques minutes. » (A-185)
+
+**Un thème de script + une histoire à raconter à la personne qui écoute** : `CE N'EST PAS TON CARACTÈRE` (T5, avec T2)
+Appelons-le Yao, 24 ans, étudiant en BTS à Lomé, qui travaille le soir dans un cybercafé : son mémoire n'avance pas, et il le dit à tout le monde : « Je suis quelqu'un qui remet tout à demain. » Sa cousine Délali lui demande : « Depuis quand tu es "quelqu'un qui remet" ? » Il répond : « Depuis toujours. »
+Le déclic : le soir même, il regarde le temps d'écran de son téléphone : il a ouvert l'application de vidéos quarante et une fois, presque toujours juste après avoir ouvert son document. Ce n'est pas « toujours », c'est un geste, à un moment précis. Il décide de laisser le téléphone au comptoir vingt-cinq minutes après l'ouverture du document. Fin honnête : certains soirs, il va le rechercher ; mais le mémoire avance d'une page par soir. Le geste avec la personne qui écoute : « Le geste que tu appelles "mon caractère", à quel moment de la journée revient-il ? Note-le ce soir. »
+
+---
+
+## Sous-partie 3 — Ressentir sans obéir (A-200 à A-214)
+
+| N° | Ce que la phrase veut dire | Le levier | Verdict | Version Mr Zika |
+|---|---|---|---|---|
+| A-200 | La neuroscience le confirme aussi. | Autorité scientifique vague | **Jeter** : aucune source ; même défaut que A-187 | — |
+| A-201 | Chaque fois que tu ne cèdes pas à l'impulsion, tu renforces les connexions neuronales du contrôle de soi. | Fausse précision (« connexions neuronales ») | **Corriger** : qu'une chose répétée devienne plus facile est vrai ; le mécanisme cérébral annoncé en dit plus que ce qu'on sait (même défaut que A-056, A-057, T4) | Chaque fois que tu laisses passer une envie, la fois suivante est souvent un peu plus facile. |
+| A-202 | Tu apprends à ton cerveau que tous les désirs ne méritent pas une réponse. | Apprentissage, formule | **Garder** : c'est T5 en une phrase | Tu apprends que toutes les envies ne demandent pas une réponse. |
+| A-203 | Tu peux avoir une faim émotionnelle et ne pas la nourrir. | Image (la faim), opposition | **Corriger** : l'idée (le besoin de réconfort n'oblige pas à manger) est juste et retenue dans T5 ; dite comme ça, elle peut pousser quelqu'un qui a un trouble alimentaire à se priver. On mange sans honte ; si la nourriture devient une lutte, on demande un avis médical (T11) | Tu peux avoir besoin de réconfort, et lui répondre autrement qu'en mangeant. |
+| A-204 | Tu peux ressentir de la colère et ne pas agir à partir d'elle. | Opposition (ressentir / agir) | **Garder** : juste ; et si la colère donne envie de frapper ou de casser, on sort de la pièce et on appelle quelqu'un (T13) | Tu peux être en colère, et ne pas agir sous la colère. |
+| A-205 | Tu peux avoir peur et avancer quand même. | Opposition, courage | **Garder** | Tu peux avoir peur, et avancer quand même. |
+| A-206 | C'est la différence entre quelqu'un qui se contrôle et quelqu'un qui se soumet. | Deux camps (« se contrôle » / « se soumet »), identité | **Corriger** : « se soumet » est un mot qui déclenche la modération, et la phrase range les gens en deux sortes ; le vrai, ce sont des moments | Il n'y a pas deux sortes de gens. Il y a des moments où tu choisis, et des moments où l'envie choisit. |
+| A-207 | Ce n'est pas que le premier ne ressent rien, c'est qu'il choisit. | Contraste, nuance | **Garder** : le cœur de T4 et T5 (on ressent tout, on choisit la suite) | Tu ressens tout. Mais c'est toi qui choisis la suite. |
+| A-208 | Et ce pouvoir de choisir change tout. | Promesse (« tout ») | **Corriger** : « change tout » promet trop | Et ce choix-là change beaucoup de choses. |
+| A-209 | Ne te cache plus derrière « je n'ai pas pu l'éviter ». | Impératif, phrase-titre | **Garder** : le titre réel de la leçon | Arrête de te cacher derrière « je n'ai pas pu m'en empêcher ». |
+| A-210 | Tu peux, c'est juste que c'est difficile. | Recadrage, vérité simple | **Garder** : la phrase à garder de toute la leçon (T5) | Tu peux. C'est juste difficile. |
+| A-211 | C'est juste que c'est inconfortable. | Répétition (« c'est juste que ») | **Garder** | C'est juste inconfortable. |
+| A-212 | C'est juste que ça demande une force que personne ne te donnera de l'extérieur. | Solitude (« personne »), exigence | **Corriger** : la phrase est **dangereuse** pour qui est déjà au bord (T1) : elle interdit l'aide. Personne ne fait l'effort à ta place, mais on a le droit d'être aidé pour le faire | Cette force, personne ne peut la construire à ta place. Mais tu as le droit de te faire aider pour la construire. |
+| A-213 | Tu dois la construire toi-même, avec chaque impulsion que tu affrontes et que tu ne suis pas. | Obligation (« tu dois »), répétition | **Corriger** : « une fois après l'autre » est juste (T5) ; « toi-même » prolonge la solitude de A-212 | Elle se construit une envie à la fois. Une fois après l'autre. |
+| A-214 | Chaque fois, tu ne fais pas que vaincre un désir : tu montres que tu es le maître, que ta vie a une direction, que tu n'es plus prêt à te détruire pour un moment de soulagement. | Identité (« le maître »), gradation, mot dramatique | **Corriger** : « le maître » est à remplacer (T4) et « prêt » s'accorde au masculin ; « un moment de soulagement » est l'image juste : le prix payé pour cinq minutes | Chaque envie que tu laisses passer te rappelle que ta vie a une direction. Et qu'un soulagement de cinq minutes ne la décide pas. |
+
+**Ce que la partie enseigne vraiment** : ressentir une envie, une colère ou une peur ne t'oblige pas à lui obéir ; « je n'ai pas pu » veut souvent dire « c'était difficile », et cette force-là se construit une fois après l'autre, avec le droit d'être aidé.
+
+**Les deux meilleures phrases** :
+- « Tu peux. C'est juste difficile. » (A-210)
+- « Tu ressens tout. Mais c'est toi qui choisis la suite. » (A-207)
+
+**Un thème de script + une histoire à raconter à la personne qui écoute** : `TU PEUX. C'EST JUSTE DIFFICILE.` (T5, avec T1)
+Appelons-la Aïcha, 33 ans, agente d'entretien dans un hôpital de Bruxelles, née à Niamey : chaque soir après sa garde, dans le tram, elle ouvre une application d'achats et commande « un petit truc pour se calmer » ; le 30 du mois, il manque l'argent qu'elle envoie à sa mère. Elle dit à sa collègue Brigitte : « Je n'ai pas pu m'en empêcher. » Brigitte lui demande : « Tu n'as pas pu, ou c'était dur ? » Aïcha réfléchit, puis répond : « C'était dur. »
+Le déclic : elle relit ses commandes ; toutes passées entre 22 h et minuit, épuisée, et l'envie ne durait que le temps du trajet. Elle supprime l'application et, dans le tram, elle appelle sa sœur dix minutes à la place. Fin honnête : une commande encore ce mois-ci ; mais l'argent pour sa mère est parti le 30. Le geste avec la personne qui écoute : « La prochaine fois que l'envie arrive, attends dix minutes et regarde si elle est encore là. Et si c'est l'alcool, le jeu ou un produit, ce n'est pas un manque de volonté : parles-en à un médecin, sans honte. »
+
+---
+
+## Les thèmes de scripts les plus forts de la partie 5
+
+1. **`TU PEUX. C'EST JUSTE DIFFICILE.`** (T5, avec T1 ; A-209, A-210, A-211, A-212 corrigée, A-213 corrigée, A-185). Le plus fort de la leçon : il retourne l'excuse (« je n'ai pas pu ») sans faire honte, et il démonte au passage la phrase la plus risquée (« personne ne te donnera cette force »). Histoire : Aïcha, l'agente d'entretien, et « Tu n'as pas pu, ou c'était dur ? ». La phrase d'aide pour les addictions est dite en entier.
+2. **`L'ENVIE SE DÉGUISE EN BESOIN`** / **`« JE SUIS COMME ÇA » N'EST PAS UN FAIT`** (T5, avec T3 ; A-169, A-171 corrigée, A-180, A-181, A-182 corrigée). Une image filmable (l'étincelle, le déguisement) et l'excuse que chacun connaît par cœur. Histoire : Rokia, la couturière de Bamako, et « Seulement le soir ? ». À tenir distinct des scripts sur la pause (T4) : ici, l'angle est l'excuse, pas la seconde.
+3. **`CE N'EST PAS TON CARACTÈRE`** (T5, avec T2 ; A-191, A-192, A-198 corrigée, A-199). Ce qu'on prend pour son identité n'est souvent qu'un geste répété à un moment précis. Histoire : Yao, l'étudiant de Lomé, et les quarante et une ouvertures de l'application.
+
+## Les phrases jetées les plus dangereuses
+
+1. **A-173 à A-175, « Tu n'as simplement pas voulu. Tu as choisi de te rendre sans combattre. Et chaque fois que tu le fais, tu deviens plus faible. »** La phrase la plus dure de tout le texte (T5). Pour quelqu'un qui lutte contre l'alcool, le jeu, un produit ou un trouble alimentaire, elle transforme une maladie en lâcheté et pousse à se cacher au lieu de consulter. À démonter : « Ce n'est pas que tu n'as pas voulu. C'était difficile. Et si c'est plus fort que toi depuis longtemps, ce n'est pas un manque de volonté : parles-en à un médecin, sans honte. »
+2. **A-187 et A-200, « La psychologie l'explique clairement » / « La neuroscience le confirme également ».** Moins blessantes, mais c'est le levier à apprendre à reconnaître : une science invoquée sans source pour faire passer une affirmation. À démonter : « Quand quelqu'un te dit "la science le prouve", demande : quelle étude ? »
+3. **A-167, « 4 ».** Sans danger ; jeté parce que le modèle du compte ne numérote pas les leçons dans la voix.
+
+À surveiller aussi, parmi les phrases corrigées : **A-212** (« une force que personne ne te donnera de l'extérieur » : la phrase la plus dangereuse de la leçon, déjà repérée dans T1 ; on ajoute le droit d'être aidé), **A-172** et **A-182** (« tu le pouvais », « c'est un mensonge » : faux pour une addiction), **A-186** (« tu perds du respect pour toi-même » : la honte), **A-203** et **A-179** (la « faim émotionnelle » et « manger ce qui te fait mal » : risque pour qui a un trouble alimentaire), **A-168, A-176, A-195, A-206** (« se soumettre » : mot qui déclenche la modération), **A-214** (« le maître », « prêt » accordé au masculin), et **A-201** (« les connexions neuronales » : la science gonflée).
