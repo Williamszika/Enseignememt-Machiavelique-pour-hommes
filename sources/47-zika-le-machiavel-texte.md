@@ -7,7 +7,7 @@ Le texte complet (transcription de quatre vidéos d'une chaîne de « séduction
 - les « neuf failles » : la machine à sous, la validation au compte-gouttes, l'incertitude, la peur d'être abandonnée, pour créer « une addiction » ;
 - le « système des quatre piliers » pour qu'elle « soit détruite sous le poids du regret ».
 
-Rien de tout cela n'est repris. C'est exactement ce que la rubrique dénonce quand une femme le fait à un homme, et c'est aussi grave dans l'autre sens.
+Rien de tout cela n'est repris. Le Patron a ajouté le 22 novembre, pour toute la rubrique : jamais « elle va te supplier », jamais répondre exprès deux heures plus tard, jamais jouer l'imprévisible pour sa « dopamine », jamais « les femmes te testent » ni le « cerveau reptilien », jamais la citation de la fortune qu'il faut « battre et frapper » dite mot pour mot (voir `contenus/videos/zika-le-machiavel/README.md`, lignes rouges). C'est exactement ce que la rubrique dénonce quand une femme le fait à un homme, et c'est aussi grave dans l'autre sens.
 
 | Vidéo | Sujet | Phrases reprises (version juste) | Ce qu'on ne reprend pas |
 |---|---|---|---|

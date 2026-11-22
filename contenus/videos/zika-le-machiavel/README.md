@@ -84,6 +84,12 @@ Le texte reste en français clair : la couleur est dans le rythme et dans quelqu
 
 - **Machiavel pour de vrai** : chapitre à l'appui, aucune citation inventée attribuée à une personne réelle. Seul Mr Zika peut avoir des citations inventées.
 - **Pas de technique de manipulation** à appliquer à une compagne, à la famille ou aux proches : pas de chaud/froid, pas de silence pour punir, pas de jalousie provoquée. Le Machiavel de Mr Zika apprend à **voir** les jeux de pouvoir et à **ne pas se faire avoir**, pas à écraser les siens. Machiavel lui-même dit « craint, mais jamais haï » (ch. XVII).
+- **Jamais dans un épisode** (liste du Patron, 22 novembre 2026) :
+  - « elle va te supplier » (ni « à genoux », ni aucune promesse qu'elle rampe) ;
+  - répondre exprès deux heures plus tard, ou n'importe quel délai calculé pour la faire attendre ;
+  - jouer l'imprévisible pour sa « dopamine » (chaud/froid, validation au compte-gouttes, « machine à sous ») ;
+  - « les femmes te testent » et le « cerveau reptilien » (fausse science, et c'est « toutes les femmes ») ;
+  - la citation sur la fortune qu'il faut « battre et frapper » (ch. XXV), dite mot pour mot : allégorie du destin, jamais citée sur les femmes. L'idée vraie se dit sans ces mots : face à l'incertain, mieux vaut oser qu'attendre.
 - **Pas de « toutes les femmes »**, pas de mépris : l'homme à qui il parle respecte les femmes.
 - **Pas de mot qui déclenche la modération** dans le titre ou la légende : soumission, dominée, dresser, utilisée.
 - **Aucun visage d'enfant, et rien d'une personne réelle sans son accord.**
