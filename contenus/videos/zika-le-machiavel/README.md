@@ -107,6 +107,9 @@ Le texte reste en français clair : la couleur est dans le rythme et dans quelqu
   - répondre exprès deux heures plus tard, ou n'importe quel délai calculé pour la faire attendre ;
   - jouer l'imprévisible pour sa « dopamine » (chaud/froid, validation au compte-gouttes, « machine à sous ») ;
   - « les femmes te testent » et le « cerveau reptilien » (fausse science, et c'est « toutes les femmes ») ;
+  - les « 5 blessures » : se servir de l'absence de son père, d'une trahison, de la négligence, de la honte, ou d'un abus qu'elle a subi, pour qu'elle « te supplie à genoux » ;
+  - les « 9 failles » : la machine à sous, la validation au compte-gouttes, la peur d'être abandonnée, pour créer une « addiction » ;
+  - la « vengeance » : vouloir qu'elle « soit détruite sous le poids du regret », poster des photos avec d'autres femmes pour qu'elle les voie, répondre exprès des jours plus tard ;
   - la citation sur la fortune qu'il faut « battre et frapper » (ch. XXV), dite mot pour mot : allégorie du destin, jamais citée sur les femmes. L'idée vraie se dit sans ces mots : face à l'incertain, mieux vaut oser qu'attendre.
 - **Pas de « toutes les femmes »**, pas de mépris : l'homme à qui il parle respecte les femmes.
 - **Pas de mot qui déclenche la modération** dans le titre ou la légende : soumission, dominée, dresser, utilisée.
