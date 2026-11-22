@@ -1,0 +1,457 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-30",
+ "title": "Ses petites piques ne sont pas un jeu",
+ "output": "zm_30_ses_petites_piques_ne_sont_pas_un_jeu.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Biétry studio apartment, lagoon-side café), soft screen glow and warm evening light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 130,
+ "character": "a 28-year-old Ivorian man, dark skin, short twists, wearing a black hoodie with headphones around his neck, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "SES PETITES PIQUES NE SONT PAS UN JEU",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "ELLE TE COMPLIMENTE. PUIS ELLE TE RABAISSE. ET TU RIS.",
+   "segments": [
+    {
+     "text": "Mon frère… elle te complimente, et dans la même phrase, elle te rabaisse. Et tu ris.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "rabaisse",
+      "tu ris"
+     ]
+    },
+    {
+     "text": "Si demain elle te dit « c'est joli… pour un amateur »… tu vas encore rire ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "amateur"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Kévin peut te rendre ta place.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a laptop screen glowing in a dark room showing an abstract colourful logo draft, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "keyboard typing",
+      "vol": 0.1,
+      "q": "keyboard typing"
+     }
+    },
+    {
+     "prompt": "a forced smile suggested by a man's jaw in deep shadow, profile, blurred",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "evening traffic in Abidjan with distant music",
+      "at": "start",
+      "vol": 0.18,
+      "q": "evening traffic"
+     }
+    },
+    {
+     "text": "J'ai un ami, Kévin. Un garçon talentueux. Il est graphiste à Biétry.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Alice.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque compliment d'Alice a une queue.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "une queue"
+     ]
+    },
+    {
+     "text": "« Ton affiche est belle. Dommage que personne ne la voie. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Kévin rit. Faut pas fâcher. C'est pour rire, non ?",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short twists, wearing a black hoodie with headphones around his neck, seen from behind or in profile, face never sharp, working at a desk with a drawing tablet in a small Biétry apartment, screen glow",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "printed posters pinned on a wall, colourful abstract shapes, no readable text, close-up",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short twists, wearing a black hoodie with headphones around his neck, seen from behind or in profile, face never sharp, laughing on a sofa, a woman's blurred silhouette beside him, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un jour, Alice l'accompagne chez un gros client.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le client le félicite. Alice sourit : « Il est doué… quand il finit à l'heure. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "à l'heure"
+     ]
+    },
+    {
+     "text": "Le client rit. Le contrat ne vient jamais.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Kévin a honte. Mais il ne dit rien.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "À son anniversaire, devant ses amis, Alice lui offre une tasse.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "tasse"
+     ]
+    },
+    {
+     "text": "Dessus : « Graphiste du dimanche ».",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Un ami : « On dit quoi, graphiste du dimanche ? » Tout le monde rit. Kévin aussi.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a café table by the lagoon with a laptop open toward a client in a suit seen from behind, coffee cups, daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "café ambience with cups",
+      "vol": 0.12,
+      "q": "cafe ambience"
+     }
+    },
+    {
+     "prompt": "a businessman's hand closing a folder and pushing it aside, close-up",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a birthday party in an apartment, friends seen from behind, balloons, warm light, no faces",
+     "motion": "push_in",
+     "foley": {
+      "text": "party laughter",
+      "vol": 0.14,
+      "q": "party laughter"
+     }
+    },
+    {
+     "prompt": "a white ceramic mug held up in a hand, its printed side turned away from camera, close-up, party lights",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, la tasse est sur son bureau.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque compliment avait sa pique. Chaque fois qu'il riait, la pique suivante était plus forte.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "plus forte"
+     ]
+    },
+    {
+     "text": "Ce n'était pas de l'humour. C'était le rendre petit, en souriant.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "petit"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a white mug alone on a desk next to a glowing laptop at night, printed side away from camera, chiaroscuro",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short twists, wearing a black hoodie with headphones around his neck, seen from behind or in profile, face never sharp, sitting still in front of his desk at night, seen from behind, screen light",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il range la tasse dans un carton. Il lui dit, calme : « Si tu veux me dire quelque chose, dis-le franchement. Mais les piques déguisées en blague, c'est fini. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "franchement"
+     ]
+    },
+    {
+     "text": "Elle boude une semaine. Les piques reviennent, plus rares. Il les nomme, une phrase, pas plus.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ce n'est pas réglé. Mais il ne rit plus quand ça fait mal.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "hands placing a white mug into a cardboard box, morning light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short twists, wearing a black hoodie with headphones around his neck, seen from behind or in profile, face never sharp, standing in his kitchen talking calmly, seen from behind, a woman's blurred silhouette facing him",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une tasse lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, Biétry rooftops and the lagoon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Quand elle se moque de toi devant les autres… tu ris pour qui ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a dinner table with friends laughing seen from behind, one empty chair turned away, warm light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière pique qui t'a fait mal.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a balcony at night, city lights below, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Une pique, une fois, c'est une maladresse. Toutes les semaines, c'est une habitude.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "habitude"
+     ]
+    },
+    {
+     "text": "Tu ne rends pas la pique. Pas de scène. Tu dis : « Ça, c'était une pique. Dis-le franchement. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Et ce soir, regarde si tu ris parce que c'est drôle… ou pour ne pas déranger.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : pour n'être pas méprisé, le prince montre dans ses actes de la gravité… et de la force.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "méprisé"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short twists, wearing a black hoodie with headphones around his neck, seen from behind or in profile, face never sharp, back at work at his desk, focused, daylight through the window",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : un homme qui rit de ce qui le blesse… on finit par ne plus le prendre au sérieux.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors arrête de rire quand ça fait mal. Et reprends ta place à table !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ta place"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man pulling out a chair and sitting down firmly at a table, close-up on hands, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas que la blague devienne ton nom.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short twists, wearing a black hoodie with headphones around his neck, seen from behind or in profile, face never sharp, walking along the lagoon in Biétry at sunrise, laptop bag on his shoulder, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Dis-le franchement",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Dis-le franchement ».",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Dis-le franchement"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui rit toujours quand on se moque de lui.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel te parle franc.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a closed cardboard box on a shelf, morning light, nobody visible",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Une blague qui te rabaisse chaque semaine n'est plus de l'humour. C'est un message.",
+  "author": "Mr Zika"
+ }
+}

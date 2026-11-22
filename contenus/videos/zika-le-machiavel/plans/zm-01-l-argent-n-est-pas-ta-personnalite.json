@@ -1,0 +1,474 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-01",
+ "title": "L'argent n'est pas ta personnalité",
+ "output": "zm_01_l_argent_n_est_pas_ta_personnalite.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Yopougon street garage, Cocody restaurant, Ébrié lagoon at sunset), warm golden light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 101,
+ "character": "a 30-year-old Ivorian man, dark skin, short hair, wearing grey mechanic overalls with grease stains, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "L'ARGENT N'EST PAS TA PERSONNALITÉ",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "SI ON T'ENLÈVE TON ARGENT, QU'EST-CE QUI RESTE ?",
+   "segments": [
+    {
+     "text": "Mon frère… si on t'enlève ton argent, qu'est-ce qui reste de toi ?",
+     "pause_after": 0.7,
+     "emphasis": [
+      "qu'est-ce qui reste"
+     ]
+    },
+    {
+     "text": "Si demain ton portefeuille est vide… elle aurait encore envie de t'écouter ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "vide"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Landry peut te sauver ton mois.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an empty open wallet on a dark table, close-up, cold light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a restaurant bill folder placed on a table, a hand hesitating over it, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Yopougon street with gbaka horns and engines",
+      "at": "start",
+      "vol": 0.2,
+      "q": "street traffic horns"
+     }
+    },
+    {
+     "text": "J'ai un ami, Landry. Un bon gars. Il est mécanicien à Yopougon.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Odette.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Landry croit qu'un homme se montre avec l'argent. Alors il paie tout, pour tout le monde.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "paie tout"
+     ]
+    },
+    {
+     "text": "Il parle prix. « Ce plat, c'est quinze mille. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Odette sourit. Mais elle ne sait toujours pas qui il est.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "qui il est"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing grey mechanic overalls with grease stains, seen from behind or in profile, face never sharp, working on an engine in a small Yopougon street garage, tools on the ground, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "wrench on metal",
+      "vol": 0.12,
+      "q": "wrench metal"
+     }
+    },
+    {
+     "prompt": "a man's wrist with a shiny watch resting on a restaurant table, close-up, warm light",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pour son anniversaire, il emprunte à son patron et invite ses copines au restaurant, à Cocody.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "L'addition : quatre-vingt-cinq mille.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "quatre-vingt-cinq mille"
+     ]
+    },
+    {
+     "text": "Son transfert ne passe pas. Le serveur attend, debout.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Odette paie la moitié, sans un mot.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Landry a honte. Il a gâté son nom devant tout le monde.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "gâté son nom"
+     ]
+    },
+    {
+     "text": "Le samedi suivant, Odette passe au garage sans prévenir.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Landry est sous un gbaka, plein de cambouis. Il veut se cacher.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle s'assoit sur un pneu, le regarde travailler, pose des questions.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "En partant : « Au restaurant, tu parlais de prix. Ici, tu parles de toi. »",
+     "pause_after": 1.0,
+     "emphasis": [
+      "tu parles de toi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an elegant restaurant table in Cocody at night with many plates and glasses, women seen from behind looking at their phones, warm light, no faces",
+     "motion": "push_in",
+     "foley": {
+      "text": "restaurant ambience cutlery",
+      "vol": 0.12,
+      "q": "restaurant ambience"
+     }
+    },
+    {
+     "prompt": "a waiter standing still beside a table holding a payment terminal, seen from the waist down, close-up",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a woman's hand placing banknotes on a bill folder, close-up, no face",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a young woman seen from behind sitting on an old tyre in a street garage, watching a man under a minibus, afternoon light",
+     "motion": "push_in",
+     "foley": {
+      "text": "garage tools clinking",
+      "vol": 0.1,
+      "q": "tools clink"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il ressort le ticket du restaurant.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "ticket"
+     ]
+    },
+    {
+     "text": "Deux semaines de travail.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et il ne se souvient de rien de ce qu'elle a dit.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il ne lui offrait pas sa présence. Il lui montrait sa facture.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "sa facture"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a crumpled restaurant receipt unfolded under a lamp, no readable text, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing grey mechanic overalls with grease stains, seen from behind or in profile, face never sharp, sitting on the edge of his bed at night, holding a small paper, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il commence à rembourser son patron. Il appelle Odette : « Samedi, coucher de soleil sur la lagune et un garba. C'est ce que j'ai. Et j'ai envie de te parler. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "envie de te parler"
+     ]
+    },
+    {
+     "text": "Elle vient. Ils parlent trois heures.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Rien n'est gagné. Mais cette fois, il sait qu'elle vient pour lui.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "pour lui"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two plates of garba on a simple wooden table by the lagoon, sunset light, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "lagoon water lapping",
+      "vol": 0.12,
+      "q": "water lapping"
+     }
+    },
+    {
+     "prompt": "two silhouettes sitting side by side facing the Ébrié lagoon at sunset, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un vieux pneu lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at the entrance of a garage at dawn, Yopougon street empty",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Quand tu sors avec elle… c'est toi qu'elle rencontre, ou ton portefeuille ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a wallet alone on a café chair, the other chair empty, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à ta dernière sortie. Ce qu'elle t'a dit, pas ce que tu as payé.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on an old tyre in a closed garage at dusk, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… l'argent, c'est un outil dêh. C'est pas ta personnalité.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "outil"
+     ]
+    },
+    {
+     "text": "Celui qui paie tout pour impressionner ne saura jamais si on l'aime, lui, ou son addition.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Propose une sortie simple, sans t'excuser. Pas « désolé, c'est pas grand-chose ». Tu dis : « J'ai une idée pour samedi. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "J'ai une idée pour samedi"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre seize du Prince : mieux vaut accepter le nom d'économe… que se ruiner pour paraître généreux.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "économe"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing grey mechanic overalls with grease stains, seen from behind or in profile, face never sharp, wiping his hands on a rag and smiling toward someone off-frame, profile, blurred, daylight",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : on ne se souvient pas de ce que tu as payé. On se souvient de qui tu étais.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors range ton portefeuille. Et montre l'homme qu'il y a derrière !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "l'homme"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sliding his wallet into his back pocket and stepping forward, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'un serveur debout à ta table te le rappelle.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing grey mechanic overalls with grease stains, seen from behind or in profile, face never sharp, walking down a Yopougon street at sunrise, a toolbox in his hand, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "J'ai une idée pour samedi",
+   "segments": [
+    {
+     "text": "Écris en commentaire « J'ai une idée pour samedi ».",
+     "pause_after": 0.5,
+     "emphasis": [
+      "J'ai une idée pour samedi"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui paie toujours pour toute la table.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel t'attend, d'homme à homme.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two empty chairs facing the lagoon at sunset, a simple table between them, nobody visible",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Ton argent peut payer la table. Il ne peut pas parler à ta place.",
+  "author": "Mr Zika"
+ }
+}

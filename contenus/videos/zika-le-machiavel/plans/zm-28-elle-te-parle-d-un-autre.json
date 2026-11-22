@@ -1,0 +1,481 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-28",
+ "title": "Elle te parle d'un autre ? Tu ne rentres pas dans la course",
+ "output": "zm_28_elle_te_parle_d_un_autre.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Zone 4 barbershop, Assinie beach road), warm neon and soft daylight, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 128,
+ "character": "a 33-year-old Ivorian man, dark skin, neat short haircut with a sharp line, wearing a black barber apron over a white t-shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "TU NE RENTRES PAS DANS LA COURSE",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "ELLE TE PARLE D'UN AUTRE. ET TOI, TU COURS.",
+   "segments": [
+    {
+     "text": "Mon frère… elle te parle d'un autre homme. Et toi, tu cours déjà.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "autre",
+      "cours"
+     ]
+    },
+    {
+     "text": "Si demain elle te dit « lui, il m'invite à Assinie »… tu fais quoi ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Assinie"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Ange peut t'éviter de courir contre une ombre.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone on a barber's counter lighting up with a message, blurred hair clippers around, close-up, night neon",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone notification ping",
+      "vol": 0.16,
+      "q": "notification"
+     }
+    },
+    {
+     "prompt": "the shadow of a man stretched on a tiled floor, a second empty shadow beside it, dramatic light",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Abidjan street with car horns and distant music",
+      "at": "start",
+      "vol": 0.2,
+      "q": "city street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Ange. Un homme sérieux. Il est barbier en Zone 4.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Pélagie.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque semaine, elle lui parle d'un autre.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Un monsieur au bureau m'envoie des fleurs. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ange ne demande pas qui. Il paie. Un sac. Un parfum. Toujours plus.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Toujours plus"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, neat short haircut with a sharp line, wearing a black barber apron over a white t-shirt, seen from behind or in profile, face never sharp, trimming a client's hair in a small Zone 4 barbershop, mirrors, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "hair clippers buzzing",
+      "vol": 0.12,
+      "q": "hair clipper"
+     }
+    },
+    {
+     "prompt": "a gift bag and a perfume box on a counter, a hand sliding money next to them, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, neat short haircut with a sharp line, wearing a black barber apron over a white t-shirt, seen from behind or in profile, face never sharp, sitting alone after closing time, staring at his phone, profile, neon light",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un samedi, le salon est plein.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Pélagie entre, devant tous les clients : « On m'invite à Assinie. Toi, tu proposes quoi ? »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Un vieux client rigole : « Ange, on dit quoi ? Ton rival t'attend ! »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "rival"
+     ]
+    },
+    {
+     "text": "Ange sourit. Faut pas fâcher. Mais il a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le lundi, il vend sa meilleure tondeuse pour payer deux nuits à Assinie.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "tondeuse"
+     ]
+    },
+    {
+     "text": "Le vendredi, Pélagie annule.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« L'autre m'emmène à San-Pedro. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Ange regarde l'étagère. La place de la tondeuse est vide.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "vide"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a crowded barbershop on a Saturday, men waiting on a bench, seen from the doorway, a young woman's silhouette entering, back view, no faces",
+     "motion": "push_in",
+     "foley": {
+      "text": "barbershop chatter and laughter",
+      "vol": 0.14,
+      "q": "crowd laughter"
+     }
+    },
+    {
+     "prompt": "an older man laughing on a waiting bench, seen from behind, blurred",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a hand handing a professional hair clipper over a counter to a buyer, money exchanged, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an empty spot on a barbershop shelf between bottles and combs, dust outline where a clipper was, close-up, cold light",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il compte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Huit mois. Huit rivaux. Il n'en a jamais vu un seul.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "jamais vu"
+     ]
+    },
+    {
+     "text": "Celui qui payait ? Lui. Celui qui était là ? Lui.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Il n'était pas en couple. Il était en course.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "course"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, neat short haircut with a sharp line, wearing a black barber apron over a white t-shirt, seen from behind or in profile, face never sharp, sitting on the edge of his bed at night, counting on his fingers, seen from behind, lamp light",
+     "motion": "static"
+    },
+    {
+     "prompt": "an empty running track at night under a single floodlight, nobody on it",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il lui dit calmement : « Je ne suis pas dans une course. Si tu veux être avec moi, sois avec moi. Si tu hésites, va voir. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle claque la porte. Elle ne revient pas.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il rachète une tondeuse, petit à petit. Et il est libre.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "libre"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a door closing in a small apartment, seen from inside, morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "door closing",
+      "vol": 0.15,
+      "q": "door close"
+     }
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, neat short haircut with a sharp line, wearing a black barber apron over a white t-shirt, seen from behind or in profile, face never sharp, working again in his barbershop with a new clipper, laughing with a client seen from behind, daylight",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une étagère vide lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette standing at the door of a barbershop at dawn, Zone 4 street empty",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tu te bats pour elle… ou contre un homme que tu n'as jamais vu ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a boxing glove hanging alone on a hook in a dim room, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois qu'elle t'a parlé d'un autre.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting in an empty barber chair in the dark, seen from behind, mirror reflection blurred",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Une femme qui te veut ne te présente pas ses candidats.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "candidats"
+     ]
+    },
+    {
+     "text": "Quand elle te parle d'un autre, tu ne demandes pas son nom.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Tu réponds : « Tu es libre de choisir. Moi, je ne me bats pas contre une ombre. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Et ce soir, regarde ce qu'elle fait. Pas ce qu'elle raconte.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre quinze du Prince : il vaut mieux suivre la vérité des choses… que l'idée qu'on s'en fait.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "vérité"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, neat short haircut with a sharp line, wearing a black barber apron over a white t-shirt, seen from behind or in profile, face never sharp, calmly putting his phone face down on the counter and picking up his clipper, daylight",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : ta valeur ne dépend pas de sa réponse.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors sors de la course. Et redeviens le seul juge de ta valeur !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "seul juge"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man stepping off a running track onto the grass, close-up on shoes, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas d'avoir vendu tes outils pour battre une ombre.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, neat short haircut with a sharp line, wearing a black barber apron over a white t-shirt, seen from behind or in profile, face never sharp, walking away down a Zone 4 street at sunrise, a bag of tools on his shoulder, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Pas de course",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Pas de course ».",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Pas de course"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui se ruine contre un rival invisible.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, on se parle d'homme à homme.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a barber's chair turned toward the camera in an empty shop, warm light, nobody sitting",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Tu n'es pas un candidat. Tu es un homme : on te choisit, ou on te laisse.",
+  "author": "Mr Zika"
+ }
+}

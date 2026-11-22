@@ -1,0 +1,466 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-31",
+ "title": "Tes décisions, c'est toi qui les prends",
+ "output": "zm_31_tes_decisions_c_est_toi_qui_les_prends.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Dabou (rubber tree plantation, red dirt track, village cooperative hall), green filtered daylight and warm evening light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 131,
+ "character": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "TES DÉCISIONS, C'EST TOI QUI LES PRENDS",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU CROIS QUE TU DÉCIDES. MAIS TU TE JUSTIFIES.",
+   "segments": [
+    {
+     "text": "Mon frère… tu crois que tu décides. Mais chaque choix, tu dois d'abord le justifier devant elle.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "justifier"
+     ]
+    },
+    {
+     "text": "Si demain tu veux acheter un champ… tu vas encore lui écrire un rapport ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "rapport"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Jonas peut te rendre ta parole.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "rows of rubber trees in a plantation at dawn, mist between the trunks, green light",
+     "motion": "push_in",
+     "foley": {
+      "text": "birds in a plantation at dawn",
+      "vol": 0.12,
+      "q": "forest birds"
+     }
+    },
+    {
+     "prompt": "a man's hand holding a pen above a blank page, hesitating, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "rural morning ambience with roosters and wind in trees",
+      "at": "start",
+      "vol": 0.2,
+      "q": "rural morning"
+     }
+    },
+    {
+     "text": "J'ai un ami, Jonas. Un travailleur. Il est planteur d'hévéa à Dabou.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une compagne : Viviane.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Jonas veut changer d'acheteur de latex ? « Explique-moi pourquoi. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il explique. Une heure. « Tu es sûr ? » Il réexplique.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "Une heure"
+     ]
+    },
+    {
+     "text": "À la fin, il fait comme elle veut. Elle sourit : « Tu vois, c'est toi qui as décidé. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "toi qui as décidé"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp, tapping a rubber tree with a knife, white latex flowing into a cup, green daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "knife scraping bark",
+      "vol": 0.1,
+      "q": "bark scrape"
+     }
+    },
+    {
+     "prompt": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp, sitting at a table under a veranda in the evening, explaining with his hands, a woman's blurred silhouette opposite, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "À la réunion de la coopérative, on lui demande son vote.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Jonas répond : « Je dois voir avec Viviane. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Les planteurs rient : « Jonas, on dit quoi ? La plantation, c'est à qui ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "c'est à qui"
+     ]
+    },
+    {
+     "text": "Jonas a honte. Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un samedi, il apporte au vieux voisin l'enveloppe pour sa parcelle : deux ans d'économies.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "l'enveloppe"
+     ]
+    },
+    {
+     "text": "Le vieux, gêné : « Ta femme a appelé. Tu n'étais plus sûr, elle a dit. J'ai vendu. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "J'ai vendu"
+     ]
+    },
+    {
+     "text": "Jonas reste sur la piste rouge, l'enveloppe dans la main.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a village cooperative meeting under a tin roof, plastic chairs, men seen from behind, raised hands, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "men laughing in a meeting hall",
+      "vol": 0.14,
+      "q": "group laughter"
+     }
+    },
+    {
+     "prompt": "a thick envelope held in a man's hand, close-up, red dust on his fingers",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an old man in a wide hat seen from behind at the gate of his compound, a red dirt track, afternoon light",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp, standing alone on a red dirt track between rubber trees, envelope in hand, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il est dans son coin. Il ouvre son carnet de plantation.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "carnet"
+     ]
+    },
+    {
+     "text": "Chaque projet depuis un an. À côté, la même note : « Viviane pas d'accord. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle ne conseillait pas. Elle décidait. Lui, il signait.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "il signait"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a worn notebook open under a kerosene lamp, handwritten columns, no readable text, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "paper pages turning",
+      "vol": 0.1,
+      "q": "page turn"
+     }
+    },
+    {
+     "prompt": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp, sitting alone on a wooden bench at night, seen from behind, lamp light",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il lui dit : « Ton avis compte. Je l'écoute. Mais la décision, c'est moi qui la prends. Et personne n'appelle en mon nom. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "moi qui la prends"
+     ]
+    },
+    {
+     "text": "Il achète une autre parcelle, plus petite. La maison est tendue. Mais au champ, c'est lui qui parle.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two men shaking hands over a small paper at the edge of a field, seen from behind, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp, walking between young rubber saplings on new land, seen from behind, sunrise",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une enveloppe restée pleine lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at the edge of a plantation at dawn, mist over the trees",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Ta dernière décision… elle venait de toi, ou de la peur de te justifier ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a fork in a red dirt road between trees, nobody on it, close-up from ground level",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à ce que tu as lâché pour éviter une discussion.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a tree stump in a plantation at dusk, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Ce qui vous concerne à deux, vous le décidez à deux.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais te justifier une heure pour chaque pas, ce n'est plus un conseil. C'est une main sur ton volant.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ton volant"
+     ]
+    },
+    {
+     "text": "Tu dis : « Je t'ai entendue. J'ai décidé. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "J'ai décidé"
+     ]
+    },
+    {
+     "text": "Ce soir, reprends une seule décision laissée en suspens.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-trois du Prince : les bons conseils naissent de la prudence du prince… et non la prudence du prince des bons conseils.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "prudence du prince"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp, writing firmly in his notebook at a table in daylight, close-up on hand",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme qui t'aime te conseille. Elle ne parle pas à ta place.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors écoute tout le monde. Et redeviens celui qui tranche !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "tranche"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a machete cleanly cutting through a thick vine, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'on vende ton champ avec ta propre voix.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 42-year-old Ivorian man, dark skin, short hair, wearing a faded green work shirt and rubber boots, seen from behind or in profile, face never sharp, walking down a long red dirt track between rubber trees at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je décide",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Je décide ».",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Je décide"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui répond toujours « je dois voir avec elle ».",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, un conseil d'homme à homme.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a notebook closed with a pen on top on a wooden table in morning light, nobody visible",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Écoute tous les conseils. Mais que la dernière parole sorte de ta bouche.",
+  "author": "Mr Zika"
+ }
+}

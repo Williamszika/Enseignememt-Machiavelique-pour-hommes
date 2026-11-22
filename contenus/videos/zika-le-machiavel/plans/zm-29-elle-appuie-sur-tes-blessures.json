@@ -1,0 +1,481 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-29",
+ "title": "Elle appuie sur tes blessures ? Sors de là",
+ "output": "zm_29_elle_appuie_sur_tes_blessures.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Gagnoa (small-town primary school, red earth courtyard, modest home at night), warm lamp light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children visible",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 129,
+ "character": "a 38-year-old Ivorian man, dark skin, short greying hair, wearing a pale blue short-sleeved shirt and thin glasses, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "ELLE APPUIE SUR TES BLESSURES ? SORS DE LÀ",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "CE QUE TU LUI AS CONFIÉ, ELLE S'EN SERT CONTRE TOI.",
+   "segments": [
+    {
+     "text": "Mon frère… ce que tu lui as confié la nuit… elle s'en sert le jour contre toi.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "confié",
+      "contre toi"
+     ]
+    },
+    {
+     "text": "Si demain elle te dit « tu es comme ton père »… tu baisses la tête ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "ton père"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Roland peut t'aider.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand pressing a thumb on an old faded photograph lying on a table, close-up, dim light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's lowered head in shadow, seen from behind, single lamp",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "small town evening ambience with crickets and distant radio",
+      "at": "start",
+      "vol": 0.18,
+      "q": "crickets evening"
+     }
+    },
+    {
+     "text": "J'ai un ami, Roland. Un homme doux. Il est instituteur à Gagnoa.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une compagne : Nathalie.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Un soir, il lui confie sa blessure : son père est parti quand il avait huit ans.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "huit ans"
+     ]
+    },
+    {
+     "text": "Depuis, à chaque dispute :",
+     "pause_after": 0.5
+    },
+    {
+     "text": "« Tu vas partir. Comme ton père. C'est dans ton sang. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Comme ton père"
+     ]
+    },
+    {
+     "text": "Roland se tait. Il s'excuse.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, wearing a pale blue short-sleeved shirt and thin glasses, seen from behind or in profile, face never sharp, writing on a blackboard in an empty primary school classroom in Gagnoa, chalk dust, morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "chalk on blackboard",
+      "vol": 0.1,
+      "q": "chalk"
+     }
+    },
+    {
+     "prompt": "an old metal gate of a family compound at dusk, red dirt road, nobody there",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, wearing a pale blue short-sleeved shirt and thin glasses, seen from behind or in profile, face never sharp, sitting at a kitchen table at night, head lowered, a woman's blurred silhouette standing in the background, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "À la kermesse, devant ses collègues, il parle du concours de directeur.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Nathalie rit : « Lui ? Chez eux, les hommes ne finissent rien. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ne finissent rien"
+     ]
+    },
+    {
+     "text": "Silence.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Roland a honte. Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Puis il est convoqué à Daloa, en formation.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le soir, Nathalie pose sur la table la seule photo de son père : « Regarde-le bien. C'est toi dans dix ans. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "photo"
+     ]
+    },
+    {
+     "text": "Roland n'y va pas.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a school fair in a red earth courtyard, colourful bunting, adults standing in a group seen from behind, no children visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "outdoor fair chatter",
+      "vol": 0.12,
+      "q": "fair crowd"
+     }
+    },
+    {
+     "prompt": "adults' shoes on red dirt, people looking down, close-up",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a woman's hand taking an old photograph out of a man's wallet, close-up, lamp light, no faces",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an old faded photograph lying alone on a wooden table, an official letter folded beside it, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, dans son cahier de préparation, il note les disputes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque fois qu'il veut quelque chose pour lui… elle appuie au même endroit.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "même endroit"
+     ]
+    },
+    {
+     "text": "C'est pas de l'amour. C'est une main sur sa blessure, pour le tenir.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "pour le tenir"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand writing a short list on the last page of a teacher's notebook at night, close-up, blue light",
+     "motion": "push_in",
+     "foley": {
+      "text": "pen writing on paper",
+      "vol": 0.1,
+      "q": "pen writing"
+     }
+    },
+    {
+     "prompt": "a hand pressing on a bruise-coloured pressure point, abstract, dark background, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il lui dit : « Mon père, c'est mon histoire. Tu ne t'en sers plus. Sinon, je sors de la pièce. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "mon histoire"
+     ]
+    },
+    {
+     "text": "Elle recommence. Il sort.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il voit un psychologue à Gagnoa. Trois mois plus tard, il part. Sans cris.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Ça fait mal. Mais ça va aller.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hands slipping an old photograph back into a wallet, morning light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, wearing a pale blue short-sleeved shirt and thin glasses, seen from behind or in profile, face never sharp, walking out of a small house with a travel bag, seen from behind, early morning",
+     "motion": "push_in",
+     "foley": {
+      "text": "footsteps on gravel",
+      "vol": 0.12,
+      "q": "footsteps gravel"
+     }
+    },
+    {
+     "prompt": "a quiet hospital corridor in daylight, an open office door, nobody visible",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une vieille photo lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, Gagnoa rooftops and trees in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Ta blessure… elle la soigne, ou elle la tient ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two hands, one open and one closing into a grip, on a wooden table, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière phrase qui t'a fait baisser la tête.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a school bench in an empty courtyard at dusk, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Ta blessure, tu l'as donnée pour être compris dêh. Pas pour être tenu.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "compris",
+      "tenu"
+     ]
+    },
+    {
+     "text": "Quand elle appuie dessus, ne te justifie pas, ne rends pas le coup. Dis : « Quand tu seras prête à parler calmement, je serai là. » Et sors.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Si ça te pèse, parle à une personne de confiance, à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences. C'est pas une faiblesse.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "faiblesse"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-huit du Prince : celui qui trompe trouvera toujours quelqu'un qui se laissera tromper.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "se laissera tromper"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, wearing a pale blue short-sleeved shirt and thin glasses, seen from behind or in profile, face never sharp, sitting in a calm counselling office, talking, seen from behind, soft daylight",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a hand holding a phone, about to call, close-up, soft light",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme qui t'aime soigne ta blessure. Elle ne s'en sert pas.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors reprends ton histoire. Et relève la tête !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "relève la tête"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man closing a notebook firmly and standing up, close-up on hands, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas de croire, toi aussi, que tu es ton père.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, wearing a pale blue short-sleeved shirt and thin glasses, seen from behind or in profile, face never sharp, walking on a red earth road at sunrise, head up, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je sors de là",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Je sors de là », pour toi ou pour un frère.",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Je sors de là"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, on parle de ce qui fait mal.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an open door letting morning light into a dark room, nobody visible",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Ce que tu as confié pour être compris ne doit jamais servir à te tenir.",
+  "author": "Mr Zika"
+ }
+}

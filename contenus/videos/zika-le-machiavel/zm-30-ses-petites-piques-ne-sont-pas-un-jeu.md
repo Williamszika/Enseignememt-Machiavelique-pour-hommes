@@ -1,0 +1,61 @@
+# [Zika le Machiavel] ZM-30 — Ses petites piques ne sont pas un jeu
+
+**Rubrique Zika le Machiavel** · à partir des [source 44](../../../sources/44-zika-le-machiavel-texte.md) (vidéo 5 : la « provocation calculée ») et [source 48](../../../sources/48-zika-le-machiavel-texte.md) (vidéo 4 : le compliment suivi d'une pique), pris du côté de l'homme.
+Écrit le 22 novembre 2026, thèmes validés par Mr Zika le 22 nov. Sur le modèle de ZM-15 (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, CTA, citation).
+**Durée estimée :** 3 min 15 s (488 mots ÷ 2,5 mots/s), voix Paul K.
+
+- **Titre à l'écran :** `SES PETITES PIQUES NE SONT PAS UN JEU`
+- **La règle :** *Le Prince*, ch. XIX : pour éviter d'être méprisé (tenu pour léger, changeant, irrésolu), le prince doit faire voir dans ses actions de la grandeur, de la gravité et de la force ; et la phrase à dire : « Si tu veux me dire quelque chose, dis-le franchement. »
+- **Fiction**, présentée comme une histoire (Kévin, graphiste à Biétry ; Alice).
+
+## Texte pour le prompteur
+
+Mon frère… elle te complimente, et dans la même phrase, elle te rabaisse. Et tu ris.
+Si demain elle te dit « c'est joli… pour un amateur »… tu vas encore rire ?
+Reste avec moi. Ce qui est arrivé à mon ami Kévin peut te rendre ta place.
+Je vais te raconter une histoire.
+J'ai un ami, Kévin. Un garçon talentueux. Il est graphiste à Biétry.
+Il a une copine : Alice.
+Chaque compliment d'Alice a une queue.
+« Ton affiche est belle. Dommage que personne ne la voie. »
+Kévin rit. Faut pas fâcher. C'est pour rire, non ?
+Un jour, Alice l'accompagne chez un gros client.
+Le client le félicite. Alice sourit : « Il est doué… quand il finit à l'heure. »
+Le client rit. Le contrat ne vient jamais.
+Kévin a honte. Mais il ne dit rien.
+À son anniversaire, devant ses amis, Alice lui offre une tasse.
+Dessus : « Graphiste du dimanche ».
+Un ami : « On dit quoi, graphiste du dimanche ? » Tout le monde rit. Kévin aussi.
+Cette nuit-là, la tasse est sur son bureau.
+Chaque compliment avait sa pique. Chaque fois qu'il riait, la pique suivante était plus forte.
+Ce n'était pas de l'humour. C'était le rendre petit, en souriant.
+Le lendemain, il range la tasse dans un carton. Il lui dit, calme : « Si tu veux me dire quelque chose, dis-le franchement. Mais les piques déguisées en blague, c'est fini. »
+Elle boude une semaine. Les piques reviennent, plus rares. Il les nomme, une phrase, pas plus.
+Ce n'est pas réglé. Mais il ne rit plus quand ça fait mal.
+Une tasse lui a ouvert les yeux. Toi… il t'en faudra combien ?
+Et toi, mon frère ? Quand elle se moque de toi devant les autres… tu ris pour qui ?
+Pense à la dernière pique qui t'a fait mal.
+Tu l'as ? Garde ça.
+Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.
+Une pique, une fois, c'est une maladresse. Toutes les semaines, c'est une habitude.
+Tu ne rends pas la pique. Pas de scène. Tu dis : « Ça, c'était une pique. Dis-le franchement. »
+Et ce soir, regarde si tu ris parce que c'est drôle… ou pour ne pas déranger.
+J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : pour n'être pas méprisé, le prince montre dans ses actes de la gravité… et de la force.
+Et écoute-moi bien : un homme qui rit de ce qui le blesse… on finit par ne plus le prendre au sérieux.
+Alors arrête de rire quand ça fait mal. Et reprends ta place à table !
+Change maintenant. N'attends pas que la blague devienne ton nom.
+Écris en commentaire « Dis-le franchement ».
+Envoie cette vidéo à l'ami qui rit toujours quand on se moque de lui.
+Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel te parle franc.
+« Une blague qui te rabaisse chaque semaine n'est plus de l'humour. C'est un message. » — Mr Zika.
+
+## Légende et commentaire épinglé
+
+```
+Zika le Machiavel — ZM-30 · Ses petites piques ne sont pas un jeu
+Chaque compliment avait sa pique. Et lui, il riait. Jusqu'au jour d'une tasse.
+
+#mrzika #zikalemachiavel #machiavel #leprince #respect
+```
+
+**Commentaire épinglé :** Écris « Dis-le franchement ». Chaque mercredi, Zika le Machiavel te parle franc.
