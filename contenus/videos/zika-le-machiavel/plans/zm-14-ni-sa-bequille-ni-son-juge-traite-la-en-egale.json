@@ -46,7 +46,7 @@
      ]
     },
     {
-     "text": "Quand elle te raconte sa journée… tu l'écoutes, ou tu la corriges ?",
+     "text": "Quand elle te parle… tu l'écoutes, ou tu la corriges ?",
      "pause_after": 0.6,
      "emphasis": [
       "tu l'écoutes"
@@ -142,7 +142,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Devant les clients, Armand la corrige à voix haute : « Pas à ce prix-là ! Tu ne sais pas compter ? »",
+     "text": "Devant les clients, Armand la corrige : « Pas à ce prix-là ! Tu ne sais pas compter ? »",
      "pause_after": 0.8,
      "emphasis": [
       "Tu ne sais pas compter"
@@ -251,7 +251,7 @@
    "relance": true,
    "segments": [
     {
-     "text": "Le lendemain, il ouvre le cahier avec elle : « Montre-moi. Qu'est-ce qui marche, pour toi ? »",
+     "text": "Le lendemain, il ouvre le cahier avec elle : « Qu'est-ce qui marche, pour toi ? »",
      "pause_after": 0.7,
      "emphasis": [
       "pour toi"
@@ -352,7 +352,7 @@
    "relance": true,
    "segments": [
     {
-     "text": "Tu sais… être sa béquille ou son juge, ça ressemble à de l'amour. Les deux l'éloignent de toi.",
+     "text": "Tu sais… béquille ou juge, ça ressemble à de l'amour. Les deux l'éloignent de toi.",
      "pause_after": 0.8,
      "emphasis": [
       "béquille",
@@ -414,14 +414,14 @@
    "relance": true,
    "segments": [
     {
-     "text": "Et écoute-moi bien : une femme qu'on respecte grandit à côté de toi. Pas derrière toi.",
+     "text": "Et écoute-moi bien : une femme respectée grandit à côté de toi. Pas derrière.",
      "pause_after": 0.6,
      "emphasis": [
       "à côté de toi"
      ]
     },
     {
-     "text": "Alors pose ta béquille, range ta robe de juge, et marche à côté d'elle !",
+     "text": "Alors pose la béquille, lâche le marteau du juge, et marche à côté d'elle !",
      "pause_after": 1.0,
      "emphasis": [
       "marche à côté d'elle"
@@ -471,7 +471,7 @@
      ]
     },
     {
-     "text": "Envoie cette vidéo à l'ami qui corrige sa femme devant tout le monde.",
+     "text": "Envoie cette vidéo à l'ami qui corrige sa femme en public.",
      "pause_after": 0.5
     },
     {

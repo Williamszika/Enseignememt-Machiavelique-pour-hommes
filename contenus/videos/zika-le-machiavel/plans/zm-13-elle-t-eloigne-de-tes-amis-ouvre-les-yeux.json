@@ -100,7 +100,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Grâce boude : « Tes amis-là ne te respectent pas. C'est eux ou moi. »",
+     "text": "Mais chaque dimanche, Grâce boude : « Tes amis-là ne te respectent pas. C'est eux ou moi. »",
      "pause_after": 0.8,
      "emphasis": [
       "C'est eux ou moi"
@@ -111,7 +111,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Et quand il reste, elle est douce. Quand il sort, c'est la guerre.",
+     "text": "Il reste ? Elle est douce. Il sort ? C'est la guerre.",
      "pause_after": 0.8
     }
    ],
@@ -222,7 +222,7 @@
    "relance": true,
    "segments": [
     {
-     "text": "Cette nuit-là, il regarde la liste de ses appels.",
+     "text": "Cette nuit-là, il regarde ses appels.",
      "pause_after": 0.6
     },
     {
@@ -269,7 +269,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Grâce boude trois jours. Un ami reste froid. Mais dimanche, il est sur le terrain.",
+     "text": "Grâce boude trois jours. Un ami reste froid. Mais dimanche, il joue.",
      "pause_after": 1.0
     }
    ],
@@ -367,7 +367,7 @@
      ]
     },
     {
-     "text": "Ne pas aimer un de tes amis, c'est son droit. Mais choisir qui tu vois, lire ton téléphone, répondre pour toi… faut pas laisser ça.",
+     "text": "Ne pas aimer un de tes amis, c'est son droit. Mais choisir qui tu vois, lire ton téléphone… faut pas laisser ça.",
      "pause_after": 0.8,
      "emphasis": [
       "faut pas laisser ça"

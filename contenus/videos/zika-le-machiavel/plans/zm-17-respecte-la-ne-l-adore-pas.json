@@ -88,7 +88,7 @@
      }
     },
     {
-     "text": "J'ai un ami, Lamine. Tailleur, à Treichville. Ses mains font des merveilles avec le pagne.",
+     "text": "J'ai un ami, Lamine. Tailleur, à Treichville. Des mains d'or.",
      "pause_after": 0.6
     },
     {
@@ -351,7 +351,7 @@
    "relance": true,
    "segments": [
     {
-     "text": "Tu sais… je ne dis pas qu'elle est mauvaise dêh. Je dis : celle qui ne respecte pas ton temps ne respecte pas ta vie.",
+     "text": "Tu sais… je ne dis pas qu'elle est mauvaise dêh. Je dis : qui ne respecte pas ton temps ne respecte pas ta vie.",
      "pause_after": 0.8,
      "emphasis": [
       "ta vie"
@@ -373,7 +373,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Tes vrais engagements, tu ne les annules pas pour une place dans son agenda.",
+     "text": "Tes vrais engagements, tu ne les annules pas pour son agenda.",
      "pause_after": 0.6
     },
     {
@@ -446,7 +446,7 @@
    "look": "net",
    "segments": [
     {
-     "text": "Change maintenant. N'attends pas qu'elle te trouve ennuyeux pour te respecter toi-même.",
+     "text": "Change maintenant. N'attends pas qu'on te trouve ennuyeux pour te respecter.",
      "pause_after": 1.5,
      "emphasis": [
       "maintenant"
@@ -479,7 +479,7 @@
      "pause_after": 0.5
     },
     {
-     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, un rendez-vous d'homme à homme, pour te tenir droit.",
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, d'homme à homme, on se tient droit.",
      "pause_after": 2.0,
      "emphasis": [
       "chaque mercredi"
@@ -495,7 +495,7 @@
   }
  ],
  "quote": {
-  "text": "L'adoration te met en dessous. Le respect vous met face à face.",
+  "text": "Celui qui s'efface pour être aimé finit par ne plus être vu.",
   "author": "Mr Zika"
  }
 }

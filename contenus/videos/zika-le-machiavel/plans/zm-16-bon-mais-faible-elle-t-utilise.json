@@ -160,7 +160,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Un soir, il dépose Murielle chez une amie. Elle descend, téléphone à l'oreille. La vitre est ouverte.",
+     "text": "Un soir, il la dépose chez une amie. Elle descend, téléphone à l'oreille. Vitre ouverte.",
      "pause_after": 0.6
     },
     {
@@ -214,7 +214,7 @@
      "pause_after": 0.7
     },
     {
-     "text": "Le jour où il avait de la fièvre, pas un appel.",
+     "text": "Le jour de sa fièvre, pas un appel.",
      "pause_after": 0.8,
      "emphasis": [
       "pas un appel"
@@ -264,7 +264,7 @@
      "pause_after": 0.7
     },
     {
-     "text": "Les semaines sont un peu vides. Mais à la caisse, Eudoxie ne baisse plus les yeux.",
+     "text": "Les semaines sont vides. Mais Eudoxie ne baisse plus les yeux.",
      "pause_after": 1.0
     }
    ],
@@ -491,7 +491,7 @@
   }
  ],
  "quote": {
-  "text": "Ta bonté sans limite n'est pas un cadeau. C'est une porte sans serrure.",
+  "text": "Une bonté sans limite n'est pas de l'amour. C'est une porte sans serrure.",
   "author": "Mr Zika"
  }
 }

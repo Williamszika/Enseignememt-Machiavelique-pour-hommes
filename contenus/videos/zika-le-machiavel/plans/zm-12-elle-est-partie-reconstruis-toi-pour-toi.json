@@ -107,7 +107,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Depuis, Ibrahim attend. Il regarde ses statuts. Il est dans son coin.",
+     "text": "Depuis, Ibrahim attend. Il est dans son coin.",
      "pause_after": 0.8
     }
    ],
@@ -266,10 +266,10 @@
    "relance": true,
    "segments": [
     {
-     "text": "Le lendemain, à six heures, il essuie son sifflet. Il retourne au stade. Seul.",
+     "text": "Le lendemain, à six heures, il essuie son sifflet et retourne au stade.",
      "pause_after": 0.6,
      "emphasis": [
-      "Seul"
+      "sifflet"
      ]
     },
     {
@@ -308,7 +308,7 @@
    "relance": true,
    "segments": [
     {
-     "text": "Un sifflet plein de poussière lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "text": "Un sifflet poussiéreux lui a ouvert les yeux. Toi… il t'en faudra combien ?",
      "pause_after": 1.0,
      "emphasis": [
       "combien"
@@ -372,14 +372,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Mais le silence qu'elle laisse, c'est ton atelier.",
-     "pause_after": 0.8,
-     "emphasis": [
-      "ton atelier"
-     ]
-    },
-    {
-     "text": "Trois chantiers. Ton travail. Ton corps : tu bouges, tu dors. Tes amis : tu les rappelles.",
+     "text": "Ton atelier a trois chantiers. Ton travail. Ton corps : tu bouges, tu dors. Tes amis : tu les rappelles.",
      "pause_after": 0.8
     },
     {
@@ -390,10 +383,10 @@
      ]
     },
     {
-     "text": "Si la tristesse reste, parle à une personne de confiance, à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences. C'est du courage, dêh.",
+     "text": "Si la tristesse reste, parle à une personne de confiance, à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences.",
      "pause_after": 0.8,
      "emphasis": [
-      "courage"
+      "personne de confiance"
      ]
     },
     {
@@ -488,7 +481,7 @@
      ]
     },
     {
-     "text": "Envoie cette vidéo à l'ami qui attend encore devant son téléphone.",
+     "text": "Envoie cette vidéo à l'ami qui attend encore son message.",
      "pause_after": 0.5
     },
     {

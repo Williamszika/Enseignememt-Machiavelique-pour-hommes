@@ -2,7 +2,7 @@
 
 **Rubrique Zika le Machiavel** · à partir de la [source 46](../../../sources/46-zika-le-machiavel-texte.md) (vidéo 3 : « Respecte-la. Ne l'adore pas. » ; les trente minutes de retard : « Mon temps compte. Si quelque chose ne va pas, préviens-moi. » ; dire le signal une fois ; dire non sans te justifier dix minutes ; ne pas annuler tes vrais engagements ; « Traite-la comme tu te traites : avec respect, et avec des limites. »).
 **Écrit le 22 novembre 2026, thèmes validés par Mr Zika le 22 nov.** Sur le modèle de ZM-15 (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, CTA, citation).
-**Durée estimée :** 3 min 17 s (492 mots ÷ 2,5 mots/s), voix Paul K. Voix : `elevenlabs/zm-17-respecte-la-ne-l-adore-pas.txt` ; plan : `plans/zm-17-respecte-la-ne-l-adore-pas.json`.
+**Durée estimée :** 3 min 12 s (480 mots ÷ 2,5 mots/s), voix Paul K. Voix : `elevenlabs/zm-17-respecte-la-ne-l-adore-pas.txt` ; plan : `plans/zm-17-respecte-la-ne-l-adore-pas.json`.
 
 - **Titre à l'écran :** `RESPECTE-LA, NE L'ADORE PAS`
 - **La règle :** *Le Prince*, ch. XIX : on méprise celui qu'on tient pour changeant, léger, irrésolu ; et la phrase du texte : « Respecte-la. Ne l'adore pas. »
@@ -14,7 +14,7 @@ Mon frère… plus tu l'adores, moins elle te compte.
 Elle arrive une heure en retard, sans un message… et c'est toi qui t'excuses ?
 Reste avec moi. Ce qui est arrivé à mon ami Lamine peut te rendre ton respect.
 Je vais te raconter une histoire.
-J'ai un ami, Lamine. Tailleur, à Treichville. Ses mains font des merveilles avec le pagne.
+J'ai un ami, Lamine. Tailleur, à Treichville. Des mains d'or.
 Il a une copine : Flora.
 Lamine l'adore. « Ma reine », vingt fois par jour. Sa photo, chaque matin.
 Flora est en retard ? « C'est rien. » Elle oublie ? « C'est rien. »
@@ -39,20 +39,20 @@ Une robe sur un mannequin lui a ouvert les yeux. Toi… il t'en faudra combien ?
 Et toi, mon frère ? Tu l'aimes… ou tu t'effaces devant elle ?
 Pense à la dernière chose que tu as avalée sans rien dire.
 Tu l'as ? Garde ça.
-Tu sais… je ne dis pas qu'elle est mauvaise dêh. Je dis : celle qui ne respecte pas ton temps ne respecte pas ta vie.
+Tu sais… je ne dis pas qu'elle est mauvaise dêh. Je dis : qui ne respecte pas ton temps ne respecte pas ta vie.
 Respecte-la. Ne l'adore pas. Adorer, c'est la mettre au-dessus de toi. Respecter, c'est être face à face.
 Un problème ? Tu le dis. Une fois. Calmement. Faut pas laisser ça pourrir.
 Dis non sans te justifier dix minutes.
-Tes vrais engagements, tu ne les annules pas pour une place dans son agenda.
+Tes vrais engagements, tu ne les annules pas pour son agenda.
 Traite-la comme tu te traites : avec respect, et avec des limites.
 J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : on méprise celui qu'on tient pour changeant, léger… irrésolu.
 Et écoute-moi bien : un homme qui s'efface, on l'oublie. Un homme debout, on le respecte.
 Alors range le tapis rouge, et tiens-toi droit devant elle !
-Change maintenant. N'attends pas qu'elle te trouve ennuyeux pour te respecter toi-même.
+Change maintenant. N'attends pas qu'on te trouve ennuyeux pour te respecter.
 Écris en commentaire « Mon temps compte » si tu as compris.
 Envoie cette vidéo à l'ami qui dit toujours « c'est rien ».
-Abonne-toi, suis la page et active la cloche : chaque mercredi, un rendez-vous d'homme à homme, pour te tenir droit.
-« L'adoration te met en dessous. Le respect vous met face à face. » — Mr Zika.
+Abonne-toi, suis la page et active la cloche : chaque mercredi, d'homme à homme, on se tient droit.
+« Celui qui s'efface pour être aimé finit par ne plus être vu. » — Mr Zika.
 
 ## Légende et commentaire épinglé
 
