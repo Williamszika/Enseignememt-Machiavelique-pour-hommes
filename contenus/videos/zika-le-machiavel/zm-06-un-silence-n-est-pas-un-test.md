@@ -1,58 +1,62 @@
 # [Zika le Machiavel] ZM-06 — Un silence n'est pas un test
 
-**Rubrique Zika le Machiavel** · écrit le 11 novembre 2026 à partir du texte envoyé par Mr Zika ([source 42](../../../sources/42-zika-le-machiavel-texte.md), [analyse](../../../analyses/42-zika-le-machiavel.md)).
-**À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. L'équipe de montage ajoute les illustrations de la colonne de droite.
-**Durée :** environ 1 min 42 (222 mots), sous les 2 minutes demandées.
+**Rubrique Zika le Machiavel** · À partir de la [source 42](../../../sources/42-zika-le-machiavel-texte.md) (vidéo 4 : « les choses qui semblaient urgentes à 23 h perdent leur intensité à 8 h ») et de la [source 48](../../../sources/48-zika-le-machiavel-texte.md) (vidéo 2 : son silence de plusieurs jours est un fait ; tu demandes une fois, puis tu vis ta vie ; jamais « c'était un test »). Écrit le 22 novembre 2026, thèmes validés par Mr Zika le 22 nov. Réécrit entièrement sur le modèle de ZM-15 ; remplace la version du 11 novembre (ancien modèle).
+**À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. Modèle de ZM-15 (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, CTA, citation).
+**Durée estimée :** environ 3 min 15 (487 mots ÷ 2,5 mots/s), CTA compris (36 mots). Voix Paul K ; texte ElevenLabs : `elevenlabs/zm-06-un-silence-n-est-pas-un-test.txt` ; plan : `plans/zm-06-un-silence-n-est-pas-un-test.json`.
 
-- **Titre à l'écran (0–2 s) :** `UN SILENCE N'EST PAS UN TEST`
-- **La règle :** *Le Prince*, ch. XXV : la fortune est comme un fleuve en crue ; on lui oppose des digues quand le temps est calme.
-- **Tiré du texte :** Vidéo 4 : la patience (« les choses qui semblaient urgentes à 23 h perdent leur intensité à 8 h »), contrôler ses émotions sans les réprimer, avoir une mission plus grande que l'attente d'un message.
-- **Corrigé :** Retiré : l'idée que chaque silence ou chaque reproche est un « test », « l'indifférence absolue » comme réponse, « les hommes qui se disputent avec les femmes ont déjà perdu », « elle peut vouloir te voir détruit » et les affirmations biologiques. Ligne du compte : un silence est une information, et on parle clairement.
-
-## Ce que tu dis / l'illustration pour le montage
-
-| # | Ce que tu dis (Mr Zika, face caméra) | Illustration proposée |
-|---|---|---|
-| 1 | Mon frère, elle ne t'a pas écrit de la journée. / Et à vingt-trois heures, tu es déjà en **guerre** dans ta tête. | Mr Zika face caméra, éclairage de nuit. Téléphone : 23:04, aucun message. |
-| 2 | On t'a raconté que chaque silence est un test. / Qu'il faut répondre par l'indifférence. / Faut pas croire ça. | Écran de téléphone qui défile ; barre rouge sur le mot TEST. |
-| 3 | Un silence, c'est une information. / Pas un test. Pas une **torture**. | À l'écran : UNE INFORMATION. |
-| 4 | Je vais te dire une affaire. / Arsène, à Marcory. / Inès ne répond pas de la journée. / Arsène écrit six messages. Puis un septième, fâché. | Rue de Marcory la nuit ; prénoms à l'écran : ARSÈNE, INÈS ; bulles de messages qui s'empilent. |
-| 5 | Le lendemain, elle répond : / sa mère était à l'hôpital. | Couloir d'hôpital vide, lumière du matin. |
-| 6 | Tu vois ? / Ce qui l'a fait souffrir, c'est pas son silence. / C'est l'histoire qu'il s'est **racontée**. | Mr Zika, doigt sur la tempe. |
-| 7 | Machiavel parle de la fortune comme d'un fleuve en crue, chapitre vingt-cinq du *Prince* : / on construit les digues quand le temps est calme. / Ton calme, tu le construis avant la tempête : ton travail, ton sport, tes amis. | Un fleuve en crue ; puis une digue ; à l'écran : LE PRINCE, CH. XXV. |
-| 8 | Alors la règle : / la nuit, pas de grande décision. / Le matin, si quelque chose te gêne, tu poses une question claire, une seule fois : / « Hier, tu n'as pas répondu. Ça va ? » | Lever du soleil ; un message court qui s'écrit. |
-| 9 | Et si on te manque de respect, encore et encore, / tu ne joues pas au plus froid. / Tu pars, **calmement**. | Un homme de dos qui marche vers la lumière. |
-| 10 | Aujourd'hui, la prochaine fois qu'un message n'arrive pas, / attends le matin, / et écris une seule phrase claire. | À l'écran : LE MATIN. UNE PHRASE. |
-| 11 | Tu essaies cette semaine ? / Oui ou non. | Mr Zika, plan fixe. À l'écran : OUI OU NON. |
-| 12 | *(silence 1 s)* « Le silence d'un soir n'écrit pas la fin de l'histoire. » | Écran noir, citation en blanc (Montserrat ExtraBold), filet or, « — Mr Zika » en Pinyon Script or #D4AF37, 4 s. |
+- **Titre à l'écran :** `UN SILENCE N'EST PAS UN TEST`
+- **La règle :** *Le Prince*, ch. XXV : la fortune est comme un fleuve en crue, on construit les digues quand le temps est calme ; son silence est un fait, pas une épreuve : tu demandes une fois, clairement, puis tu vis ta vie.
+- **Fiction**, présentée comme une histoire (Arsène, Marcory ; Inès).
 
 ## Texte pour le prompteur
 
-Mon frère, elle ne t'a pas écrit de la journée. / Et à vingt-trois heures, tu es déjà en guerre dans ta tête.
-On t'a raconté que chaque silence est un test. / Qu'il faut répondre par l'indifférence. / Faut pas croire ça.
-Un silence, c'est une information. / Pas un test. Pas une torture.
-Je vais te dire une affaire. / Arsène, à Marcory. / Inès ne répond pas de la journée. / Arsène écrit six messages. Puis un septième, fâché.
-Le lendemain, elle répond : / sa mère était à l'hôpital.
-Tu vois ? / Ce qui l'a fait souffrir, c'est pas son silence. / C'est l'histoire qu'il s'est racontée.
-Machiavel parle de la fortune comme d'un fleuve en crue, chapitre vingt-cinq du Prince : / on construit les digues quand le temps est calme. / Ton calme, tu le construis avant la tempête : ton travail, ton sport, tes amis.
-Alors la règle : / la nuit, pas de grande décision. / Le matin, si quelque chose te gêne, tu poses une question claire, une seule fois : / « Hier, tu n'as pas répondu. Ça va ? »
-Et si on te manque de respect, encore et encore, / tu ne joues pas au plus froid. / Tu pars, calmement.
-Aujourd'hui, la prochaine fois qu'un message n'arrive pas, / attends le matin, / et écris une seule phrase claire.
-Tu essaies cette semaine ? / Oui ou non.
-« Le silence d'un soir n'écrit pas la fin de l'histoire. » — Mr Zika
+Mon frère… trois jours sans réponse. Et toi, tu cherches quelle épreuve réussir.
+Si demain elle revient avec « coucou toi »… tu fais comme si de rien n'était ?
+Reste avec moi. Ce qui est arrivé à mon ami Arsène peut t'éviter des nuits blanches.
+Je vais te raconter une histoire.
+J'ai un ami, Arsène. Électricien à Marcory. Un gars calme.
+Il a une copine : Inès.
+Régulièrement, Inès disparaît. Deux jours. Trois. Quatre. Pas un mot.
+Arsène écrit six messages. Puis un septième, fâché, à une heure du matin.
+Une vidéo lui dit : « Chaque silence cache une épreuve. Ignore-la. »
+Pourtant, à l'anniversaire de son meilleur ami, Arsène sort trois fois appeler Inès.
+Quand il revient, le gâteau est coupé.
+Son ami lâche, devant tout le monde : « Tu étais là sans être là, dêh. »
+Arsène s'assoit. Il a honte.
+Mais il ne change pas.
+Le quatrième jour, il voit son statut : Inès au bord de la lagune, avec ses copines.
+Sous ses messages à lui : « Vu à vingt et une heures quatorze. »
+Le jeudi : « Coucou toi. » Il demande où elle était. Elle : « Tu es trop dans mon téléphone. »
+Cette nuit-là, il regarde les dates.
+Quatre jours de silence. Un coucou. Son pardon. Et on recommence.
+Ce n'était pas une épreuve. C'était un fait.
+Elle lui montrait la place qu'elle lui donnait.
+Le lendemain matin, une seule fois : « Inès, quand tu disparais des jours, ça ne me va pas. Si tu veux de moi, dis-le. »
+Puis il part au chantier. Le soir, foot avec ses gars.
+Deux jours plus tard : « Ok. » Il n'a pas couru. Il a vécu sa vie.
+Une photo de lagune lui a ouvert les yeux. Toi… il t'en faudra combien ?
+Et toi, mon frère ? Tu attends son retour… ou tu vis pendant son absence ?
+Pense au dernier silence qui t'a gardé éveillé.
+Tu l'as ? Garde ça.
+Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te laisse en attente.
+On te dit que son silence est une épreuve ? Faut pas croire ça. C'est un fait.
+Peut-être qu'elle a ses raisons. Alors tu demandes, une fois, le matin.
+Puis tu ne supplies pas. Tu vis ta vie : ton travail, ton sport, tes amis.
+J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-cinq du Prince : la fortune est comme un fleuve en crue… on construit les digues quand le temps est calme.
+Et écoute-moi bien : celle qui veut de toi ne te laisse pas deviner quatre jours.
+Alors pose ta question. Et reprends ta vie en main !
+Change maintenant. N'attends pas de rater un autre anniversaire pour un silence.
+Écris « Je demande une fois » si tu as compris. Partage cette vidéo à ton gars qui dort avec son téléphone.
+Abonne-toi, suis la page et active la cloche : chaque mercredi à dix heures, on se retrouve.
+« Pose ta question une fois. Ensuite, c'est ta vie qui parle. » — Mr Zika.
 
-## Conseils de tournage
-
-- Assis ou debout, plan poitrine, une lampe chaude de côté, fond sombre ; regarde l'objectif comme si un frère était assis en face.
-- Voix grave et posée ; les phrases courtes portent le poids ; un vrai silence avant la règle de Machiavel et avant la citation.
-- Les « dêh », « c'est pas pour rien », « faut pas » se disent naturellement, sans forcer l'accent.
-- Tourne d'une traite, puis une deuxième prise plus serrée pour donner du choix au montage.
-
-## Légende
+## Légende et commentaire épinglé
 
 ```
-Six messages, puis un septième, fâché. Le lendemain : « Ma mère était à l'hôpital. » Un silence est une information, pas un test.
-Tu attends le matin avant d'écrire ? Oui ou non.
+Zika le Machiavel — ZM-06 · Un silence n'est pas un test
+Quatre jours sans un mot, un « coucou toi », et on recommence. Ce n'était pas une épreuve. C'était un fait.
 
-#mrzika #zikalemachiavel #machiavel #leprince
+#mrzika #zikalemachiavel #machiavel #leprince #silence
 ```
+
+**Commentaire épinglé :** Écris « Je demande une fois » si tu as compris. Chaque mercredi à 10 h, Zika le Machiavel te retrouve.

@@ -1,0 +1,476 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-02",
+ "title": "Ne deviens pas son chauffeur gratuit",
+ "output": "zm_02_ne_deviens_pas_son_chauffeur_gratuit.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Cocody streets, Riviera, Angré restaurant terrace), inside an old grey sedan at night, warm street lights, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 102,
+ "character": "a 30-year-old Ivorian man, dark skin, short beard, wearing a light blue technician shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "NE DEVIENS PAS SON CHAUFFEUR GRATUIT",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU N'AS PAS UNE COPINE. TU AS UNE CLIENTE.",
+   "segments": [
+    {
+     "text": "Mon frère… tu n'as pas une copine. Tu as une cliente. Et ta voiture, c'est son taxi.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "cliente",
+      "taxi"
+     ]
+    },
+    {
+     "text": "Si ce soir elle t'appelle « passe me prendre »… tu sais vraiment pourquoi ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "vraiment"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Fabrice peut te rendre tes soirées.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "car keys lying next to a phone lighting up with an incoming call on a dashboard at night, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone vibrating on a car dashboard",
+      "vol": 0.16,
+      "q": "phone vibration"
+     }
+    },
+    {
+     "prompt": "a hand turning a car ignition key, extreme close-up, cold blue light",
+     "motion": "push_in",
+     "foley": {
+      "text": "old car engine starting",
+      "vol": 0.14,
+      "q": "car engine start"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "Cocody street traffic with car horns at dusk",
+      "at": "start",
+      "vol": 0.2,
+      "q": "city traffic"
+     }
+    },
+    {
+     "text": "J'ai un ami, Fabrice. Il répare des climatiseurs à Cocody. Il a une vieille Corolla grise.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Mariette.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il la dépose au travail le matin. Il va la chercher à minuit.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle appelle. Il démarre. Toujours.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Toujours"
+     ]
+    },
+    {
+     "text": "Mais quand il propose : « On mange ensemble samedi ? »… elle a toujours quelque chose.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short beard, wearing a light blue technician shirt, seen from behind or in profile, face never sharp, repairing an air conditioning unit on a wall in a Cocody house, tools, daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "screwdriver and metal panel sounds",
+      "vol": 0.12,
+      "q": "tools metal"
+     }
+    },
+    {
+     "prompt": "an old grey sedan driving through Abidjan streets at night, seen from behind, red tail lights, wet road",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short beard, wearing a light blue technician shirt, seen from behind or in profile, face never sharp, at the wheel of an old car, seen from the back seat, phone on the passenger seat glowing, night",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un dimanche, à l'anniversaire de sa mère, le téléphone sonne.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mariette : « Viens me chercher, c'est urgent. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Son grand frère lâche, devant toute la famille : « Ton taxi a sonné, dêh. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "taxi"
+     ]
+    },
+    {
+     "text": "Tout le monde rit. Il sort quand même. Il a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un vendredi, il la dépose à un anniversaire à Angré. Il attend dans la voiture. Deux heures.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Par la vitre, il la voit trinquer avec ses amis. Personne ne l'a invité.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "À minuit, elle ouvre la portière arrière et dit à son amie : « Monte. Lui, il va nous déposer. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Lui"
+     ]
+    },
+    {
+     "text": "Pas « mon copain ». « Lui. »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an Ivorian family lunch table on a Sunday, a birthday cake, an older woman seen from behind putting down her fork, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "family table chatter and cutlery",
+      "vol": 0.12,
+      "q": "dinner table"
+     }
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short beard, wearing a light blue technician shirt, seen from behind or in profile, face never sharp, waiting alone in a parked old car at night, seen from behind through the rear window, restaurant lights outside",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a restaurant terrace in Angré at night seen through a car window, people toasting and laughing, bokeh, faces never sharp",
+     "motion": "push_in",
+     "foley": {
+      "text": "muffled party music through a car window",
+      "vol": 0.14,
+      "q": "muffled music"
+     }
+    },
+    {
+     "prompt": "a young Ivorian woman in an evening dress opening the rear door of an old car at night, seen from behind, face never sharp",
+     "motion": "push_in",
+     "foley": {
+      "text": "car door opening",
+      "vol": 0.15,
+      "q": "car door"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il vide la boîte à gants : les reçus d'essence du mois.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque reçu, un trajet pour elle. Jamais un repas ensemble.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle n'avait pas un homme. Elle avait un volant.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "volant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a pile of crumpled fuel receipts spread on a car seat under a dome light at night, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "paper receipts rustling",
+      "vol": 0.12,
+      "q": "paper rustle"
+     }
+    },
+    {
+     "prompt": "an empty steering wheel of an old car, dashboard lights, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, elle appelle : « Passe me prendre à dix-huit heures. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il répond : « Ce soir, je ne peux pas. Si tu veux me voir, on dîne samedi. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle n'est pas venue samedi. Fabrice, lui, a repris sa formation du soir.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone on a workbench showing an incoming call, a man's hand leaving it face down, afternoon light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short beard, wearing a light blue technician shirt, seen from behind or in profile, face never sharp, sitting in an evening training class, notebook open, seen from behind, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "classroom ambience, pages turning",
+      "vol": 0.1,
+      "q": "classroom"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une portière arrière lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette leaning on a parked car at dawn, Cocody street empty",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Elle t'appelle pour te voir… ou pour se déplacer ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "car keys hanging from a hook by a door, a phone ringing beside them, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense au dernier trajet que tu as fait pour elle.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting alone in a parked car in the dark, hands on the steering wheel, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Si tu es dans tous ses trajets mais jamais dans ses plans, c'est pas de l'amour. C'est un service.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "service"
+     ]
+    },
+    {
+     "text": "Quand elle appelle pour une course, tu dis : « Pas ce soir. J'ai ma vie. » Faut pas fâcher.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : on méprise le prince tenu pour changeant, léger, irrésolu.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "irrésolu"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short beard, wearing a light blue technician shirt, seen from behind or in profile, face never sharp, putting his car keys in his pocket and walking into a training center, daylight, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : celle qui te respecte t'appelle pour toi, pas pour ta voiture.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors reprends tes clés. Et conduis ta vie !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "vie"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand closing firmly around a car key, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas d'entendre « lui » à la place de ton prénom.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short beard, wearing a light blue technician shirt, seen from behind or in profile, face never sharp, driving alone on an Abidjan bridge at sunrise, seen from behind, lagoon light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je ne suis pas un taxi",
+   "segments": [
+    {
+     "text": "Écris « Je ne suis pas un taxi » en commentaire, et envoie cette vidéo au frère qui démarre dès que son téléphone sonne.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Je ne suis pas un taxi"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, d'homme à homme.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a parked old grey sedan under a street lamp at night, engine off, seen from a distance",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Ta voiture peut la conduire partout. Ta dignité, elle, ne se prête pas.",
+  "author": "Mr Zika"
+ }
+}

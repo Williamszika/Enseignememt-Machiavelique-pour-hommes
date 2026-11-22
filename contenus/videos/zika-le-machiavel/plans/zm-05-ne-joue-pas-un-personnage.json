@@ -1,0 +1,455 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-05",
+ "title": "Ne joue pas un personnage",
+ "output": "zm_05_ne_joue_pas_un_personnage.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan area (Bingerville garden houses, a friends' dinner terrace, an engineer's apartment), warm evening light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 105,
+ "character": "a 32-year-old Ivorian man, dark skin, tall, wearing a beige linen shirt, dark sunglasses in hand, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "NE JOUE PAS UN PERSONNAGE",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU JOUES LE GARS FROID. ET TU ES EN TRAIN DE LA PERDRE.",
+   "segments": [
+    {
+     "text": "Mon frère… tu joues le gars froid. Et c'est toi qui la perds.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "froid"
+     ]
+    },
+    {
+     "text": "Si demain elle te demande « qui es-tu vraiment ? »… tu sais quoi répondre ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "vraiment"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Désiré peut t'éviter six mois de théâtre.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "dark sunglasses lying on a table next to a single sheet of paper, close-up, night lamp",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a theatre mask on a wooden table in shadow, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "quiet Bingerville evening, crickets and distant traffic",
+      "at": "start",
+      "vol": 0.18,
+      "q": "evening crickets"
+     }
+    },
+    {
+     "text": "J'ai un ami, Désiré. Ingénieur à Bingerville. Un homme brillant.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Sandrine.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sur les réseaux, des vidéos lui disent : « Reste un mystère. Ne montre rien. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Alors il joue le personnage. Le gars froid. Lunettes noires. Réponses courtes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle lui demande ce qu'il aime. Il sourit : « Tu verras. »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, tall, wearing a beige linen shirt, dark sunglasses in hand, seen from behind or in profile, face never sharp, studying bridge plans spread on a table in an engineering office, daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "large paper plans unrolling",
+      "vol": 0.1,
+      "q": "paper unroll"
+     }
+    },
+    {
+     "prompt": "a phone scrolling short videos in the dark, screen blurred, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, tall, wearing a beige linen shirt, dark sunglasses in hand, seen from behind or in profile, face never sharp, sitting back with sunglasses on at a café table, a woman across from him out of focus, seen in profile",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, chez des amis de Sandrine, une amie demande : « Désiré, tu aimes quoi dans la vie ? »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il hausse les épaules : « Ça dépend. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sandrine soupire : « Demande-lui. Moi, je ne le connais pas, dêh. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "connais"
+     ]
+    },
+    {
+     "text": "Tout le monde rit. Désiré, non. Il a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un dimanche, Sandrine pose une feuille sur sa table. En haut : « Ce que je sais de Désiré. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "En dessous, une seule ligne : « Ingénieur. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Ingénieur"
+     ]
+    },
+    {
+     "text": "« Six mois. C'est tout ce que je sais. Je suis fatiguée de deviner. » Et elle part.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a dinner terrace in a Bingerville garden at night, friends around a table seen from behind, lanterns, faces never sharp",
+     "motion": "push_in",
+     "foley": {
+      "text": "dinner party laughter outdoors",
+      "vol": 0.14,
+      "q": "dinner laughter"
+     }
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, tall, wearing a beige linen shirt, dark sunglasses in hand, seen from behind or in profile, face never sharp, shrugging at a dinner table, seen from behind, people laughing around him out of focus",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a woman's hand placing a single sheet of paper on a wooden table, one handwritten line, no readable text, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "paper placed on a table",
+      "vol": 0.1,
+      "q": "paper"
+     }
+    },
+    {
+     "prompt": "a front door closing slowly in a quiet apartment, afternoon light",
+     "motion": "static",
+     "foley": {
+      "text": "door closing softly",
+      "vol": 0.15,
+      "q": "door close"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il relit la feuille.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque fois qu'elle s'approchait, il reculait. Parce qu'une vidéo l'avait dit.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il n'était pas mystérieux. Il était absent.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "absent"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hands holding a single sheet of paper under a lamp at night, close-up, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an empty chair facing a window at night, reflection in the glass, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il demande à la voir dix minutes. Il enlève ses lunettes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Je jouais un rôle. J'aime les ponts, j'ai peur de décevoir mon père, et je tiens à toi. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle dit : « Laisse-moi réfléchir. » Rien n'est promis. Mais la semaine d'après, au café, il parle.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand putting a pair of sunglasses down on a café table, close-up, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, tall, wearing a beige linen shirt, dark sunglasses in hand, seen from behind or in profile, face never sharp, talking at a small café table, seen from behind, a woman listening across from him out of focus, soft daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "quiet café ambience, cups",
+      "vol": 0.1,
+      "q": "cafe"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une feuille d'une seule ligne lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette on a terrace overlooking the Ebrié lagoon at dawn, Bingerville",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Elle connaît ton personnage… ou elle te connaît, toi ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a mirror reflecting an empty room with a jacket on a chair, soft light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière chose vraie que tu lui as cachée.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a bed's edge in the dark holding sunglasses in his hands, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… le mystère qu'on te vend, c'est un costume. Le chaud et le froid, faut pas : c'est du théâtre.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "costume"
+     ]
+    },
+    {
+     "text": "Un homme solide garde un fond qui ne bouge pas : ses valeurs, sa parole. Autour, des facettes vraies.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Montrer un doute, ce n'est pas t'effondrer. Ce soir, dis-lui une chose vraie que tu n'as jamais dite.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre quinze du Prince : il vaut mieux aller à la vérité effective des choses… qu'à l'idée qu'on s'en fait.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "vérité effective"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a big tree with a still trunk and leaves moving in the wind, Bingerville garden, golden light",
+     "motion": "push_in",
+     "foley": {
+      "text": "leaves rustling in the wind",
+      "vol": 0.12,
+      "q": "leaves wind"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme ne peut pas aimer un homme qu'elle n'a jamais rencontré.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors enlève le costume. Et montre-lui l'homme qui est dedans !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "dedans"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hands folding a pair of sunglasses and setting them aside for good, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas une feuille d'une seule ligne sur ta table.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, tall, wearing a beige linen shirt, dark sunglasses in hand, seen from behind or in profile, face never sharp, walking down a Bingerville road at sunrise without sunglasses, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je reste vrai",
+   "segments": [
+    {
+     "text": "Écris « Je reste vrai » si tu enlèves le costume ce soir. Envoie cette vidéo à l'ami qui joue les durs.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Je reste vrai"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page, active la cloche : chaque mercredi, Zika le Machiavel te parle vrai.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a pair of sunglasses left in a drawer, the drawer closing, close-up, warm light",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Un rôle séduit une soirée. Un homme vrai tient toutes les saisons.",
+  "author": "Mr Zika"
+ }
+}

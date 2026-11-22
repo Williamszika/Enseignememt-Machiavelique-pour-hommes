@@ -1,60 +1,61 @@
 # [Zika le Machiavel] ZM-04 — Arrête de mendier l'attention
 
-**Rubrique Zika le Machiavel** · écrit le 11 novembre 2026 à partir du texte envoyé par Mr Zika ([source 42](../../../sources/42-zika-le-machiavel-texte.md), [analyse](../../../analyses/42-zika-le-machiavel.md)).
-**À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. L'équipe de montage ajoute les illustrations de la colonne de droite.
-**Durée :** environ 1 min 46 (231 mots), sous les 2 minutes demandées.
+**Rubrique Zika le Machiavel** · À partir de la [source 42](../../../sources/42-zika-le-machiavel-texte.md) (vidéo 2 : « Si demain elle disparaissait, qu'est-ce qui changerait ? — Presque tout », l'investissement à sens unique, la dignité et pas la vengeance). Écrit le 22 novembre 2026, thèmes validés par Mr Zika le 22 nov. Réécrit entièrement sur le modèle de ZM-15 ; remplace la version du 11 novembre (ancien modèle).
+**À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. Modèle de ZM-15 (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, CTA, citation).
+**Durée estimée :** environ 3 min 09 (473 mots ÷ 2,5 mots/s), CTA compris (32 mots). Voix Paul K ; texte ElevenLabs : `elevenlabs/zm-04-arrete-de-mendier-l-attention.txt` ; plan : `plans/zm-04-arrete-de-mendier-l-attention.json`.
 
-- **Titre à l'écran (0–2 s) :** `TU DONNES, ELLE NE REND PAS ?`
-- **La règle :** *Le Prince*, ch. XIII et XXIV : ne bâtis jamais ta sécurité sur des forces qui appartiennent à un autre.
-- **Tiré du texte :** Vidéo 2 : « Si demain elle disparaissait, qu'est-ce qui changerait ? — Presque tout » ; l'investissement à sens unique ; reprendre son énergie pour sa propre vie ; la dignité, pas la vengeance ; « tu ne peux pas perdre ce que tu n'as jamais eu ».
-- **Corrigé :** Retiré : l'« indifférence polie » pour qu'elle revienne, répondre six heures plus tard, « la manipulation féminine de base », « elle reviendra si tu fais les étapes ». Ce sont des jeux (ligne rouge du compte). On garde : arrêter de donner ce qu'on ne te rend pas, pour te respecter, pas pour la faire revenir.
-
-## Ce que tu dis / l'illustration pour le montage
-
-| # | Ce que tu dis (Mr Zika, face caméra) | Illustration proposée |
-|---|---|---|
-| 1 | Mon frère, tu donnes à quatre-vingt-dix pour cent. / Elle donne dix. / Et tu appelles ça une **relation** ? | Mr Zika face caméra. À l'écran : 90 % / 10 %. |
-| 2 | Je vais te dire une affaire. / Gildas, comptable au Plateau. / Chaque matin, un café pour Nina. / Chaque soir, « bonne nuit ». | Tours du Plateau au matin ; deux gobelets de café ; prénoms à l'écran : GILDAS, NINA. |
-| 3 | Elle répond quand ça l'arrange. / Et lui organise toute sa journée autour d'elle. | Téléphone : messages envoyés, un seul « ok » en retour. |
-| 4 | Je lui demande : « Si demain elle sort de ta vie, qu'est-ce qui change ? » / Il me dit : « Presque **tout**. » | Mr Zika, silence d'une seconde, regard caméra. |
-| 5 | C'est là le problème. / Pas elle. / Lui, qui a tout mis sur une seule personne. | Une balance : un seul poids d'un côté, tout le reste vide. |
-| 6 | Je ne vais pas te dire de l'ignorer pour qu'elle revienne. / Ça, c'est un jeu. / Et les jeux, faut pas. | Mr Zika, main levée, ton ferme. À l'écran : PAS DE JEU. |
-| 7 | Je te dis : arrête de donner ce qu'on ne te rend pas. / Elle n'écrit jamais en premier ? Tu n'écris pas toujours en premier. / Pas pour la punir. Pour te **respecter**. | À l'écran : PAS POUR PUNIR. POUR TE RESPECTER. |
-| 8 | Et l'énergie que tu récupères, tu la mets sur toi. / Le sport. Tes amis. Ton travail. Ton projet. | Montage rapide : footing au petit matin, rires entre amis, ordinateur, plan de projet. |
-| 9 | Machiavel le répète, chapitres treize et vingt-quatre du *Prince* : / ne bâtis jamais ta sécurité sur des forces qui appartiennent à un autre. | Livre ancien ; à l'écran : LE PRINCE, CH. XIII ET XXIV. |
-| 10 | Gildas a fait ça. / Nina n'est pas revenue. / Et il a compris que ce n'était pas une perte. / Il avait repris sa vie. | Gildas de dos qui court au lever du soleil. |
-| 11 | Aujourd'hui, prends l'heure que tu passes à attendre ses messages, / et mets-la sur un projet à **toi**. | Un réveil réglé sur une heure ; un cahier de projet ouvert. |
-| 12 | Tu reprends ton heure aujourd'hui ? / Oui ou non. | Mr Zika, plan fixe. À l'écran : OUI OU NON. |
-| 13 | *(silence 1 s)* « Donne à qui te rend. Garde le reste pour bâtir. » | Écran noir, citation en blanc (Montserrat ExtraBold), filet or, « — Mr Zika » en Pinyon Script or #D4AF37, 4 s. |
+- **Titre à l'écran :** `ARRÊTE DE MENDIER L'ATTENTION`
+- **La règle :** *Le Prince*, ch. XIII (et XXIV) : sans ses propres forces, aucun prince n'est en sécurité, il dépend entièrement de la fortune ; ne bâtis pas ta vie sur l'attention d'une autre.
+- **Fiction**, présentée comme une histoire (Gildas, comptable au Plateau ; Nina).
 
 ## Texte pour le prompteur
 
-Mon frère, tu donnes à quatre-vingt-dix pour cent. / Elle donne dix. / Et tu appelles ça une relation ?
-Je vais te dire une affaire. / Gildas, comptable au Plateau. / Chaque matin, un café pour Nina. / Chaque soir, « bonne nuit ».
-Elle répond quand ça l'arrange. / Et lui organise toute sa journée autour d'elle.
-Je lui demande : « Si demain elle sort de ta vie, qu'est-ce qui change ? » / Il me dit : « Presque tout. »
-C'est là le problème. / Pas elle. / Lui, qui a tout mis sur une seule personne.
-Je ne vais pas te dire de l'ignorer pour qu'elle revienne. / Ça, c'est un jeu. / Et les jeux, faut pas.
-Je te dis : arrête de donner ce qu'on ne te rend pas. / Elle n'écrit jamais en premier ? Tu n'écris pas toujours en premier. / Pas pour la punir. Pour te respecter.
-Et l'énergie que tu récupères, tu la mets sur toi. / Le sport. Tes amis. Ton travail. Ton projet.
-Machiavel le répète, chapitres treize et vingt-quatre du Prince : / ne bâtis jamais ta sécurité sur des forces qui appartiennent à un autre.
-Gildas a fait ça. / Nina n'est pas revenue. / Et il a compris que ce n'était pas une perte. / Il avait repris sa vie.
-Aujourd'hui, prends l'heure que tu passes à attendre ses messages, / et mets-la sur un projet à toi.
-Tu reprends ton heure aujourd'hui ? / Oui ou non.
-« Donne à qui te rend. Garde le reste pour bâtir. » — Mr Zika
+Mon frère… tu n'es pas son copain. Tu es sa salle d'attente.
+Tu écris matin et soir… et elle, elle t'a écrit en premier quand ?
+Reste avec moi. Ce qui est arrivé à mon ami Gildas peut te rendre tes soirées.
+Je vais te raconter une histoire.
+J'ai un ami, Gildas. Comptable dans un cabinet au Plateau. Sérieux. Précis.
+Il a une copine : Nina.
+Chaque matin : « Bonne journée, ma belle. » Chaque soir : « Bonne nuit. »
+Nina répond quand ça l'arrange. Un « ok ». Parfois rien.
+Et Gildas organise sa journée autour de ce « ok ».
+Pourtant, un lundi, en réunion, il regarde son téléphone toutes les deux minutes.
+Son chef s'arrête : « Gildas, ton bilan est faux. Tu travailles pour nous… ou pour ton téléphone ? »
+Les collègues rient. Gildas range le téléphone. Il a honte.
+Mais il ne change pas.
+Un samedi, chez lui, Nina veut lui montrer une vidéo. Elle fait défiler ses messages.
+Et Gildas voit sa conversation, rangée tout en bas. Dans les archives.
+À côté de son nom : quatorze messages non lus.
+Nina rit à sa vidéo. Gildas, lui, est dans son coin.
+Cette nuit-là, il relit leur conversation. Ses messages, du haut jusqu'en bas.
+Et chaque fois qu'il allait arrêter… un petit « ok ». Juste assez pour qu'il reste.
+Il n'était pas son homme. Il était sa réserve.
+Le lendemain, il lui écrit : « Nina, je n'écrirai plus tout seul. Si tu veux de moi, tu sais où me trouver. »
+Puis il reprend la préparation de son examen d'expert-comptable.
+Nina n'est pas revenue. Lui a retrouvé ses soirées, et un bilan juste.
+Quatorze messages non lus lui ont ouvert les yeux. Toi… il t'en faudra combien ?
+Et toi, mon frère ? Tes messages, elle les attend… ou elle les laisse s'empiler ?
+Pense à ton dernier message resté sans réponse.
+Tu l'as ? Garde ça.
+Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te garde en réserve.
+Je ne dis pas : ignore-la pour qu'elle revienne. Ça, c'est un jeu. Et les jeux, faut pas.
+Arrête de donner ce qu'on ne te rend pas. Pour te respecter, pas pour la punir.
+Ce soir, l'heure où tu attends son « ok »… mets-la sur ton projet.
+J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre treize du Prince : sans ses propres forces, aucun prince n'est en sécurité.
+Et écoute-moi bien : une femme qui veut de toi ne range pas ton nom dans ses archives.
+Alors arrête de mendier. Redeviens le premier dans ta vie !
+Change maintenant. N'attends pas le quinzième message non lu.
+Écris « Je reprends mon heure » en commentaire, et dis-nous ce que tu vas en faire.
+Abonne-toi, suis la page et active la cloche des notifications : chaque mercredi, on se respecte entre hommes.
+« L'attention qu'on mendie ne nourrit pas. Celle qu'on se donne construit un homme. » — Mr Zika.
 
-## Conseils de tournage
-
-- Assis ou debout, plan poitrine, une lampe chaude de côté, fond sombre ; regarde l'objectif comme si un frère était assis en face.
-- Voix grave et posée ; les phrases courtes portent le poids ; un vrai silence avant la règle de Machiavel et avant la citation.
-- Les « dêh », « c'est pas pour rien », « faut pas » se disent naturellement, sans forcer l'accent.
-- Tourne d'une traite, puis une deuxième prise plus serrée pour donner du choix au montage.
-
-## Légende
+## Légende et commentaire épinglé
 
 ```
-Un café chaque matin, « bonne nuit » chaque soir. Et en retour : « ok ». Pas de jeu, pas de vengeance : juste reprendre sa vie.
-Tu reprends ton heure aujourd'hui ? Oui ou non.
+Zika le Machiavel — ZM-04 · Arrête de mendier l'attention
+Chaque matin « bonne journée », chaque soir « bonne nuit ». Et dans son téléphone à elle : quatorze messages non lus, rangés dans les archives.
 
-#mrzika #zikalemachiavel #machiavel #leprince
+#mrzika #zikalemachiavel #machiavel #leprince #respectdesoi
 ```
+
+**Commentaire épinglé :** Écris « Je reprends mon heure » et dis ce que tu vas en faire. Chaque mercredi, un rendez-vous pour les hommes qui se respectent.

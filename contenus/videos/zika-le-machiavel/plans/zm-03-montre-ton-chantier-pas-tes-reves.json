@@ -1,0 +1,464 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-03",
+ "title": "Montre ton chantier, pas tes rêves",
+ "output": "zm_03_montre_ton_chantier_pas_tes_reves.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Treichville maquis, family courtyard, small evening kitchen school), warm night light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 103,
+ "character": "a 27-year-old Ivorian man, dark skin, slim, wearing a black waiter's apron over a white shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "MONTRE TON CHANTIER, PAS TES RÊVES",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TON MANQUE D'ARGENT NE LA FAIT PAS FUIR. TES PROMESSES, SI.",
+   "segments": [
+    {
+     "text": "Mon frère… ton manque d'argent ne la fait pas fuir. Tes promesses, si.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "promesses"
+     ]
+    },
+    {
+     "text": "Si demain elle te demande « et ton projet ? »… tu as quoi à lui montrer ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "quoi"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Yves peut t'éviter de perdre la face.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a folded, yellowed hotel brochure lying on a dark table next to two glasses, close-up, night",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a waiter's tray with drinks crossing a crowded maquis at night, seen from behind, bokeh lights",
+     "motion": "push_in",
+     "foley": {
+      "text": "glasses clinking on a tray",
+      "vol": 0.14,
+      "q": "glasses clink"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Treichville maquis at night, music and glasses",
+      "at": "start",
+      "vol": 0.2,
+      "q": "bar ambience"
+     }
+    },
+    {
+     "text": "J'ai un ami, Yves. Serveur dans un maquis à Treichville. Petits pourboires.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Raïssa. Infirmière. Elle gagne le double.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Yves se sent petit. Alors il promet.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« L'an prochain, j'ouvre mon maquis. Pour ton anniversaire, je t'emmène à Assinie. »",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Assinie"
+     ]
+    },
+    {
+     "text": "Un an passe. Pas de maquis. Pas d'économies. Pas de plan.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "plan"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 27-year-old Ivorian man, dark skin, slim, wearing a black waiter's apron over a white shirt, seen from behind or in profile, face never sharp, carrying a tray of drinks between tables in a Treichville maquis at night, string lights",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a few coins and small banknotes of tips on a wooden counter, close-up, warm light",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "coins dropped on wood",
+      "vol": 0.12,
+      "q": "coins"
+     }
+    },
+    {
+     "prompt": "a young Ivorian woman in a nurse's uniform seen from behind walking out of a clinic at dusk, face never sharp",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un dimanche, l'oncle de Raïssa demande devant toute la famille : « Alors, Yves, ce maquis, on dit quoi ? »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Tout le monde le regarde. Yves bégaie : « Ça… ça avance. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Raïssa baisse les yeux. Yves a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le jour de l'anniversaire de Raïssa, il recommence : « L'an prochain, Assinie, je te jure. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Raïssa ouvre son sac et pose sur la table un dépliant d'Assinie, plié en quatre, jauni.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "dépliant"
+     ]
+    },
+    {
+     "text": "« Tu me l'as donné l'an dernier. Le même jour. Avec la même phrase. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "« Je ne veux pas Assinie, Yves. Je veux voir une seule chose faite. »",
+     "pause_after": 1.0,
+     "emphasis": [
+      "faite"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a Sunday family lunch in an Abidjan courtyard, an older man seen from behind pouring a drink, plates on the table",
+     "motion": "push_in",
+     "foley": {
+      "text": "courtyard lunch chatter",
+      "vol": 0.12,
+      "q": "family chatter"
+     }
+    },
+    {
+     "prompt": "a 27-year-old Ivorian man, dark skin, slim, wearing a black waiter's apron over a white shirt, seen from behind or in profile, face never sharp, sitting at a family table, head slightly lowered, seen in profile, face never sharp",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a woman's hand placing a folded yellowed hotel brochure on a restaurant table, close-up, candlelight",
+     "motion": "push_in",
+     "foley": {
+      "text": "paper placed on a table",
+      "vol": 0.1,
+      "q": "paper"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il déplie le papier et compte ses promesses.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque fois qu'il s'est senti petit… il a vendu un rêve.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "rêve"
+     ]
+    },
+    {
+     "text": "Il ne construisait rien. Il racontait.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "racontait"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "hands unfolding a worn hotel brochure under a single lamp at night, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an empty wooden table with one lamp in a small room, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il ouvre un compte d'épargne et s'inscrit à une formation de cuisine.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il dit à Raïssa : « Plus de promesses. Ce mois-ci, vingt mille de côté. En mars, la formation. Tu verras chaque étape. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle a dit : « On verra. » Trois mois plus tard, devant le reçu : « Ça, c'est concret. »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand signing a savings account form at a bank counter, morning light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 27-year-old Ivorian man, dark skin, slim, wearing a black waiter's apron over a white shirt, seen from behind or in profile, face never sharp, chopping vegetables in an evening cooking class, seen from behind, steam, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "knife chopping on a board, kitchen ambience",
+      "vol": 0.12,
+      "q": "chopping"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un dépliant jauni lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at the edge of the Treichville lagoon at dawn, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tu lui montres ce que tu fais… ou ce que tu feras ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a notebook on a table with an empty page and a pen, close-up, soft light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière promesse que tu lui as faite.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a plastic chair in an empty maquis after closing, chairs stacked, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… être fauché, c'est pas une honte. Être sans plan, ça, c'est un problème.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le rêveur promet. Le bâtisseur montre ses étapes.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "étapes"
+     ]
+    },
+    {
+     "text": "Pas les moyens ? Dis-le : « C'est pas dans mon budget pour l'instant. » Gbê est mieux que drap.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ce soir, écris ton chantier : ce mois-ci, dans six mois, dans un an.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre six du Prince : ceux qui ont les moyens de tenir leur entreprise réussissent… les autres échouent.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "échouent"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a hand writing three numbered lines in a notebook, close-up, warm lamp, no readable text",
+     "motion": "push_in",
+     "foley": {
+      "text": "pen writing on paper",
+      "vol": 0.1,
+      "q": "pen writing"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme sérieuse ne te demande pas une villa. Elle demande une parole qui tient.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors arrête de raconter. Et montre ton chantier !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "chantier"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "hands laying a first brick on a small construction site at sunrise, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'elle pose sur la table ta dernière promesse.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 27-year-old Ivorian man, dark skin, slim, wearing a black waiter's apron over a white shirt, seen from behind or in profile, face never sharp, walking to work along a Treichville street at sunrise, apron folded under his arm, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Mon chantier",
+   "segments": [
+    {
+     "text": "Écris « Mon chantier » et ta première étape en commentaire. Envoie cette vidéo au frère qui promet Assinie depuis deux ans.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Mon chantier"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, on bâtit entre hommes.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a notebook open on a table at night with three short handwritten lines, a lamp, no readable text",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Ne lui vends pas demain. Montre-lui ce que tu bâtis aujourd'hui.",
+  "author": "Mr Zika"
+ }
+}

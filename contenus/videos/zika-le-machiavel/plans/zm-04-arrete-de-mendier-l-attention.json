@@ -1,0 +1,468 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-04",
+ "title": "Arrête de mendier l'attention",
+ "output": "zm_04_arrete_de_mendier_l_attention.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Plateau office towers, accounting firm meeting room, small apartment at night), cool daylight and warm night lamps, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 104,
+ "character": "a 33-year-old Ivorian man, dark skin, thin glasses, wearing a pale blue shirt and dark trousers, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "ARRÊTE DE MENDIER L'ATTENTION",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU N'ES PAS SON COPAIN. TU ES SA SALLE D'ATTENTE.",
+   "segments": [
+    {
+     "text": "Mon frère… tu n'es pas son copain. Tu es sa salle d'attente.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "salle d'attente"
+     ]
+    },
+    {
+     "text": "Tu écris matin et soir… et elle, elle t'a écrit en premier quand ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "quand"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Gildas peut te rendre tes soirées.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone screen full of sent message bubbles on one side only, blurred text, close-up, night",
+     "motion": "push_in",
+     "foley": {
+      "text": "message sent swoosh",
+      "vol": 0.14,
+      "q": "message sent"
+     }
+    },
+    {
+     "prompt": "an empty waiting room chair under a cold light, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "Plateau business district morning traffic",
+      "at": "start",
+      "vol": 0.18,
+      "q": "city morning"
+     }
+    },
+    {
+     "text": "J'ai un ami, Gildas. Comptable dans un cabinet au Plateau. Sérieux. Précis.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Nina.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque matin : « Bonne journée, ma belle. » Chaque soir : « Bonne nuit. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Nina répond quand ça l'arrange. Un « ok ». Parfois rien.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Et Gildas organise sa journée autour de ce « ok ».",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ok"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, thin glasses, wearing a pale blue shirt and dark trousers, seen from behind or in profile, face never sharp, at his desk in a Plateau accounting office, spreadsheets on screen, glass towers behind, morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "office keyboard typing",
+      "vol": 0.1,
+      "q": "keyboard"
+     }
+    },
+    {
+     "prompt": "a man's thumb typing a good morning message on a phone next to a coffee cup, close-up, blurred text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, thin glasses, wearing a pale blue shirt and dark trousers, seen from behind or in profile, face never sharp, glancing at his phone between files, seen in profile, face never sharp",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un lundi, en réunion, il regarde son téléphone toutes les deux minutes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Son chef s'arrête : « Gildas, ton bilan est faux. Tu travailles pour nous… ou pour ton téléphone ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "téléphone"
+     ]
+    },
+    {
+     "text": "Les collègues rient. Gildas range le téléphone. Il a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un samedi, chez lui, Nina veut lui montrer une vidéo. Elle fait défiler ses messages.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Et Gildas voit sa conversation, rangée tout en bas. Dans les archives.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "archives"
+     ]
+    },
+    {
+     "text": "À côté de son nom : quatorze messages non lus.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "non lus"
+     ]
+    },
+    {
+     "text": "Nina rit à sa vidéo. Gildas, lui, est dans son coin.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a meeting room in a Plateau office tower, people around a table seen from behind, a phone face up on the table glowing, cool light",
+     "motion": "push_in",
+     "foley": {
+      "text": "quiet office meeting room murmur",
+      "vol": 0.1,
+      "q": "meeting room"
+     }
+    },
+    {
+     "prompt": "a printed balance sheet with a red circle on a figure, close-up, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a woman's hand scrolling a phone on a sofa, the screen blurred, a man's shoulder in the foreground, warm lamp, faces never sharp",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, thin glasses, wearing a pale blue shirt and dark trousers, seen from behind or in profile, face never sharp, sitting at the far end of a sofa, seen from behind, a woman laughing at her phone beside him out of focus",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il relit leur conversation. Ses messages, du haut jusqu'en bas.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et chaque fois qu'il allait arrêter… un petit « ok ». Juste assez pour qu'il reste.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il n'était pas son homme. Il était sa réserve.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "réserve"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling a long one-sided chat on a phone in the dark, blue light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a single chair left in an empty storage room, one bulb, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il lui écrit : « Nina, je n'écrirai plus tout seul. Si tu veux de moi, tu sais où me trouver. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Puis il reprend la préparation de son examen d'expert-comptable.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Nina n'est pas revenue. Lui a retrouvé ses soirées, et un bilan juste.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone placed face down on a desk next to thick accounting textbooks, evening lamp, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone placed on a wooden desk",
+      "vol": 0.12,
+      "q": "phone on desk"
+     }
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, thin glasses, wearing a pale blue shirt and dark trousers, seen from behind or in profile, face never sharp, studying at night with books and a calculator, seen from behind, warm lamp",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Quatorze messages non lus lui ont ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at an office window overlooking the Plateau towers at dawn",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tes messages, elle les attend… ou elle les laisse s'empiler ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone on a bedside table with many unread notifications piling up, blurred, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à ton dernier message resté sans réponse.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting alone at a desk in a dark office, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te garde en réserve.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "réserve"
+     ]
+    },
+    {
+     "text": "Je ne dis pas : ignore-la pour qu'elle revienne. Ça, c'est un jeu. Et les jeux, faut pas.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Arrête de donner ce qu'on ne te rend pas. Pour te respecter, pas pour la punir.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "respecter"
+     ]
+    },
+    {
+     "text": "Ce soir, l'heure où tu attends son « ok »… mets-la sur ton projet.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre treize du Prince : sans ses propres forces, aucun prince n'est en sécurité.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "sécurité"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, thin glasses, wearing a pale blue shirt and dark trousers, seen from behind or in profile, face never sharp, jogging along a lagoon road at sunrise, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "footsteps jogging on asphalt, morning birds",
+      "vol": 0.12,
+      "q": "jogging"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme qui veut de toi ne range pas ton nom dans ses archives.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors arrête de mendier. Redeviens le premier dans ta vie !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "vie"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand switching off a phone and closing a drawer on it, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas le quinzième message non lu.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, thin glasses, wearing a pale blue shirt and dark trousers, seen from behind or in profile, face never sharp, walking out of a Plateau office tower at sunset, briefcase in hand, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je reprends mon heure",
+   "segments": [
+    {
+     "text": "Écris « Je reprends mon heure » en commentaire, et dis-nous ce que tu vas en faire.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Je reprends mon heure"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche des notifications : chaque mercredi, on se respecte entre hommes.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a wall clock in an office at dusk, the hands moving, close-up",
+     "motion": "static",
+     "foley": {
+      "text": "clock ticking",
+      "vol": 0.1,
+      "q": "clock tick"
+     }
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "L'attention qu'on mendie ne nourrit pas. Celle qu'on se donne construit un homme.",
+  "author": "Mr Zika"
+ }
+}

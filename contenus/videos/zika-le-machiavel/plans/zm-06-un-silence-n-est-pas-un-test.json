@@ -1,0 +1,469 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-06",
+ "title": "Un silence n'est pas un test",
+ "output": "zm_06_un_silence_n_est_pas_un_test.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Marcory streets, a maquis at night, the lagoon shore, a building site), warm night light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 106,
+ "character": "a 29-year-old Ivorian man, dark skin, short hair, wearing a grey work t-shirt and an electrician's tool belt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "UN SILENCE N'EST PAS UN TEST",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TROIS JOURS SANS RÉPONSE. CE N'EST PAS UNE ÉPREUVE.",
+   "segments": [
+    {
+     "text": "Mon frère… trois jours sans réponse. Et toi, tu cherches quelle épreuve réussir.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "épreuve"
+     ]
+    },
+    {
+     "text": "Si demain elle revient avec « coucou toi »… tu fais comme si de rien n'était ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "comme si de rien n'était"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Arsène peut t'éviter des nuits blanches.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone lying on a bed at night showing a silent chat, the clock reading late, blue light, close-up, blurred text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's hand hovering over a phone keyboard in the dark, extreme close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone keyboard tapping",
+      "vol": 0.12,
+      "q": "typing phone"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "Marcory street at night, distant music and motorbikes",
+      "at": "start",
+      "vol": 0.2,
+      "q": "night street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Arsène. Électricien à Marcory. Un gars calme.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Inès.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Régulièrement, Inès disparaît. Deux jours. Trois. Quatre. Pas un mot.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Arsène écrit six messages. Puis un septième, fâché, à une heure du matin.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Une vidéo lui dit : « Chaque silence cache une épreuve. Ignore-la. »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short hair, wearing a grey work t-shirt and an electrician's tool belt, seen from behind or in profile, face never sharp, fixing electrical wires in a junction box on a Marcory building site, daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "pliers cutting wire",
+      "vol": 0.12,
+      "q": "wire cut"
+     }
+    },
+    {
+     "prompt": "a stack of unanswered message bubbles on a phone screen at 1 a.m., blurred text, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short hair, wearing a grey work t-shirt and an electrician's tool belt, seen from behind or in profile, face never sharp, lying awake in bed, phone light on his chest, seen from behind in the dark",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, à l'anniversaire de son meilleur ami, Arsène sort trois fois appeler Inès.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Quand il revient, le gâteau est coupé.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Son ami lâche, devant tout le monde : « Tu étais là sans être là, dêh. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Arsène s'assoit. Il a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le quatrième jour, il voit son statut : Inès au bord de la lagune, avec ses copines.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sous ses messages à lui : « Vu à vingt et une heures quatorze. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Vu"
+     ]
+    },
+    {
+     "text": "Le jeudi : « Coucou toi. » Il demande où elle était. Elle : « Tu es trop dans mon téléphone. »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a birthday table in a Marcory maquis at night, a cake already cut, an empty chair, string lights",
+     "motion": "push_in",
+     "foley": {
+      "text": "maquis birthday chatter and music",
+      "vol": 0.14,
+      "q": "party crowd"
+     }
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short hair, wearing a grey work t-shirt and an electrician's tool belt, seen from behind or in profile, face never sharp, standing outside a maquis on the phone, back to the camera, people celebrating behind him out of focus",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a phone screen showing a blurred photo of women laughing by a lagoon at sunset, close-up, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a phone on a table lighting up with a short message, a heart emoji, blurred text, night",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone notification ping",
+      "vol": 0.16,
+      "q": "notification"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il regarde les dates.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Quatre jours de silence. Un coucou. Son pardon. Et on recommence.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Ce n'était pas une épreuve. C'était un fait.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "fait"
+     ]
+    },
+    {
+     "text": "Elle lui montrait la place qu'elle lui donnait.",
+     "pause_after": 1.2
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a wall calendar with several days circled, a phone placed below it on a table, lamp light, close-up, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a single chair at the far end of a long empty table, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain matin, une seule fois : « Inès, quand tu disparais des jours, ça ne me va pas. Si tu veux de moi, dis-le. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Puis il part au chantier. Le soir, foot avec ses gars.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Deux jours plus tard : « Ok. » Il n'a pas couru. Il a vécu sa vie.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "vie"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's thumb sending one short message at sunrise, kitchen window light, close-up, blurred text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short hair, wearing a grey work t-shirt and an electrician's tool belt, seen from behind or in profile, face never sharp, playing football with friends on a dusty Marcory pitch at dusk, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "football kicked, friends shouting on a pitch",
+      "vol": 0.14,
+      "q": "football pitch"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une photo de lagune lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette on the Marcory lagoon shore at dawn, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tu attends son retour… ou tu vis pendant son absence ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone face down on a workbench beside electrician tools, daylight, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense au dernier silence qui t'a gardé éveillé.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, phone in his hand, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te laisse en attente.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "attente"
+     ]
+    },
+    {
+     "text": "On te dit que son silence est une épreuve ? Faut pas croire ça. C'est un fait.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "fait"
+     ]
+    },
+    {
+     "text": "Peut-être qu'elle a ses raisons. Alors tu demandes, une fois, le matin.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Puis tu ne supplies pas. Tu vis ta vie : ton travail, ton sport, tes amis.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "vie"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-cinq du Prince : la fortune est comme un fleuve en crue… on construit les digues quand le temps est calme.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "digues"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a river in flood held back by a stone dyke, wide shot, stormy light",
+     "motion": "push_in",
+     "foley": {
+      "text": "rushing river water",
+      "vol": 0.14,
+      "q": "river flow"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : celle qui veut de toi ne te laisse pas deviner quatre jours.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors pose ta question. Et reprends ta vie en main !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "main"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand tightening a screw on an electrical panel firmly, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas de rater un autre anniversaire pour un silence.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short hair, wearing a grey work t-shirt and an electrician's tool belt, seen from behind or in profile, face never sharp, walking to a building site through a Marcory street at sunrise, tool belt on, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je demande une fois",
+   "segments": [
+    {
+     "text": "Écris « Je demande une fois » si tu as compris. Partage cette vidéo à ton gars qui dort avec son téléphone.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Je demande une fois"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi à dix heures, on se retrouve.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone left on a table in an empty room at night, screen dark, close-up",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Pose ta question une fois. Ensuite, c'est ta vie qui parle.",
+  "author": "Mr Zika"
+ }
+}
