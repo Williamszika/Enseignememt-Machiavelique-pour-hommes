@@ -1,0 +1,508 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-16",
+ "title": "Bon mais faible, elle t'utilise",
+ "output": "zm_16_bon_mais_faible_elle_t_utilise.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Daloa (small neighborhood pharmacy with green cross light, car at night on a quiet street), clean white pharmacy light and warm night light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 116,
+ "character": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "BON MAIS FAIBLE, ELLE T'UTILISE",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU N'ES PAS TROP GENTIL. TU ES TROP FAIBLE.",
+   "segments": [
+    {
+     "text": "Mon frère… tu n'es pas trop gentil. Tu es trop faible. Et elle le sait.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "trop faible"
+     ]
+    },
+    {
+     "text": "Tu dis oui à tout… mais elle, la dernière fois qu'elle t'a dit merci, c'était quand ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "merci"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Christian peut te rendre ton nom.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand placing car keys into another open hand, close-up, cold light",
+     "motion": "push_in",
+     "foley": {
+      "text": "car keys jingle",
+      "vol": 0.14,
+      "q": "keys jingle"
+     }
+    },
+    {
+     "prompt": "a pharmacy shelf of boxes under white light, an empty hand reaching, close-up, no readable text",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "quiet town street with motorbikes passing",
+      "at": "start",
+      "vol": 0.2,
+      "q": "town street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Christian. Pharmacien, à Daloa. Un homme bon. Tout le quartier le respecte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Murielle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Murielle veut la voiture ? Il dit oui. Elle annule un rendez-vous ? « Pas grave. » Elle lui demande de payer le loyer de sa cousine ? Oui.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Christian ne dit jamais non. Il croit que c'est ça, l'amour.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "jamais non"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp, standing behind the counter of a small pharmacy, arranging boxes, profile, clean light",
+     "motion": "push_in",
+     "foley": {
+      "text": "pharmacy door bell and boxes",
+      "vol": 0.12,
+      "q": "shop bell"
+     }
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp, handing over car keys at a doorway at night, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un samedi, Murielle arrive à la pharmacie avec trois copines.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elles prennent des crèmes, des parfums, des vitamines. Murielle sourit : « C'est mon chéri qui offre. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "mon chéri qui offre"
+     ]
+    },
+    {
+     "text": "Son employée, Eudoxie, le regarde. La caisse attend.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Christian sourit. Il ne dit rien. Il est en train de gâter son nom.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "gâter son nom"
+     ]
+    },
+    {
+     "text": "Silence. Christian a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un soir, il dépose Murielle chez une amie. Elle descend de la voiture, le téléphone à l'oreille. La vitre est ouverte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Christian entend : « Christian ? Laisse, il dit oui à tout. C'est pratique. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "pratique"
+     ]
+    },
+    {
+     "text": "Pratique.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "four young women seen from behind, faces never sharp, taking products from pharmacy shelves, white light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a pharmacy cash register with an employee's hands waiting on the counter, close-up, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a car at night with an open window, a woman walking away with a phone to her ear, seen from behind, street light",
+     "motion": "push_in",
+     "foley": {
+      "text": "car door closing at night",
+      "vol": 0.16,
+      "q": "car door"
+     }
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp, sitting still behind the wheel of a parked car at night, profile, hands on the wheel",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il relit leurs messages.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle l'appelle pour la voiture. Pour l'argent. Pour les produits.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Le jour où il avait de la fièvre, pas un appel.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "pas un appel"
+     ]
+    },
+    {
+     "text": "Il n'était pas trop bon. Il était faible. Et elle le savait.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "faible"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling up a long chat conversation on a phone at night, close-up, blue light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a thermometer and a glass of water on a bedside table, single lamp, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, sur un bloc de la pharmacie, il écrit ses règles. Comment il veut être traité. Ce qu'il ne tolère plus.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ses règles"
+     ]
+    },
+    {
+     "text": "Le soir, il dit à Murielle, calmement : « Dans ma pharmacie, tout se paie. Et moi, je ne suis pas pratique. Si tu veux un homme, je suis là. Si tu veux un service, cherche ailleurs. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "pas pratique"
+     ]
+    },
+    {
+     "text": "Murielle rit. Puis elle crie. Puis elle part.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Les semaines sont calmes. Un peu vides. Mais à la caisse, Eudoxie ne baisse plus les yeux.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand writing three short lines on a small pharmacy notepad, close-up, morning light, no readable text",
+     "motion": "push_in",
+     "foley": {
+      "text": "pen writing on paper",
+      "vol": 0.1,
+      "q": "pen writing"
+     }
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp, standing calm in a living room facing a woman, both in profile, faces never sharp, evening light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp, opening the pharmacy shutter in the morning, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un seul mot, « pratique », lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a pharmacy window at dawn, an empty street outside",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? On t'aime… ou on se sert de toi parce que c'est facile ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an open door with a doormat, light pouring in, nobody there, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense au dernier oui que tu as dit alors que tu voulais dire non.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Le problème, ce n'est pas que tu es bon. C'est que tu es faible.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "faible"
+     ]
+    },
+    {
+     "text": "Un homme bon mais faible, on l'utilise. Un homme fort mais cruel, on le craint. Un homme fort et bon, on le respecte.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "fort et bon"
+     ]
+    },
+    {
+     "text": "Ce soir, écris tes règles. Trois lignes. Comment tu veux être traité. Ce que tu ne tolères plus.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Puis regarde ce qu'elle fait, pas seulement ce qu'elle dit. Pour te protéger, pas pour jouer.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et si rien ne change, faut pas laisser ça : une conversation claire et honnête. Puis tu pars.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tu pars"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre quinze du Prince : l'homme qui veut être bon en tout… se perd parmi tant d'autres qui ne le sont pas.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "se perd"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp, closing a pharmacy drawer firmly, profile, clean light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a small notepad with three handwritten lines pinned above a desk, close-up, no readable text",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : ta bonté est un cadeau. Pas un libre-service.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "libre-service"
+     ]
+    },
+    {
+     "text": "Alors garde ton cœur bon, redresse ton dos, et dis non quand c'est non !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "non"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand turning a key to lock a glass pharmacy door, close-up, dramatic light",
+     "motion": "push_in",
+     "foley": {
+      "text": "key turning in a lock",
+      "vol": 0.16,
+      "q": "key lock"
+     }
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas d'entendre qu'on te trouve « pratique ».",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, glasses, wearing a white pharmacist coat over a blue shirt, seen from behind or in profile, face never sharp, walking down a Daloa street at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Fort et bon",
+   "segments": [
+    {
+     "text": "Écris « Fort et bon » en commentaire si tu as compris.",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Fort et bon"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui ne sait pas dire non.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel t'apprend à tenir ta ligne.",
+     "pause_after": 2.0,
+     "emphasis": [
+      "chaque mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a white pharmacist coat hanging on a hook by a door, morning light, close-up",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Ta bonté sans limite n'est pas un cadeau. C'est une porte sans serrure.",
+  "author": "Mr Zika"
+ }
+}

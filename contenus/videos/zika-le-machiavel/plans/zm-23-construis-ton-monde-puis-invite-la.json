@@ -1,0 +1,465 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-23",
+ "title": "Construis ton monde, puis invite-la",
+ "output": "zm_23_construis_ton_monde_puis_invite_la.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Anyama (small bakery before dawn, wood-fired oven, town market street), warm oven glow and blue pre-dawn light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 123,
+ "character": "a 24-year-old Ivorian man, dark skin, short hair, flour on his forearms, wearing a white baker's apron over a grey t-shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "CONSTRUIS TON MONDE, PUIS INVITE-LA",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "SI ELLE EST TOUTE TA VIE, TU N'AS PAS DE VIE.",
+   "segments": [
+    {
+     "text": "Mon frère… si elle est toute ta vie, tu n'as pas de vie. Tu as une salle d'attente.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "salle d'attente"
+     ]
+    },
+    {
+     "text": "Quand elle n'est pas là, tu fais quoi, toi ?",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Martial peut te rendre tes matins.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an empty plastic chair in a small courtyard at night, a phone face down on it, single bulb, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "night crickets, distant dog",
+      "vol": 0.12,
+      "q": "night crickets"
+     }
+    },
+    {
+     "prompt": "a cold bakery oven door, closed, ashes inside, dim blue light, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "small town street at dawn, mopeds and roosters",
+      "at": "start",
+      "vol": 0.2,
+      "q": "dawn street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Martial. Apprenti boulanger à Anyama.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Avant, il gardait dans sa poche le dessin de son propre four. Il épargnait chaque semaine.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Puis il a rencontré Edwige.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Edwige"
+     ]
+    },
+    {
+     "text": "Et tout s'est arrêté : le dessin, l'épargne, le foot.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Chaque nuit, il l'appelle jusqu'à deux heures.",
+     "pause_after": 0.6
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 24-year-old Ivorian man, dark skin, short hair, flour on his forearms, wearing a white baker's apron over a grey t-shirt, seen from behind or in profile, face never sharp, shaping dough at a floured wooden table in a small bakery before dawn, warm oven glow",
+     "motion": "push_in",
+     "foley": {
+      "text": "dough slapped on a wooden table",
+      "vol": 0.12,
+      "q": "dough kneading"
+     }
+    },
+    {
+     "prompt": "a folded sheet of brown paper with a hand-drawn pencil sketch of a bread oven, no readable text, on a floury table, close-up",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 24-year-old Ivorian man, dark skin, short hair, flour on his forearms, wearing a white baker's apron over a grey t-shirt, seen from behind or in profile, face never sharp, lying on a thin mattress at night, phone glowing against his ear, profile, dark room",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un matin, le patron lui confie la première fournée. Seul.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Seul"
+     ]
+    },
+    {
+     "text": "Martial a dormi une heure. Il s'endort près du four.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le pain brûle.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "brûle"
+     ]
+    },
+    {
+     "text": "Le patron sort les plaques devant les apprentis : « Martial, on dit quoi ? Ta tête est où ? »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Silence. Martial a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un dimanche, Edwige part à sa formation de couture. Il demande : « Et moi, je fais quoi ? »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Elle sort de son sac le dessin, oublié chez elle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Il est où, ton four, Martial ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ton four"
+     ]
+    },
+    {
+     "text": "Elle part. Il reste sur le banc, le dessin dans les mains.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "trays of burnt black bread loaves pulled from an oven, smoke, harsh light, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "metal baking trays clanging",
+      "vol": 0.14,
+      "q": "metal tray"
+     }
+    },
+    {
+     "prompt": "an older baker seen from behind, hands on hips, facing young apprentices in aprons seen from behind, small bakery, early morning",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a young Ivorian woman in a colourful pagne dress, seen from behind or in profile, face never sharp, holding out a folded paper sketch to a man on a wooden bench, Sunday afternoon, Anyama street",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 24-year-old Ivorian man, dark skin, short hair, flour on his forearms, wearing a white baker's apron over a grey t-shirt, seen from behind or in profile, face never sharp, sitting alone on a wooden bench holding a folded sheet of paper, seen from behind, quiet street",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il regarde le dessin.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le dernier trait date de huit mois. Le mois d'Edwige.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Elle ne lui avait rien pris. C'est lui qui avait tout posé à ses pieds.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il ne cherchait pas une compagne. Il cherchait quelqu'un pour remplir ses journées.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "remplir ses journées"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "hands unfolding a sheet of paper with an oven sketch under a single bulb at night, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's silhouette sitting on the edge of a mattress, head lowered, a paper in his hand, dark room",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, avant l'aube, il dit au patron : « Apprenez-moi le levain. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il épargne. Il retourne au foot.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le dimanche : « Edwige, j'ai fait mon premier pain. Tu viens goûter ? »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le pain est trop salé. Elle rit. Mais elle est venue. Et il parle de son four, pas d'elle.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 24-year-old Ivorian man, dark skin, short hair, flour on his forearms, wearing a white baker's apron over a grey t-shirt, seen from behind or in profile, face never sharp, lighting a wood-fired bakery oven alone before dawn, orange glow, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "wood fire crackling",
+      "vol": 0.14,
+      "q": "fire crackle"
+     }
+    },
+    {
+     "prompt": "two hands breaking a fresh golden loaf of bread on a small table, a woman's hand reaching for a piece, warm light, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un dessin oublié lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette in a bakery doorway at dawn, steam rising, Anyama street behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Si elle partait demain, qu'est-ce qui resterait de ta semaine ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a wall calendar with empty days, a pen hanging on a string, dim room, close-up, no readable text",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à un projet que tu as lâché depuis qu'elle est là.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a low stool in a dark courtyard, elbows on knees, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… une femme n'est pas venue porter ta vie. Elle est un complément, pas une solution.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "complément",
+      "solution"
+     ]
+    },
+    {
+     "text": "Construis d'abord : ton métier, ton corps, tes amis. Ça, c'est pas petit dêh.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Puis invite-la : « Samedi, après le travail, je t'emmène quelque part. Tu viens ? »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Ce soir, écris trois choses qui sont à toi.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre six du Prince : ceux qui s'élèvent par leur propre valeur acquièrent avec peine… mais conservent avec facilité.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "conservent"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 24-year-old Ivorian man, dark skin, short hair, flour on his forearms, wearing a white baker's apron over a grey t-shirt, seen from behind or in profile, face never sharp, carrying a large basket of fresh bread through a market street in daylight, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : ce que tu bâtis de tes mains, personne ne te le reprend en partant.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors rallume ton four. Et ouvre-lui la porte d'un monde qui tient debout !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "debout"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a bakery oven door swinging open on bright flames, hands in oven gloves, dramatic light, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'elle te demande où est passée ta vie.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 24-year-old Ivorian man, dark skin, short hair, flour on his forearms, wearing a white baker's apron over a grey t-shirt, seen from behind or in profile, face never sharp, walking to work along an Anyama road at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Mon monde d'abord",
+   "segments": [
+    {
+     "text": "Écris « Mon monde d'abord » en commentaire. Envoie cette vidéo à l'ami qui a tout lâché pour elle. Abonne-toi, suis la page et active la cloche : chaque mercredi, on se parle d'homme à homme.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "Mon monde d'abord"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a row of fresh loaves cooling on a rack in a bakery window at morning, warm light",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Une femme entre dans ta vie. Elle ne doit pas la remplacer.",
+  "author": "Mr Zika"
+ }
+}

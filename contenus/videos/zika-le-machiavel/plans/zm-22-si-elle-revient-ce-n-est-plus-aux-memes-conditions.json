@@ -1,0 +1,493 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-22",
+ "title": "Si elle revient, ce n'est plus aux mêmes conditions",
+ "output": "zm_22_si_elle_revient_ce_n_est_plus_aux_memes_conditions.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Yamoussoukro (wide avenues, restaurant kitchen, family courtyard, the basilica dome far in the distance), warm kitchen light and soft dusk, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 122,
+ "character": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "SI ELLE REVIENT, PLUS AUX MÊMES CONDITIONS",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TROIS DÉPARTS. TROIS RETOURS. COMME AVANT.",
+   "segments": [
+    {
+     "text": "Mon frère… elle est partie trois fois. Et trois fois, tu as rouvert la porte. Comme avant.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "trois fois"
+     ]
+    },
+    {
+     "text": "Si elle revient demain avec un cadeau… qu'est-ce qui a changé ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "ce qui a changé"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Hamed peut t'éviter un quatrième départ.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a wooden front door slowly opening onto a dark courtyard at night, close-up, warm light leaking",
+     "motion": "push_in",
+     "foley": {
+      "text": "old door creaking open",
+      "vol": 0.14,
+      "q": "door creak"
+     }
+    },
+    {
+     "prompt": "a small wrapped gift left on a doorstep at dusk, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy restaurant kitchen with sizzling pans",
+      "at": "start",
+      "vol": 0.18,
+      "q": "restaurant kitchen"
+     }
+    },
+    {
+     "text": "J'ai un ami, Hamed. Un bosseur. Il est cuisinier à Yamoussoukro.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Sabine.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Quand ça ne va pas, Sabine ne parle pas. Elle part. Des semaines.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Elle part"
+     ]
+    },
+    {
+     "text": "Puis elle revient. Un cadeau, un sourire : « On oublie tout. »",
+     "pause_after": 0.6,
+     "emphasis": [
+      "On oublie tout"
+     ]
+    },
+    {
+     "text": "Et Hamed rouvre. Comme avant. Trois fois en deux ans.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp, cooking over high flames in a busy restaurant kitchen in Yamoussoukro, seen from behind, steam and warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "pans sizzling and kitchen clatter",
+      "vol": 0.14,
+      "q": "kitchen"
+     }
+    },
+    {
+     "prompt": "an Ivorian woman in an elegant green boubou, seen from behind or in profile, face never sharp, walking away down a wide avenue at dusk with a travel bag, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, à une fête, dans la cour familiale, Sabine est encore partie.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Son cousin lève son verre : « Elle revient quand, cette fois ? On parie ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "cette fois"
+     ]
+    },
+    {
+     "text": "Toute la cour rit. Hamed sourit. Mais il a mal.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Cette fois, cinq mois sans nouvelles. Il travaille pour lui. Le patron le nomme chef de cuisine.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "chef de cuisine"
+     ]
+    },
+    {
+     "text": "Un soir, à la porte de la cuisine… Sabine.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Sabine"
+     ]
+    },
+    {
+     "text": "Dans ses mains, un tablier brodé : « Chef Hamed ».",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Tu m'as manqué. On recommence comme avant. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Comme avant.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Comme avant"
+     ]
+    },
+    {
+     "text": "Hamed tient le tablier. Il ne répond rien.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a festive family courtyard at dusk, plastic chairs, people raising glasses of juice, seen from behind, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "family celebration chatter and laughter",
+      "vol": 0.14,
+      "q": "courtyard party"
+     }
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp, plating a dish with precision in a professional kitchen, profile, focused, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an Ivorian woman in an elegant green boubou, seen from behind or in profile, face never sharp, standing at the back door of a restaurant kitchen at night, holding a folded white apron, seen from behind",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp, holding a white apron with embroidered lettering out of focus, a pot steaming behind him, seen from behind, no readable text",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il repense aux trois départs.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque fois, elle partait sans un mot.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque fois, elle revenait avec un cadeau.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Rien ne changeait. Et « comme avant »… c'était justement le problème.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "le problème"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "three small gift boxes lined up on a shelf in a dark room, single lamp, chiaroscuro",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a folded embroidered apron on a kitchen table at night, close-up, no readable text",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il pose le tablier sur une table, devant elle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« J'apprécie que tu sois venue. Mais comme avant, non : comme avant, tu partais. J'ai tourné la page. Je te souhaite le meilleur. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tourné la page"
+     ]
+    },
+    {
+     "text": "Elle est partie. Il a eu mal une semaine. Puis il est retourné à ses fourneaux.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp, sliding a folded apron across a café table toward an Ivorian woman in an elegant green boubou, seen from behind or in profile, face never sharp, both seen from the side, calm morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "quiet café morning ambience",
+      "vol": 0.1,
+      "q": "cafe"
+     }
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp, back at the stove in the early morning, lighting the gas, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un tablier brodé lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, the dome of a basilica far in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Si elle revient… c'est à quelles conditions ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an open door with a key in the lock, daylight beyond, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois qu'elle est partie sans un mot.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a back step of a kitchen at night, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui part et revient quand elle veut, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Pardonner, ce n'est pas oublier la leçon, dêh.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "la leçon"
+     ]
+    },
+    {
+     "text": "Si tu reprends, tu poses tes conditions, calmement : « Quand ça ne va pas, on parle. On ne disparaît plus. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "on parle"
+     ]
+    },
+    {
+     "text": "Tu regardes ce qu'elle fait. Pas ce qu'elle promet.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Si tu fermes, tu fermes sans haine. Pas de vengeance. Faut pas gâter ton nom.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "sans haine"
+     ]
+    },
+    {
+     "text": "Reconstruis-toi pour toi. Pas pour qu'elle regarde.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre sept du Prince : celui qui croit que de nouveaux bienfaits font oublier les vieilles injures se trompe.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "se trompe"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp, training alone in an outdoor gym at dawn, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : un cadeau n'efface pas une porte claquée.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "porte claquée"
+     ]
+    },
+    {
+     "text": "Alors change les conditions… ou change de chapitre !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "change de chapitre"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand turning a page in a thick notebook, close-up, dramatic warm light, no readable text",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas le quatrième départ pour écrire tes règles.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 36-year-old Ivorian man, dark skin, short hair, wearing a white cook's jacket with rolled sleeves, seen from behind or in profile, face never sharp, walking along a wide Yamoussoukro avenue at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Plus comme avant",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Plus comme avant ».",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui rouvre toujours la même porte.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel t'aide à tenir ta ligne.",
+     "pause_after": 1.2
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a white cook's apron hanging on a hook in an empty kitchen, morning light, close-up, no readable text",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Qui revient sans rien changer reviendra pour repartir.",
+  "author": "Mr Zika"
+ }
+}

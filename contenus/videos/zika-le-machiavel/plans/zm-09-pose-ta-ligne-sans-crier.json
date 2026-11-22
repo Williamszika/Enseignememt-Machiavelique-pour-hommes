@@ -1,0 +1,494 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-09",
+ "title": "Pose ta ligne sans crier",
+ "output": "zm_09_pose_ta_ligne_sans_crier.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Port-Bouët docks, containers, family courtyard, friend's terrace), warm dusk light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 109,
+ "character": "a 34-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing an orange high-visibility vest over a grey t-shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "POSE TA LIGNE SANS CRIER",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "PLUS TU CRIES, MOINS ELLE T'ÉCOUTE.",
+   "segments": [
+    {
+     "text": "Mon frère… plus tu cries, moins elle t'écoute.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "moins"
+     ]
+    },
+    {
+     "text": "Tu hausses la voix, tu claques la porte… alors pourquoi elle recommence ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "recommence"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Bakary peut te rendre ta voix.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a door slamming in a dim corridor, motion blur, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "door slam",
+      "vol": 0.18,
+      "q": "door slam"
+     }
+    },
+    {
+     "prompt": "stacked shipping containers at dusk in a port, cranes in silhouette",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "port ambience with container cranes and ship horn",
+      "at": "start",
+      "vol": 0.2,
+      "q": "harbor"
+     }
+    },
+    {
+     "text": "J'ai un ami, Bakary. Un costaud, docker à Port-Bouët.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il est avec Awa depuis deux ans.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Devant les gens, Awa le rabaisse : « Lui, il porte des sacs, il ne réfléchit pas. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Devant les gens"
+     ]
+    },
+    {
+     "text": "Bakary avale. Dix fois.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Puis un soir, il explose. Il crie.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "il explose"
+     ]
+    },
+    {
+     "text": "Le lendemain, c'est lui qui s'excuse. Et ça recommence.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing an orange high-visibility vest over a grey t-shirt, seen from behind or in profile, face never sharp, carrying a heavy sack on his shoulder between containers at the Port-Bouët docks, dusk light",
+     "motion": "push_in",
+     "foley": {
+      "text": "heavy sacks dropped on concrete",
+      "vol": 0.14,
+      "q": "heavy thud"
+     }
+    },
+    {
+     "prompt": "a couple seen from behind at a small gathering, the woman gesturing towards the man, faces never sharp, warm evening light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing an orange high-visibility vest over a grey t-shirt, seen from behind or in profile, face never sharp, sitting alone on a plastic chair at night, fists closed on his knees, profile",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un midi, au port, Awa l'appelle et se moque. Il hurle, devant toute l'équipe.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Son chef : « Bakary, règle tes affaires ailleurs. » Ce jour-là, il a gâté son nom.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "gâté son nom"
+     ]
+    },
+    {
+     "text": "À l'anniversaire de sa mère, il offre un pagne neuf.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Awa rit devant la famille : « Bakary ? Il crie fort… mais il ne part jamais. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "il ne part jamais"
+     ]
+    },
+    {
+     "text": "Sa mère baisse les yeux. « Faut pas fâcher, mon fils. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Bakary reste là, le papier cadeau froissé.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "dock workers in high-visibility vests standing around, seen from behind, a phone held at arm's length, harsh midday light",
+     "motion": "push_in",
+     "foley": {
+      "text": "port workers chatter and distant crane",
+      "vol": 0.14,
+      "q": "dock workers"
+     }
+    },
+    {
+     "prompt": "a family courtyard in Port-Bouët with a festive table and a folded new wax pagne fabric as a gift, warm afternoon light, no faces visible",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an older Ivorian woman in a headwrap seen from behind, face never sharp, lowering her head, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's large hand crumpling colorful gift wrapping paper, close-up, chiaroscuro",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il repasse les deux ans.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle le rabaisse. Il se tait. Il explose. Il s'excuse.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Il s'excuse"
+     ]
+    },
+    {
+     "text": "Ses cris ne posaient aucune limite. Ils prouvaient qu'il n'en avait pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle avait raison : il ne partait jamais.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "jamais"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man lying awake on a bed in the dark, ceiling fan turning, seen from above at a distance, no face visible",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "ceiling fan hum at night",
+      "vol": 0.1,
+      "q": "ceiling fan"
+     }
+    },
+    {
+     "prompt": "a wall clock at 3 a.m. in a dim room, chiaroscuro",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il s'assoit en face d'elle. La voix basse.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "La voix basse"
+     ]
+    },
+    {
+     "text": "« Awa, voici ma ligne. Tu ne me rabaisses plus devant les gens. Si tu la franchis, je m'en vais. Pas parce que je te déteste. Parce que je me respecte. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "voici ma ligne"
+     ]
+    },
+    {
+     "text": "Elle hausse les épaules. « Tu fais ton film. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Deux semaines après, chez des amis, elle recommence. Bakary se lève, salue, et rentre. Calme.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle appelle. « On peut parler. Mais la ligne reste. » Restera-t-elle ? Il ne sait pas. Mais il est debout.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "la ligne reste"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man and a woman sitting face to face at a kitchen table, seen from the side at a distance, faces never sharp, soft morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing an orange high-visibility vest over a grey t-shirt, seen from behind or in profile, face never sharp, walking calmly out of a friend's terrace at night, raising a hand to say goodbye, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "calm footsteps on a gravel courtyard",
+      "vol": 0.12,
+      "q": "footsteps gravel"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une phrase devant sa mère lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette standing on a pier at dawn, the sea at Port-Bouët in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tes cris protègent ta ligne… ou montrent que tu n'en as pas ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a clenched fist slowly opening on a wooden table, close-up, soft light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois que tu as crié.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a bench by the sea at dusk, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te rabaisse devant les gens, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Ta ligne, tu la dis une fois, à froid : ce que tu refuses, ce que tu feras.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "une fois"
+     ]
+    },
+    {
+     "text": "Si ça recommence, tu le fais. Sans insulte, sans porte qui claque.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tu le fais"
+     ]
+    },
+    {
+     "text": "Ce soir, écris ta ligne. Une phrase.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : on méprise celui qu'on voit changeant, léger, irrésolu.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "méprise"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing an orange high-visibility vest over a grey t-shirt, seen from behind or in profile, face never sharp, writing a single line on a small paper at a table at night, lamp light, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : un cri s'oublie. Une ligne tenue, on la respecte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors baisse la voix. Et tiens ta parole comme on tient un mur !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "tiens ta parole"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a strong hand resting flat on a concrete wall, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'on se moque de toi devant tes enfants.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing an orange high-visibility vest over a grey t-shirt, seen from behind or in profile, face never sharp, walking along the port at sunrise, cranes behind him, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Voici ma ligne",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Voici ma ligne ». Envoie cette vidéo à l'ami qui crie fort, puis s'excuse toujours.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Voici ma ligne"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, une leçon d'homme à homme pour tenir debout.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "chaque mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone on a wooden crate showing a comment field, blurred unreadable text, close-up, dusk light",
+     "motion": "push_in",
+     "foley": {
+      "text": "soft phone notification ping",
+      "vol": 0.12,
+      "q": "notification"
+     }
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Une limite dite calmement, puis tenue, vaut plus que mille cris.",
+  "author": "Mr Zika"
+ }
+}

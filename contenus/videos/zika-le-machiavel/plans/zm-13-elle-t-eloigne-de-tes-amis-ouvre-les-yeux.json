@@ -1,0 +1,507 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-13",
+ "title": "Elle t'éloigne de tes amis ? Ouvre les yeux",
+ "output": "zm_13_elle_t_eloigne_de_tes_amis_ouvre_les_yeux.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Yopougon (welding workshop with sparks, neighborhood dirt football pitch, small bedroom at night), warm sparks and cold night light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 113,
+ "character": "a 29-year-old Ivorian man, dark skin, shaved head, wearing grey welding overalls with burn marks, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "ELLE T'ÉLOIGNE DE TES AMIS ? OUVRE LES YEUX",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "SI ELLE T'AIME, POURQUOI TU N'AS PLUS D'AMIS ?",
+   "segments": [
+    {
+     "text": "Mon frère… si elle t'aime, pourquoi tu n'as plus d'amis ?",
+     "pause_after": 0.7,
+     "emphasis": [
+      "plus d'amis"
+     ]
+    },
+    {
+     "text": "Elle te dit que tes amis te veulent du mal… mais depuis quand tu ne les as pas vus ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "depuis quand"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Wilfried peut te rendre les tiens.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone contact list scrolling with almost no names, blurred, close-up, cold light",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone scroll tick",
+      "vol": 0.14,
+      "q": "phone scroll"
+     }
+    },
+    {
+     "prompt": "an empty plastic chair at a neighborhood table at night, string light above",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "welding workshop with grinder and street noise",
+      "at": "start",
+      "vol": 0.2,
+      "q": "welding workshop"
+     }
+    },
+    {
+     "text": "J'ai un ami, Wilfried. Soudeur, à Yopougon. Un gars solide.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Grâce.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque dimanche, Wilfried jouait au foot avec les gars du quartier. Depuis l'enfance.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Avec Grâce, ça a changé. Chaque dimanche, elle boude : « Tes amis-là ne te respectent pas. C'est eux ou moi. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "C'est eux ou moi"
+     ]
+    },
+    {
+     "text": "Alors Wilfried reste à la maison. Un dimanche. Puis deux. Puis tous.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et quand il reste, elle est douce. Quand il sort, c'est la guerre.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, shaved head, wearing grey welding overalls with burn marks, seen from behind or in profile, face never sharp, welding a metal gate in a workshop, sparks flying, profile, welding mask raised",
+     "motion": "push_in",
+     "foley": {
+      "text": "welding torch crackle",
+      "vol": 0.14,
+      "q": "welding"
+     }
+    },
+    {
+     "prompt": "a group of men playing football on a red dirt pitch on a Sunday afternoon, seen from far, no faces",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, shaved head, wearing grey welding overalls with burn marks, seen from behind or in profile, face never sharp, sitting alone on a doorstep on a Sunday, football boots beside him, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un matin, à l'atelier, son ami d'enfance, Zéphirin, passe avec deux gars.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Devant les apprentis, il dit : « Wilfried, on ne te voit plus. Même au baptême de ma fille, tu n'es pas venu. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "baptême"
+     ]
+    },
+    {
+     "text": "Les apprentis baissent la tête. Wilfried ne répond rien.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Silence. Il a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un soir, il cherche le groupe « Les anciens de Wassakara » dans son téléphone.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le groupe a disparu. Quelqu'un l'a quitté. Depuis son téléphone.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Depuis son téléphone"
+     ]
+    },
+    {
+     "text": "Et dans ses messages, il trouve une réponse envoyée à Zéphirin, à minuit : « Laisse-moi tranquille. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Ce n'est pas lui qui a écrit ça.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Grâce est dans la chambre. Elle dit seulement : « C'était pour ton bien. »",
+     "pause_after": 1.0,
+     "emphasis": [
+      "pour ton bien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "three men standing at the entrance of a welding workshop, seen from behind, apprentices in the background looking down, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a phone screen showing a chat group list with one group missing, blurred text, close-up, night",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a phone screen showing a sent message at midnight, blurred text, close-up, cold blue light",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a young Ivorian woman seen from behind, face never sharp, sitting on a bed in a dim bedroom, a man standing in the doorway, silhouette",
+     "motion": "push_in",
+     "foley": {
+      "text": "quiet room tone with a ceiling fan",
+      "vol": 0.1,
+      "q": "ceiling fan"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il regarde la liste de ses appels.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Avant elle, vingt noms. Aujourd'hui… un seul. Le sien.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "un seul"
+     ]
+    },
+    {
+     "text": "Chaque fois qu'il voit ses amis, elle fait une scène. Chaque fois qu'il est seul, elle est gentille.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle ne le protégeait pas. Elle le coupait des siens.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "coupait"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling a call history on a phone at night, close-up, blue light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a single chair in an empty courtyard at night, one bulb, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il dit à Grâce, calmement : « Ma vie avait ces personnes avant toi, et elle les gardera. Et mon téléphone, c'est à moi. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "elle les gardera"
+     ]
+    },
+    {
+     "text": "Puis il va chez Zéphirin. Il s'excuse. Il demande à revenir dans le groupe.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Grâce boude trois jours. Un ami reste froid. Mais dimanche, Wilfried est sur le terrain.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, shaved head, wearing grey welding overalls with burn marks, seen from behind or in profile, face never sharp, putting his phone in his own pocket in a kitchen, morning light, seen from behind",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "two men shaking hands at a courtyard gate, seen from behind, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, shaved head, wearing grey welding overalls with burn marks, seen from behind or in profile, face never sharp, lacing football boots on the edge of a red dirt pitch, profile",
+     "motion": "push_in",
+     "foley": {
+      "text": "football kicked on dirt and men shouting",
+      "vol": 0.14,
+      "q": "street football"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un message qu'il n'a pas écrit lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a workshop door at dawn, Yopougon rooftops in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tes amis sont partis… ou on t'a éloigné d'eux ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a group photo on a phone screen, blurred faces, close-up, night",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à l'ami que tu n'as plus appelé depuis qu'elle est là.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a bench in the dark, phone in his hand, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te coupe de tes amis, elle te tient.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "elle te tient"
+     ]
+    },
+    {
+     "text": "Une femme peut ne pas aimer un de tes amis. Elle peut te le dire. Ça, c'est normal. Mais choisir à ta place qui tu vois, lire ton téléphone, répondre pour toi… faut pas laisser ça.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "faut pas laisser ça"
+     ]
+    },
+    {
+     "text": "Tu lui dis : « Tu as tes limites. J'ai les miennes. Mes amis restent. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ce soir, appelle un ami que tu as laissé. Juste : « On dit quoi ? Ça fait longtemps. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et si tu te sens contrôlé, surveillé, seul, parle à une personne de confiance ou à un professionnel.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-deux du Prince : la première chose qu'on juge chez un seigneur… ce sont les hommes qu'il a autour de lui.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "autour de lui"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, shaved head, wearing grey welding overalls with burn marks, seen from behind or in profile, face never sharp, holding a phone to his ear outside the workshop at dusk, profile",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a long table in a courtyard with men eating together, seen from behind, warm evening light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme qui t'aime agrandit ta vie. Elle ne la vide pas.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "agrandit"
+     ]
+    },
+    {
+     "text": "Alors rouvre ta porte. Rappelle les tiens. Et redeviens un homme entouré !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "entouré"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a metal workshop door being pushed wide open onto a sunny street, close-up on hands, dramatic light",
+     "motion": "push_in",
+     "foley": {
+      "text": "metal door sliding open",
+      "vol": 0.16,
+      "q": "metal door"
+     }
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas d'être seul pour comprendre ce qu'on t'a pris.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, shaved head, wearing grey welding overalls with burn marks, seen from behind or in profile, face never sharp, walking towards a group of men on a dirt pitch at sunset, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Mes amis restent",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Mes amis restent » si tu as compris.",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Mes amis restent"
+     ]
+    },
+    {
+     "text": "Et envoie cette vidéo au frère que tu ne vois plus depuis qu'elle est là.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, d'homme à homme, on ouvre les yeux ensemble.",
+     "pause_after": 2.0,
+     "emphasis": [
+      "chaque mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a worn football resting on red dirt at sunset, close-up",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Celle qui t'aime te veut entouré. Celle qui te tient te veut seul.",
+  "author": "Mr Zika"
+ }
+}

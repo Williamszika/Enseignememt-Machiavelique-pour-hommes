@@ -1,0 +1,514 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-12",
+ "title": "Elle est partie ? Reconstruis-toi pour toi",
+ "output": "zm_12_elle_est_partie_reconstruis_toi_pour_toi.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Bouaké (dusty school stadium at dawn, small apartment at night), warm early light and dim lamp light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 112,
+ "character": "a 34-year-old Ivorian man, dark skin, athletic build, short hair, wearing a grey tracksuit, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "ELLE EST PARTIE ? RECONSTRUIS-TOI POUR TOI",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "ELLE EST PARTIE. ET TOI, TU ATTENDS.",
+   "segments": [
+    {
+     "text": "Mon frère… elle est partie. Et toi, tu es resté dans la salle d'attente.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "salle d'attente"
+     ]
+    },
+    {
+     "text": "Tu regardes ses statuts la nuit… mais ta propre vie, qui la regarde ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "ta propre vie"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Ibrahim peut te rendre tes matins.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone glowing in the dark on a bed, a social media story playing, blurred, close-up, night",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone screen tap",
+      "vol": 0.14,
+      "q": "phone tap"
+     }
+    },
+    {
+     "prompt": "an empty waiting room chair under a cold neon light, night",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "early morning town ambience with distant motorbikes",
+      "at": "start",
+      "vol": 0.2,
+      "q": "town morning"
+     }
+    },
+    {
+     "text": "J'ai un ami, Ibrahim. Professeur de sport, à Bouaké.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Pendant trois ans, sa copine, Nadège, était le centre de tout.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a arrêté son groupe de course du matin. Il a laissé ses amis. Sa mission, ce n'était plus sa vie. C'était elle.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "C'était elle"
+     ]
+    },
+    {
+     "text": "Un jour, Nadège est partie.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Et depuis, Ibrahim attend. Il regarde ses statuts. Il relit les vieux messages. Il est dans son coin.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, athletic build, short hair, wearing a grey tracksuit, seen from behind or in profile, face never sharp, standing at the edge of an empty school running track at dawn, seen from behind, red dust",
+     "motion": "push_in",
+     "foley": {
+      "text": "light wind over a dusty field",
+      "vol": 0.1,
+      "q": "wind field"
+     }
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, athletic build, short hair, wearing a grey tracksuit, seen from behind or in profile, face never sharp, sitting alone on a sofa at night, scrolling his phone, profile, dim lamp",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a phone screen showing old chat messages, blurred text, close-up, blue light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un samedi, son équipe du lycée joue la finale du tournoi.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ibrahim est au bord du terrain… le téléphone à la main. Nadège vient de poster une photo.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "le téléphone"
+     ]
+    },
+    {
+     "text": "Un joueur crie : « Coach ! On fait quoi ? »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il n'a rien vu. Ils perdent. Le proviseur passe à côté de lui : « Ibrahim… tu étais où, aujourd'hui ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tu étais où"
+     ]
+    },
+    {
+     "text": "Silence. Ibrahim a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Une semaine plus tard, Nadège vient chercher son dernier carton.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sur la table, elle voit son sifflet, plein de poussière, à côté de leurs photos.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "sifflet"
+     ]
+    },
+    {
+     "text": "Elle le regarde et dit doucement : « Ibrahim… moi, j'ai avancé. Toi, tu attends quoi ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tu attends quoi"
+     ]
+    },
+    {
+     "text": "Elle prend le carton. La porte se ferme.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a school football pitch at sunset, players seen from far behind, no faces, a man on the sideline looking down at his phone, profile",
+     "motion": "push_in",
+     "foley": {
+      "text": "distant crowd and a referee whistle on a school field",
+      "vol": 0.14,
+      "q": "school football crowd"
+     }
+    },
+    {
+     "prompt": "an older man in a suit walking past on a sideline, seen from behind, dusty light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a dusty sports whistle on a wooden table next to framed photos turned face down, close-up, lamp light",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a young Ivorian woman seen from behind, face never sharp, carrying a cardboard box out of a doorway, evening light",
+     "motion": "push_in",
+     "foley": {
+      "text": "door closing softly",
+      "vol": 0.16,
+      "q": "door close"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il ne dort pas.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il compte. Trois ans sans courir. Trois ans sans ses amis. Et depuis qu'elle est partie, des mois sans vivre.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "sans vivre"
+     ]
+    },
+    {
+     "text": "Ce n'est pas elle qui lui a pris sa vie. C'est lui qui la lui a donnée.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Ce silence n'était pas une salle d'attente. C'était son atelier.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "atelier"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, athletic build, short hair, wearing a grey tracksuit, seen from behind or in profile, face never sharp, sitting on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    },
+    {
+     "prompt": "a dusty sports whistle held in an open palm, close-up, single lamp, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, à six heures, il essuie son sifflet. Il retourne au stade. Seul.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Seul"
+     ]
+    },
+    {
+     "text": "Il appelle son ami Philémon : « On dit quoi ? Samedi, on court ensemble. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Les premiers matins sont durs. Certains soirs, il pense encore à elle. Mais il ne regarde plus ses statuts. Et il ne fait pas ça pour qu'elle voie.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand wiping a dusty whistle with a cloth, close-up, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, athletic build, short hair, wearing a grey tracksuit, seen from behind or in profile, face never sharp, running alone on a red dirt track at sunrise, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "footsteps running on a dirt track",
+      "vol": 0.12,
+      "q": "running footsteps"
+     }
+    },
+    {
+     "prompt": "two men running side by side on a road at dawn, seen from behind, Bouaké outskirts",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un sifflet plein de poussière lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, a quiet town in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Depuis qu'elle est partie, tu construis… ou tu attends ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an unfinished brick wall with a trowel resting on it, morning light, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à une chose que tu as lâchée pour elle.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a pair of old running shoes in a corner of a dark room, dust, seen from above",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… quand elle part, ça fait mal. C'est normal. Tu n'es pas faible parce que tu as mal.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Mais le silence qu'elle laisse, ce n'est pas une salle d'attente. C'est ton atelier.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ton atelier"
+     ]
+    },
+    {
+     "text": "Trois chantiers. Ta mission : ton travail, tes projets. Ton corps : tu bouges, tu dors. Tes gens : tu rappelles tes amis.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Et tu ne fais pas ça pour qu'elle regrette. Tu le fais pour toi. Une vitrine pour elle, c'est encore l'attendre.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "pour toi"
+     ]
+    },
+    {
+     "text": "Si la tristesse ne part pas, parle à une personne de confiance, ou à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences. Ça, c'est pas de la faiblesse dêh. C'est du courage.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "courage"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-quatre du Prince : les seules défenses bonnes, certaines et durables… sont celles qui dépendent de toi-même et de ta vertu.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "toi-même"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, athletic build, short hair, wearing a grey tracksuit, seen from behind or in profile, face never sharp, doing push-ups on a concrete floor at dawn, profile",
+     "motion": "push_in",
+     "foley": {
+      "text": "breathing during exercise",
+      "vol": 0.1,
+      "q": "exercise breath"
+     }
+    },
+    {
+     "prompt": "a group of men laughing around a small table outdoors in the evening, seen from behind, warm light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : le prix, ce n'est pas elle. C'est l'homme que tu forges.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "l'homme que tu forges"
+     ]
+    },
+    {
+     "text": "Alors range ses photos. Reprends ton sifflet. Et redeviens le coach de ta propre vie !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ta propre vie"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand putting a whistle around a neck, close-up, dramatic morning light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'elle revienne pour recommencer à vivre.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, athletic build, short hair, wearing a grey tracksuit, seen from behind or in profile, face never sharp, walking onto a stadium track at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Mon atelier",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Mon atelier » si tu reconstruis pour toi.",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Mon atelier"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui attend encore devant son téléphone.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, on se parle d'homme à homme.",
+     "pause_after": 2.0,
+     "emphasis": [
+      "chaque mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone face down on a wooden bench next to a whistle, morning light, close-up",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Celui qui attend son retour s'arrête. Celui qui se reconstruit avance.",
+  "author": "Mr Zika"
+ }
+}

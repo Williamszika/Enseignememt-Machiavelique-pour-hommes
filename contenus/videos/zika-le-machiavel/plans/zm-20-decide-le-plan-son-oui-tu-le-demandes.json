@@ -1,0 +1,497 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-20",
+ "title": "Décide le plan. Son oui, tu le demandes.",
+ "output": "zm_20_decide_le_plan_son_oui_tu_le_demandes.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Grand-Bassam (old colonial houses of the Quartier France, lagoon and beach at dusk), golden hour light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 120,
+ "character": "a 33-year-old Ivorian man, dark skin, short beard, wearing a beige linen shirt with a lanyard badge, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "DÉCIDE LE PLAN. SON OUI, TU LE DEMANDES.",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "« COMME TU VEUX », CE N'EST PAS UN RENDEZ-VOUS.",
+   "segments": [
+    {
+     "text": "Mon frère… « On fait quoi ? — Comme tu veux. » Ça, c'est pas un rendez-vous. C'est une réunion sans chef.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "sans chef"
+     ]
+    },
+    {
+     "text": "Et quand tu décides enfin… tu sais ce qu'il faut quand même demander ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "demander"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Éric peut sauver ta prochaine sortie.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two glasses on a table in an empty restaurant at dusk, two chairs pulled back, nobody seated, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's hand hovering over a phone showing a restaurant map, undecided, close-up, warm light, no readable text",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "seaside town ambience with waves and distant voices",
+      "at": "start",
+      "vol": 0.18,
+      "q": "seaside town"
+     }
+    },
+    {
+     "text": "J'ai un ami, Éric. Un homme cultivé. Il est guide à Grand-Bassam.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Toute la journée, trente touristes le suivent. Sans discuter.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "sans discuter"
+     ]
+    },
+    {
+     "text": "Il a une copine : Ruth.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Avec Ruth, il ne décide rien.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "rien"
+     ]
+    },
+    {
+     "text": "« On mange où ? — Comme tu veux. » « On sort ? — C'est toi qui vois. »",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, short beard, wearing a beige linen shirt with a lanyard badge, seen from behind or in profile, face never sharp, leading a group of tourists past old colonial houses with faded shutters in Grand-Bassam, seen from behind, golden light",
+     "motion": "push_in",
+     "foley": {
+      "text": "footsteps on sandy street and tourists chatting",
+      "vol": 0.12,
+      "q": "tour group"
+     }
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, short beard, wearing a beige linen shirt with a lanyard badge, seen from behind or in profile, face never sharp, sitting next to a young Ivorian woman in a yellow summer dress, seen from behind or in profile, face never sharp on a bench, he shrugs, both seen from behind, soft evening light",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, à l'anniversaire d'une amie de Ruth, on lui demande ce qu'il veut boire.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il regarde Ruth. « Comme elle veut. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "L'amie éclate de rire : « Éric, même ton jus, c'est Ruth qui le choisit ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "même ton jus"
+     ]
+    },
+    {
+     "text": "Toute la table rit. Éric aussi. Mais il a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un samedi, Ruth est prête. Quarante minutes de « on va où ? — je sais pas. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle appelle un taxi.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Tu guides trente inconnus par jour. Et avec moi, tu n'oses même pas choisir un maquis. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "choisir un maquis"
+     ]
+    },
+    {
+     "text": "Le taxi part. Éric reste là, son badge de guide au cou.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "badge"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a birthday table in a small garden at night, string lights, glasses of juice, guests seen from behind laughing",
+     "motion": "push_in",
+     "foley": {
+      "text": "party chatter and laughter",
+      "vol": 0.14,
+      "q": "party laugh"
+     }
+    },
+    {
+     "prompt": "a young Ivorian woman in a yellow summer dress, seen from behind or in profile, face never sharp, getting into an orange taxi at night, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "car door closing and taxi driving away",
+      "vol": 0.16,
+      "q": "car door"
+     }
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, short beard, wearing a beige linen shirt with a lanyard badge, seen from behind or in profile, face never sharp, standing alone on a sidewalk at night, a guide badge on a lanyard around his neck, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il repense à leurs sorties.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque « comme tu veux », il croyait que c'était du respect.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "En fait, il lui laissait tout porter.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tout porter"
+     ]
+    },
+    {
+     "text": "Il n'était pas gentil. Il était absent.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "absent"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a guide badge on a lanyard lying on a bedside table under a lamp, close-up, night, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a heavy bag left alone on a chair in a dark room, chiaroscuro",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il l'appelle : « Samedi, je connais un bon endroit sur la lagune. On y va ? »",
+     "pause_after": 0.6,
+     "emphasis": [
+      "On y va"
+     ]
+    },
+    {
+     "text": "Elle dit : « Oui. Enfin. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Sur la plage, il a envie de lui prendre la main. Il demande : « Je peux ? »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "Je peux"
+     ]
+    },
+    {
+     "text": "Elle dit : « Pas ce soir. » Il dit : « D'accord. » La soirée continue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "D'accord"
+     ]
+    },
+    {
+     "text": "La semaine d'après, c'est elle qui demande : « Samedi, tu nous emmènes où ? »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a small lagoon-side restaurant in Grand-Bassam at dusk, wooden tables, lanterns, seen from a distance",
+     "motion": "push_in",
+     "foley": {
+      "text": "lagoon water lapping and soft restaurant ambience",
+      "vol": 0.12,
+      "q": "lagoon"
+     }
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, short beard, wearing a beige linen shirt with a lanyard badge, seen from behind or in profile, face never sharp and a young Ivorian woman in a yellow summer dress, seen from behind or in profile, face never sharp, walking side by side on the beach at night, a respectful space between their hands, seen from behind, moonlight",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "gentle waves on the beach at night",
+      "vol": 0.14,
+      "q": "waves night"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un taxi qui part lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, the sea in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Quand vous sortez… c'est qui qui décide ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a restaurant menu closed on a table between two hands, close-up, warm light, no readable text",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à ta dernière sortie avec elle.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a sea wall at night, looking at the water, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… on va te dire : « Ne demande jamais la permission. » C'est faux, dêh.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "C'est faux"
+     ]
+    },
+    {
+     "text": "Le plan, tu le décides : le lieu, l'heure. Tu proposes. Et si elle préfère autre chose, tu changes. Sans bouder.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Mais lui prendre la main, l'embrasser… ça, tu demandes. Toujours. « Je peux ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Toujours"
+     ]
+    },
+    {
+     "text": "Si elle dit non, ou pas encore, tu respectes. Tout de suite.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Tout de suite"
+     ]
+    },
+    {
+     "text": "Demander, ce n'est pas faible. C'est être un homme de confiance.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : on méprise celui qui paraît irrésolu.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "irrésolu"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, short beard, wearing a beige linen shirt with a lanyard badge, seen from behind or in profile, face never sharp, pointing toward a lagoon-side restaurant while a young Ivorian woman in a yellow summer dress, seen from behind or in profile, face never sharp nods, both seen from behind, golden hour",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : décider le plan, c'est ton travail. Décider à sa place, jamais.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "jamais"
+     ]
+    },
+    {
+     "text": "Alors porte la soirée. Et demande son oui comme un homme !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "son oui"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's open hand held out, palm up, waiting, close-up, dramatic warm light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas le prochain taxi qui part sans toi.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, short beard, wearing a beige linen shirt with a lanyard badge, seen from behind or in profile, face never sharp, walking along the old streets of Grand-Bassam at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je peux ?",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Je peux ? ».",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui répond toujours « comme tu veux ».",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel te parle franchement.",
+     "pause_after": 1.2
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a guide badge on a lanyard hanging on a nail by a door, morning light, close-up, no readable text",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Un homme décide de la soirée. Jamais à la place de son oui.",
+  "author": "Mr Zika"
+ }
+}

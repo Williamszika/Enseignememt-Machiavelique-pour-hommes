@@ -1,0 +1,63 @@
+# [Zika le Machiavel] ZM-22 — Si elle revient, ce n'est plus aux mêmes conditions
+
+**Rubrique Zika le Machiavel** · à partir de la [source 47](../../../sources/47-zika-le-machiavel-texte.md) (vidéo 3 : « Si elle revient, ce n'est plus aux mêmes conditions. » · « J'apprécie que tu me le dises. J'ai tourné la page. Je te souhaite le meilleur. » · « Le silence n'est pas une salle d'attente. Reconstruis-toi pour toi. » ; refusés : le regret comme but, les photos pour qu'elle les voie, la réponse retardée exprès). **Écrit le 22 novembre 2026, thèmes validés par Mr Zika le 22 nov.**
+**À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. Modèle de ZM-15 (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, CTA, citation). Voix ElevenLabs : Paul K.
+**Durée estimée :** 3 min 16 s (490 mots ÷ 2,5 mots/s, CTA et citation compris).
+
+- **Titre à l'écran :** `SI ELLE REVIENT, PLUS AUX MÊMES CONDITIONS`
+- **La règle :** *Le Prince*, ch. VII (fin) : qui croit que de nouveaux bienfaits font oublier les anciennes injures se trompe ; et la phrase du texte : « Si elle revient, ce n'est plus aux mêmes conditions. » Pardonner n'est pas oublier la leçon ; fermer se fait sans haine et sans vengeance.
+- **Fiction**, présentée comme une histoire (Hamed, cuisinier à Yamoussoukro ; Sabine ; son cousin, sans prénom).
+
+## Texte pour le prompteur
+
+Mon frère… elle est partie trois fois. Et trois fois, tu as rouvert la porte. Comme avant.
+Si elle revient demain avec un cadeau… qu'est-ce qui a changé ?
+Reste avec moi. Ce qui est arrivé à mon ami Hamed peut t'éviter un quatrième départ.
+Je vais te raconter une histoire.
+J'ai un ami, Hamed. Un bosseur. Il est cuisinier à Yamoussoukro.
+Il a une copine : Sabine.
+Quand ça ne va pas, Sabine ne parle pas. Elle part. Des semaines.
+Puis elle revient. Un cadeau, un sourire : « On oublie tout. »
+Et Hamed rouvre. Comme avant. Trois fois en deux ans.
+Pourtant, à une fête, dans la cour familiale, Sabine est encore partie.
+Son cousin lève son verre : « Elle revient quand, cette fois ? On parie ? »
+Toute la cour rit. Hamed sourit. Mais il a mal.
+Et il ne change pas.
+Cette fois, cinq mois sans nouvelles. Il travaille pour lui. Le patron le nomme chef de cuisine.
+Un soir, à la porte de la cuisine… Sabine.
+Dans ses mains, un tablier brodé : « Chef Hamed ».
+« Tu m'as manqué. On recommence comme avant. »
+Comme avant.
+Hamed tient le tablier. Il ne répond rien.
+Cette nuit-là, il repense aux trois départs.
+Chaque fois, elle partait sans un mot.
+Chaque fois, elle revenait avec un cadeau.
+Rien ne changeait. Et « comme avant »… c'était justement le problème.
+Le lendemain, il pose le tablier sur une table, devant elle.
+« J'apprécie que tu sois venue. Mais comme avant, non : comme avant, tu partais. J'ai tourné la page. Je te souhaite le meilleur. »
+Elle est partie. Il a eu mal une semaine. Puis il est retourné à ses fourneaux.
+Un tablier brodé lui a ouvert les yeux. Toi… il t'en faudra combien ?
+Et toi, mon frère ? Si elle revient… c'est à quelles conditions ?
+Pense à la dernière fois qu'elle est partie sans un mot.
+Tu l'as ? Garde ça.
+Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui part et revient quand elle veut, elle te joue.
+Pardonner, ce n'est pas oublier la leçon, dêh.
+Si tu reprends, tu poses tes conditions, calmement : « Quand ça ne va pas, on parle. On ne disparaît plus. »
+Tu regardes ce qu'elle fait. Pas ce qu'elle promet.
+Si tu fermes, tu fermes sans haine. Pas de vengeance. Faut pas gâter ton nom.
+Reconstruis-toi pour toi. Pas pour qu'elle regarde.
+J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre sept du Prince : celui qui croit que de nouveaux bienfaits font oublier les vieilles injures se trompe.
+Et écoute-moi bien : un cadeau n'efface pas une porte claquée.
+Alors change les conditions… ou change de chapitre !
+Change maintenant. N'attends pas le quatrième départ pour écrire tes règles.
+Écris en commentaire « Plus comme avant ».
+Envoie cette vidéo à l'ami qui rouvre toujours la même porte.
+Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel t'aide à tenir ta ligne.
+« Qui revient sans rien changer reviendra pour repartir. » — Mr Zika.
+
+## Légende et commentaire épinglé
+
+- **Légende :** Zika le Machiavel — ZM-22 · Si elle revient, ce n'est plus aux mêmes conditions
+- **Commentaire épinglé :** Écris « Plus comme avant » si tu as compris. Si tu reprends, tu poses tes conditions et tu regardes ce qu'elle fait. Si tu fermes, tu fermes sans haine.
+- **Mot du commentaire (en jaune à l'écran pendant le CTA) :** « Plus comme avant »
+- **Hashtags :** #mrzika #zikalemachiavel #machiavel #leprince #pluscommeavant

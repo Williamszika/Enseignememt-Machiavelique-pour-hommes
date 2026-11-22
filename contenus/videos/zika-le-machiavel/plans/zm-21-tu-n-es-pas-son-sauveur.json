@@ -1,0 +1,501 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-21",
+ "title": "Tu n'es pas son sauveur",
+ "output": "zm_21_tu_n_es_pas_son_sauveur.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Deux-Plateaux clinic corridor at night, apartment stairwell, quiet residential street), cool night light with warm accents, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 121,
+ "character": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "TU N'ES PAS SON SAUVEUR",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU N'ES PAS SON HOMME. TU ES SON AMBULANCE.",
+   "segments": [
+    {
+     "text": "Mon frère… tu n'es pas son homme. Tu es son ambulance.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ambulance"
+     ]
+    },
+    {
+     "text": "Elle t'appelle à deux heures du matin… mais elle pleure pour qui ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "pour qui"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Aimé peut te sortir de ce rôle.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone ringing on a bedside table at 2 a.m., screen glowing in the dark, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone ringing at night",
+      "vol": 0.16,
+      "q": "phone ring"
+     }
+    },
+    {
+     "prompt": "an ambulance light reflecting on a wet street at night, no vehicle details, no text",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "quiet hospital corridor at night with distant beeps",
+      "at": "start",
+      "vol": 0.16,
+      "q": "hospital corridor"
+     }
+    },
+    {
+     "text": "J'ai un ami, Aimé. Un cœur en or. Il est infirmier aux Deux-Plateaux.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il aime Tatiana. Elle l'appelle « mon meilleur ami ».",
+     "pause_after": 0.7,
+     "emphasis": [
+      "meilleur ami"
+     ]
+    },
+    {
+     "text": "Quand son ex la fait pleurer, elle appelle Aimé.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il l'écoute des heures. Il annule ses plans. Il espère.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Il espère"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp, walking down a clinic corridor at night carrying a tray of medicine, seen from behind, cool light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp, on the phone at night, listening patiently, sitting on a plastic chair, profile",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, une nuit de garde, Tatiana appelle. Quarante minutes dans le couloir.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Une sonnette sonne. Puis deux.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Puis deux"
+     ]
+    },
+    {
+     "text": "La major, devant toute l'équipe : « Aimé, tes patients attendent. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Aimé a honte. C'est pas petit.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Samedi, son anniversaire. Le gâteau est sur la table.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Tatiana appelle : « Viens vite. Il m'a encore blessée. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il laisse le gâteau, achète des mouchoirs, et il fonce.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chez elle, deux heures sur son ex.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Son téléphone vibre. Elle sourit, elle prend son sac.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Il vient me chercher. T'es mon meilleur ami. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "meilleur ami"
+     ]
+    },
+    {
+     "text": "La porte se ferme. Aimé reste dans l'escalier, les mouchoirs à la main.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "mouchoirs"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a call bell light blinking above a hospital room door at night, corridor, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "hospital call bell beeping",
+      "vol": 0.14,
+      "q": "call bell"
+     }
+    },
+    {
+     "prompt": "a birthday cake with unlit candles on a table, friends seen from behind in a living room, warm light",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a young Ivorian woman with short natural hair and gold earrings, seen from behind or in profile, face never sharp, smiling at her phone and picking up her handbag by a door, seen from behind",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp, in casual clothes, standing alone in an apartment stairwell holding an unopened pack of tissues, seen from behind, dim light",
+     "motion": "static",
+     "foley": {
+      "text": "door closing in a stairwell",
+      "vol": 0.16,
+      "q": "door close"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il repense à l'année.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle l'appelle quand elle a mal. Jamais quand elle est heureuse.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Jamais"
+     ]
+    },
+    {
+     "text": "Il n'était pas son choix. Il était son urgence.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "urgence"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone call log scrolled at night, all calls late at night, blue light, close-up, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an emergency room sign light glowing red in the dark, out of focus, no readable text",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il lui parle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Tatiana, j'ai des sentiments pour toi. Et je ne peux plus réparer ce qu'un autre casse. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "sentiments"
+     ]
+    },
+    {
+     "text": "Elle répond : « Je te vois comme un ami. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "« D'accord. Alors je prends de la distance. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "distance"
+     ]
+    },
+    {
+     "text": "Ça a fait mal. Mais mercredi, il était au foot.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp and a young Ivorian woman with short natural hair and gold earrings, seen from behind or in profile, face never sharp, sitting apart on a bench in a quiet street in the morning, both seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "morning birds and light traffic",
+      "vol": 0.1,
+      "q": "morning street"
+     }
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp, playing street football with friends at dusk, seen from behind, dust in the light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Des mouchoirs lui ont ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, Abidjan rooftops in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Elle t'appelle quand elle rit… ou quand un autre l'a blessée ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a silent phone face up on a kitchen table in daylight, nobody touching it, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois que tu as tout lâché pour elle.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on stairs in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui ne t'appelle que pour pleurer un autre, elle ne te choisit pas.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ne te choisit pas"
+     ]
+    },
+    {
+     "text": "Aider, c'est bien. Être son sauveur, c'est t'oublier.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "t'oublier"
+     ]
+    },
+    {
+     "text": "Tes sentiments, tu les dis une fois. Comme un fait. Pas pour qu'elle te répare.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Si elle souffre vraiment, tu l'orientes : une personne de confiance, un professionnel.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Si elle est ton seul projet, tu as déjà perdu, dêh.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "déjà perdu"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-sept du Prince : les hommes hésitent moins à offenser celui qui se fait aimer.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "se fait aimer"
+     ]
+    },
+    {
+     "text": "Celui qui donne tout… on le prend sans y penser.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp, back in scrubs, focused at a patient chart table in a bright clinic, profile",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : sois bon avec elle. Mais tu n'es pas son hôpital.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "hôpital"
+     ]
+    },
+    {
+     "text": "Alors range ta cape. Et soigne ta propre vie !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ta propre vie"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hands hanging a coat on a hook by a door, close-up, dramatic warm light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas un autre anniversaire passé dans son escalier.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, close-cropped hair, wearing light blue nurse scrubs, seen from behind or in profile, face never sharp, walking out of the clinic at sunrise after a night shift, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Pas son sauveur",
+   "segments": [
+    {
+     "text": "Écris « Pas son sauveur » en commentaire.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui décroche à deux heures.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, on se parle d'homme à homme.",
+     "pause_after": 1.2
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an unopened pack of tissues left on a stair step, morning light, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Tu peux tendre la main. Tu n'as pas à devenir son pansement.",
+  "author": "Mr Zika"
+ }
+}

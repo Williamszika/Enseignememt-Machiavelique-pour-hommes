@@ -1,0 +1,492 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-19",
+ "title": "Elle annule ? « Pas de problème. » Et tu vis ta vie",
+ "output": "zm_19_elle_annule_pas_de_probleme_et_tu_vis_ta_vie.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Angré residential streets, ice cream terrace at night, neighborhood football pitch), warm evening light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 119,
+ "character": "a 29-year-old Ivorian man, dark skin, short twisted hair, thin glasses, wearing a grey hoodie, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "ELLE ANNULE ? « PAS DE PROBLÈME. »",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "ELLE A ANNULÉ. ET TOI, TU AS ANNULÉ TA VIE.",
+   "segments": [
+    {
+     "text": "Mon frère… elle a annulé. Et toi, tu as annulé ta vie.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ta vie"
+     ]
+    },
+    {
+     "text": "Combien de samedis tu as passés habillé… à attendre ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "attendre"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Narcisse peut te rendre tes week-ends.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's polished shoes and ironed shirt laid on a bed, a phone beside them with a dark screen, night, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a wall clock above a door, hands moving, dim living room, close-up",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "clock ticking in a quiet room",
+      "vol": 0.14,
+      "q": "clock tick"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "quiet Abidjan residential street in the evening with distant traffic",
+      "at": "start",
+      "vol": 0.18,
+      "q": "evening street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Narcisse. Un garçon sérieux. Il est informaticien à Angré.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Olga.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Avec Olga, tout est « peut-être ». On se voit samedi ? Peut-être.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "peut-être"
+     ]
+    },
+    {
+     "text": "Et une heure avant : « Désolée. On remet. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Alors Narcisse annule tout. Le foot. La formation. Il est dans son coin, il attend.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Il attend"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short twisted hair, thin glasses, wearing a grey hoodie, seen from behind or in profile, face never sharp, working at a desk with two computer screens in a small office in Angré, blue screen light, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "keyboard typing in an office",
+      "vol": 0.12,
+      "q": "keyboard"
+     }
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short twisted hair, thin glasses, wearing a grey hoodie, seen from behind or in profile, face never sharp, sitting alone on a sofa at home, dressed to go out, staring at his phone, profile, night",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un dimanche, il arrive chez sa mère à quinze heures. Encore un « peut-être ».",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sa tante montre l'assiette froide : « Ton assiette attend toujours… un homme qui n'est jamais là. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "jamais là"
+     ]
+    },
+    {
+     "text": "Tout le monde rit.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un samedi, c'est la finale du quartier. Narcisse est le gardien.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Olga écrit : « Ce soir, dix-neuf heures, au glacier. Sans faute. »",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Sans faute"
+     ]
+    },
+    {
+     "text": "Il laisse la finale. Il achète deux tickets de cinéma.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Dix-neuf heures. Personne. Vingt heures. Personne.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "À vingt et une heures : « Désolée, j'étais chez une amie. On remet ? »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Au même moment, l'équipe écrit : perdu aux tirs au but. Sans gardien.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Sans gardien"
+     ]
+    },
+    {
+     "text": "Narcisse reste seul. Les tickets sur la table. La glace a fondu.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an Ivorian family dining table on a Sunday afternoon, one untouched plate of food going cold, older women seen from behind, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "family lunch chatter and cutlery",
+      "vol": 0.14,
+      "q": "family lunch"
+     }
+    },
+    {
+     "prompt": "a dusty neighborhood football pitch at dusk, an empty goal, players seen from far away",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short twisted hair, thin glasses, wearing a grey hoodie, seen from behind or in profile, face never sharp, sitting alone at a terrace table of an ice cream shop at night, two cinema tickets and a melted ice cream cup in front of him, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "night terrace ambience with distant traffic",
+      "vol": 0.12,
+      "q": "terrace night"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il relit ses messages.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Quand elle annule, elle continue sa vie.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Lui… il arrête la sienne.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "arrête la sienne"
+     ]
+    },
+    {
+     "text": "Il n'avait pas de rendez-vous. Il avait une salle d'attente.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "salle d'attente"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling through a long list of cancelled plans in a chat, phone at night, blue light, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an empty waiting room with plastic chairs under a single neon light, nobody there",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, Olga écrit : « Demain, peut-être ? »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il répond : « Pas de problème. Dis-moi quand tu es sûre. Samedi, j'ai l'entraînement. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Pas de problème"
+     ]
+    },
+    {
+     "text": "Samedi, il y va.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Olga n'a pas changé d'un coup. Mais Narcisse n'attend plus assis.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man typing a short calm reply on his phone in the morning light, close-up on hands",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short twisted hair, thin glasses, wearing a grey hoodie, seen from behind or in profile, face never sharp, in goalkeeper gloves on a dusty football pitch at sunset, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "football training whistles and shouts",
+      "vol": 0.14,
+      "q": "football training"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une glace fondue lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, Abidjan rooftops in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Ta semaine, c'est toi qui la remplis… ou c'est son « peut-être » ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a paper wall calendar with empty squares, a pen resting on it, close-up, soft light, no readable text",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière chose que tu as annulée pour elle.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te garde en attente, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Une annulation, ça arrive. Tu dis : « Pas de problème. Prends ton temps. J'ai mes occupations. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Et c'est pas un jeu, dêh. Pas pour lui faire peur. Parce que c'est vrai.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "c'est vrai"
+     ]
+    },
+    {
+     "text": "Si ça revient toujours, tu le dis une fois : « Si tu n'as pas envie, dis-le-moi franchement. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "franchement"
+     ]
+    },
+    {
+     "text": "Ce soir, reprends un engagement lâché.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-cinq du Prince : la fortune décide de la moitié de nos actions… mais elle nous laisse gouverner l'autre moitié.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "l'autre moitié"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short twisted hair, thin glasses, wearing a grey hoodie, seen from behind or in profile, face never sharp, packing a sports bag with goalkeeper gloves in his room, evening light, profile",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : son agenda lui appartient. Ta vie t'appartient.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors sors de la salle d'attente. Et retourne dans ta vie !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ta vie"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man opening a door from a dark room onto a bright street, seen from behind, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas une autre glace fondue.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 29-year-old Ivorian man, dark skin, short twisted hair, thin glasses, wearing a grey hoodie, seen from behind or in profile, face never sharp, walking with a sports bag on his shoulder down an Angré street at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Pas de problème",
+   "segments": [
+    {
+     "text": "Écris « Pas de problème » en commentaire.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui rate tous ses matchs pour un « peut-être ».",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : le mercredi, c'est notre rendez-vous d'homme à homme.",
+     "pause_after": 1.2
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a pair of goalkeeper gloves resting on a bench beside a football pitch, morning light, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Son peut-être ne remplit pas ta semaine. Tes engagements, si.",
+  "author": "Mr Zika"
+ }
+}

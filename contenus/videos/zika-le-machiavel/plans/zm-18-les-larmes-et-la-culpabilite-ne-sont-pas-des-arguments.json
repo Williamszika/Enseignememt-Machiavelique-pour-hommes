@@ -1,0 +1,498 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-18",
+ "title": "Les larmes et la culpabilité ne sont pas des arguments",
+ "output": "zm_18_les_larmes_et_la_culpabilite_ne_sont_pas_des_arguments.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Marcory gbaka station, minibus terminus at dusk), warm dusty light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 118,
+ "character": "a 34-year-old Ivorian man, dark skin, shaved head, wearing a faded blue short-sleeve shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "SES LARMES NE SONT PAS UN ARGUMENT",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "ELLE PLEURE. ET TU CHANGES D'AVIS.",
+   "segments": [
+    {
+     "text": "Mon frère… elle pleure, et tu changes d'avis. Encore une fois.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "changes d'avis"
+     ]
+    },
+    {
+     "text": "Ses larmes ont gagné. Mais toi… tu as perdu quoi ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "perdu quoi"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Romuald peut te rendre ta parole.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a single tear-shaped drop of water falling on a dark phone screen, extreme close-up, night",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's hand hesitating above a mobile money send button, close-up, cold light",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone screen tap",
+      "vol": 0.14,
+      "q": "phone tap"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Abidjan minibus station with horns and apprentices calling",
+      "at": "start",
+      "vol": 0.2,
+      "q": "bus station"
+     }
+    },
+    {
+     "text": "J'ai un ami, Romuald. Un homme droit. Il conduit un gbaka à Marcory.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Linda.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque fois que Romuald dit non, Linda pleure.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "pleure"
+     ]
+    },
+    {
+     "text": "« Après tout ce que j'ai fait pour toi… Tu ne m'aimes pas. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Alors il cède. À chaque fois.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Son rêve : son propre gbaka. Il cotise à la tontine.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, wearing a faded blue short-sleeve shirt, seen from behind or in profile, face never sharp, at the wheel of a green and yellow gbaka minibus in Marcory, dusty road, warm afternoon light",
+     "motion": "push_in",
+     "foley": {
+      "text": "old minibus engine idling",
+      "vol": 0.12,
+      "q": "engine idle"
+     }
+    },
+    {
+     "prompt": "a young Ivorian woman in a colorful pagne dress, seen from behind or in profile, face never sharp, crying on a phone call in a small living room, seen from behind, dim light",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a small worn savings booklet with handwritten columns on a dashboard, close-up, no readable text",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un samedi, à la gare, le trésorier ouvre le carnet devant tous les chauffeurs.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Romuald… trois mois sans cotiser. Ton gbaka, c'est pour quand ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "trois mois"
+     ]
+    },
+    {
+     "text": "Les apprentis rient. Romuald baisse la tête.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un lundi, Linda veut cinquante mille pour un baptême.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Ce mois-ci, c'est la tontine. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle pleure au téléphone. Il envoie.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le soir, une note vocale de Linda arrive. Envoyée par erreur. Pour une amie.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "« T'inquiète. Je pleure un peu… et il lâche toujours. »",
+     "pause_after": 1.0,
+     "emphasis": [
+      "il lâche toujours"
+     ]
+    },
+    {
+     "text": "Romuald reste assis dans son gbaka vide. Le carnet sur les genoux.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a group of minibus drivers standing around an older man holding an open notebook at a bus station, seen from behind, late afternoon",
+     "motion": "push_in",
+     "foley": {
+      "text": "men laughing at a bus station",
+      "vol": 0.14,
+      "q": "crowd laugh"
+     }
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, wearing a faded blue short-sleeve shirt, seen from behind or in profile, face never sharp, lowering his head among laughing drivers, seen from behind",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a phone on a minibus seat showing an incoming voice message waveform, close-up, night, no readable text",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone vibration on seat",
+      "vol": 0.15,
+      "q": "phone vibrate"
+     }
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, wearing a faded blue short-sleeve shirt, seen from behind or in profile, face never sharp, sitting alone in an empty minibus at a night terminus, a small booklet on his knees, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il compte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque non… des larmes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque oui… les larmes s'arrêtent. Tout de suite.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Tout de suite"
+     ]
+    },
+    {
+     "text": "Ses larmes n'étaient pas du chagrin. C'était une clé. Et elle ouvrait sa poche.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "clé"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's finger tracing dates in a small booklet under a single bulb, close-up, night",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an old key turning in the lock of a metal cash box, extreme close-up, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il l'appelle. Sans crier.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Linda, j'ai entendu ta note. Mes décisions ne changent plus avec tes larmes. Quand tu voudras parler calmement, je serai là. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "calmement"
+     ]
+    },
+    {
+     "text": "Elle a pleuré. Puis elle a crié. Puis elle est partie.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Le samedi, Romuald a payé sa cotisation. Devant tout le monde.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, wearing a faded blue short-sleeve shirt, seen from behind or in profile, face never sharp, speaking calmly on the phone beside his parked gbaka, morning light, profile",
+     "motion": "push_in",
+     "foley": {
+      "text": "morning street ambience Abidjan",
+      "vol": 0.1,
+      "q": "street morning"
+     }
+    },
+    {
+     "prompt": "a hand placing folded banknotes on an open savings booklet held by an older man, close-up, daylight",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une note vocale lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, Abidjan lagoon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Ton non… il tient combien de temps ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone face down on a wooden table, a man's hand resting next to it, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois que tu as cédé devant des larmes.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the step of a parked minibus at night, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te fait ça, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "te joue"
+     ]
+    },
+    {
+     "text": "Les vraies larmes existent. Si elle a mal, tu t'assois, tu écoutes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais si elles arrivent à chaque non… c'est un levier.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "levier"
+     ]
+    },
+    {
+     "text": "Tu ne cries pas, dêh. Tu ne contre-attaques pas.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Tu dis : « Je vois que tu es triste. Ma décision reste la même. »",
+     "pause_after": 0.6,
+     "emphasis": [
+      "reste la même"
+     ]
+    },
+    {
+     "text": "Et tu tiens. Faut pas laisser ça.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-sept du Prince : le prince doit éviter d'être haï. Ferme, oui. Cruel, jamais.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Cruel, jamais"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, wearing a faded blue short-sleeve shirt, seen from behind or in profile, face never sharp, sitting calmly across a small table from a young Ivorian woman in a colorful pagne dress, seen from behind or in profile, face never sharp, both seen from the side, soft evening light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une décision qui fond devant les larmes n'a jamais été une décision.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors tiens ta parole. Calme. Droit. Comme un homme !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "Comme un homme"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hands firmly gripping a minibus steering wheel, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas que toute la gare connaisse ton carnet vide.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 34-year-old Ivorian man, dark skin, shaved head, wearing a faded blue short-sleeve shirt, seen from behind or in profile, face never sharp, driving his gbaka out of the station at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Ma décision reste la même",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Ma décision reste la même ».",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui cède à chaque larme.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, d'homme à homme, on apprend à tenir.",
+     "pause_after": 1.2
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a closed savings booklet resting on a minibus dashboard, morning light, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Les larmes peuvent toucher ton cœur. Elles ne doivent pas signer tes décisions.",
+  "author": "Mr Zika"
+ }
+}

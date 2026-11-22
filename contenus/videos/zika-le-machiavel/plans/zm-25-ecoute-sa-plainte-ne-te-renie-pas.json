@@ -1,0 +1,462 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-25",
+ "title": "Écoute sa plainte, ne te renie pas",
+ "output": "zm_25_ecoute_sa_plainte_ne_te_renie_pas.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Songon (residence gate with a small guard booth at night, courtyard birthday party with string lights), sodium street lamps and warm party light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 125,
+ "character": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "ÉCOUTE SA PLAINTE, NE TE RENIE PAS",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "POUR LA GARDER, TU DEVIENS UN AUTRE ?",
+   "segments": [
+    {
+     "text": "Mon frère… si pour la garder tu deviens un autre, elle n'a plus personne à aimer.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "un autre"
+     ]
+    },
+    {
+     "text": "Tu as changé quoi, toi, pour lui plaire ?",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Steve peut t'éviter de te perdre.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a shiny borrowed party shirt on a hanger next to a grey security uniform on a nail, dim room, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a cracked mirror on a wall reflecting a man's blurred silhouette, night, no face visible",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "night crickets, distant music",
+      "vol": 0.12,
+      "q": "night ambience"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "quiet residential street at night, distant dogs and a motorbike",
+      "at": "start",
+      "vol": 0.2,
+      "q": "night street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Steve. Agent de sécurité à Songon.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Corinne.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle se plaint : « Tu changes d'horaires sans me prévenir. Et tu es trop calme. Trop simple. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "sans me prévenir"
+     ]
+    },
+    {
+     "text": "Steve corrige le mauvais morceau.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "le mauvais morceau"
+     ]
+    },
+    {
+     "text": "Il emprunte des chemises brillantes. Il parle fort. Il lâche son foot du dimanche.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ses horaires ? Il ne la prévient toujours pas.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp, standing at the gate of a residence at night under a sodium street lamp, torch in hand, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "metal gate creaking",
+      "vol": 0.12,
+      "q": "gate creak"
+     }
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp, buttoning a shiny patterned party shirt in front of a small mirror, profile, face blurred",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a pair of football boots left in a corner, dusty, under a bed, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, à l'anniversaire de la sœur de Corinne, Steve fait le show.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sa chemise empruntée craque à l'épaule.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "craque"
+     ]
+    },
+    {
+     "text": "Un cousin rigole : « Faut pas fâcher, mais Steve, c'est toi ça ? »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "On rit. Pas avec lui. De lui.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "De lui"
+     ]
+    },
+    {
+     "text": "Silence. Steve a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Une nuit, Corinne arrive au portail de la résidence. Il faisait double service. Elle l'a attendu deux heures au restaurant.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Elle pose sur la guérite la chemise empruntée, recousue à l'épaule.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Avant, tu étais toi. Et tu ne me préviens toujours pas. »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a courtyard birthday party in Songon at night, string lights, a speaker, people dancing seen from a distance, faces not visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "party music and laughter in a courtyard",
+      "vol": 0.15,
+      "q": "party crowd"
+     }
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp, dancing awkwardly in a tight shiny shirt torn at the shoulder, seen from behind, people laughing around him in bokeh",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a woman's hand placing a neatly folded shiny shirt, mended at the shoulder, on the ledge of a guard booth at night, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp, standing alone under a street lamp with a torch, watching a woman walk away, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il regarde la chemise.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle avait demandé deux choses. Une était juste : la prévenir. Il ne l'a pas fait.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "L'autre lui demandait de ne plus être lui. Ça, il l'a fait tout de suite.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "tout de suite"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a folded shiny shirt with a fresh seam at the shoulder under the beam of a torch on a guard booth desk at night, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's silhouette sitting inside a small lit guard booth at night, seen from outside through the window",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il colle son planning sur le frigo de Corinne : « Là, tu avais raison. Maintenant, je te préviens. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il rend les chemises : « Mais je suis calme. Ça, c'est moi. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "c'est moi"
+     ]
+    },
+    {
+     "text": "Corinne a dit : « Je vais réfléchir. » Mais le dimanche, Steve a rejoué au foot. Et il a dormi.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand pinning a handwritten weekly work schedule to a fridge with a magnet, no readable text, morning light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp, in a plain t-shirt, running on a dusty local football pitch on Sunday morning, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "football kicked on a dusty pitch, players calling",
+      "vol": 0.14,
+      "q": "football pitch"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une chemise recousue lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a residence gate at dawn, the lagoon road of Songon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Qu'est-ce que tu as changé… qui n'était pas à changer ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a small mirror hanging on a nail in a dim room, reflecting nothing but an empty wall, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à une chose vraie de toi, lâchée pour plaire.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a low wall at night, elbows on knees, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… quand elle se plaint, tu écoutes jusqu'au bout. Sans te défendre.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Puis tu tries. Ce qui est juste, tu le corriges. Vite. Ça, c'est pas petit dêh.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "tu le corriges"
+     ]
+    },
+    {
+     "text": "Ce qui te demande de devenir un autre, tu réponds : « Je t'entends. Mais ça, c'est moi. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Ce soir, coupe sa dernière plainte en deux : ce que tu corriges, ce que tu gardes.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-cinq du Prince : un homme ne sait pas dévier de ce à quoi sa nature l'incline.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "sa nature"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp, doing his night round with a torch along a residence wall, calm steady walk, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme qui t'aime peut te demander de grandir. Pas de disparaître.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "disparaître"
+     ]
+    },
+    {
+     "text": "Alors corrige ta faute. Et reste toi, la tête haute !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "la tête haute"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man straightening his uniform collar in front of a mirror, close-up on hands, dramatic light, face not visible",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'on rie de toi dans la chemise d'un autre.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 33-year-old Ivorian man, dark skin, shaved head, broad shoulders, wearing a dark grey security guard uniform shirt, seen from behind or in profile, face never sharp, walking home along a Songon road at sunrise after a night shift, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je corrige, je reste moi",
+   "segments": [
+    {
+     "text": "Écris « Je corrige, je reste moi » en commentaire. Envoie cette vidéo à l'ami qui se déguise pour plaire. Abonne-toi, suis la page et active la cloche : chaque mercredi, on parle vrai, d'homme à homme.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "Je corrige, je reste moi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a security guard cap resting on the ledge of a guard booth at sunrise, warm light, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Corrige tes fautes pour elle. Ne te rends jamais méconnaissable pour elle.",
+  "author": "Mr Zika"
+ }
+}

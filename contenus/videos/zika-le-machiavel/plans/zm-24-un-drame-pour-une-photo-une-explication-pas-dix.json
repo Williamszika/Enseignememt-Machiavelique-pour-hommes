@@ -1,0 +1,479 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-24",
+ "title": "Un drame pour une photo ? Une explication, pas dix",
+ "output": "zm_24_un_drame_pour_une_photo_une_explication_pas_dix.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Williamsville phone shop with glass counters, family Sunday lunch in a courtyard), warm daylight and neon shop light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 124,
+ "character": "a 28-year-old Ivorian man, dark skin, short hair with a neat beard, wearing a bright blue short-sleeved shirt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "UN DRAME POUR UNE PHOTO ? UNE EXPLICATION, PAS DIX",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "CHAQUE PHOTO, UN PROCÈS ?",
+   "segments": [
+    {
+     "text": "Mon frère… si chaque photo t'envoie au tribunal, c'est pas un couple. C'est un procès.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "procès"
+     ]
+    },
+    {
+     "text": "Combien de fois tu as expliqué la même chose… pour rien ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "pour rien"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Franck peut te rendre ta parole.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone on a glass shop counter showing a photo gallery, blurred thumbnails, close-up, neon light",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone vibrating on glass",
+      "vol": 0.16,
+      "q": "phone vibrate"
+     }
+    },
+    {
+     "prompt": "a wooden judge's gavel next to a smartphone on a dark table, dramatic side light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Abidjan street with taxis and vendors",
+      "at": "start",
+      "vol": 0.2,
+      "q": "city street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Franck. Il vend des téléphones à Williamsville.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Danielle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Une cliente pose avec lui pour la page de la boutique.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Danielle tombe dessus. « C'est qui, ça ? »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "C'est qui"
+     ]
+    },
+    {
+     "text": "Franck explique. Puis réexplique. Des vocaux de dix minutes. Il supprime la photo. Il s'excuse… de rien.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "de rien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short hair with a neat beard, wearing a bright blue short-sleeved shirt, seen from behind or in profile, face never sharp, behind the glass counter of a small phone shop in Williamsville, rows of phone boxes, warm neon light",
+     "motion": "push_in",
+     "foley": {
+      "text": "small shop ambience, plastic packaging",
+      "vol": 0.12,
+      "q": "shop ambience"
+     }
+    },
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short hair with a neat beard, wearing a bright blue short-sleeved shirt, seen from behind or in profile, face never sharp, holding a phone close to his mouth recording a long voice message, profile, night",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a thumb pressing delete on a photo on a phone screen, blurred image, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un samedi, un client attend au comptoir, l'argent dans la main.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Franck est au téléphone. Encore la photo. Quarante minutes.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Quarante minutes"
+     ]
+    },
+    {
+     "text": "Le client s'en va.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le patron : « Franck, tu vends des téléphones… ou tu vis dedans ? »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Silence. Franck a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le dimanche, chez un ami, Danielle prend son téléphone.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Devant tout le monde, elle retrouve la photo.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Explique encore. Ici. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Ici"
+     ]
+    },
+    {
+     "text": "Franck commence. Pour la onzième fois.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "onzième"
+     ]
+    },
+    {
+     "text": "Son ami murmure : « On dit quoi ? Tu passes au tribunal chaque dimanche ? »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a customer's hand putting banknotes back into a pocket at a phone shop counter, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a courtyard Sunday lunch table in Abidjan, plates of attiéké and fish, adults seated, seen from a distance, faces not visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "cutlery and quiet chatter at a lunch table",
+      "vol": 0.14,
+      "q": "cutlery chatter"
+     }
+    },
+    {
+     "prompt": "a young Ivorian woman in a yellow blouse, seen from behind or in profile, face never sharp, scrolling a man's phone at a lunch table",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short hair with a neat beard, wearing a bright blue short-sleeved shirt, seen from behind or in profile, face never sharp, sitting at a lunch table with a fork frozen in mid-air, seen from behind, people around him",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il relit ses messages.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il compte. Neuf fois la même explication.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "Neuf fois"
+     ]
+    },
+    {
+     "text": "Aucune n'a apporté la paix. Chacune, une nouvelle question.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Plus il se justifiait, plus il avait l'air coupable.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "coupable"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling through a long column of voice message bubbles on a phone at night, blue light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's silhouette sitting on a plastic chair on a dark balcony, phone dimmed in his hand",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, elle écrit : « Tu n'as toujours pas expliqué. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il l'appelle, calme : « C'est une cliente. Je te l'ai dit, je ne le redirai plus. Si tu ne me crois pas, le problème n'est pas la photo. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "je ne le redirai plus"
+     ]
+    },
+    {
+     "text": "Elle a boudé trois jours. Puis elle est venue parler. Pas de la photo. De confiance.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short hair with a neat beard, wearing a bright blue short-sleeved shirt, seen from behind or in profile, face never sharp, standing in the doorway of his phone shop in the morning, phone at his ear, calm posture, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "metal shop shutter rolling up",
+      "vol": 0.14,
+      "q": "rolling shutter"
+     }
+    },
+    {
+     "prompt": "two people sitting side by side on a low wall at dusk, seen from behind, a space between them, Abidjan street",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Onze explications lui ont ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, Williamsville rooftops in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tu t'expliques pour être compris… ou pour avoir la paix ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone lying face up on a wooden table with a long unsent message, blurred text, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois que tu t'es justifié pour rien.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te refait le même procès chaque jour ne cherche pas la vérité. Elle te tient.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Elle te tient"
+     ]
+    },
+    {
+     "text": "Si tu caches quelque chose, c'est un autre problème. Sinon, tu réponds une fois. Calmement. Avec les faits.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "une fois"
+     ]
+    },
+    {
+     "text": "Après, tu dis : « Je t'ai répondu. Je ne vais pas me défendre de rien. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Ce soir, relis tes messages et compte. Faut pas laisser ça.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : on méprise celui qu'on tient pour changeant et irrésolu… ses décisions doivent être irrévocables.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "irrévocables"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short hair with a neat beard, wearing a bright blue short-sleeved shirt, seen from behind or in profile, face never sharp, serving a customer at his shop counter in daylight, handing over a phone box, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : un homme qui dit vrai n'a pas besoin de le dire dix fois.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors dis-le une fois. Et laisse ta parole peser !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "peser"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand placing a phone face down firmly on a glass counter, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas de perdre ton travail pour une photo de rien.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 28-year-old Ivorian man, dark skin, short hair with a neat beard, wearing a bright blue short-sleeved shirt, seen from behind or in profile, face never sharp, walking down a busy Williamsville street at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Une fois, pas dix",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Une fois, pas dix ». Envoie cette vidéo à l'ami qui se justifie tous les soirs. Abonne-toi, suis la page et active la cloche : chaque mercredi, notre rendez-vous d'hommes.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "Une fois, pas dix"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone shop window at morning with the shutter open, warm light, no readable text",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "La vérité dite une fois suffit. Répétée dix fois, elle devient une excuse.",
+  "author": "Mr Zika"
+ }
+}

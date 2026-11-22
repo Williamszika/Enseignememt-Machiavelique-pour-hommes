@@ -1,0 +1,508 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-14",
+ "title": "Ni sa béquille ni son juge : traite-la en égale",
+ "output": "zm_14_ni_sa_bequille_ni_son_juge_traite_la_en_egale.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, San-Pedro (fishing port with wooden pirogues at dawn, small grilled-fish maquis by the port at night), warm charcoal light and blue dawn, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 114,
+ "character": "a 40-year-old Ivorian fisherman, dark skin, short beard, wearing a faded blue t-shirt and rolled trousers, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "NI SA BÉQUILLE NI SON JUGE : TRAITE-LA EN ÉGALE",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "ELLE N'A BESOIN NI D'UN SAUVEUR, NI D'UN JUGE.",
+   "segments": [
+    {
+     "text": "Mon frère… ta femme n'a pas besoin d'un sauveur. Ni d'un juge.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "sauveur",
+      "juge"
+     ]
+    },
+    {
+     "text": "Quand elle te raconte sa journée… tu l'écoutes, ou tu la corriges ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "tu l'écoutes"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Armand peut sauver ta maison.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two hands on a wooden table at night, one pointing a finger at an open notebook, close-up, warm lamp",
+     "motion": "push_in",
+     "foley": {
+      "text": "pen tapping on wood",
+      "vol": 0.12,
+      "q": "pen tap"
+     }
+    },
+    {
+     "prompt": "a wooden crutch leaning against a wall in a dim room, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "fishing port at dawn with waves and seagulls",
+      "at": "start",
+      "vol": 0.2,
+      "q": "harbor waves"
+     }
+    },
+    {
+     "text": "J'ai un ami, Armand. Pêcheur, à San-Pedro. Un môgô dur à la mer, il sort avant le jour.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sa femme, Sylvie, a ouvert un petit maquis de poisson braisé, près du port.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Quand elle est fatiguée, Armand prend tout en main : « Laisse, je vais gérer. » Il appelle ses fournisseurs. Il fixe ses prix.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "je vais gérer"
+     ]
+    },
+    {
+     "text": "Et quand ça ne marche pas, il dit : « Je t'avais dit. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Une fois il la porte. Une fois il la note. Jamais il ne la regarde comme une égale.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "une égale"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 40-year-old Ivorian fisherman, dark skin, short beard, wearing a faded blue t-shirt and rolled trousers, seen from behind or in profile, face never sharp, pushing a colorful wooden pirogue into the sea at dawn, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "waves on sand and wood scraping",
+      "vol": 0.14,
+      "q": "boat launch"
+     }
+    },
+    {
+     "prompt": "a small grilled-fish maquis by a port at dusk, charcoal smoke, plastic chairs, seen from a distance",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 40-year-old Ivorian fisherman, dark skin, short beard, wearing a faded blue t-shirt and rolled trousers, seen from behind or in profile, face never sharp, talking on a phone while a woman stands behind him, both seen from behind, maquis light",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un samedi, le maquis est plein.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Armand arrive et, devant les clients, il corrige Sylvie à voix haute : « Pas à ce prix-là ! Tu ne sais pas compter ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Tu ne sais pas compter"
+     ]
+    },
+    {
+     "text": "Deux clients rigolent. Sylvie baisse les yeux. Elle sert sans un mot.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Silence. Armand trouve ça normal.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Mais un soir, Sylvie rentre épuisée. Une mauvaise journée. Elle pleure un peu.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Armand commence déjà : « Je t'avais dit… »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors elle ferme son cahier de comptes, doucement, et elle le pose devant lui.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "cahier"
+     ]
+    },
+    {
+     "text": "« Armand, je ne te demande pas de me sauver. Ni de me noter. Je te demande de m'écouter. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "m'écouter"
+     ]
+    },
+    {
+     "text": "Elle se tourne vers le mur.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a busy maquis at night, grilled fish on a charcoal grill, customers seen from behind, string lights",
+     "motion": "push_in",
+     "foley": {
+      "text": "charcoal grill sizzling and chatter",
+      "vol": 0.14,
+      "q": "grill sizzle"
+     }
+    },
+    {
+     "prompt": "a young Ivorian woman in an apron seen from behind, face never sharp, serving plates with her head lowered, bokeh lights",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a school notebook of handwritten accounts being closed slowly on a table, close-up, lamp light, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a woman lying on a bed facing the wall in a dim room, seen from behind, a man sitting at the table in the foreground, silhouette",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il pense à sa pirogue.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Avec ses gars, en mer, il demande leur avis. Il écoute. Il les respecte.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Avec sa femme, jamais. Ou il répare. Ou il juge.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il n'était pas son mari. Il était son chef.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "son chef"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "fishermen pulling a net together in a pirogue at dawn, seen from behind, no faces",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 40-year-old Ivorian fisherman, dark skin, short beard, wearing a faded blue t-shirt and rolled trousers, seen from behind or in profile, face never sharp, sitting alone on an upturned pirogue on the beach at night, profile, moonlight",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il ouvre le cahier avec elle : « Montre-moi. Qu'est-ce qui marche, pour toi ? »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "pour toi"
+     ]
+    },
+    {
+     "text": "Il écoute. Jusqu'au bout. Puis il dit : « Ta sauce, les clients reviennent pour elle. Ça, c'est ton travail. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ton travail"
+     ]
+    },
+    {
+     "text": "Ils se disputent encore, parfois. Mais maintenant, c'est elle qui lui montre le cahier.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man and a woman sitting side by side at a table, an open notebook between them, seen from behind, morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "pages turning",
+      "vol": 0.1,
+      "q": "page turn"
+     }
+    },
+    {
+     "prompt": "a pot of sauce simmering on a charcoal stove, close-up, steam, warm light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un cahier fermé lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette on a jetty at dawn, pirogues on the sea in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Quand elle a un problème, tu l'écoutes… ou tu prends sa place ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two empty chairs facing each other at a small table, morning light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière fois qu'elle t'a parlé de son travail.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, hands joined, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… être sa béquille, ça ressemble à de l'amour. Mais une béquille, on s'appuie dessus… puis on la laisse dans un coin.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "béquille"
+     ]
+    },
+    {
+     "text": "Être son juge, c'est pire. Elle arrête de te parler.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Traite-la en égale. Pose une vraie question : « Toi, tu en penses quoi ? » Et écoute pour comprendre, pas pour répondre.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "pour comprendre"
+     ]
+    },
+    {
+     "text": "Quand elle est dans la tempête, reste calme à côté d'elle. Ne te noie pas avec elle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et devant les autres, tu ne la corriges jamais. Ça, c'est pas petit dêh.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "jamais"
+     ]
+    },
+    {
+     "text": "Ce soir, fais-lui un compliment précis. Pas « tu es belle » en passant. Un vrai : ce qu'elle a fait, ce qu'elle a réussi.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "précis"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre huit du Prince : les bienfaits doivent se faire peu à peu… pour qu'on les savoure mieux.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "savoure"
+     ]
+    },
+    {
+     "text": "Ça ne veut pas dire la priver. Ça veut dire : un mot vrai et précis pèse plus que mille compliments jetés en l'air.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 40-year-old Ivorian fisherman, dark skin, short beard, wearing a faded blue t-shirt and rolled trousers, seen from behind or in profile, face never sharp, listening to a woman at a table, leaning forward, both in profile, faces never sharp, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a calm hand resting on a wooden table while rain falls outside the window, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : une femme qu'on respecte grandit à côté de toi. Pas derrière toi.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "à côté de toi"
+     ]
+    },
+    {
+     "text": "Alors pose ta béquille, range ta robe de juge, et marche à côté d'elle !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "marche à côté d'elle"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man and a woman walking side by side on a beach at sunrise, seen from behind, same pace",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'elle ferme son cahier… et son cœur avec.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 40-year-old Ivorian fisherman, dark skin, short beard, wearing a faded blue t-shirt and rolled trousers, seen from behind or in profile, face never sharp, walking up the beach towards a small maquis at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Une égale",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Une égale » si tu as compris.",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Une égale"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui corrige sa femme devant tout le monde.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page, active la cloche : le mercredi, on parle d'homme à homme, sans détour.",
+     "pause_after": 2.0,
+     "emphasis": [
+      "le mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an open notebook and two cups of tea on a table by the sea, morning light, close-up",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Une femme qu'on écoute devient une alliée. Une femme qu'on juge devient une étrangère.",
+  "author": "Mr Zika"
+ }
+}

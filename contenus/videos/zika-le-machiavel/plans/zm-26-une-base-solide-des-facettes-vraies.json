@@ -1,0 +1,470 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-26",
+ "title": "Une base solide, des facettes vraies",
+ "output": "zm_26_une_base_solide_des_facettes_vraies.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Korhogo (truck garage with red dust, bus and truck station, simple family house at night), hot amber daylight and single-bulb night light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 126,
+ "character": "a 38-year-old Ivorian man, dark skin, short greying hair, sturdy build, wearing a faded khaki work shirt with rolled sleeves, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "UNE BASE SOLIDE, DES FACETTES VRAIES",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "UN HOMME EN FER, ON NE VIT PAS AVEC.",
+   "segments": [
+    {
+     "text": "Mon frère… un homme en fer, on l'admire de loin. Mais on ne vit pas avec du fer.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "en fer"
+     ]
+    },
+    {
+     "text": "Tu caches quoi, toi, pour avoir l'air solide ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "solide"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Kader peut t'éviter de devenir un mur.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a heavy rusty iron door closed on a concrete wall, harsh side light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a truck key on a wooden table next to a folded paper, single bulb at night, close-up, no readable text",
+     "motion": "push_in",
+     "foley": {
+      "text": "keys set down on wood",
+      "vol": 0.14,
+      "q": "keys on table"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "truck station with idling engines and horns",
+      "at": "start",
+      "vol": 0.2,
+      "q": "truck station"
+     }
+    },
+    {
+     "text": "J'ai un ami, Kader. Transporteur à Korhogo.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Sa femme, c'est Bénédicte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Kader croit qu'un homme ne montre rien. Jamais fatigué. Jamais inquiet.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ne montre rien"
+     ]
+    },
+    {
+     "text": "Un jour, le moteur du camion casse. Trois cent mille de réparation. C'est pas petit dêh.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Le soir, Bénédicte demande : « Ça va ? » Il répond : « Tout va bien. » Pendant trois semaines.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Tout va bien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, sturdy build, wearing a faded khaki work shirt with rolled sleeves, seen from behind or in profile, face never sharp, standing beside a big old cargo truck on a red dirt road near Korhogo, hot afternoon light, seen from behind",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an open truck engine with a broken part, oily hands of a mechanic, dusty garage, close-up",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "wrench on metal in a garage",
+      "vol": 0.12,
+      "q": "wrench metal"
+     }
+    },
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, sturdy build, wearing a faded khaki work shirt with rolled sleeves, seen from behind or in profile, face never sharp, sitting at a simple dinner table at night, a woman's hand pouring water into his glass, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, à la gare routière, le mécanicien crie devant les chauffeurs : « Kader, ton moteur dort chez moi ! Tu paies quand ? »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Kader sourit : « C'est réglé. » C'était faux.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Silence. Kader a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un soir, Bénédicte pose sur la table la facture du garage, trouvée dans sa veste.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "la facture"
+     ]
+    },
+    {
+     "text": "Elle ne crie pas : « Je ne t'ai pas épousé parce que tu ne tombes jamais. Là, je vis avec un mur. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "un mur"
+     ]
+    },
+    {
+     "text": "Lui reste à table, la facture devant lui.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a busy truck and bus station in Korhogo, drivers standing in groups, red dust, seen from a distance, faces not visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "crowd and engines at a bus station",
+      "vol": 0.15,
+      "q": "bus station crowd"
+     }
+    },
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, sturdy build, wearing a faded khaki work shirt with rolled sleeves, seen from behind or in profile, face never sharp, forcing a relaxed posture among a group of truck drivers, seen from behind",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a woman's hand placing a crumpled garage invoice on a kitchen table at night, close-up, no readable text",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, sturdy build, wearing a faded khaki work shirt with rolled sleeves, seen from behind or in profile, face never sharp, sitting alone at a table under a single bulb, a paper in front of him, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il s'assoit dans la cabine du camion en panne.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "En cachant tout, il ne l'avait pas protégée. Il l'avait laissée dehors.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le mur ne tenait pas la maison. Il la coupait en deux.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "en deux"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette sitting in the dark cab of a parked truck at night, hands on the steering wheel, moonlight",
+     "motion": "static"
+    },
+    {
+     "prompt": "a cracked concrete wall in a courtyard at night, a thin line of light through the crack, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, au café, il lui dit :",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Le camion est en panne. J'ai une dette. Mon plan : je conduis pour un autre deux mois. Je ne te demande rien. Je veux que tu saches. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Je veux que tu saches"
+     ]
+    },
+    {
+     "text": "Elle lui en voulait. Puis : « Ça va aller. On est ensemble. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Deux mois plus tard, le camion roulait.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two cups of coffee on a small table at morning, a man's hands around one, a woman's hands around the other, warm light, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "coffee poured into a cup, morning birds",
+      "vol": 0.12,
+      "q": "coffee pour"
+     }
+    },
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, sturdy build, wearing a faded khaki work shirt with rolled sleeves, seen from behind or in profile, face never sharp, driving a cargo truck on a long red road at sunrise, seen from behind through the cab",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une facture froissée lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette in a doorway at dawn, Korhogo rooftops and a mango tree in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Elle connaît ton cœur… ou seulement ton « tout va bien » ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone on a table with a short unsent message, blurred text, night, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à une chose que tu portes seul en ce moment.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the step of a house at night, a heavy bag at his feet, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… être solide, ce n'est pas être en fer. C'est une base qui ne bouge pas.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "une base"
+     ]
+    },
+    {
+     "text": "Ta parole, ton travail : ça ne bouge pas. Ta peur, ton rire, ta tendresse : ce sont tes facettes.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "facettes"
+     ]
+    },
+    {
+     "text": "Montrer ta fissure, ce n'est pas t'effondrer. Tu la dis comme un fait, pas pour qu'elle te répare.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "pas pour qu'elle te répare"
+     ]
+    },
+    {
+     "text": "Ce soir, dis-lui une chose vraie, avec ton plan.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-huit du Prince : il faut être renard pour connaître les pièges, et lion pour effrayer les loups. Deux bêtes. Pas un masque.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "renard",
+      "lion",
+      "Pas un masque"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a large old tree with a thick trunk and moving branches in the wind, Korhogo savanna, golden light",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "wind in tree leaves",
+      "vol": 0.12,
+      "q": "wind leaves"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : la femme qui t'aime ne veut pas un homme qui ne tombe jamais. Elle veut un homme vrai.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "un homme vrai"
+     ]
+    },
+    {
+     "text": "Alors pose le masque. Montre l'homme entier !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "l'homme entier"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hands setting down a heavy welding mask on a workbench, dramatic light, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'une facture parle à ta place.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 38-year-old Ivorian man, dark skin, short greying hair, sturdy build, wearing a faded khaki work shirt with rolled sleeves, seen from behind or in profile, face never sharp, walking home along a dusty Korhogo street at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Solide et vrai",
+   "segments": [
+    {
+     "text": "Écris « Solide et vrai » en commentaire. Envoie cette vidéo à l'ami qui répond toujours « tout va bien ». Abonne-toi, suis la page et active la cloche : chaque mercredi, on se parle sans masque.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "Solide et vrai"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a cargo truck parked under a mango tree at morning, engine hood closed, warm light",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Ta base ne bouge pas. Ton cœur, lui, a le droit de se voir.",
+  "author": "Mr Zika"
+ }
+}

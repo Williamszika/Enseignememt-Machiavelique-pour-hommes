@@ -1,0 +1,505 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-17",
+ "title": "Respecte-la, ne l'adore pas",
+ "output": "zm_17_respecte_la_ne_l_adore_pas.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Treichville (tailor workshop full of wax-print fabrics and sewing machines, family living room on a Sunday), warm afternoon light and single bulb at night, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 117,
+ "character": "a 32-year-old Ivorian man, dark skin, slim, wearing a wax-print shirt with a tape measure around his neck, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "RESPECTE-LA, NE L'ADORE PAS",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "PLUS TU L'ADORES, MOINS ELLE TE COMPTE.",
+   "segments": [
+    {
+     "text": "Mon frère… plus tu l'adores, moins elle te compte.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "moins elle te compte"
+     ]
+    },
+    {
+     "text": "Elle arrive une heure en retard, sans un message… et c'est toi qui t'excuses ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "toi qui t'excuses"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Lamine peut te rendre ton respect.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a wall clock in a dim room, the minute hand moving, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "clock ticking",
+      "vol": 0.14,
+      "q": "clock tick"
+     }
+    },
+    {
+     "prompt": "a red carpet of wax-print fabric unrolled on a workshop floor, seen from above",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Treichville street with sewing machines and voices",
+      "at": "start",
+      "vol": 0.2,
+      "q": "market street"
+     }
+    },
+    {
+     "text": "J'ai un ami, Lamine. Tailleur, à Treichville. Ses mains font des merveilles avec le pagne.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Flora.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Lamine l'adore. Il l'appelle « ma reine » vingt fois par jour. Il poste sa photo chaque matin.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ma reine"
+     ]
+    },
+    {
+     "text": "Flora arrive en retard ? « C'est rien. » Elle oublie ? « C'est rien. » Il ne dit jamais ce qui le dérange.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "C'est rien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, slim, wearing a wax-print shirt with a tape measure around his neck, seen from behind or in profile, face never sharp, sewing wax-print fabric on an old sewing machine in a small workshop, profile, warm afternoon light",
+     "motion": "push_in",
+     "foley": {
+      "text": "sewing machine running",
+      "vol": 0.14,
+      "q": "sewing machine"
+     }
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, slim, wearing a wax-print shirt with a tape measure around his neck, seen from behind or in profile, face never sharp, typing a long message on his phone at the workshop door, seen from behind",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un dimanche, c'est l'anniversaire de sa mère. Toute la famille attend Flora pour manger.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Une heure. Pas un message.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Le riz refroidit. Sa mère regarde l'horloge.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Flora arrive enfin, en riant. Et Lamine se lève : « Pardon maman, c'est ma faute. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "c'est ma faute"
+     ]
+    },
+    {
+     "text": "Sa mère ne dit rien. C'est pas pour rien.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Silence. Lamine a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Pour le mariage d'une cousine, il coud à Flora une robe en pagne. Trois nuits de travail.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le jour de l'essayage, il renvoie un client pour l'attendre.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Trente minutes. Rien. Quand elle arrive, elle enfile la robe, se regarde, et dit à son amie au téléphone : « Lamine ? Il attend toujours. Il ne dit jamais rien. C'est même ennuyeux. »",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ennuyeux"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a family table set for a Sunday meal with covered dishes of rice, adults seated seen from behind, no faces, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "an older Ivorian woman in a headwrap seen from behind, looking at a wall clock, dim living room",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a wax-print dress on a tailor's mannequin in a workshop, close-up on the stitching, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a young Ivorian woman seen from behind, face never sharp, trying on a wax-print dress in front of a mirror, phone to her ear, blurred reflection",
+     "motion": "push_in",
+     "foley": {
+      "text": "fabric rustling",
+      "vol": 0.1,
+      "q": "fabric rustle"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, Lamine regarde la robe sur le mannequin.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il compte. Vingt « ma reine » par jour. Pas une seule fois : « Préviens-moi. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Préviens-moi"
+     ]
+    },
+    {
+     "text": "Plus il s'effaçait, moins elle le voyait.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il ne l'aimait pas mieux. Il s'aimait moins.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "Il s'aimait moins"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a wax-print dress on a mannequin in a dark workshop, one bulb, chiaroscuro",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, slim, wearing a wax-print shirt with a tape measure around his neck, seen from behind or in profile, face never sharp, sitting alone at a sewing machine at night, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le samedi suivant, Flora a encore trente minutes de retard.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Cette fois, Lamine n'attend pas. Il prend le client suivant.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "n'attend pas"
+     ]
+    },
+    {
+     "text": "Quand elle arrive, il dit, calmement : « Mon temps compte. Si quelque chose ne va pas, préviens-moi. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Mon temps compte"
+     ]
+    },
+    {
+     "text": "Flora boude. Elle dit qu'il a changé. Mais la fois d'après… un message tombe : « J'arrive dans vingt minutes. »",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, slim, wearing a wax-print shirt with a tape measure around his neck, seen from behind or in profile, face never sharp, taking measurements of a male client with a tape measure, both seen from behind, afternoon light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a phone on a sewing table lighting up with a short message, blurred text, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone notification ping",
+      "vol": 0.16,
+      "q": "notification"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une robe sur un mannequin lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a workshop door at dawn, Treichville street in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tu l'aimes… ou tu t'effaces devant elle ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a mirror in a tailor's workshop reflecting an empty chair, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à la dernière chose qui t'a dérangé… et que tu as avalée.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, hands joined, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas qu'elle est mauvaise. Je dis : celle qui ne respecte pas ton temps ne respecte pas ta vie.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ta vie"
+     ]
+    },
+    {
+     "text": "Respecte-la. Ne l'adore pas. Adorer, c'est la mettre au-dessus de toi. Respecter, c'est se tenir debout, l'un en face de l'autre.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "debout"
+     ]
+    },
+    {
+     "text": "Un problème ? Tu le dis. Une fois. Calmement. Faut pas laisser ça pourrir.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Tu peux dire non. Sans te justifier pendant dix minutes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et tes vrais engagements, ton travail, ta famille, tu ne les annules pas pour une place dans son agenda.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Traite-la comme tu te traites : avec respect, et avec des limites.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "des limites"
+     ]
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-neuf du Prince : on méprise celui qu'on tient pour changeant, léger… irrésolu.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "irrésolu"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, slim, wearing a wax-print shirt with a tape measure around his neck, seen from behind or in profile, face never sharp, cutting fabric with large tailor scissors, profile, steady hands, daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "scissors cutting fabric",
+      "vol": 0.12,
+      "q": "scissors"
+     }
+    },
+    {
+     "prompt": "a man and a woman standing face to face at the same height, both in profile, faces never sharp, soft window light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : on ne respecte pas un homme qui s'efface. On respecte un homme qui se tient debout.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "debout"
+     ]
+    },
+    {
+     "text": "Alors range le tapis rouge. Dis ce que tu penses. Et tiens-toi droit devant elle !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "droit"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a hand rolling up a long wax-print fabric and setting it aside, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'elle te trouve ennuyeux pour te respecter toi-même.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, slim, wearing a wax-print shirt with a tape measure around his neck, seen from behind or in profile, face never sharp, opening his workshop at sunrise, seen from behind, Treichville street",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "ferme",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Mon temps compte",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Mon temps compte » si tu as compris.",
+     "pause_after": 0.5,
+     "emphasis": [
+      "Mon temps compte"
+     ]
+    },
+    {
+     "text": "Envoie cette vidéo à l'ami qui dit toujours « c'est rien ».",
+     "pause_after": 0.5
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, un rendez-vous d'homme à homme, pour te tenir droit.",
+     "pause_after": 2.0,
+     "emphasis": [
+      "chaque mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a tape measure lying on a folded wax-print fabric, morning light, close-up",
+     "motion": "static"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "L'adoration te met en dessous. Le respect vous met face à face.",
+  "author": "Mr Zika"
+ }
+}

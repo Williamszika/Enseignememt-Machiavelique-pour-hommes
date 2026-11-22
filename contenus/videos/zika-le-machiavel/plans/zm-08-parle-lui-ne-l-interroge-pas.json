@@ -1,0 +1,488 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-08",
+ "title": "Parle-lui, ne l'interroge pas",
+ "output": "zm_08_parle_lui_ne_l_interroge_pas.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Riviera bank branch, rooftop terrace at night, friends' dinner on a balcony), warm evening light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 108,
+ "character": "a 32-year-old Ivorian man, dark skin, short neat hair, wearing a light blue bank employee shirt and dark trousers, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "PARLE-LUI, NE L'INTERROGE PAS",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU NE FAIS PAS LA COUR. TU FAIS PASSER UN ENTRETIEN.",
+   "segments": [
+    {
+     "text": "Mon frère… tu ne fais pas la cour. Tu fais passer un entretien d'embauche.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "entretien d'embauche"
+     ]
+    },
+    {
+     "text": "Vingt questions… et elle ne sait toujours pas qui tu es ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "qui tu es"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Cédric peut sauver ton prochain rendez-vous.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone notes app showing a long numbered list, blurred unreadable text, close-up, night",
+     "motion": "push_in",
+     "foley": {
+      "text": "soft phone screen tap",
+      "vol": 0.1,
+      "q": "phone tap"
+     }
+    },
+    {
+     "prompt": "two glasses of juice on a terrace table at night, one untouched, bokeh city lights",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "quiet bank branch ambience with a ticket machine beep",
+      "at": "start",
+      "vol": 0.18,
+      "q": "office ambience"
+     }
+    },
+    {
+     "text": "J'ai un ami, Cédric. Il est agent de banque à la Riviera.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il sort avec Laetitia depuis trois semaines.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Avant chaque rendez-vous, il prépare vingt questions dans son téléphone.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "vingt questions"
+     ]
+    },
+    {
+     "text": "Tu fais quoi ? Ton ex ? Combien d'enfants ?",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Laetitia répond, polie. Lui coche dans sa tête. Question suivante.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il croit s'intéresser à elle. En vrai, il se cache derrière ses questions.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "il se cache"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, short neat hair, wearing a light blue bank employee shirt and dark trousers, seen from behind or in profile, face never sharp, behind a bank counter at the Riviera, papers and a stamp on the desk, cool daylight",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, short neat hair, wearing a light blue bank employee shirt and dark trousers, seen from behind or in profile, face never sharp, typing a list on his phone in a parked car at dusk, profile",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a young Ivorian woman seen from behind, face never sharp, sitting at a rooftop terrace table at night, answering politely, city lights",
+     "motion": "push_in",
+     "foley": {
+      "text": "soft terrace chatter at night",
+      "vol": 0.12,
+      "q": "restaurant chatter"
+     }
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un samedi, ils dînent chez son ami Théodule.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Cédric enchaîne : « Et ton salaire ? Ton père fait quoi ? »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Théodule rit : « Cédric, on n'est pas au guichet ! Tu veux sa pièce d'identité aussi ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "au guichet"
+     ]
+    },
+    {
+     "text": "Tout le monde rit. Laetitia aussi. Cédric, lui, est dans son coin.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le jeudi, sur une terrasse, il ressort son téléphone.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Laetitia pose doucement sa main sur l'écran.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Cédric, je réponds à tes questions depuis trois semaines. Toi, je ne sais rien de toi. Tu aimes quoi ? »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Tu aimes quoi"
+     ]
+    },
+    {
+     "text": "Silence. Rien ne sort.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a lively dinner on an Abidjan apartment balcony, friends around a table with plates of attiéké and fish, seen from behind, no faces visible, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "friends laughing around a dinner table",
+      "vol": 0.14,
+      "q": "dinner laughter"
+     }
+    },
+    {
+     "prompt": "a man's hand putting down a fork on a plate, close-up, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a woman's hand gently covering a smartphone screen on a terrace table at night, close-up, bokeh",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, short neat hair, wearing a light blue bank employee shirt and dark trousers, seen from behind or in profile, face never sharp, sitting frozen at a terrace table at night, seen in profile, face never sharp, city lights behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il relit sa liste.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Vingt questions sur elle. Pas une phrase sur lui.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Pas une phrase"
+     ]
+    },
+    {
+     "text": "Il avait peur que sa vie n'intéresse pas. Alors il la cachait.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il ne parlait pas avec une femme. Il remplissait un dossier.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "un dossier"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling a long list on a phone in the dark, blue light, close-up",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a closed bank file folder alone on a desk under a single lamp, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il efface la liste et appelle Laetitia.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Tu m'as demandé ce que j'aime. Laisse-moi te parler du projet qui me tient éveillé la nuit. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le samedi, dans son quartier, il apprend aux jeunes à tenir un budget.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Il parle. Elle écoute. Puis c'est elle qui pose les questions.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Elle ne promet rien. Mais l'appel dure une heure.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "une heure"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, short neat hair, wearing a light blue bank employee shirt and dark trousers, seen from behind or in profile, face never sharp, talking on the phone by a window at night, relaxed posture, seen from behind",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a group of young men seen from behind around a table with notebooks and a calculator, a man standing explaining, community hall, daylight, no faces visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "pages turning and pens writing",
+      "vol": 0.1,
+      "q": "paper pen"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une main posée sur un écran lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette on a balcony at dawn, the Riviera and the lagoon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Au dernier rendez-vous, elle a appris quoi de toi ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an empty chair at a café table with a single glass, soft daylight, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à ce qui te fait vibrer, toi.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting alone on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… une conversation, ce n'est pas un formulaire. Tu demandes, puis tu donnes.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tu donnes"
+     ]
+    },
+    {
+     "text": "Elle parle ? Tu écoutes vraiment. Puis tu racontes ta journée.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Pas de projet ? Trouve-le. L'homme qui cherche en elle son but devient un fardeau.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "un fardeau"
+     ]
+    },
+    {
+     "text": "Ce soir, écris trois choses qui te tiennent à cœur. Au prochain rendez-vous, racontes-en une.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-trois du Prince : il faut savoir demander, puis écouter avec patience.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "écouter"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, short neat hair, wearing a light blue bank employee shirt and dark trousers, seen from behind or in profile, face never sharp, writing three lines in a small notebook at a desk at night, lamp light, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : elle ne tombe pas amoureuse de tes questions. Elle découvre un homme, dêh.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors range ta liste. Et ouvre-lui ton monde !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ton monde"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand closing a notebook firmly and putting a phone face down, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'elle s'ennuie pendant que tu coches tes cases.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 32-year-old Ivorian man, dark skin, short neat hair, wearing a light blue bank employee shirt and dark trousers, seen from behind or in profile, face never sharp, walking along a Riviera street at sunrise, jacket over the shoulder, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Le projet qui me tient éveillé",
+   "segments": [
+    {
+     "text": "Écris en commentaire le projet qui te tient éveillé la nuit. Envoie cette vidéo à l'ami qui drague comme on ouvre un compte.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "le projet"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : le mercredi, c'est notre rendez-vous d'hommes.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "le mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone on a desk showing a comment field, blurred unreadable text, close-up, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "soft phone notification ping",
+      "vol": 0.12,
+      "q": "notification"
+     }
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Celui qui ne fait que demander ne laisse rien à découvrir.",
+  "author": "Mr Zika"
+ }
+}

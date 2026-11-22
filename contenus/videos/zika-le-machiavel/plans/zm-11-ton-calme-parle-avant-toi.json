@@ -1,0 +1,495 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-11",
+ "title": "Ton calme parle avant toi",
+ "output": "zm_11_ton_calme_parle_avant_toi.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Plateau office towers, glass meeting room, apartment at night), cool night light and warm lamps, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 111,
+ "character": "a 35-year-old Ivorian man, dark skin, short hair, trimmed beard, wearing a slim grey suit with an open white shirt collar, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "TON CALME PARLE AVANT TOI",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TES VOCAUX DE MINUIT DISENT QUE TU AS PEUR.",
+   "segments": [
+    {
+     "text": "Mon frère… tes vocaux de minuit disent une seule chose : tu as peur.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "peur"
+     ]
+    },
+    {
+     "text": "Un message froid à vingt-trois heures… et toi, tu deviens qui ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "tu deviens qui"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Patrice peut t'éviter sa nuit.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone screen at night showing three long voice messages being sent, blurred, close-up, blue light",
+     "motion": "push_in",
+     "foley": {
+      "text": "voice message recording beep",
+      "vol": 0.12,
+      "q": "phone beep"
+     }
+    },
+    {
+     "prompt": "Plateau office towers at night with a few lit windows, Abidjan skyline",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "quiet open-space office with keyboards and air conditioning",
+      "at": "start",
+      "vol": 0.18,
+      "q": "office"
+     }
+    },
+    {
+     "text": "J'ai un ami, Patrice. Commercial au Plateau.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Devant un client, il est calme. Devant Vanessa, sa copine, il prend feu.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "il prend feu"
+     ]
+    },
+    {
+     "text": "Elle répond une heure plus tard ? Il appelle trois fois.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il croit montrer de l'amour. Il montre sa peur de la perdre.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "peur de la perdre"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 35-year-old Ivorian man, dark skin, short hair, trimmed beard, wearing a slim grey suit with an open white shirt collar, seen from behind or in profile, face never sharp, presenting confidently in a glass meeting room in a Plateau tower, seen from behind, daylight",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 35-year-old Ivorian man, dark skin, short hair, trimmed beard, wearing a slim grey suit with an open white shirt collar, seen from behind or in profile, face never sharp, pacing in a corridor with his phone to his ear, profile, face never sharp, tense posture",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a car key and an expensive restaurant bill on a table, close-up, warm light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "En plein rendez-vous client, son téléphone vibre : « Il faut qu'on parle. »",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Il faut qu'on parle"
+     ]
+    },
+    {
+     "text": "Il sort appeler. Sa voix monte, derrière la vitre.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Le client range ses papiers : « On reprendra quand vous serez disponible. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Ce jour-là, devant son chef, il a gâté son nom.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "gâté son nom"
+     ]
+    },
+    {
+     "text": "À vingt-trois heures, Vanessa écrit : « Je crois qu'on va trop vite. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "trop vite"
+     ]
+    },
+    {
+     "text": "Patrice envoie trois vocaux de deux minutes. Puis il appelle quatre fois.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "trois vocaux"
+     ]
+    },
+    {
+     "text": "Le matin : « Je voulais juste qu'on se voie moins en semaine. Pourquoi tu cries ? »",
+     "pause_after": 1.0,
+     "emphasis": [
+      "Pourquoi tu cries"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a glass-walled meeting room in an Abidjan office tower, a client packing papers into a briefcase, seen from behind, no faces visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "papers shuffled into a briefcase",
+      "vol": 0.12,
+      "q": "paper shuffle"
+     }
+    },
+    {
+     "prompt": "a man's silhouette gesturing on the phone behind frosted glass in a corridor, cold light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 35-year-old Ivorian man, dark skin, short hair, trimmed beard, wearing a slim grey suit with an open white shirt collar, seen from behind or in profile, face never sharp, sitting on a sofa at 11 p.m., holding a phone close to his mouth, lit only by the screen, profile",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a phone on a nightstand at sunrise lighting up with a short message, blurred text, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Il réécoute ses vocaux.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il ne reconnaît pas sa voix. Pressée. Suppliante. Fâchée.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Il ne reconnaît pas"
+     ]
+    },
+    {
+     "text": "Ce qui brûlait à vingt-trois heures ne pesait presque rien à huit heures.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Avec ses clients, son calme vendait. Avec Vanessa, sa panique parlait à sa place.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "sa panique"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand holding a phone to his ear, eyes closed implied, in a dim morning kitchen, close-up, cold light",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a cup of coffee steaming next to a phone on a table at sunrise, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le soir, il la voit. Il pose son téléphone, écran contre la table.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Hier, j'ai eu peur. Ces vocaux, ce n'était pas moi. Dis-moi ce que tu voulais dire. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "j'ai eu peur"
+     ]
+    },
+    {
+     "text": "Vanessa explique. Il écoute, sans couper.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ils ne sont pas d'accord sur tout. Mais ce soir-là, personne ne crie.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "La semaine d'après, il rappelle le client. Calme.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "Calme"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone placed face down on a restaurant table between two glasses, close-up, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 35-year-old Ivorian man, dark skin, short hair, trimmed beard, wearing a slim grey suit with an open white shirt collar, seen from behind or in profile, face never sharp, calmly listening across a table from a woman seen from behind, faces never sharp, warm evening light",
+     "motion": "push_in",
+     "foley": {
+      "text": "calm restaurant ambience",
+      "vol": 0.1,
+      "q": "restaurant"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Trois vocaux réécoutés lui ont ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at an office window at dawn, Plateau towers and the lagoon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Qui parle quand elle t'inquiète : toi… ou ta peur ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone face up on a dark table, a voice message waiting to be sent, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense au dernier message que tu regrettes.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… le calme, ce n'est pas tout avaler. Tu sens l'émotion, tu la nommes, et tu choisis de ne pas agir depuis elle.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tu la nommes"
+     ]
+    },
+    {
+     "text": "Si ça brûle à vingt-trois heures, tu écris une seule phrase : « J'ai lu. On en parle demain, calmement. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "une seule phrase"
+     ]
+    },
+    {
+     "text": "Pas pour la faire attendre. Pour que ce soit toi qui parles, pas ta peur.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Le vrai poids d'un homme ne fait pas de bruit.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ne fait pas de bruit"
+     ]
+    },
+    {
+     "text": "Ce soir, avant un vocal, pose le téléphone et marche dix minutes. Ça va aller.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre dix-huit du Prince : les hommes jugent plus avec les yeux qu'avec les mains.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "les yeux"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 35-year-old Ivorian man, dark skin, short hair, trimmed beard, wearing a slim grey suit with an open white shirt collar, seen from behind or in profile, face never sharp, walking alone at night along the lagoon promenade near the Plateau, phone in pocket, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "calm night footsteps by the water",
+      "vol": 0.1,
+      "q": "night walk"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : avant ta première phrase, elle a déjà vu si tu tiens debout.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors respire. Et laisse ton calme parler avant toi !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "ton calme"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand slowly placing a phone face down on a desk, close-up, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas qu'un vocal de minuit parle encore à ta place.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 35-year-old Ivorian man, dark skin, short hair, trimmed beard, wearing a slim grey suit with an open white shirt collar, seen from behind or in profile, face never sharp, walking out of a Plateau office tower at sunrise, jacket buttoned, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Demain, calmement",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Demain, calmement ». Envoie cette vidéo à l'ami qui répond à tout, le cœur en feu.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Demain, calmement"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : le mercredi, Zika le Machiavel t'apprend à tenir debout.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "le mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone on an office desk showing a comment field, blurred unreadable text, close-up, morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "soft phone notification ping",
+      "vol": 0.12,
+      "q": "notification"
+     }
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Ta panique parle vite et fort. Ton calme, lui, parle vrai.",
+  "author": "Mr Zika"
+ }
+}

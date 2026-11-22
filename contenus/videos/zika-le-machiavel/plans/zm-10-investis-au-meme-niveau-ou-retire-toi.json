@@ -1,0 +1,497 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-10",
+ "title": "Investis au même niveau, ou retire-toi",
+ "output": "zm_10_investis_au_meme_niveau_ou_retire_toi.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Koumassi streets, delivery depot, small bedroom at night), warm dusk light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 110,
+ "character": "a 26-year-old Ivorian man, dark skin, short twisted hair, wearing a red delivery jacket and carrying a motorbike helmet, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "INVESTIS AU MÊME NIVEAU, OU RETIRE-TOI",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU PORTES LA RELATION TOUT SEUL.",
+   "segments": [
+    {
+     "text": "Mon frère… tu portes la relation tout seul. Et tu appelles ça l'amour.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "tout seul"
+     ]
+    },
+    {
+     "text": "Si tu n'écris plus demain… combien de jours avant qu'elle remarque ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "combien de jours"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Junior peut te rendre tes soirées.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone screen with a long column of sent chat bubbles and a single short reply, blurred unreadable text, close-up, night",
+     "motion": "push_in",
+     "foley": {
+      "text": "message sent whoosh",
+      "vol": 0.12,
+      "q": "message sent"
+     }
+    },
+    {
+     "prompt": "a delivery motorbike parked alone under a street lamp at night, rain on the asphalt",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Abidjan street with motorbikes and horns",
+      "at": "start",
+      "vol": 0.2,
+      "q": "motorbike traffic"
+     }
+    },
+    {
+     "text": "J'ai un ami, Junior. Livreur à moto à Koumassi.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Carine.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le matin, c'est lui qui écrit. Le soir, c'est lui qui appelle.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Quand Carine a eu le palu, il a porté de la soupe de poisson dans un thermos. Trois soirs.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Trois soirs"
+     ]
+    },
+    {
+     "text": "Elle répond « ok ». Parfois un cœur. Jamais une question sur lui.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Jamais"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 26-year-old Ivorian man, dark skin, short twisted hair, wearing a red delivery jacket and carrying a motorbike helmet, seen from behind or in profile, face never sharp, riding a delivery motorbike through Koumassi traffic at dusk, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "motorbike engine passing",
+      "vol": 0.14,
+      "q": "motorbike"
+     }
+    },
+    {
+     "prompt": "a metal thermos and a bowl of fish soup on a small table, steam rising, warm light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a phone on a bed lighting up with a two-letter reply, blurred text, close-up, night",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Au dépôt, son collègue Ezéchiel lui prend le téléphone.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il lit fort : « Junior : douze messages. Carine : ok. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "ok"
+     ]
+    },
+    {
+     "text": "Tout le dépôt rit. « On dit quoi, Junior ? Tu livres l'amour à domicile ? »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Junior rit. Mais il a chaud aux oreilles.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Puis c'est lui qui a le palu. Trois jours au lit.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Carine envoie un seul message : « Courage. »",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Courage"
+     ]
+    },
+    {
+     "text": "En statut, il la voit danser à un anniversaire.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Il mange seul. Le thermos est là, propre, sur l'étagère.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "Le thermos"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a delivery depot at morning, motorbikes lined up, young men in red jackets laughing, seen from behind, no faces visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "men laughing in a garage",
+      "vol": 0.14,
+      "q": "group laughter"
+     }
+    },
+    {
+     "prompt": "a man's hand snatching back a smartphone from another hand, close-up, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 26-year-old Ivorian man, dark skin, short twisted hair, wearing a red delivery jacket and carrying a motorbike helmet, seen from behind or in profile, face never sharp, lying sick on a narrow bed under a mosquito net, seen from behind, dim light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a clean metal thermos on a wooden shelf in a small kitchen at night, single bulb, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il remonte un mois de conversation.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Trente fois sur trente, c'est lui qui écrit le premier.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Trente fois sur trente"
+     ]
+    },
+    {
+     "text": "Il donne dix. Elle rend un.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Elle rend un"
+     ]
+    },
+    {
+     "text": "Ce n'était pas une relation. C'était une livraison sans retour.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "sans retour"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling up a long chat conversation on a phone at night, close-up, blue light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a delivery receipt pad with empty lines on a table, single lamp, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Guéri, il reçoit : « Tu passes ce soir ? Apporte à manger. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il appelle, calme.",
+     "pause_after": 0.5
+    },
+    {
+     "text": "« Carine, je n'investis que dans quelqu'un qui investit autant en moi. Si ça ne change pas, je me retire. Sans drame. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Sans drame"
+     ]
+    },
+    {
+     "text": "« Tu exagères. » Puis plus rien. Une semaine.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Junior a sa réponse. Sans scène. Le samedi, il pose l'acompte de sa propre moto.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "sa propre moto"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 26-year-old Ivorian man, dark skin, short twisted hair, wearing a red delivery jacket and carrying a motorbike helmet, seen from behind or in profile, face never sharp, talking calmly on the phone by an open window at dusk, profile, face never sharp",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 26-year-old Ivorian man, dark skin, short twisted hair, wearing a red delivery jacket and carrying a motorbike helmet, seen from behind or in profile, face never sharp, handing an envelope at a motorbike dealer counter, new motorbikes in the background, daylight, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "motorbike shop ambience",
+      "vol": 0.1,
+      "q": "garage ambience"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un seul mot, « courage », lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette on a motorbike at dawn, the Koumassi bridge and lagoon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Qui écrit le premier… et qui répond « ok » ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "two phones side by side on a table, one lit up, one dark, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à ce qu'elle a fait pour toi, sans que tu demandes.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on the edge of a bed in the dark, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… celle qui prend sans jamais rendre ne construit rien avec toi.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "sans jamais rendre"
+     ]
+    },
+    {
+     "text": "Qui appelle ? Qui se déplace ? Qui demande comment tu vas ?",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Tu ne te retires pas pour la faire courir. Tu te retires parce que tu te respectes.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "tu te respectes"
+     ]
+    },
+    {
+     "text": "Tu le dis une fois : « Je veux qu'on soit au même niveau. » Puis tu regardes ses actes.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Ce soir, ton énergie va dans ton projet. C'est pas petit dêh.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt et un du Prince : un prince est estimé quand il se déclare sans réserve.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "sans réserve"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 26-year-old Ivorian man, dark skin, short twisted hair, wearing a red delivery jacket and carrying a motorbike helmet, seen from behind or in profile, face never sharp, counting saved banknotes into a tin box at a table, lamp light, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : l'amour, ça se porte à deux. Sinon, c'est un fardeau.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors pose ce que tu portes seul. Et marche avec qui marche avec toi !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "marche avec toi"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man setting down a heavy delivery box on the ground and straightening up, close-up on hands, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas d'être malade pour voir qui vient avec un thermos.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 26-year-old Ivorian man, dark skin, short twisted hair, wearing a red delivery jacket and carrying a motorbike helmet, seen from behind or in profile, face never sharp, riding his own new motorbike down a Koumassi street at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Au même niveau",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Au même niveau ». Envoie cette vidéo à l'ami qui écrit toujours le premier.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Au même niveau"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : tous les mercredis, on se parle vrai, entre hommes.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "tous les mercredis"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone on a motorbike seat showing a comment field, blurred unreadable text, close-up, dusk light",
+     "motion": "push_in",
+     "foley": {
+      "text": "soft phone notification ping",
+      "vol": 0.12,
+      "q": "notification"
+     }
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Qui rame seul tourne en rond. L'amour avance à deux rames.",
+  "author": "Mr Zika"
+ }
+}

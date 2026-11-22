@@ -1,0 +1,483 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-07",
+ "title": "Le regret coûte plus que le non",
+ "output": "zm_07_le_regret_coute_plus_que_le_non.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Abobo crossroads, phone credit kiosk, family wedding courtyard), warm morning light, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 107,
+ "character": "a 30-year-old Ivorian man, dark skin, short hair, wearing a faded blue electrician work shirt with a tool belt, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "LE REGRET COÛTE PLUS QUE LE NON",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "TU AS PEUR D'UN NON. LE SILENCE TE COÛTE PLUS CHER.",
+   "segments": [
+    {
+     "text": "Mon frère… tu as peur d'un non. Mais ton silence te coûte plus cher.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "non",
+      "plus cher"
+     ]
+    },
+    {
+     "text": "Combien de fois tu l'as vue passer, avec ta phrase coincée dans la gorge ?",
+     "pause_after": 0.6,
+     "emphasis": [
+      "coincée"
+     ]
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Hervé peut t'éviter des années de regret.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a folded piece of paper inside an open electrician's toolbox, among screwdrivers and wires, close-up, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's hand hesitating in front of a small street kiosk counter, extreme close-up, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "street crossroads ambience with motorbikes",
+      "vol": 0.14,
+      "q": "street traffic"
+     }
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "busy Abidjan crossroads with motorbikes and vendors",
+      "at": "start",
+      "vol": 0.2,
+      "q": "street market"
+     }
+    },
+    {
+     "text": "J'ai un ami, Hervé. Il est électricien à Abobo.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque matin, il achète son crédit au kiosque du carrefour. Chez Mireille.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il paie, il dit merci, il repart. Six mois.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Six mois"
+     ]
+    },
+    {
+     "text": "Dans sa caisse à outils, il garde un papier plié. Dessus, la phrase qu'il veut lui dire.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il attend le bon moment. Quand il aura une moto. Quand il sera sûr.",
+     "pause_after": 0.8
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing a faded blue electrician work shirt with a tool belt, seen from behind or in profile, face never sharp, walking through Abobo crossroads at sunrise, coils of electric cable on his shoulder, warm light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a small colorful phone credit kiosk at a busy Abidjan crossroads, a young Ivorian woman behind the counter seen from behind, face never sharp, laughing with customers, morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "light chatter and laughter at a street stall",
+      "vol": 0.12,
+      "q": "street chatter"
+     }
+    },
+    {
+     "prompt": "a man's hand putting a folded paper back into a toolbox, close-up, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Au mariage de son cousin, sa tante lance devant toute la famille :",
+     "pause_after": 0.6
+    },
+    {
+     "text": "« Hervé, toujours seul ? Tu attends qu'elle vienne frapper chez toi ? »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "toujours seul"
+     ]
+    },
+    {
+     "text": "Tout le monde rit. Hervé sourit. Mais dedans, ça brûle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Et il ne bouge pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Le lundi, Mireille lui tend sa carte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Elle sourit : « Six mois que tu passes… et je ne connais même pas ton prénom. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ton prénom"
+     ]
+    },
+    {
+     "text": "Hervé reste là, la carte dans la main.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an Ivorian wedding party in a courtyard, colorful pagne outfits, plastic chairs, people laughing, seen from a distance, no faces visible",
+     "motion": "push_in",
+     "foley": {
+      "text": "wedding party music and laughter outdoors",
+      "vol": 0.14,
+      "q": "party crowd"
+     }
+    },
+    {
+     "prompt": "an older Ivorian woman in a festive headwrap pointing playfully, seen from behind, face never sharp, warm afternoon light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a woman's hand handing a phone credit card across a kiosk counter to a man's hand, close-up, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing a faded blue electrician work shirt with a tool belt, seen from behind or in profile, face never sharp, standing still at a kiosk holding a small card, a queue of people behind him, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il déplie le papier.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Six mois que la même phrase dort dans la caisse.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Il n'attendait pas le bon moment. Il attendait d'avoir moins peur.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "moins peur"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "hands unfolding a small handwritten paper under a single bulb at night, unreadable text, close-up",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "an electrician's toolbox open on a bedroom floor at night, a single lamp, chiaroscuro",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, au kiosque, il respire. Et il dit :",
+     "pause_after": 0.5
+    },
+    {
+     "text": "« Je m'appelle Hervé. Je passe chaque matin pour te voir. On boit un jus samedi ? Si c'est non, je respecte. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Mireille sourit. « Tu es gentil, Hervé. Mais j'ai déjà quelqu'un. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "« D'accord. Merci de ta franchise. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Ça pique un peu. Mais pour la première fois depuis six mois, il est léger.",
+     "pause_after": 1.0,
+     "emphasis": [
+      "léger"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing a faded blue electrician work shirt with a tool belt, seen from behind or in profile, face never sharp, talking calmly at a kiosk counter, the woman behind it seen in soft focus from behind, morning light",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing a faded blue electrician work shirt with a tool belt, seen from behind or in profile, face never sharp, climbing a ladder on a building site, fixing an electric cable, seen from behind, bright daylight",
+     "motion": "push_in",
+     "foley": {
+      "text": "building site ambience with distant hammering",
+      "vol": 0.1,
+      "q": "construction site"
+     }
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Un prénom qu'elle ne connaissait pas lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette on a rooftop at dawn, Abobo roofs and electric wires in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Quelle phrase dort dans ta poche depuis des mois ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a folded paper sticking out of a man's shirt pocket, close-up, soft light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense à celle que tu n'as jamais osé aborder.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting alone on a low wall at dusk, head lowered, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… le moment parfait n'existe pas. L'homme qui ose crée le moment.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ose"
+     ]
+    },
+    {
+     "text": "Un non fait mal une minute. Il ne te définit pas. Il t'ajuste.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "t'ajuste"
+     ]
+    },
+    {
+     "text": "Ton prénom, et une proposition simple : « On boit un jus samedi ? »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Si elle dit non, tu dis merci. Tu n'insistes pas. Son non se respecte, dêh.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "se respecte"
+     ]
+    },
+    {
+     "text": "Ce soir, choisis ta phrase. Demain, tu la dis. Faut pas laisser ça dormir.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-cinq du Prince : il vaut mieux être impétueux que circonspect.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "impétueux"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing a faded blue electrician work shirt with a tool belt, seen from behind or in profile, face never sharp, crossing a busy street with determination, seen from behind, morning light",
+     "motion": "push_in",
+     "foley": {
+      "text": "footsteps on a busy street",
+      "vol": 0.1,
+      "q": "footsteps street"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : oser, ce n'est pas forcer. C'est demander une fois, avec respect.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors traverse la rue. Dis ton prénom. Et préfère un vrai non à mille peut-être !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "traverse la rue"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's feet stepping off a curb onto a sunlit street, low angle, dramatic light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas de la voir partir avec celui qui a osé, lui.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short hair, wearing a faded blue electrician work shirt with a tool belt, seen from behind or in profile, face never sharp, walking away down an Abobo street at sunrise, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Je traverse la rue",
+   "segments": [
+    {
+     "text": "Écris en commentaire « Je traverse la rue ». Envoie cette vidéo à l'ami qui garde sa phrase dans la poche.",
+     "pause_after": 0.6,
+     "emphasis": [
+      "Je traverse la rue"
+     ]
+    },
+    {
+     "text": "Abonne-toi, suis la page et active la cloche : le mercredi, on se donne du courage d'homme à homme.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "le mercredi"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a smartphone on a workbench showing a comment field, blurred unreadable text, close-up, warm light",
+     "motion": "push_in",
+     "foley": {
+      "text": "soft phone notification ping",
+      "vol": 0.12,
+      "q": "notification"
+     }
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Un non te pique un soir. Le mot jamais dit te suit des années.",
+  "author": "Mr Zika"
+ }
+}

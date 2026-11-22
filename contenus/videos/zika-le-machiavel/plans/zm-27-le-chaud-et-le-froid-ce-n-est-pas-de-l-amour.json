@@ -1,0 +1,481 @@
+{
+ "rubrique": "Zika le Machiavel",
+ "episode": "ZM-27",
+ "title": "Le chaud et le froid, ce n'est pas de l'amour",
+ "output": "zm_27_le_chaud_et_le_froid_ce_n_est_pas_de_l_amour.mp4",
+ "voice": {
+  "model": "eleven_multilingual_v2",
+  "voice_id": "5l4ttmr4SKNgi0HnOelT",
+  "settings": {
+   "stability": 0.35,
+   "similarity_boost": 0.8,
+   "style": 0.7,
+   "use_speaker_boost": true,
+   "speed": 1.03
+  }
+ },
+ "image_provider": null,
+ "style": "cinematic vertical photo, Abidjan (Attécoubé hillside houses, a bathroom tiling site, a small apartment at night), cool blue night light and warm work lamps, chiaroscuro, shallow depth of field, 35mm film grain, no text, no logos, no faces visible, no children's faces",
+ "negative": "text, letters, subtitles, logo, watermark, brand names, extra fingers, deformed hands, distorted face, blurry, oversaturated, cartoon, children's faces",
+ "seed": 127,
+ "character": "a 30-year-old Ivorian man, dark skin, short twisted hair, wearing a dusty grey work t-shirt and knee pads, tile adhesive on his hands, seen from behind or in profile, face never sharp",
+ "music": {
+  "generate": false
+ },
+ "room_tone": 0.02,
+ "sons": {
+  "source": "reel"
+ },
+ "cover": {
+  "text": "LE CHAUD ET LE FROID, CE N'EST PAS DE L'AMOUR",
+  "shot": 0
+ },
+ "blocks": [
+  {
+   "id": "hook",
+   "register": "ferme",
+   "look": "sombre",
+   "hook_text": "UNE SEMAINE CHAUD, TROIS JOURS FROID ?",
+   "segments": [
+    {
+     "text": "Mon frère… une semaine chaud, trois jours froid : c'est pas de l'amour. C'est une balançoire.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "balançoire"
+     ]
+    },
+    {
+     "text": "Pourquoi tu attends ses jours chauds comme la paie ?",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Mathias peut te rendre ton calme.",
+     "pause_after": 1.5
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an empty rope swing moving slowly under a tree at dusk on an Abidjan hillside, silhouette, no people",
+     "motion": "slow_zoom",
+     "foley": {
+      "text": "rope creaking softly in the wind",
+      "vol": 0.12,
+      "q": "rope creak"
+     }
+    },
+    {
+     "prompt": "a phone on a bed showing a chat marked as seen, no reply, blurred text, blue night light, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "histoire",
+   "register": "conteur",
+   "look": "souvenir",
+   "segments": [
+    {
+     "text": "Je vais te raconter une histoire.",
+     "pause_after": 0.6,
+     "sfx": {
+      "text": "hillside neighbourhood at evening, voices and distant traffic",
+      "at": "start",
+      "vol": 0.2,
+      "q": "neighbourhood evening"
+     }
+    },
+    {
+     "text": "J'ai un ami, Mathias. Carreleur à Attécoubé.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il a une copine : Gisèle.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Certaines semaines, elle l'appelle chaque soir : « Tu es l'homme de ma vie. »",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Puis plus rien. Vu. Pas de réponse. Quatre jours.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Quatre jours"
+     ]
+    },
+    {
+     "text": "Puis elle revient, toute douce, comme si de rien n'était.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Les jours froids, Mathias a le ventre noué.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "ventre noué"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short twisted hair, wearing a dusty grey work t-shirt and knee pads, tile adhesive on his hands, seen from behind or in profile, face never sharp, kneeling and laying white floor tiles in a small bathroom, work lamp, seen from behind",
+     "motion": "push_in",
+     "foley": {
+      "text": "tile tapped with a rubber mallet",
+      "vol": 0.14,
+      "q": "tile mallet"
+     }
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short twisted hair, wearing a dusty grey work t-shirt and knee pads, tile adhesive on his hands, seen from behind or in profile, face never sharp, lying on a bed at night smiling at a phone call, profile, warm lamp",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short twisted hair, wearing a dusty grey work t-shirt and knee pads, tile adhesive on his hands, seen from behind or in profile, face never sharp, sitting on the edge of a bed at night staring at a silent phone, profile, cold blue light",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "situation",
+   "register": "conteur",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Pourtant, un mardi, sur un chantier, il regarde son téléphone toutes les deux minutes.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Le soir, le chef passe la règle sur le sol. Rien n'est droit.",
+     "pause_after": 0.7,
+     "emphasis": [
+      "Rien n'est droit"
+     ]
+    },
+    {
+     "text": "Devant l'équipe : « Mathias, on dit quoi ? Tu as gâté le travail. Demain, tu recommences. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Silence. Mathias a honte.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Mais il ne change pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Un vendredi, Gisèle promet : « Ce soir, je viens dîner. Vingt heures. »",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Il cuisine. Vingt heures. Vingt-deux heures. Téléphone éteint.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "Téléphone éteint"
+     ]
+    },
+    {
+     "text": "Il couvre l'assiette avec du papier aluminium.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "À minuit, un vocal : « Mon cœur, pourquoi tu es froid avec moi ? »",
+     "pause_after": 1.0,
+     "emphasis": [
+      "froid"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a long metal level ruler laid across crooked bathroom floor tiles, a foreman's hand pointing, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a small team of tilers standing in a half-finished bathroom, seen from behind, dusty light, faces not visible",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a dinner plate covered with aluminium foil on a small table set for two, a wall clock behind, night, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "aluminium foil crinkling",
+      "vol": 0.12,
+      "q": "foil crinkle"
+     }
+    },
+    {
+     "prompt": "a phone lighting up at midnight with a voice message notification on a dark table, close-up",
+     "motion": "push_in",
+     "foley": {
+      "text": "phone notification ping",
+      "vol": 0.16,
+      "q": "notification"
+     }
+    }
+   ]
+  },
+  {
+   "id": "declic",
+   "register": "intime",
+   "look": "sombre",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Cette nuit-là, il remonte trois mois de messages.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Chaque fois qu'il demande : « On est quoi, nous deux ? »… le froid arrive.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Chaque fois qu'il recule… la chaleur revient.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle ne l'aimait pas plus les jours chauds. Elle tenait la manette.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "la manette"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a thumb scrolling up a long chat with hearts and long gaps, blurred text, blue light, close-up",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a man's silhouette sitting at a table with a covered plate in a dark room, single lamp",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "transformation",
+   "register": "conteur",
+   "look": "souvenir",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Le lendemain, il l'appelle, calme : « Gisèle, je veux une femme qui est là. Pas une semaine sur deux. Sinon, on s'arrête. »",
+     "pause_after": 0.7,
+     "emphasis": [
+      "Pas une semaine sur deux"
+     ]
+    },
+    {
+     "text": "Elle rit : « Tu es trop sérieux. » Lui : « Oui. Je suis sérieux. »",
+     "pause_after": 0.8
+    },
+    {
+     "text": "Elle est revenue deux fois, toute douce. Il n'a pas recommencé.",
+     "pause_after": 0.7
+    },
+    {
+     "text": "Ça a fait mal des semaines. Mais son carrelage suivant était droit.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short twisted hair, wearing a dusty grey work t-shirt and knee pads, tile adhesive on his hands, seen from behind or in profile, face never sharp, standing on a rooftop terrace in Attécoubé in the morning, phone at his ear, calm posture, seen from behind",
+     "motion": "push_in"
+    },
+    {
+     "prompt": "a perfectly straight row of freshly laid tiles with clean grout lines, morning light, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "relance",
+   "register": "intime",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Une assiette froide lui a ouvert les yeux. Toi… il t'en faudra combien ?",
+     "pause_after": 1.0,
+     "emphasis": [
+      "combien"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's silhouette at a window at dawn, the Attécoubé hillside and the lagoon in the distance",
+     "motion": "slow_zoom"
+    }
+   ]
+  },
+  {
+   "id": "miroir",
+   "register": "intime",
+   "look": "net",
+   "transition_in": "cut",
+   "segments": [
+    {
+     "text": "Et toi, mon frère ? Tu l'aimes… ou tu attends le prochain jour chaud ?",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a phone face down on a wooden table, a hand hovering above it without touching, close-up",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "temps_pour_toi",
+   "register": "intime",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Pense au dernier soir où tu as guetté son retour.",
+     "pause_after": 2.0
+    },
+    {
+     "text": "Tu l'as ? Garde ça.",
+     "pause_after": 1.0
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man sitting on a doorstep at night, elbows on knees, seen from behind",
+     "motion": "static"
+    }
+   ]
+  },
+  {
+   "id": "conseils",
+   "register": "ferme",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te souffle le chaud et le froid, elle te joue.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "elle te joue"
+     ]
+    },
+    {
+     "text": "Et toi, tu ne rends pas le froid. Tu dis une fois : « Je veux quelqu'un de régulier. »",
+     "pause_after": 0.8,
+     "emphasis": [
+      "une fois"
+     ]
+    },
+    {
+     "text": "Ce soir, relis tes messages. Le schéma ne ment pas.",
+     "pause_after": 0.8
+    },
+    {
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre huit du Prince : les bienfaits doivent se donner peu à peu, pour qu'on les savoure mieux.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "peu à peu"
+     ]
+    },
+    {
+     "text": "C'est une règle pour gouverner. Celle qui te dose son affection… elle te gouverne.",
+     "pause_after": 0.8,
+     "emphasis": [
+      "elle te gouverne"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "an old open book on a desk, candlelight, the title page of The Prince, no readable text",
+     "motion": "slow_zoom"
+    },
+    {
+     "prompt": "a dripping tap letting out single drops into a basin, close-up, cold light",
+     "motion": "push_in",
+     "foley": {
+      "text": "single water drops falling into a basin",
+      "vol": 0.12,
+      "q": "water drip"
+     }
+    }
+   ]
+  },
+  {
+   "id": "climax",
+   "register": "montee",
+   "look": "net",
+   "relance": true,
+   "segments": [
+    {
+     "text": "Et écoute-moi bien : l'amour vrai a la même chaleur le lundi et le jeudi.",
+     "pause_after": 0.6
+    },
+    {
+     "text": "Alors descends de la balançoire. Et choisis la paix !",
+     "pause_after": 1.0,
+     "emphasis": [
+      "la paix"
+     ],
+     "color": "rouge"
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a man's hand stopping a moving rope swing firmly, close-up, dramatic dusk light",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "appel",
+   "register": "solennel",
+   "look": "net",
+   "segments": [
+    {
+     "text": "Change maintenant. N'attends pas une autre assiette froide.",
+     "pause_after": 1.5,
+     "emphasis": [
+      "maintenant"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a 30-year-old Ivorian man, dark skin, short twisted hair, wearing a dusty grey work t-shirt and knee pads, tile adhesive on his hands, seen from behind or in profile, face never sharp, walking down the steps of an Attécoubé hillside street at sunrise with his tools bag, seen from behind",
+     "motion": "push_in"
+    }
+   ]
+  },
+  {
+   "id": "cta",
+   "register": "intime",
+   "look": "net",
+   "on_screen": "ABONNE-TOI · 🔔",
+   "comment_word": "Plus de balançoire",
+   "segments": [
+    {
+     "text": "Écris « Plus de balançoire » en commentaire, et envoie cette vidéo à l'ami qui vit au rythme de ses messages. Abonne-toi, suis la page et active la cloche : chaque mercredi, on se parle franchement.",
+     "pause_after": 1.2,
+     "emphasis": [
+      "Plus de balançoire"
+     ]
+    }
+   ],
+   "shots": [
+    {
+     "prompt": "a tiler's trowel and level resting on a finished floor in morning light, close-up",
+     "motion": "slow_zoom"
+    }
+   ]
+  }
+ ],
+ "quote": {
+  "text": "Celle qui t'aime ne te fait pas mériter sa chaleur chaque semaine.",
+  "author": "Mr Zika"
+ }
+}
