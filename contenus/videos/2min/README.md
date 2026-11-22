@@ -32,6 +32,24 @@ La question oui/non peut rester dans la légende ou dans le commentaire épingl�
 
 Dans plan.json, les blocs sont : `hook` (avec un `sfx` d'ambiance au début du bloc suivant), `histoire`, `situation` (la gêne, `pause_after` 1 s), `declic`, `transformation`, `relance` (`"relance": true`), `miroir`, `temps_pour_toi`, `conseils`, `climax`, `appel`. Il n'y a plus de bloc `question`.
 
+## ⭐ Les CTA de Mr Zika, personnalisés pour chaque thème (règle du 22 novembre 2026)
+
+Juste après « Change maintenant » et **avant** le silence de la citation, Mr Zika dit un bloc **`cta`** de 25 à 40 mots, **écrit pour le thème de la vidéo** (jamais la même formule d'une vidéo à l'autre). Il contient, dans cet ordre :
+1. **Le commentaire** : un mot ou une phrase tirée du thème à écrire en commentaire (« Écris "Plus de miettes" si tu as compris. »), ou une vraie question ouverte sur le thème (« Écris la phrase que tu te dis quand ça ne va pas. »). Jamais une question oui/non.
+2. **Le partage, si l'histoire s'y prête** : « Envoie cette vidéo à l'ami qui… » (lié à l'histoire).
+3. **L'abonnement, le suivi et la cloche**, avec une raison liée au thème ou à la rubrique : « Abonne-toi, suis la page et active la cloche des notifications : … ».
+
+Les règles :
+- **Une seule fois dans la voix, jamais au début.** Pas de « Si tu es nouveau, abonne-toi » avant l'histoire : les premières secondes sont pour l'accroche.
+- **Le compte de mots inclut le CTA.**
+- **À l'écran pendant le bloc** : « ABONNE-TOI · 🔔 » en bas, et le mot du commentaire en jaune.
+- **La légende et le commentaire épinglé** reprennent le même mot du commentaire.
+- **Dans plan.json**, ajouter un bloc `cta` après `appel`, avec `"on_screen": "ABONNE-TOI · 🔔"` et `"comment_word": "<le mot>"`.
+
+Exemple pour le thème « Une seconde avant de répondre » : « Écris en commentaire la phrase que tu aurais voulu retenir une seconde de plus. Abonne-toi, suis la page et active la cloche : demain, une autre histoire t'attend. »
+
+Cette règle complète le point 11 du modèle du 17 novembre : pas de question oui/non dans la voix, mais un CTA propre au thème.
+
 ## Rubrique « Zika le Machiavel » (depuis le 9 novembre 2026)
 
 Une rubrique à part, décidée par Mr Zika : quand il envoie un texte, il dit sa rubrique ; les textes de pouvoir et de stratégie vont dans **[Zika le Machiavel](../zika-le-machiavel/README.md)** (Mr Zika parle seul à seul à un homme, voix imposante et sincère, couleur ivoirienne légère, une règle de Machiavel le vrai, son illustration, une action). Les autres thèmes restent dans cette file de motivation.

@@ -19,6 +19,24 @@ Ses mots : « La rubrique machiavélique doit parler des relations : un homme da
 - Le dépôt des vidéos fabrique, fait contrôler, envoie la vidéo et la légende à Mr Zika, et programme la publication du mercredi 10 h **après son accord** (demande `demandes/2026-11-17_zika-le-machiavel-chaque-mercredi-10h.md` de ce dépôt).
 - Ordre : ZM-15 (18 nov.), puis ZM-07 à ZM-14, puis ZM-01 à ZM-06 réécrits sur le modèle de ZM-15.
 
+## ⭐ Les CTA de Mr Zika, personnalisés pour chaque épisode (règle du 22 novembre 2026)
+
+Juste après « Change maintenant » et **avant** le silence de la citation, Mr Zika dit un bloc **`cta`** de 25 à 40 mots, **écrit pour le thème de la vidéo** (jamais la même formule d'une vidéo à l'autre). Il contient, dans cet ordre :
+1. **Le commentaire** : un mot ou une phrase tirée du thème à écrire en commentaire (« Écris "Plus de miettes" si tu as compris. »), ou une vraie question ouverte sur le thème (« Écris la phrase que tu te dis quand ça ne va pas. »). Jamais une question oui/non.
+2. **Le partage, si l'histoire s'y prête** : « Envoie cette vidéo à l'ami qui… » (lié à l'histoire).
+3. **L'abonnement, le suivi et la cloche**, avec une raison liée au thème ou à la rubrique : « Abonne-toi, suis la page et active la cloche des notifications : … ».
+
+Les règles :
+- **Une seule fois dans la voix, jamais au début.** Pas de « Si tu es nouveau, abonne-toi » avant l'histoire : les premières secondes sont pour l'accroche.
+- **Le compte de mots inclut le CTA.**
+- **À l'écran pendant le bloc** : « ABONNE-TOI · 🔔 » en bas, et le mot du commentaire en jaune.
+- **La légende et le commentaire épinglé** reprennent le même mot du commentaire.
+- **Dans plan.json**, ajouter un bloc `cta` après `appel`, avec `"on_screen": "ABONNE-TOI · 🔔"` et `"comment_word": "<le mot>"`.
+- Pour cette rubrique, le CTA s'adresse à l'homme (« mon frère ») et la raison de s'abonner rappelle le rendez-vous : chaque mercredi.
+- Le total de 400 à 490 mots inclut le CTA.
+
+Exemple pour ZM-15 « Elle te donne des miettes » : « Si tu as un ami qui paie l'abonnement, envoie-lui cette vidéo. Et toi, écris en commentaire "Plus de miettes". Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel te parle d'homme à homme. »
+
 ## ⭐ La voix de la rubrique (choix de Mr Zika, 17 novembre 2026)
 
 Quand la voix est générée par ElevenLabs, la rubrique utilise **Paul K — Deep French Narrator** (`5l4ttmr4SKNgi0HnOelT`) : une voix française grave, qui parle avec autorité et énergie. Modèle `eleven_multilingual_v2`, réglages : stabilité 0,35, similarité 0,8, style 0,7, speaker boost activé, vitesse 1,03. La voix clonée « Monsieur Zika » n'est pas utilisée (essai refusé le 17 novembre).
