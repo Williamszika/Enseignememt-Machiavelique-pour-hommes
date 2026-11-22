@@ -53,7 +53,7 @@
      ]
     },
     {
-     "text": "Reste avec moi. Ce qui est arrivé à mon ami Hervé peut t'éviter des années de regret.",
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Gaoussou peut t'éviter des années de regret.",
      "pause_after": 1.5
     }
    ],
@@ -89,11 +89,11 @@
      }
     },
     {
-     "text": "J'ai un ami, Hervé. Il est électricien à Abobo.",
+     "text": "J'ai un ami, Gaoussou. Il est électricien à Abobo.",
      "pause_after": 0.6
     },
     {
-     "text": "Chaque matin, il achète son crédit au kiosque du carrefour. Chez Mireille.",
+     "text": "Chaque matin, il achète son crédit au kiosque du carrefour. Chez Prudence.",
      "pause_after": 0.6
     },
     {
@@ -143,14 +143,14 @@
      "pause_after": 0.6
     },
     {
-     "text": "« Hervé, toujours seul ? Tu attends qu'elle vienne frapper chez toi ? »",
+     "text": "« Gaoussou, toujours seul ? Tu attends qu'elle vienne frapper chez toi ? »",
      "pause_after": 0.7,
      "emphasis": [
       "toujours seul"
      ]
     },
     {
-     "text": "Tout le monde rit. Hervé sourit. Mais dedans, ça brûle.",
+     "text": "Tout le monde rit. Gaoussou sourit. Mais dedans, ça brûle.",
      "pause_after": 0.6
     },
     {
@@ -158,7 +158,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Le lundi, Mireille lui tend sa carte.",
+     "text": "Le lundi, Prudence lui tend sa carte.",
      "pause_after": 0.6
     },
     {
@@ -169,7 +169,7 @@
      ]
     },
     {
-     "text": "Hervé reste là, la carte dans la main.",
+     "text": "Gaoussou reste là, la carte dans la main.",
      "pause_after": 1.0
     }
    ],
@@ -241,11 +241,11 @@
      "pause_after": 0.5
     },
     {
-     "text": "« Je m'appelle Hervé. Je passe chaque matin pour te voir. On boit un jus samedi ? Si c'est non, je respecte. »",
+     "text": "« Je m'appelle Gaoussou. Je passe chaque matin pour te voir. On boit un jus samedi ? Si c'est non, je respecte. »",
      "pause_after": 0.8
     },
     {
-     "text": "Mireille sourit. « Tu es gentil, Hervé. Mais j'ai déjà quelqu'un. »",
+     "text": "Prudence sourit. « Tu es gentil, Gaoussou. Mais j'ai déjà quelqu'un. »",
      "pause_after": 0.7
     },
     {

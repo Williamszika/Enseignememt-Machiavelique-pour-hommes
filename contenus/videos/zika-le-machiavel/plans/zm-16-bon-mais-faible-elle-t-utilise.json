@@ -45,7 +45,7 @@
      ]
     },
     {
-     "text": "Tu dis oui à tout… mais elle, la dernière fois qu'elle t'a dit merci, c'était quand ?",
+     "text": "Tu dis oui à tout… mais elle, elle te dit merci ?",
      "pause_after": 0.6,
      "emphasis": [
       "merci"
@@ -96,7 +96,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Murielle veut la voiture ? Il dit oui. Elle annule un rendez-vous ? « Pas grave. » Elle lui demande de payer le loyer de sa cousine ? Oui.",
+     "text": "Murielle veut la voiture ? Oui. Elle annule ? « Pas grave. » Le loyer de sa cousine ? Oui.",
      "pause_after": 0.8
     },
     {
@@ -134,7 +134,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Elles prennent des crèmes, des parfums, des vitamines. Murielle sourit : « C'est mon chéri qui offre. »",
+     "text": "Elles prennent des crèmes, des parfums. Murielle sourit : « C'est mon chéri qui offre. »",
      "pause_after": 0.7,
      "emphasis": [
       "mon chéri qui offre"
@@ -145,10 +145,10 @@
      "pause_after": 0.6
     },
     {
-     "text": "Christian sourit. Il ne dit rien. Il est en train de gâter son nom.",
+     "text": "Christian sourit. Il ne dit rien. Il gâte son nom.",
      "pause_after": 0.7,
      "emphasis": [
-      "gâter son nom"
+      "gâte son nom"
      ]
     },
     {
@@ -160,7 +160,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Un soir, il dépose Murielle chez une amie. Elle descend de la voiture, le téléphone à l'oreille. La vitre est ouverte.",
+     "text": "Un soir, il dépose Murielle chez une amie. Elle descend, téléphone à l'oreille. La vitre est ouverte.",
      "pause_after": 0.6
     },
     {
@@ -246,14 +246,14 @@
    "relance": true,
    "segments": [
     {
-     "text": "Le lendemain, sur un bloc de la pharmacie, il écrit ses règles. Comment il veut être traité. Ce qu'il ne tolère plus.",
+     "text": "Le lendemain, sur un bloc de la pharmacie, il écrit ses règles.",
      "pause_after": 0.7,
      "emphasis": [
       "ses règles"
      ]
     },
     {
-     "text": "Le soir, il dit à Murielle, calmement : « Dans ma pharmacie, tout se paie. Et moi, je ne suis pas pratique. Si tu veux un homme, je suis là. Si tu veux un service, cherche ailleurs. »",
+     "text": "Le soir, il dit calmement : « À la pharmacie, tout se paie. Et moi, je ne suis pas pratique. »",
      "pause_after": 0.8,
      "emphasis": [
       "pas pratique"
@@ -264,7 +264,7 @@
      "pause_after": 0.7
     },
     {
-     "text": "Les semaines sont calmes. Un peu vides. Mais à la caisse, Eudoxie ne baisse plus les yeux.",
+     "text": "Les semaines sont un peu vides. Mais à la caisse, Eudoxie ne baisse plus les yeux.",
      "pause_after": 1.0
     }
    ],
@@ -316,7 +316,7 @@
    "transition_in": "cut",
    "segments": [
     {
-     "text": "Et toi, mon frère ? On t'aime… ou on se sert de toi parce que c'est facile ?",
+     "text": "Et toi, mon frère ? On t'aime… ou on se sert de toi ?",
      "pause_after": 1.0
     }
    ],
@@ -333,7 +333,7 @@
    "look": "net",
    "segments": [
     {
-     "text": "Pense au dernier oui que tu as dit alors que tu voulais dire non.",
+     "text": "Pense au dernier oui qui voulait dire non.",
      "pause_after": 2.0
     },
     {
@@ -362,13 +362,6 @@
      ]
     },
     {
-     "text": "Le problème, ce n'est pas que tu es bon. C'est que tu es faible.",
-     "pause_after": 0.8,
-     "emphasis": [
-      "faible"
-     ]
-    },
-    {
      "text": "Un homme bon mais faible, on l'utilise. Un homme fort mais cruel, on le craint. Un homme fort et bon, on le respecte.",
      "pause_after": 0.8,
      "emphasis": [
@@ -376,22 +369,18 @@
      ]
     },
     {
-     "text": "Ce soir, écris tes règles. Trois lignes. Comment tu veux être traité. Ce que tu ne tolères plus.",
+     "text": "Ce soir, écris tes règles : comment tu veux être traité, ce que tu ne tolères plus.",
      "pause_after": 0.6
     },
     {
-     "text": "Puis regarde ce qu'elle fait, pas seulement ce qu'elle dit. Pour te protéger, pas pour jouer.",
-     "pause_after": 0.6
-    },
-    {
-     "text": "Et si rien ne change, faut pas laisser ça : une conversation claire et honnête. Puis tu pars.",
+     "text": "Si rien ne change, faut pas laisser ça : une conversation claire. Puis tu pars.",
      "pause_after": 0.8,
      "emphasis": [
       "tu pars"
      ]
     },
     {
-     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre quinze du Prince : l'homme qui veut être bon en tout… se perd parmi tant d'autres qui ne le sont pas.",
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre quinze du Prince : qui veut être bon en tout… se perd parmi tant d'autres qui ne le sont pas.",
      "pause_after": 0.8,
      "emphasis": [
       "se perd"
@@ -427,7 +416,7 @@
      ]
     },
     {
-     "text": "Alors garde ton cœur bon, redresse ton dos, et dis non quand c'est non !",
+     "text": "Alors garde ton cœur bon, et dis non quand c'est non !",
      "pause_after": 1.0,
      "emphasis": [
       "non"
@@ -486,7 +475,7 @@
      "pause_after": 0.5
     },
     {
-     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, Zika le Machiavel t'apprend à tenir ta ligne.",
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, on apprend à tenir sa ligne.",
      "pause_after": 2.0,
      "emphasis": [
       "chaque mercredi"

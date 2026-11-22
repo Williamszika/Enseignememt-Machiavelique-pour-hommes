@@ -96,14 +96,14 @@
      "pause_after": 0.6
     },
     {
-     "text": "Lamine l'adore. Il l'appelle « ma reine » vingt fois par jour. Il poste sa photo chaque matin.",
+     "text": "Lamine l'adore. « Ma reine », vingt fois par jour. Sa photo, chaque matin.",
      "pause_after": 0.7,
      "emphasis": [
-      "ma reine"
+      "Ma reine"
      ]
     },
     {
-     "text": "Flora arrive en retard ? « C'est rien. » Elle oublie ? « C'est rien. » Il ne dit jamais ce qui le dérange.",
+     "text": "Flora est en retard ? « C'est rien. » Elle oublie ? « C'est rien. »",
      "pause_after": 0.8,
      "emphasis": [
       "C'est rien"
@@ -133,7 +133,7 @@
    "relance": true,
    "segments": [
     {
-     "text": "Un dimanche, c'est l'anniversaire de sa mère. Toute la famille attend Flora pour manger.",
+     "text": "Un dimanche, pour l'anniversaire de sa mère, toute la famille attend Flora.",
      "pause_after": 0.6
     },
     {
@@ -145,15 +145,11 @@
      "pause_after": 0.6
     },
     {
-     "text": "Flora arrive enfin, en riant. Et Lamine se lève : « Pardon maman, c'est ma faute. »",
+     "text": "Flora arrive enfin, en riant. Lamine se lève : « Pardon maman, c'est ma faute. »",
      "pause_after": 0.8,
      "emphasis": [
       "c'est ma faute"
      ]
-    },
-    {
-     "text": "Sa mère ne dit rien. C'est pas pour rien.",
-     "pause_after": 0.6
     },
     {
      "text": "Silence. Lamine a honte.",
@@ -164,7 +160,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Pour le mariage d'une cousine, il coud à Flora une robe en pagne. Trois nuits de travail.",
+     "text": "Il coud à Flora une robe en pagne. Trois nuits de travail.",
      "pause_after": 0.6
     },
     {
@@ -172,7 +168,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Trente minutes. Rien. Quand elle arrive, elle enfile la robe, se regarde, et dit à son amie au téléphone : « Lamine ? Il attend toujours. Il ne dit jamais rien. C'est même ennuyeux. »",
+     "text": "Trente minutes. Puis elle arrive, et dit à son amie au téléphone : « Lamine ? Il attend toujours. C'est même ennuyeux. »",
      "pause_after": 1.0,
      "emphasis": [
       "ennuyeux"
@@ -214,10 +210,10 @@
      "pause_after": 0.6
     },
     {
-     "text": "Il compte. Vingt « ma reine » par jour. Pas une seule fois : « Préviens-moi. »",
+     "text": "Vingt « ma reine » par jour. Pas une fois « préviens-moi ».",
      "pause_after": 0.8,
      "emphasis": [
-      "Préviens-moi"
+      "préviens-moi"
      ]
     },
     {
@@ -250,7 +246,7 @@
    "relance": true,
    "segments": [
     {
-     "text": "Le samedi suivant, Flora a encore trente minutes de retard.",
+     "text": "Le samedi suivant, encore trente minutes de retard.",
      "pause_after": 0.6
     },
     {
@@ -268,7 +264,7 @@
      ]
     },
     {
-     "text": "Flora boude. Elle dit qu'il a changé. Mais la fois d'après… un message tombe : « J'arrive dans vingt minutes. »",
+     "text": "Flora boude. Mais la fois d'après… un message tombe : « J'arrive dans vingt minutes. »",
      "pause_after": 1.0
     }
    ],
@@ -333,7 +329,7 @@
    "look": "net",
    "segments": [
     {
-     "text": "Pense à la dernière chose qui t'a dérangé… et que tu as avalée.",
+     "text": "Pense à la dernière chose que tu as avalée sans rien dire.",
      "pause_after": 2.0
     },
     {
@@ -355,17 +351,17 @@
    "relance": true,
    "segments": [
     {
-     "text": "Tu sais… je ne dis pas qu'elle est mauvaise. Je dis : celle qui ne respecte pas ton temps ne respecte pas ta vie.",
+     "text": "Tu sais… je ne dis pas qu'elle est mauvaise dêh. Je dis : celle qui ne respecte pas ton temps ne respecte pas ta vie.",
      "pause_after": 0.8,
      "emphasis": [
       "ta vie"
      ]
     },
     {
-     "text": "Respecte-la. Ne l'adore pas. Adorer, c'est la mettre au-dessus de toi. Respecter, c'est se tenir debout, l'un en face de l'autre.",
+     "text": "Respecte-la. Ne l'adore pas. Adorer, c'est la mettre au-dessus de toi. Respecter, c'est être face à face.",
      "pause_after": 0.8,
      "emphasis": [
-      "debout"
+      "face à face"
      ]
     },
     {
@@ -373,11 +369,11 @@
      "pause_after": 0.6
     },
     {
-     "text": "Tu peux dire non. Sans te justifier pendant dix minutes.",
+     "text": "Dis non sans te justifier dix minutes.",
      "pause_after": 0.6
     },
     {
-     "text": "Et tes vrais engagements, ton travail, ta famille, tu ne les annules pas pour une place dans son agenda.",
+     "text": "Tes vrais engagements, tu ne les annules pas pour une place dans son agenda.",
      "pause_after": 0.6
     },
     {
@@ -422,14 +418,14 @@
    "relance": true,
    "segments": [
     {
-     "text": "Et écoute-moi bien : on ne respecte pas un homme qui s'efface. On respecte un homme qui se tient debout.",
+     "text": "Et écoute-moi bien : un homme qui s'efface, on l'oublie. Un homme debout, on le respecte.",
      "pause_after": 0.6,
      "emphasis": [
       "debout"
      ]
     },
     {
-     "text": "Alors range le tapis rouge. Dis ce que tu penses. Et tiens-toi droit devant elle !",
+     "text": "Alors range le tapis rouge, et tiens-toi droit devant elle !",
      "pause_after": 1.0,
      "emphasis": [
       "droit"

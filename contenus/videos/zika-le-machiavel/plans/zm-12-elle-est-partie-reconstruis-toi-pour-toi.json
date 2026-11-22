@@ -38,7 +38,7 @@
    "hook_text": "ELLE EST PARTIE. ET TOI, TU ATTENDS.",
    "segments": [
     {
-     "text": "Mon frère… elle est partie. Et toi, tu es resté dans la salle d'attente.",
+     "text": "Mon frère… elle est partie. Et toi, tu vis dans la salle d'attente.",
      "pause_after": 0.7,
      "emphasis": [
       "salle d'attente"
@@ -92,14 +92,14 @@
      "pause_after": 0.6
     },
     {
-     "text": "Pendant trois ans, sa copine, Nadège, était le centre de tout.",
+     "text": "Sa copine, Nadège, était le centre de tout.",
      "pause_after": 0.6
     },
     {
-     "text": "Il a arrêté son groupe de course du matin. Il a laissé ses amis. Sa mission, ce n'était plus sa vie. C'était elle.",
+     "text": "Il a arrêté la course du matin. Il a laissé ses amis. Sa mission, c'était elle.",
      "pause_after": 0.8,
      "emphasis": [
-      "C'était elle"
+      "c'était elle"
      ]
     },
     {
@@ -107,7 +107,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Et depuis, Ibrahim attend. Il regarde ses statuts. Il relit les vieux messages. Il est dans son coin.",
+     "text": "Depuis, Ibrahim attend. Il regarde ses statuts. Il est dans son coin.",
      "pause_after": 0.8
     }
    ],
@@ -138,14 +138,14 @@
    "relance": true,
    "segments": [
     {
-     "text": "Un samedi, son équipe du lycée joue la finale du tournoi.",
+     "text": "Un samedi, son équipe du lycée joue la finale.",
      "pause_after": 0.6
     },
     {
-     "text": "Ibrahim est au bord du terrain… le téléphone à la main. Nadège vient de poster une photo.",
+     "text": "Ibrahim est au bord du terrain… les yeux sur une photo de Nadège.",
      "pause_after": 0.7,
      "emphasis": [
-      "le téléphone"
+      "une photo"
      ]
     },
     {
@@ -153,7 +153,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Il n'a rien vu. Ils perdent. Le proviseur passe à côté de lui : « Ibrahim… tu étais où, aujourd'hui ? »",
+     "text": "Ils perdent. Le proviseur passe : « Coach… tu étais où ? »",
      "pause_after": 0.8,
      "emphasis": [
       "tu étais où"
@@ -168,18 +168,18 @@
      "pause_after": 0.8
     },
     {
-     "text": "Une semaine plus tard, Nadège vient chercher son dernier carton.",
+     "text": "Un soir, Nadège vient chercher son dernier carton.",
      "pause_after": 0.6
     },
     {
-     "text": "Sur la table, elle voit son sifflet, plein de poussière, à côté de leurs photos.",
+     "text": "Sur la table, elle voit son sifflet, plein de poussière.",
      "pause_after": 0.7,
      "emphasis": [
       "sifflet"
      ]
     },
     {
-     "text": "Elle le regarde et dit doucement : « Ibrahim… moi, j'ai avancé. Toi, tu attends quoi ? »",
+     "text": "Elle dit doucement : « Moi, j'ai avancé. Toi, tu attends quoi ? »",
      "pause_after": 0.8,
      "emphasis": [
       "tu attends quoi"
@@ -230,14 +230,14 @@
      "pause_after": 0.6
     },
     {
-     "text": "Il compte. Trois ans sans courir. Trois ans sans ses amis. Et depuis qu'elle est partie, des mois sans vivre.",
+     "text": "Trois ans sans courir. Sans ses amis. Et depuis, des mois sans vivre.",
      "pause_after": 0.8,
      "emphasis": [
       "sans vivre"
      ]
     },
     {
-     "text": "Ce n'est pas elle qui lui a pris sa vie. C'est lui qui la lui a donnée.",
+     "text": "Elle ne lui a pas pris sa vie. Il la lui a donnée.",
      "pause_after": 0.8
     },
     {
@@ -273,11 +273,11 @@
      ]
     },
     {
-     "text": "Il appelle son ami Philémon : « On dit quoi ? Samedi, on court ensemble. »",
+     "text": "Il appelle son ami Philémon : « On dit quoi ? Samedi, on court. »",
      "pause_after": 0.6
     },
     {
-     "text": "Les premiers matins sont durs. Certains soirs, il pense encore à elle. Mais il ne regarde plus ses statuts. Et il ne fait pas ça pour qu'elle voie.",
+     "text": "Les matins sont durs. Certains soirs, il pense encore à elle. Mais il vit. Pour lui, pas pour qu'elle voie.",
      "pause_after": 1.0
     }
    ],
@@ -368,36 +368,36 @@
    "relance": true,
    "segments": [
     {
-     "text": "Tu sais… quand elle part, ça fait mal. C'est normal. Tu n'es pas faible parce que tu as mal.",
+     "text": "Tu sais… ça fait mal. Avoir mal, ce n'est pas être faible.",
      "pause_after": 0.8
     },
     {
-     "text": "Mais le silence qu'elle laisse, ce n'est pas une salle d'attente. C'est ton atelier.",
+     "text": "Mais le silence qu'elle laisse, c'est ton atelier.",
      "pause_after": 0.8,
      "emphasis": [
       "ton atelier"
      ]
     },
     {
-     "text": "Trois chantiers. Ta mission : ton travail, tes projets. Ton corps : tu bouges, tu dors. Tes gens : tu rappelles tes amis.",
+     "text": "Trois chantiers. Ton travail. Ton corps : tu bouges, tu dors. Tes amis : tu les rappelles.",
      "pause_after": 0.8
     },
     {
-     "text": "Et tu ne fais pas ça pour qu'elle regrette. Tu le fais pour toi. Une vitrine pour elle, c'est encore l'attendre.",
+     "text": "Pas pour qu'elle regrette. Pour toi. Une vitrine pour elle, c'est encore l'attendre.",
      "pause_after": 0.8,
      "emphasis": [
-      "pour toi"
+      "Pour toi"
      ]
     },
     {
-     "text": "Si la tristesse ne part pas, parle à une personne de confiance, ou à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences. Ça, c'est pas de la faiblesse dêh. C'est du courage.",
+     "text": "Si la tristesse reste, parle à une personne de confiance, à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences. C'est du courage, dêh.",
      "pause_after": 0.8,
      "emphasis": [
       "courage"
      ]
     },
     {
-     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-quatre du Prince : les seules défenses bonnes, certaines et durables… sont celles qui dépendent de toi-même et de ta vertu.",
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-quatre du Prince : les seules bonnes défenses… sont celles qui dépendent de toi-même et de ta vertu.",
      "pause_after": 0.8,
      "emphasis": [
       "toi-même"
@@ -438,10 +438,10 @@
      ]
     },
     {
-     "text": "Alors range ses photos. Reprends ton sifflet. Et redeviens le coach de ta propre vie !",
+     "text": "Alors reprends ton sifflet, et redeviens le coach de ta vie !",
      "pause_after": 1.0,
      "emphasis": [
-      "ta propre vie"
+      "ta vie"
      ],
      "color": "rouge"
     }

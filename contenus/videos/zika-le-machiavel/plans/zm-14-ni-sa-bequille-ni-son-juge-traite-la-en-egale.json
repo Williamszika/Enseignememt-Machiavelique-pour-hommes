@@ -89,23 +89,19 @@
      }
     },
     {
-     "text": "J'ai un ami, Armand. Pêcheur, à San-Pedro. Un môgô dur à la mer, il sort avant le jour.",
+     "text": "J'ai un ami, Armand. Pêcheur, à San-Pedro. Un môgô dur à la mer.",
      "pause_after": 0.6
     },
     {
-     "text": "Sa femme, Sylvie, a ouvert un petit maquis de poisson braisé, près du port.",
+     "text": "Sa femme, Sylvie, tient un petit maquis de poisson braisé.",
      "pause_after": 0.6
     },
     {
-     "text": "Quand elle est fatiguée, Armand prend tout en main : « Laisse, je vais gérer. » Il appelle ses fournisseurs. Il fixe ses prix.",
+     "text": "Quand elle est fatiguée, il prend tout : « Laisse, je vais gérer. »",
      "pause_after": 0.7,
      "emphasis": [
       "je vais gérer"
      ]
-    },
-    {
-     "text": "Et quand ça ne marche pas, il dit : « Je t'avais dit. »",
-     "pause_after": 0.7
     },
     {
      "text": "Une fois il la porte. Une fois il la note. Jamais il ne la regarde comme une égale.",
@@ -146,14 +142,14 @@
      "pause_after": 0.6
     },
     {
-     "text": "Armand arrive et, devant les clients, il corrige Sylvie à voix haute : « Pas à ce prix-là ! Tu ne sais pas compter ? »",
+     "text": "Devant les clients, Armand la corrige à voix haute : « Pas à ce prix-là ! Tu ne sais pas compter ? »",
      "pause_after": 0.8,
      "emphasis": [
       "Tu ne sais pas compter"
      ]
     },
     {
-     "text": "Deux clients rigolent. Sylvie baisse les yeux. Elle sert sans un mot.",
+     "text": "Deux clients rigolent. Sylvie baisse les yeux.",
      "pause_after": 0.7
     },
     {
@@ -161,7 +157,7 @@
      "pause_after": 0.8
     },
     {
-     "text": "Mais un soir, Sylvie rentre épuisée. Une mauvaise journée. Elle pleure un peu.",
+     "text": "Un soir, Sylvie rentre épuisée. Elle pleure un peu.",
      "pause_after": 0.6
     },
     {
@@ -169,7 +165,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Alors elle ferme son cahier de comptes, doucement, et elle le pose devant lui.",
+     "text": "Elle ferme son cahier de comptes, doucement.",
      "pause_after": 0.7,
      "emphasis": [
       "cahier"
@@ -222,7 +218,7 @@
      "pause_after": 0.6
     },
     {
-     "text": "Avec ses gars, en mer, il demande leur avis. Il écoute. Il les respecte.",
+     "text": "Avec ses gars, en mer, il demande leur avis. Il écoute.",
      "pause_after": 0.7
     },
     {
@@ -262,14 +258,14 @@
      ]
     },
     {
-     "text": "Il écoute. Jusqu'au bout. Puis il dit : « Ta sauce, les clients reviennent pour elle. Ça, c'est ton travail. »",
+     "text": "Il écoute jusqu'au bout. Puis : « Ta sauce, les clients reviennent pour elle. C'est ton travail. »",
      "pause_after": 0.7,
      "emphasis": [
       "ton travail"
      ]
     },
     {
-     "text": "Ils se disputent encore, parfois. Mais maintenant, c'est elle qui lui montre le cahier.",
+     "text": "Ils se disputent encore. Mais maintenant, c'est elle qui lui montre le cahier.",
      "pause_after": 1.0
     }
    ],
@@ -317,7 +313,7 @@
    "transition_in": "cut",
    "segments": [
     {
-     "text": "Et toi, mon frère ? Quand elle a un problème, tu l'écoutes… ou tu prends sa place ?",
+     "text": "Et toi, mon frère ? Quand elle a un problème, tu écoutes… ou tu prends sa place ?",
      "pause_after": 1.0
     }
    ],
@@ -356,26 +352,19 @@
    "relance": true,
    "segments": [
     {
-     "text": "Tu sais… être sa béquille, ça ressemble à de l'amour. Mais une béquille, on s'appuie dessus… puis on la laisse dans un coin.",
+     "text": "Tu sais… être sa béquille ou son juge, ça ressemble à de l'amour. Les deux l'éloignent de toi.",
      "pause_after": 0.8,
      "emphasis": [
-      "béquille"
+      "béquille",
+      "juge"
      ]
     },
     {
-     "text": "Être son juge, c'est pire. Elle arrête de te parler.",
-     "pause_after": 0.7
-    },
-    {
-     "text": "Traite-la en égale. Pose une vraie question : « Toi, tu en penses quoi ? » Et écoute pour comprendre, pas pour répondre.",
+     "text": "Traite-la en égale. Demande : « Toi, tu en penses quoi ? » Et écoute pour comprendre, pas pour répondre.",
      "pause_after": 0.8,
      "emphasis": [
       "pour comprendre"
      ]
-    },
-    {
-     "text": "Quand elle est dans la tempête, reste calme à côté d'elle. Ne te noie pas avec elle.",
-     "pause_after": 0.6
     },
     {
      "text": "Et devant les autres, tu ne la corriges jamais. Ça, c'est pas petit dêh.",
@@ -385,21 +374,21 @@
      ]
     },
     {
-     "text": "Ce soir, fais-lui un compliment précis. Pas « tu es belle » en passant. Un vrai : ce qu'elle a fait, ce qu'elle a réussi.",
+     "text": "Ce soir, fais-lui un compliment précis : ce qu'elle a réussi.",
      "pause_after": 0.8,
      "emphasis": [
       "précis"
      ]
     },
     {
-     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre huit du Prince : les bienfaits doivent se faire peu à peu… pour qu'on les savoure mieux.",
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre huit du Prince : les bienfaits se font peu à peu… pour qu'on les savoure mieux.",
      "pause_after": 0.6,
      "emphasis": [
       "savoure"
      ]
     },
     {
-     "text": "Ça ne veut pas dire la priver. Ça veut dire : un mot vrai et précis pèse plus que mille compliments jetés en l'air.",
+     "text": "Ça ne veut pas dire la priver. Un mot vrai et précis pèse plus que mille compliments en l'air.",
      "pause_after": 0.8
     }
    ],
@@ -486,10 +475,10 @@
      "pause_after": 0.5
     },
     {
-     "text": "Abonne-toi, suis la page, active la cloche : le mercredi, on parle d'homme à homme, sans détour.",
+     "text": "Abonne-toi, suis la page, active la cloche : chaque mercredi, d'homme à homme, sans détour.",
      "pause_after": 2.0,
      "emphasis": [
-      "le mercredi"
+      "chaque mercredi"
      ]
     }
    ],

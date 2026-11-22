@@ -52,7 +52,7 @@
      ]
     },
     {
-     "text": "Reste avec moi. Ce qui est arrivé à mon ami Junior peut te rendre tes soirées.",
+     "text": "Reste avec moi. Ce qui est arrivé à mon ami Ulrich peut te rendre tes soirées.",
      "pause_after": 1.5
     }
    ],
@@ -88,7 +88,7 @@
      }
     },
     {
-     "text": "J'ai un ami, Junior. Livreur à moto à Koumassi.",
+     "text": "J'ai un ami, Ulrich. Livreur à moto à Koumassi.",
      "pause_after": 0.6
     },
     {
@@ -145,18 +145,18 @@
      "pause_after": 0.6
     },
     {
-     "text": "Il lit fort : « Junior : douze messages. Carine : ok. »",
+     "text": "Il lit fort : « Ulrich : douze messages. Carine : ok. »",
      "pause_after": 0.7,
      "emphasis": [
       "ok"
      ]
     },
     {
-     "text": "Tout le dépôt rit. « On dit quoi, Junior ? Tu livres l'amour à domicile ? »",
+     "text": "Tout le dépôt rit. « On dit quoi, Ulrich ? Tu livres l'amour à domicile ? »",
      "pause_after": 0.8
     },
     {
-     "text": "Junior rit. Mais il a chaud aux oreilles.",
+     "text": "Ulrich rit. Mais il a chaud aux oreilles.",
      "pause_after": 0.8
     },
     {
@@ -275,7 +275,7 @@
      "pause_after": 0.7
     },
     {
-     "text": "Junior a sa réponse. Sans scène. Le samedi, il pose l'acompte de sa propre moto.",
+     "text": "Ulrich a sa réponse. Sans scène. Le samedi, il pose l'acompte de sa propre moto.",
      "pause_after": 1.0,
      "emphasis": [
       "sa propre moto"

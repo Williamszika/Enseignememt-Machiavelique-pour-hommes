@@ -45,7 +45,7 @@
      ]
     },
     {
-     "text": "Elle te dit que tes amis te veulent du mal… mais depuis quand tu ne les as pas vus ?",
+     "text": "Elle dit que tes amis te veulent du mal… mais depuis quand tu ne les vois plus ?",
      "pause_after": 0.6,
      "emphasis": [
       "depuis quand"
@@ -96,18 +96,18 @@
      "pause_after": 0.6
     },
     {
-     "text": "Chaque dimanche, Wilfried jouait au foot avec les gars du quartier. Depuis l'enfance.",
+     "text": "Le dimanche, depuis l'enfance, c'est foot avec les gars du quartier.",
      "pause_after": 0.6
     },
     {
-     "text": "Avec Grâce, ça a changé. Chaque dimanche, elle boude : « Tes amis-là ne te respectent pas. C'est eux ou moi. »",
+     "text": "Grâce boude : « Tes amis-là ne te respectent pas. C'est eux ou moi. »",
      "pause_after": 0.8,
      "emphasis": [
       "C'est eux ou moi"
      ]
     },
     {
-     "text": "Alors Wilfried reste à la maison. Un dimanche. Puis deux. Puis tous.",
+     "text": "Alors il reste. Un dimanche. Puis deux. Puis tous.",
      "pause_after": 0.6
     },
     {
@@ -142,18 +142,18 @@
    "relance": true,
    "segments": [
     {
-     "text": "Un matin, à l'atelier, son ami d'enfance, Zéphirin, passe avec deux gars.",
+     "text": "Un matin, son ami d'enfance, Zéphirin, passe à l'atelier.",
      "pause_after": 0.6
     },
     {
-     "text": "Devant les apprentis, il dit : « Wilfried, on ne te voit plus. Même au baptême de ma fille, tu n'es pas venu. »",
+     "text": "Devant les apprentis : « Wilfried, même au baptême de ma fille, tu n'es pas venu. »",
      "pause_after": 0.8,
      "emphasis": [
       "baptême"
      ]
     },
     {
-     "text": "Les apprentis baissent la tête. Wilfried ne répond rien.",
+     "text": "Les apprentis baissent la tête.",
      "pause_after": 0.6
     },
     {
@@ -165,26 +165,26 @@
      "pause_after": 0.8
     },
     {
-     "text": "Un soir, il cherche le groupe « Les anciens de Wassakara » dans son téléphone.",
+     "text": "Un soir, il cherche le groupe « Les anciens de Wassakara ».",
      "pause_after": 0.6
     },
     {
-     "text": "Le groupe a disparu. Quelqu'un l'a quitté. Depuis son téléphone.",
+     "text": "Disparu. Quelqu'un l'a quitté. Depuis son téléphone.",
      "pause_after": 0.8,
      "emphasis": [
       "Depuis son téléphone"
      ]
     },
     {
-     "text": "Et dans ses messages, il trouve une réponse envoyée à Zéphirin, à minuit : « Laisse-moi tranquille. »",
+     "text": "Et à Zéphirin, à minuit, un message est parti : « Laisse-moi tranquille. »",
      "pause_after": 0.7
     },
     {
-     "text": "Ce n'est pas lui qui a écrit ça.",
+     "text": "Il ne l'a jamais écrit.",
      "pause_after": 0.7
     },
     {
-     "text": "Grâce est dans la chambre. Elle dit seulement : « C'était pour ton bien. »",
+     "text": "Grâce dit seulement : « C'était pour ton bien. »",
      "pause_after": 1.0,
      "emphasis": [
       "pour ton bien"
@@ -233,10 +233,6 @@
      ]
     },
     {
-     "text": "Chaque fois qu'il voit ses amis, elle fait une scène. Chaque fois qu'il est seul, elle est gentille.",
-     "pause_after": 0.8
-    },
-    {
      "text": "Elle ne le protégeait pas. Elle le coupait des siens.",
      "pause_after": 1.2,
      "emphasis": [
@@ -262,18 +258,18 @@
    "relance": true,
    "segments": [
     {
-     "text": "Le lendemain, il dit à Grâce, calmement : « Ma vie avait ces personnes avant toi, et elle les gardera. Et mon téléphone, c'est à moi. »",
+     "text": "Le lendemain, il dit calmement : « Ma vie avait ces personnes avant toi, et elle les gardera. Mon téléphone, c'est à moi. »",
      "pause_after": 0.8,
      "emphasis": [
       "elle les gardera"
      ]
     },
     {
-     "text": "Puis il va chez Zéphirin. Il s'excuse. Il demande à revenir dans le groupe.",
+     "text": "Puis il va chez Zéphirin, et il s'excuse.",
      "pause_after": 0.6
     },
     {
-     "text": "Grâce boude trois jours. Un ami reste froid. Mais dimanche, Wilfried est sur le terrain.",
+     "text": "Grâce boude trois jours. Un ami reste froid. Mais dimanche, il est sur le terrain.",
      "pause_after": 1.0
     }
    ],
@@ -342,7 +338,7 @@
    "look": "net",
    "segments": [
     {
-     "text": "Pense à l'ami que tu n'as plus appelé depuis qu'elle est là.",
+     "text": "Pense à l'ami que tu n'appelles plus depuis qu'elle est là.",
      "pause_after": 2.0
     },
     {
@@ -364,33 +360,29 @@
    "relance": true,
    "segments": [
     {
-     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te coupe de tes amis, elle te tient.",
+     "text": "Tu sais… je ne dis pas que toutes les femmes font ça. Je dis : celle qui te coupe des tiens, elle te tient.",
      "pause_after": 0.8,
      "emphasis": [
       "elle te tient"
      ]
     },
     {
-     "text": "Une femme peut ne pas aimer un de tes amis. Elle peut te le dire. Ça, c'est normal. Mais choisir à ta place qui tu vois, lire ton téléphone, répondre pour toi… faut pas laisser ça.",
+     "text": "Ne pas aimer un de tes amis, c'est son droit. Mais choisir qui tu vois, lire ton téléphone, répondre pour toi… faut pas laisser ça.",
      "pause_after": 0.8,
      "emphasis": [
       "faut pas laisser ça"
      ]
     },
     {
-     "text": "Tu lui dis : « Tu as tes limites. J'ai les miennes. Mes amis restent. »",
+     "text": "Ce soir, appelle un ami : « On dit quoi ? Ça fait longtemps. »",
      "pause_after": 0.6
     },
     {
-     "text": "Ce soir, appelle un ami que tu as laissé. Juste : « On dit quoi ? Ça fait longtemps. »",
-     "pause_after": 0.6
-    },
-    {
-     "text": "Et si tu te sens contrôlé, surveillé, seul, parle à une personne de confiance ou à un professionnel.",
+     "text": "Si tu te sens contrôlé et seul, parle à une personne de confiance ou à un professionnel.",
      "pause_after": 0.8
     },
     {
-     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-deux du Prince : la première chose qu'on juge chez un seigneur… ce sont les hommes qu'il a autour de lui.",
+     "text": "J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-deux du Prince : pour juger un seigneur, on regarde d'abord les hommes qu'il a autour de lui.",
      "pause_after": 0.8,
      "emphasis": [
       "autour de lui"
@@ -426,7 +418,7 @@
      ]
     },
     {
-     "text": "Alors rouvre ta porte. Rappelle les tiens. Et redeviens un homme entouré !",
+     "text": "Alors rappelle les tiens. Et redeviens un homme entouré !",
      "pause_after": 1.0,
      "emphasis": [
       "entouré"
@@ -481,11 +473,11 @@
      ]
     },
     {
-     "text": "Et envoie cette vidéo au frère que tu ne vois plus depuis qu'elle est là.",
+     "text": "Envoie cette vidéo au frère que tu ne vois plus.",
      "pause_after": 0.5
     },
     {
-     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, d'homme à homme, on ouvre les yeux ensemble.",
+     "text": "Abonne-toi, suis la page et active la cloche : chaque mercredi, on ouvre les yeux, d'homme à homme.",
      "pause_after": 2.0,
      "emphasis": [
       "chaque mercredi"

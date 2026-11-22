@@ -6,23 +6,23 @@
 
 - **Titre à l'écran :** `INVESTIS AU MÊME NIVEAU, OU RETIRE-TOI`
 - **La règle :** *Le Prince*, ch. XXI : un prince est estimé quand il se déclare sans réserve ; et la phrase du texte : « Je n'investis que dans les personnes qui investissent de la même manière en moi. Si cela change, je me retire. Sans drame, juste de la clarté. »
-- **Fiction**, présentée comme une histoire (Junior, livreur à moto à Koumassi ; Carine ; son collègue Ezéchiel).
+- **Fiction**, présentée comme une histoire (Ulrich, livreur à moto à Koumassi ; Carine ; son collègue Ezéchiel).
 
 ## Texte pour le prompteur
 
 Mon frère… tu portes la relation tout seul. Et tu appelles ça l'amour.
 Si tu n'écris plus demain… combien de jours avant qu'elle remarque ?
-Reste avec moi. Ce qui est arrivé à mon ami Junior peut te rendre tes soirées.
+Reste avec moi. Ce qui est arrivé à mon ami Ulrich peut te rendre tes soirées.
 Je vais te raconter une histoire.
-J'ai un ami, Junior. Livreur à moto à Koumassi.
+J'ai un ami, Ulrich. Livreur à moto à Koumassi.
 Il a une copine : Carine.
 Le matin, c'est lui qui écrit. Le soir, c'est lui qui appelle.
 Quand Carine a eu le palu, il a porté de la soupe de poisson dans un thermos. Trois soirs.
 Elle répond « ok ». Parfois un cœur. Jamais une question sur lui.
 Au dépôt, son collègue Ezéchiel lui prend le téléphone.
-Il lit fort : « Junior : douze messages. Carine : ok. »
-Tout le dépôt rit. « On dit quoi, Junior ? Tu livres l'amour à domicile ? »
-Junior rit. Mais il a chaud aux oreilles.
+Il lit fort : « Ulrich : douze messages. Carine : ok. »
+Tout le dépôt rit. « On dit quoi, Ulrich ? Tu livres l'amour à domicile ? »
+Ulrich rit. Mais il a chaud aux oreilles.
 Puis c'est lui qui a le palu. Trois jours au lit.
 Carine envoie un seul message : « Courage. »
 En statut, il la voit danser à un anniversaire.
@@ -35,7 +35,7 @@ Guéri, il reçoit : « Tu passes ce soir ? Apporte à manger. »
 Il appelle, calme.
 « Carine, je n'investis que dans quelqu'un qui investit autant en moi. Si ça ne change pas, je me retire. Sans drame. »
 « Tu exagères. » Puis plus rien. Une semaine.
-Junior a sa réponse. Sans scène. Le samedi, il pose l'acompte de sa propre moto.
+Ulrich a sa réponse. Sans scène. Le samedi, il pose l'acompte de sa propre moto.
 Un seul mot, « courage », lui a ouvert les yeux. Toi… il t'en faudra combien ?
 Et toi, mon frère ? Qui écrit le premier… et qui répond « ok » ?
 Pense à ce qu'elle a fait pour toi, sans que tu demandes.

@@ -6,32 +6,32 @@
 
 - **Titre à l'écran :** `LE REGRET COÛTE PLUS QUE LE NON`
 - **La règle :** *Le Prince*, ch. XXV : il vaut mieux être impétueux que circonspect (dit sans l'allégorie de la fortune « femme », jamais citée) ; et les phrases du texte : « Le moment parfait n'existe pas. L'homme qui ose crée le moment. » · « Le rejet ne te définit pas. Il t'ajuste. »
-- **Fiction**, présentée comme une histoire (Hervé, électricien à Abobo ; Mireille, qui tient le kiosque de crédit du carrefour ; sa tante, sans prénom).
+- **Fiction**, présentée comme une histoire (Gaoussou, électricien à Abobo ; Prudence, qui tient le kiosque de crédit du carrefour ; sa tante, sans prénom).
 
 ## Texte pour le prompteur
 
 Mon frère… tu as peur d'un non. Mais ton silence te coûte plus cher.
 Combien de fois tu l'as vue passer, avec ta phrase coincée dans la gorge ?
-Reste avec moi. Ce qui est arrivé à mon ami Hervé peut t'éviter des années de regret.
+Reste avec moi. Ce qui est arrivé à mon ami Gaoussou peut t'éviter des années de regret.
 Je vais te raconter une histoire.
-J'ai un ami, Hervé. Il est électricien à Abobo.
-Chaque matin, il achète son crédit au kiosque du carrefour. Chez Mireille.
+J'ai un ami, Gaoussou. Il est électricien à Abobo.
+Chaque matin, il achète son crédit au kiosque du carrefour. Chez Prudence.
 Il paie, il dit merci, il repart. Six mois.
 Dans sa caisse à outils, il garde un papier plié. Dessus, la phrase qu'il veut lui dire.
 Il attend le bon moment. Quand il aura une moto. Quand il sera sûr.
 Au mariage de son cousin, sa tante lance devant toute la famille :
-« Hervé, toujours seul ? Tu attends qu'elle vienne frapper chez toi ? »
-Tout le monde rit. Hervé sourit. Mais dedans, ça brûle.
+« Gaoussou, toujours seul ? Tu attends qu'elle vienne frapper chez toi ? »
+Tout le monde rit. Gaoussou sourit. Mais dedans, ça brûle.
 Et il ne bouge pas.
-Le lundi, Mireille lui tend sa carte.
+Le lundi, Prudence lui tend sa carte.
 Elle sourit : « Six mois que tu passes… et je ne connais même pas ton prénom. »
-Hervé reste là, la carte dans la main.
+Gaoussou reste là, la carte dans la main.
 Cette nuit-là, il déplie le papier.
 Six mois que la même phrase dort dans la caisse.
 Il n'attendait pas le bon moment. Il attendait d'avoir moins peur.
 Le lendemain, au kiosque, il respire. Et il dit :
-« Je m'appelle Hervé. Je passe chaque matin pour te voir. On boit un jus samedi ? Si c'est non, je respecte. »
-Mireille sourit. « Tu es gentil, Hervé. Mais j'ai déjà quelqu'un. »
+« Je m'appelle Gaoussou. Je passe chaque matin pour te voir. On boit un jus samedi ? Si c'est non, je respecte. »
+Prudence sourit. « Tu es gentil, Gaoussou. Mais j'ai déjà quelqu'un. »
 « D'accord. Merci de ta franchise. »
 Ça pique un peu. Mais pour la première fois depuis six mois, il est léger.
 Un prénom qu'elle ne connaissait pas lui a ouvert les yeux. Toi… il t'en faudra combien ?

@@ -2,7 +2,7 @@
 
 **Rubrique Zika le Machiavel** · à partir de la [source 45](../../../sources/45-zika-le-machiavel-texte.md) (vidéo 1 : se reconstruire, les trois piliers, « Le prix, ce n'est pas elle ») et de la [source 47](../../../sources/47-zika-le-machiavel-texte.md) (vidéo 3 : « le silence n'est pas une salle d'attente », une vraie transformation, pas une vitrine pour elle).
 **Écrit le 22 novembre 2026, thèmes validés par Mr Zika le 22 nov.** Sur le modèle de ZM-15 (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, CTA, citation).
-**Durée estimée :** 4 min 01 s (603 mots ÷ 2,5 mots/s), voix Paul K. Voix : `elevenlabs/zm-12-elle-est-partie-reconstruis-toi-pour-toi.txt` ; plan : `plans/zm-12-elle-est-partie-reconstruis-toi-pour-toi.json`.
+**Durée estimée :** 3 min 19 s (498 mots ÷ 2,5 mots/s), voix Paul K. Voix : `elevenlabs/zm-12-elle-est-partie-reconstruis-toi-pour-toi.txt` ; plan : `plans/zm-12-elle-est-partie-reconstruis-toi-pour-toi.json`.
 
 - **Titre à l'écran :** `ELLE EST PARTIE ? RECONSTRUIS-TOI POUR TOI`
 - **La règle :** *Le Prince*, ch. XXIV : les seules défenses bonnes, certaines et durables sont celles qui dépendent de toi-même et de ta virtù (même idée au ch. XIII : ses propres forces) ; et la phrase du texte : « Le prix, ce n'est pas elle. C'est l'homme que tu forges. » Aide réelle dite dans la voix (personne de confiance, professionnel, ligne d'écoute, urgences).
@@ -10,44 +10,44 @@
 
 ## Texte pour le prompteur
 
-Mon frère… elle est partie. Et toi, tu es resté dans la salle d'attente.
+Mon frère… elle est partie. Et toi, tu vis dans la salle d'attente.
 Tu regardes ses statuts la nuit… mais ta propre vie, qui la regarde ?
 Reste avec moi. Ce qui est arrivé à mon ami Ibrahim peut te rendre tes matins.
 Je vais te raconter une histoire.
 J'ai un ami, Ibrahim. Professeur de sport, à Bouaké.
-Pendant trois ans, sa copine, Nadège, était le centre de tout.
-Il a arrêté son groupe de course du matin. Il a laissé ses amis. Sa mission, ce n'était plus sa vie. C'était elle.
+Sa copine, Nadège, était le centre de tout.
+Il a arrêté la course du matin. Il a laissé ses amis. Sa mission, c'était elle.
 Un jour, Nadège est partie.
-Et depuis, Ibrahim attend. Il regarde ses statuts. Il relit les vieux messages. Il est dans son coin.
-Un samedi, son équipe du lycée joue la finale du tournoi.
-Ibrahim est au bord du terrain… le téléphone à la main. Nadège vient de poster une photo.
+Depuis, Ibrahim attend. Il regarde ses statuts. Il est dans son coin.
+Un samedi, son équipe du lycée joue la finale.
+Ibrahim est au bord du terrain… les yeux sur une photo de Nadège.
 Un joueur crie : « Coach ! On fait quoi ? »
-Il n'a rien vu. Ils perdent. Le proviseur passe à côté de lui : « Ibrahim… tu étais où, aujourd'hui ? »
+Ils perdent. Le proviseur passe : « Coach… tu étais où ? »
 Silence. Ibrahim a honte.
 Mais il ne change pas.
-Une semaine plus tard, Nadège vient chercher son dernier carton.
-Sur la table, elle voit son sifflet, plein de poussière, à côté de leurs photos.
-Elle le regarde et dit doucement : « Ibrahim… moi, j'ai avancé. Toi, tu attends quoi ? »
+Un soir, Nadège vient chercher son dernier carton.
+Sur la table, elle voit son sifflet, plein de poussière.
+Elle dit doucement : « Moi, j'ai avancé. Toi, tu attends quoi ? »
 Elle prend le carton. La porte se ferme.
 Cette nuit-là, il ne dort pas.
-Il compte. Trois ans sans courir. Trois ans sans ses amis. Et depuis qu'elle est partie, des mois sans vivre.
-Ce n'est pas elle qui lui a pris sa vie. C'est lui qui la lui a donnée.
+Trois ans sans courir. Sans ses amis. Et depuis, des mois sans vivre.
+Elle ne lui a pas pris sa vie. Il la lui a donnée.
 Ce silence n'était pas une salle d'attente. C'était son atelier.
 Le lendemain, à six heures, il essuie son sifflet. Il retourne au stade. Seul.
-Il appelle son ami Philémon : « On dit quoi ? Samedi, on court ensemble. »
-Les premiers matins sont durs. Certains soirs, il pense encore à elle. Mais il ne regarde plus ses statuts. Et il ne fait pas ça pour qu'elle voie.
+Il appelle son ami Philémon : « On dit quoi ? Samedi, on court. »
+Les matins sont durs. Certains soirs, il pense encore à elle. Mais il vit. Pour lui, pas pour qu'elle voie.
 Un sifflet plein de poussière lui a ouvert les yeux. Toi… il t'en faudra combien ?
 Et toi, mon frère ? Depuis qu'elle est partie, tu construis… ou tu attends ?
 Pense à une chose que tu as lâchée pour elle.
 Tu l'as ? Garde ça.
-Tu sais… quand elle part, ça fait mal. C'est normal. Tu n'es pas faible parce que tu as mal.
-Mais le silence qu'elle laisse, ce n'est pas une salle d'attente. C'est ton atelier.
-Trois chantiers. Ta mission : ton travail, tes projets. Ton corps : tu bouges, tu dors. Tes gens : tu rappelles tes amis.
-Et tu ne fais pas ça pour qu'elle regrette. Tu le fais pour toi. Une vitrine pour elle, c'est encore l'attendre.
-Si la tristesse ne part pas, parle à une personne de confiance, ou à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences. Ça, c'est pas de la faiblesse dêh. C'est du courage.
-J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-quatre du Prince : les seules défenses bonnes, certaines et durables… sont celles qui dépendent de toi-même et de ta vertu.
+Tu sais… ça fait mal. Avoir mal, ce n'est pas être faible.
+Mais le silence qu'elle laisse, c'est ton atelier.
+Trois chantiers. Ton travail. Ton corps : tu bouges, tu dors. Tes amis : tu les rappelles.
+Pas pour qu'elle regrette. Pour toi. Une vitrine pour elle, c'est encore l'attendre.
+Si la tristesse reste, parle à une personne de confiance, à un professionnel. Si tu as des idées noires, appelle une ligne d'écoute ou les urgences. C'est du courage, dêh.
+J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre vingt-quatre du Prince : les seules bonnes défenses… sont celles qui dépendent de toi-même et de ta vertu.
 Et écoute-moi bien : le prix, ce n'est pas elle. C'est l'homme que tu forges.
-Alors range ses photos. Reprends ton sifflet. Et redeviens le coach de ta propre vie !
+Alors reprends ton sifflet, et redeviens le coach de ta vie !
 Change maintenant. N'attends pas qu'elle revienne pour recommencer à vivre.
 Écris en commentaire « Mon atelier » si tu reconstruis pour toi.
 Envoie cette vidéo à l'ami qui attend encore devant son téléphone.
