@@ -2,6 +2,16 @@
 
 **Créée le 9 novembre 2026, à la demande de Mr Zika.** C'est une rubrique à part de la file quotidienne de motivation (`../2min/`). Quand Mr Zika envoie un texte, il dit dans quelle rubrique il va. S'il ne le dit pas et que le texte parle de pouvoir, de stratégie ou de Machiavel, l'agent propose cette rubrique. **La décision revient toujours à Mr Zika.**
 
+## ⭐⭐ Le sujet de la rubrique : l'homme dans sa relation avec une femme (règle de Mr Zika, 22 novembre 2026)
+
+Ses mots : « La rubrique machiavélique doit parler des relations : un homme dans une relation, un homme et une femme. La vie, c'est les idées stoïciennes. Le machiavélisme, c'est la stratégie et tout ce qui rentre avec. On donne des conseils aux hommes, mon frère, pour qu'ils puissent changer. Ne cache pas les mots. Parle fort pour qu'il comprenne. On doit sentir qu'on parle aux hommes qui se font manipuler par les femmes. »
+
+- **Chaque épisode parle d'un homme et d'une femme** : la séduction, le couple, la rupture, l'argent dans le couple, le temps qu'il donne, le respect, les signes qu'on le manipule. Les thèmes de « la vie » (discipline, peur, sommeil, travail) restent dans la file stoïcienne.
+- **La stratégie** : lire la situation, voir le schéma (silence, miette, demande), poser sa ligne, savoir partir, garder sa valeur.
+- **Le ton : franc, fort, sans détour.** Mr Zika parle à un frère et dit les choses en face : « Plus tu donnes ton temps à cette fille qui ne te répond que quand elle a besoin, moins tu en as pour ta vie. » Des exemples concrets, des phrases qu'il peut dire, des gestes qu'il peut faire ce soir.
+- **On parle aux hommes qui se font manipuler** : on nomme la manipulation clairement (« celle qui te fait ça te joue »), on montre comment la reconnaître et comment en sortir.
+- Ce qui reste, parce que c'est vrai et que ça protège le compte : on parle de **cette** femme, jamais de « toutes les femmes » ; on n'enseigne aucune technique pour manipuler en retour ; la sortie est toujours la dignité, la limite claire, et partir si besoin.
+
 ## ⭐ Le rythme : un épisode chaque mercredi à 10 h (règle de Mr Zika, 17 novembre 2026)
 
 - **Publication : le mercredi à 10 h 00, heure de Berlin**, un épisode par semaine. **Le mercredi n'appartient qu'à cette rubrique** : pas de vidéo de motivation ce jour-là (elles continuent du jeudi au mardi).

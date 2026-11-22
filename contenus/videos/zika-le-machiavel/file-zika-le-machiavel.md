@@ -1,6 +1,6 @@
 # File de la rubrique « Zika le Machiavel »
 
-Scripts à tourner par Mr Zika lui-même (voir [la page de la rubrique](README.md)). Les thèmes viennent des textes que Mr Zika envoie avec la mention « rubrique Zika le Machiavel ».
+Scripts à tourner par Mr Zika lui-même (voir [la page de la rubrique](README.md)). **Sujet (règle du 22 nov.) : l'homme dans sa relation avec une femme, la stratégie, des conseils francs aux hommes qui se font manipuler.** Les thèmes viennent des textes que Mr Zika envoie avec la mention « rubrique Zika le Machiavel ».
 
 | N° | Thème | Texte source | Règle (Machiavel le vrai ou phrase du texte) | Histoire d'illustration | Statut | Script |
 |---|---|---|---|---|---|---|
@@ -16,6 +16,6 @@ Scripts à tourner par Mr Zika lui-même (voir [la page de la rubrique](README.m
 | ZM-10 | INVESTIS AU MÊME NIVEAU, OU RETIRE-TOI | source 44 (vidéo 3) | Le Prince, ch. XXI (se déclarer sans réserve) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
 | ZM-11 | TON CALME PARLE AVANT TOI | source 44 (vidéo 2) | Le Prince, ch. XVIII (on juge par les yeux) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
 | ZM-12 | ELLE EST PARTIE ? RECONSTRUIS-TOI POUR TOI | source 45 (vidéo 1) | Le Prince, ch. XIII et XXIV (tes propres forces) ; phrase du texte : « Le prix, ce n'est pas elle. » | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
-| ZM-13 | TA TABLE PARLE DE TOI | source 45 (vidéo 2) | Le Prince, ch. XXII (on juge un homme sur ceux qu'il garde près de lui) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
+| ZM-13 | ELLE T'ÉLOIGNE DE TES AMIS ? OUVRE LES YEUX | source 45 (vidéo 2), recentré sur la relation (22 nov.) | Le Prince, ch. XXII (on juge un homme sur ceux qu'il garde près de lui) et ch. XIII (ne compter que sur ses propres forces) | à inventer | proposé (17 nov.), attend l'accord de Mr Zika | — |
 | ZM-14 | NI SA BÉQUILLE NI SON JUGE : TRAITE-LA EN ÉGALE | source 45 (vidéo 3) | Le Prince, ch. VIII (le bien peu à peu : le compliment rare et précis) | à inventer (pas Pablo et Sofia) | proposé (17 nov.), attend l'accord de Mr Zika | — |
 | ZM-15 | ELLE TE DONNE DES MIETTES | source 44 (vidéo 1) | Le Prince, ch. XVI ; phrase du texte : « Son silence ne dit rien de ta valeur. Il parle de sa stratégie. » | Serge, Adjamé, et Prisca | validé par Mr Zika (17 nov.), envoyé au dépôt des vidéos | [script](zm-15-elle-te-donne-des-miettes.md) |
