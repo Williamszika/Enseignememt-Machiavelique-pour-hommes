@@ -35,7 +35,7 @@ Décision de Mr Zika du 23 novembre 2026, après l'analyse Facebook et TikTok (l
    Fichiers en plus : `elevenlabs/<slug>-court.txt` et un `plan-court.json` (mêmes réglages, blocs hook, histoire, situation, declic, transformation, conseils, appel, cta). Mêmes vérifications de mots entre le .md, le .txt et le plan.
    La version longue reste la référence ; la version courte sert à tester sur TikTok et Facebook.
 
-Pour cette rubrique, la version longue (environ 3 min) reste celle qui est publiée le mercredi ; la version courte est préparée par la tâche du lundi pour l'épisode de la semaine.
+**Seulement pour les prochains scripts** (consigne de Mr Zika du 23/11) : les épisodes déjà écrits (ZM-01 à ZM-31) restent tels quels, sans version courte. Les épisodes écrits à partir de maintenant auront la version longue (publiée le mercredi) et la version courte en plus.
 
 ## ⭐ Les CTA de Mr Zika, personnalisés pour chaque épisode (règle du 22 novembre 2026)
 

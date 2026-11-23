@@ -34,6 +34,8 @@ Dans plan.json, les blocs sont : `hook` (avec un `sfx` d'ambiance au début du b
 
 ## ⭐ La voix dès la première seconde et la version courte (décision de Mr Zika, 23 novembre 2026)
 
+**Seulement pour les prochains scripts** (consigne de Mr Zika du 23/11) : les scripts déjà écrits restent tels quels.
+
 Décision de Mr Zika du 23 novembre 2026, après l'analyse Facebook et TikTok (la plupart des gens partent dans les 1 à 3 premières secondes, et la vidéo de 1 min 46 est la plus regardée) :
 
 1. **La voix dès la première seconde.** Pas de titre, de logo ou d'écran noir seul au début : l'accroche est dite tout de suite, le titre s'affiche par-dessus la voix. Dans plan.json : `"intro": {"title_card": false}`.
