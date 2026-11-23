@@ -1,61 +1,58 @@
 # [Zika le Machiavel] ZM-03 — Montre ton chantier, pas tes rêves
 
-**Rubrique Zika le Machiavel** · À partir de la [source 42](../../../sources/42-zika-le-machiavel-texte.md) (vidéo 1 : « Être pauvre n'est pas la même chose qu'être conformiste », « Montre-lui ton processus », « Ce n'est pas dans mon budget pour l'instant »). Écrit le 22 novembre 2026, thèmes validés par Mr Zika le 22 nov. Réécrit entièrement sur le modèle de ZM-15 ; remplace la version du 11 novembre (ancien modèle).
-**À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. Modèle de ZM-15 (accroche + promesse, histoire jusqu'au bout, situation gênante, déclic, lendemain, relance, miroir, temps pour toi, conseils, climax, appel, CTA, citation).
-**Durée estimée :** environ 3 min 12 (479 mots ÷ 2,5 mots/s), CTA compris (34 mots). Voix Paul K ; texte ElevenLabs : `elevenlabs/zm-03-montre-ton-chantier-pas-tes-reves.txt` ; plan : `plans/zm-03-montre-ton-chantier-pas-tes-reves.json`.
+**Rubrique Zika le Machiavel** · écrit le 11 novembre 2026 à partir du texte envoyé par Mr Zika ([source 42](../../../sources/42-zika-le-machiavel-texte.md), [analyse](../../../analyses/42-zika-le-machiavel.md)).
+**À tourner par Mr Zika lui-même**, face caméra, à un homme, voix imposante, sans crier. L'équipe de montage ajoute les illustrations de la colonne de droite.
+**Durée :** environ 1 min 45 (230 mots), sous les 2 minutes demandées.
 
-- **Titre à l'écran :** `MONTRE TON CHANTIER, PAS TES RÊVES`
-- **La règle :** *Le Prince*, ch. VI : ceux qui ont les moyens de tenir leur entreprise réussissent, les autres échouent ; et la phrase du texte : « Montre-lui ton processus. »
-- **Fiction**, présentée comme une histoire (Yves, serveur à Treichville ; Raïssa).
+- **Titre à l'écran (0–2 s) :** `PAS DE PLAN, ÇA NE PASSE PAS`
+- **La règle :** *Le Prince*, ch. VI : ceux qui ont les moyens de tenir leur entreprise réussissent ; les autres échouent.
+- **Tiré du texte :** Vidéo 1 : « Être pauvre n'est pas la même chose qu'être conformiste » ; « montre-lui ton processus » ; le rêveur et le bâtisseur ; le piège de l'aigreur ; « ce n'est pas dans mon budget » sans s'excuser.
+- **Corrigé :** Retiré : « les hommes sont jugés non pour ce qu'ils ont mais pour ce qu'ils pourraient devenir » (citation inventée, absente du *Prince*) et « aucune femme de qualité n'acceptera ». Le vrai Machiavel du ch. VI dit la même chose, mieux.
+
+## Ce que tu dis / l'illustration pour le montage
+
+| # | Ce que tu dis (Mr Zika, face caméra) | Illustration proposée |
+|---|---|---|
+| 1 | Mon frère, pas d'argent, ça passe. / Pas de plan, ça ne passe **pas**. | Mr Zika face caméra. À l'écran : PAS DE PLAN, ÇA NE PASSE PAS. |
+| 2 | Être fauché n'est pas une honte. / Être sans direction, ça, c'est un problème. | Une boussole posée sur une table, l'aiguille qui se stabilise. |
+| 3 | Je vais te dire une affaire. / Yves, serveur dans un maquis à Treichville. / Petits pourboires. / Il rencontre Raïssa, infirmière, qui gagne le double. | Maquis animé ; plateau de boissons ; prénoms à l'écran : YVES, RAÏSSA. |
+| 4 | Au premier rendez-vous, il dit la vérité : / « Je n'ai pas de quoi t'emmener dans un endroit chic. On marche, on prend des glaces ? » | Deux silhouettes de dos sur un trottoir, deux glaces à la main. |
+| 5 | Et quand elle demande ce qu'il fait de sa vie, / il ne promet pas une villa à Assinie. / Il dit : « J'économise. Dans six mois, je paie ma formation en réparation de téléphones. Dans un an, j'ouvre mon coin. » | Plage d'Assinie barrée en rouge ; puis un petit établi de réparation, un téléphone ouvert. |
+| 6 | Ça, c'est concret. / Gbê est mieux que drap. / Le rêveur promet. Le bâtisseur montre ses **étapes**. | À l'écran, en deux colonnes : LE RÊVEUR PROMET / LE BÂTISSEUR MONTRE. |
+| 7 | Machiavel l'a vu, chapitre six du *Prince* : / ceux qui ont les moyens de tenir leur entreprise réussissent. / Les autres restent avec des promesses. | Livre ancien ; à l'écran : LE PRINCE, CH. VI. |
+| 8 | Et fais attention à l'autre piège. / Celui qui se plaint tout le temps. Du pays, des riches, du système. / La plainte, ça éteint **tout**. | Mr Zika secoue la tête ; une bougie qu'on souffle. |
+| 9 | Ta situation, tu la dis avec calme : / « C'est pas dans mon budget pour l'instant. Je mets mon argent sur mon projet. » / Point. Pas d'excuse. Pas de colère. | Une tirelire, une main qui y glisse un billet. |
+| 10 | Aujourd'hui, écris ton chantier en trois étapes : / ce mois, dans six mois, dans un an. | Une feuille : 1. CE MOIS – 2. DANS 6 MOIS – 3. DANS UN AN. |
+| 11 | Tu l'écris ce soir ? / Oui ou non. | Mr Zika, plan fixe. À l'écran : OUI OU NON. |
+| 12 | *(silence 1 s)* « Un rêve se raconte. Un chantier se montre. » | Écran noir, citation en blanc (Montserrat ExtraBold), filet or, « — Mr Zika » en Pinyon Script or #D4AF37, 4 s. |
 
 ## Texte pour le prompteur
 
-Mon frère… ton manque d'argent ne la fait pas fuir. Tes promesses, si.
-Si demain elle te demande « et ton projet ? »… tu as quoi à lui montrer ?
-Reste avec moi. Ce qui est arrivé à mon ami Yves peut t'éviter de perdre la face.
-Je vais te raconter une histoire.
-J'ai un ami, Yves. Serveur dans un maquis à Treichville. Petits pourboires.
-Il a une copine : Raïssa. Infirmière. Elle gagne le double.
-Yves se sent petit. Alors il promet.
-« L'an prochain, j'ouvre mon maquis. Pour ton anniversaire, je t'emmène à Assinie. »
-Un an passe. Pas de maquis. Pas d'économies. Pas de plan.
-Pourtant, un dimanche, l'oncle de Raïssa demande devant toute la famille : « Alors, Yves, ce maquis, on dit quoi ? »
-Tout le monde le regarde. Yves bégaie : « Ça… ça avance. »
-Raïssa baisse les yeux. Yves a honte.
-Mais il ne change pas.
-Le jour de l'anniversaire de Raïssa, il recommence : « L'an prochain, Assinie, je te jure. »
-Raïssa ouvre son sac et pose sur la table un dépliant d'Assinie, plié en quatre, jauni.
-« Tu me l'as donné l'an dernier. Le même jour. Avec la même phrase. »
-« Je ne veux pas Assinie, Yves. Je veux voir une seule chose faite. »
-Cette nuit-là, il déplie le papier et compte ses promesses.
-Chaque fois qu'il s'est senti petit… il a vendu un rêve.
-Il ne construisait rien. Il racontait.
-Le lendemain, il ouvre un compte d'épargne et s'inscrit à une formation de cuisine.
-Il dit à Raïssa : « Plus de promesses. Ce mois-ci, vingt mille de côté. En mars, la formation. Tu verras chaque étape. »
-Elle a dit : « On verra. » Trois mois plus tard, devant le reçu : « Ça, c'est concret. »
-Un dépliant jauni lui a ouvert les yeux. Toi… il t'en faudra combien ?
-Et toi, mon frère ? Tu lui montres ce que tu fais… ou ce que tu feras ?
-Pense à la dernière promesse que tu lui as faite.
-Tu l'as ? Garde ça.
-Tu sais… être fauché, c'est pas une honte. Être sans plan, ça, c'est un problème.
-Le rêveur promet. Le bâtisseur montre ses étapes.
-Pas les moyens ? Dis-le : « C'est pas dans mon budget pour l'instant. » Gbê est mieux que drap.
-Ce soir, écris ton chantier : ce mois-ci, dans six mois, dans un an.
-J'aimerais que tu gardes une phrase. Machiavel l'écrit au chapitre six du Prince : ceux qui ont les moyens de tenir leur entreprise réussissent… les autres échouent.
-Et écoute-moi bien : une femme sérieuse ne te demande pas une villa. Elle demande une parole qui tient.
-Alors arrête de raconter. Et montre ton chantier !
-Change maintenant. N'attends pas qu'elle pose sur la table ta dernière promesse.
-Écris « Mon chantier » et ta première étape en commentaire. Envoie cette vidéo au frère qui promet Assinie depuis deux ans.
-Abonne-toi, suis la page et active la cloche : chaque mercredi, on bâtit entre hommes.
-« Ne lui vends pas demain. Montre-lui ce que tu bâtis aujourd'hui. » — Mr Zika.
+Mon frère, pas d'argent, ça passe. / Pas de plan, ça ne passe pas.
+Être fauché n'est pas une honte. / Être sans direction, ça, c'est un problème.
+Je vais te dire une affaire. / Yves, serveur dans un maquis à Treichville. / Petits pourboires. / Il rencontre Raïssa, infirmière, qui gagne le double.
+Au premier rendez-vous, il dit la vérité : / « Je n'ai pas de quoi t'emmener dans un endroit chic. On marche, on prend des glaces ? »
+Et quand elle demande ce qu'il fait de sa vie, / il ne promet pas une villa à Assinie. / Il dit : « J'économise. Dans six mois, je paie ma formation en réparation de téléphones. Dans un an, j'ouvre mon coin. »
+Ça, c'est concret. / Gbê est mieux que drap. / Le rêveur promet. Le bâtisseur montre ses étapes.
+Machiavel l'a vu, chapitre six du Prince : / ceux qui ont les moyens de tenir leur entreprise réussissent. / Les autres restent avec des promesses.
+Et fais attention à l'autre piège. / Celui qui se plaint tout le temps. Du pays, des riches, du système. / La plainte, ça éteint tout.
+Ta situation, tu la dis avec calme : / « C'est pas dans mon budget pour l'instant. Je mets mon argent sur mon projet. » / Point. Pas d'excuse. Pas de colère.
+Aujourd'hui, écris ton chantier en trois étapes : / ce mois, dans six mois, dans un an.
+Tu l'écris ce soir ? / Oui ou non.
+« Un rêve se raconte. Un chantier se montre. » — Mr Zika
 
-## Légende et commentaire épinglé
+## Conseils de tournage
+
+- Assis ou debout, plan poitrine, une lampe chaude de côté, fond sombre ; regarde l'objectif comme si un frère était assis en face.
+- Voix grave et posée ; les phrases courtes portent le poids ; un vrai silence avant la règle de Machiavel et avant la citation.
+- Les « dêh », « c'est pas pour rien », « faut pas » se disent naturellement, sans forcer l'accent.
+- Tourne d'une traite, puis une deuxième prise plus serrée pour donner du choix au montage.
+
+## Légende
 
 ```
-Zika le Machiavel — ZM-03 · Montre ton chantier, pas tes rêves
-Un an de promesses : le maquis, Assinie, la voiture. Puis elle a posé sur la table le dépliant qu'il lui avait donné l'an dernier.
+Pas de villa promise, pas de discours. Trois étapes, et la vérité dès le premier rendez-vous.
+Tu écris ton chantier en trois étapes ce soir ? Oui ou non.
 
-#mrzika #zikalemachiavel #machiavel #leprince #projet
+#mrzika #zikalemachiavel #machiavel #leprince
 ```
-
-**Commentaire épinglé :** Écris « Mon chantier : » et la première étape que tu fais ce mois-ci. Pas ton rêve : ton étape.
