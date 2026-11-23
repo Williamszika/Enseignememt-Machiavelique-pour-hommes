@@ -32,6 +32,24 @@ La question oui/non peut rester dans la légende ou dans le commentaire épingl�
 
 Dans plan.json, les blocs sont : `hook` (avec un `sfx` d'ambiance au début du bloc suivant), `histoire`, `situation` (la gêne, `pause_after` 1 s), `declic`, `transformation`, `relance` (`"relance": true`), `miroir`, `temps_pour_toi`, `conseils`, `climax`, `appel`. Il n'y a plus de bloc `question`.
 
+## ⭐ La voix dès la première seconde et la version courte (décision de Mr Zika, 23 novembre 2026)
+
+Décision de Mr Zika du 23 novembre 2026, après l'analyse Facebook et TikTok (la plupart des gens partent dans les 1 à 3 premières secondes, et la vidéo de 1 min 46 est la plus regardée) :
+
+1. **La voix dès la première seconde.** Pas de titre, de logo ou d'écran noir seul au début : l'accroche est dite tout de suite, le titre s'affiche par-dessus la voix. Dans plan.json : `"intro": {"title_card": false}`.
+2. **Une version courte en plus de chaque script** (45 à 60 s, 110 à 150 mots), dans le même fichier .md, section `## Version courte (45 à 60 s)` :
+   - l'accroche (phrase choc + question + « Reste avec moi ») ;
+   - l'histoire resserrée jusqu'à la scène gênante ;
+   - le déclic et le lendemain (la phrase exacte) ;
+   - un seul conseil ;
+   - « Change maintenant » ;
+   - un CTA court (10 à 20 mots : le mot du commentaire, abonne-toi, suis la page, la cloche) ;
+   - la même citation de Mr Zika.
+   Fichiers en plus : `elevenlabs/<slug>-court.txt` et un `plan-court.json` (mêmes réglages, blocs hook, histoire, situation, declic, transformation, conseils, appel, cta). Mêmes vérifications de mots entre le .md, le .txt et le plan.
+   La version longue reste la référence ; la version courte sert à tester sur TikTok et Facebook.
+
+Exemple : [bloc-08-le-pardon-la-suite.md](bloc-08-le-pardon-la-suite.md) (la suite du récit du pardon, 153 mots).
+
 ## ⭐ Les CTA de Mr Zika, personnalisés pour chaque thème (règle du 22 novembre 2026)
 
 Juste après « Change maintenant » et **avant** le silence de la citation, Mr Zika dit un bloc **`cta`** de 25 à 40 mots, **écrit pour le thème de la vidéo** (jamais la même formule d'une vidéo à l'autre). Il contient, dans cet ordre :
