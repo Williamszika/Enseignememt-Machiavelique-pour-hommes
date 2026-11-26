@@ -128,6 +128,11 @@ Le texte reste en français clair : la couleur est dans le rythme et dans quelqu
   - les « 5 blessures » : se servir de l'absence de son père, d'une trahison, de la négligence, de la honte, ou d'un abus qu'elle a subi, pour qu'elle « te supplie à genoux » ;
   - les « 9 failles » : la machine à sous, la validation au compte-gouttes, la peur d'être abandonnée, pour créer une « addiction » ;
   - la « vengeance » : vouloir qu'elle « soit détruite sous le poids du regret », poster des photos avec d'autres femmes pour qu'elle les voie, répondre exprès des jours plus tard ;
+  - disparaître « comme un fantôme » pour qu'elle panique (« l'aversion à la perte ») ; « laisse-la en vu » ;
+  - « toutes les femmes, sans exception », « la biologie l'emporte toujours », « l'horloge biologique » ;
+  - « l'escalade » : toucher le bas du dos, la main, puis l'embrasser sans lui demander ; « l'hostilité, c'est de l'amour » ;
+  - « viens prendre un verre chez moi à 21 h » pour imposer ses termes ; « tu as de la chance d'être mignonne, sinon je serais parti » ;
+  - citer une personne réelle (acteur, célébrité) ou vendre un programme ;
   - la citation sur la fortune qu'il faut « battre et frapper » (ch. XXV), dite mot pour mot : allégorie du destin, jamais citée sur les femmes. L'idée vraie se dit sans ces mots : face à l'incertain, mieux vaut oser qu'attendre.
 - **Pas de « toutes les femmes »**, pas de mépris : l'homme à qui il parle respecte les femmes.
 - **Pas de mot qui déclenche la modération** dans le titre ou la légende : soumission, dominée, dresser, utilisée.
